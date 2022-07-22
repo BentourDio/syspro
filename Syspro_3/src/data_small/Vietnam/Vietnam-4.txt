@@ -1,0 +1,547 @@
+4923 Jill Mercado Vietnam 10 SARS-COV-2 NO
+2220 Terri Tyler Vietnam 68 H1N1 YES 20-12-2001
+2220 Terri Tyler Vietnam 68 SARS-COV-2 YES 02-07-2012
+8715 Nicholas Mcdonald Vietnam 15 COVID-2019 YES 07-04-2005
+2230 Yolanda Nelson Vietnam 45 H1N1 YES 20-08-2000
+8361 Tammy Gonzalez Vietnam 38 SARS-1 YES 08-07-2016
+3061 Catherine Miller Vietnam 21 H1N1 YES 17-10-2016
+6962 Matthew Miller Vietnam 48 COVID-2019 YES 03-09-2019
+6962 Matthew Miller Vietnam 48 FLU-2018 YES 29-04-2012
+6312 Shannon Lee Vietnam 34 COVID-2019 YES 04-06-2001
+6491 Lisa Johnson Vietnam 52 H1N1 NO
+7740 Kathryn Guerrero Vietnam 79 COVID-2019 NO
+2025 Joyce Johnson Vietnam 36 SARS-COV-2 NO
+2025 Joyce Johnson Vietnam 36 MERS-COV NO
+5213 Megan Abbott Vietnam 63 FLU-2018 NO
+5213 Megan Abbott Vietnam 63 EVD NO
+7866 Melinda Cervantes Vietnam 50 COVID-2019 NO
+3001 Travis Quinn Vietnam 14 MERS-COV YES 26-08-2016
+991 Dorothy Mullins Vietnam 33 H1N1 YES 26-10-2020
+6308 Leah Travis Vietnam 59 SARS-COV-2 YES 02-10-2001
+1104 Austin Zavala Vietnam 44 SARS-COV-2 NO
+4247 John Morrison Vietnam 58 MERS-COV YES 08-02-2004
+4247 John Morrison Vietnam 58 SARS-COV-2 YES 20-08-2018
+4170 Kari Howard Vietnam 63 H1N1 NO
+6655 Lisa Torres Vietnam 35 H1N1 NO
+9066 Brandon Lewis Vietnam 72 H1N1 YES 04-05-2008
+9066 Brandon Lewis Vietnam 72 COVID-2019 NO
+6996 Gabrielle Flynn Vietnam 40 SARS-1 YES 04-07-2001
+7248 Denise Ingram Vietnam 66 EVD YES 01-02-2019
+9311 Terri Sanders Vietnam 70 EVD YES 16-09-2009
+3426 Brittany Ortiz Vietnam 55 EVD YES 05-07-2016
+6556 David Johnson Vietnam 39 EVD YES 15-07-2011
+6596 James Goodman Vietnam 79 MERS-COV NO
+6596 James Goodman Vietnam 79 EVD NO
+4496 Richard Daugherty Vietnam 11 SARS-COV-2 YES 24-12-2014
+4939 Jeremy Conway Vietnam 11 MERS-COV YES 28-06-2006
+4174 Diana Hill Vietnam 14 COVID-2019 YES 19-04-2009
+6840 Derrick Rivera Vietnam 28 EVD NO
+8584 Steven Bennett Vietnam 70 FLU-2018 NO
+7451 Robert Smith Vietnam 23 SARS-COV-2 YES 08-08-2000
+4047 Fred Smith Vietnam 35 SARS-COV-2 YES 24-12-2007
+7850 Gary Bryan Vietnam 44 SARS-COV-2 YES 24-09-2010
+6662 Amanda Johnson Vietnam 46 H1N1 NO
+3874 Maria Kelly Vietnam 32 H1N1 NO
+3874 Maria Kelly Vietnam 32 MERS-COV NO
+9770 Kevin Norris Vietnam 59 SARS-COV-2 NO
+6674 Denise Day Vietnam 23 SARS-COV-2 NO
+5328 Kelsey Joyce Vietnam 45 SARS-1 YES 03-01-2006
+6530 Brenda Thompson Vietnam 24 EVD YES 17-03-2006
+3316 Ashley Carey Vietnam 12 SARS-COV-2 YES 23-03-2015
+533 Samuel Palmer Vietnam 30 SARS-1 YES 28-10-2020
+476 David Meyers Vietnam 54 H1N1 NO
+4280 Katie Clark Vietnam 78 H1N1 YES 10-11-2003
+8421 Andrea Smith Vietnam 32 H1N1 YES 18-02-2018
+4189 Aaron Smith Vietnam 60 H1N1 YES 02-11-2007
+2998 David Washington Vietnam 47 SARS-COV-2 YES 08-01-2007
+4953 Stephen Rodriguez Vietnam 31 COVID-2019 YES 15-11-2016
+9004 Sharon Mann Vietnam 48 SARS-1 YES 22-02-2002
+5688 Christopher Johnson Vietnam 62 SARS-1 YES 22-03-2010
+6913 David Farrell Vietnam 72 H1N1 NO
+2589 Dana Lawrence Vietnam 22 SARS-COV-2 NO
+2466 Kurt Andrews Vietnam 66 COVID-2019 NO
+2466 Kurt Andrews Vietnam 66 EVD NO
+1947 Tammy Nelson Vietnam 31 SARS-COV-2 NO
+8173 Thomas Hill Vietnam 26 SARS-COV-2 YES 08-07-2002
+8173 Thomas Hill Vietnam 26 H1N1 YES 12-09-2002
+9500 Martha Evans Vietnam 26 H1N1 NO
+8395 Melody Gutierrez Vietnam 20 SARS-COV-2 NO
+574 Joshua Robinson Vietnam 12 SARS-COV-2 YES 24-12-2011
+4009 Kyle Bell Vietnam 37 MERS-COV YES 01-05-2017
+5468 Charles Norman Vietnam 40 FLU-2018 NO
+5850 Anita Wilson Vietnam 11 COVID-2019 YES 24-10-2018
+5240 Jacqueline Brown Vietnam 55 H1N1 YES 01-10-2004
+2096 Victoria Alexander Vietnam 72 SARS-1 YES 18-04-2019
+1068 Joshua Williams Vietnam 65 SARS-COV-2 YES 09-02-2005
+9944 Joel Smith Vietnam 64 H1N1 NO
+5780 Crystal Berg Vietnam 76 FLU-2018 NO
+7013 Jason Griffith Vietnam 44 SARS-1 NO
+7517 Traci Smith Vietnam 48 MERS-COV YES 20-02-2019
+7517 Traci Smith Vietnam 48 COVID-2019 YES 04-03-2000
+9330 Edward Miller Vietnam 43 EVD NO
+5371 Marisa Cooper Vietnam 61 SARS-1 NO
+3645 Kristina Evans Vietnam 79 H1N1 NO
+7280 Patricia Dickson Vietnam 11 COVID-2019 YES 14-03-2002
+1239 David Newman Vietnam 63 EVD YES 15-06-2015
+1239 David Newman Vietnam 63 H1N1 YES 04-08-2019
+2881 Stephen Dunlap Vietnam 67 FLU-2018 YES 23-11-2004
+7467 Justin Martin Vietnam 10 EVD YES 18-12-2010
+4118 Daniel Campbell Vietnam 43 H1N1 YES 18-11-2010
+3814 Craig Crane Vietnam 48 COVID-2019 YES 22-03-2016
+5882 Collin Mendoza Vietnam 23 EVD NO
+5066 Danielle Johnson Vietnam 32 COVID-2019 YES 22-11-2000
+3586 Nathaniel Matthews Vietnam 10 MERS-COV NO
+5073 Stacey Turner Vietnam 31 COVID-2019 YES 10-10-2015
+8061 Kelly Jones Vietnam 22 H1N1 NO
+1172 Monica Owen Vietnam 65 COVID-2019 YES 05-07-2009
+1871 Jimmy Gonzalez Vietnam 43 H1N1 NO
+820 Kellie Martin Vietnam 58 MERS-COV NO
+1254 Kyle Rodriguez Vietnam 38 H1N1 YES 03-12-2019
+3047 Lance Brown Vietnam 37 EVD NO
+6878 Michelle Ross Vietnam 28 COVID-2019 YES 24-01-2002
+8622 Melissa Miller Vietnam 50 FLU-2018 YES 20-01-2012
+9737 Bonnie Peterson Vietnam 70 H1N1 NO
+1332 Jennifer Cook Vietnam 53 COVID-2019 NO
+5251 Travis Huynh Vietnam 34 EVD YES 04-08-2005
+4338 Abigail Gardner Vietnam 19 SARS-1 YES 28-07-2005
+6833 Melissa Thomas Vietnam 59 COVID-2019 YES 11-06-2003
+9597 Ricky Sanchez Vietnam 68 SARS-COV-2 YES 31-03-2010
+9989 Paul Shaffer Vietnam 58 H1N1 YES 19-10-2004
+9394 Kelly Fischer Vietnam 57 COVID-2019 YES 31-05-2012
+4776 Daniel Woods Vietnam 46 SARS-COV-2 NO
+9687 Alexandra Kramer Vietnam 71 EVD YES 04-02-2000
+9983 Richard Jimenez Vietnam 70 SARS-COV-2 NO
+372 Jennifer Dixon Vietnam 26 SARS-1 YES 25-01-2020
+1445 Marie Nunez Vietnam 24 EVD YES 16-07-2010
+7770 Maureen Ellis Vietnam 36 MERS-COV NO
+553 Jennifer Hutchinson Vietnam 43 SARS-COV-2 NO
+801 Melissa Marshall Vietnam 29 COVID-2019 NO
+4683 Danielle Hill Vietnam 57 H1N1 NO
+4683 Danielle Hill Vietnam 57 EVD NO
+7761 Mary Jensen Vietnam 49 COVID-2019 YES 09-11-2006
+5305 Kristie Kent Vietnam 37 COVID-2019 YES 11-03-2001
+1733 James Kent Vietnam 70 COVID-2019 YES 23-09-2018
+5176 Steven Williams Vietnam 23 EVD YES 07-08-2009
+5997 Audrey Fitzpatrick Vietnam 67 H1N1 YES 18-06-2017
+6900 Ryan Ford Vietnam 42 SARS-COV-2 YES 11-05-2016
+3794 Jose Washington Vietnam 13 H1N1 YES 14-01-2003
+4555 Sarah Adams Vietnam 36 FLU-2018 NO
+8158 Tammy Ferguson Vietnam 23 MERS-COV YES 18-10-2017
+5354 Steven Saunders Vietnam 61 FLU-2018 NO
+7731 Bryan Harris Vietnam 39 MERS-COV YES 15-08-2002
+7639 Jeffrey Robinson Vietnam 40 SARS-1 YES 06-03-2020
+1360 Charles Morgan Vietnam 46 SARS-COV-2 YES 07-02-2021
+733 Sharon Fisher Vietnam 49 EVD NO
+4868 Erica Jones Vietnam 65 MERS-COV YES 21-09-2008
+1465 Zachary Taylor Vietnam 52 H1N1 NO
+1465 Zachary Taylor Vietnam 52 COVID-2019 NO
+9620 Richard Castro Vietnam 49 SARS-COV-2 NO
+4551 Jacqueline Wong Vietnam 49 COVID-2019 YES 29-10-2010
+8511 Brittany Lee Vietnam 35 COVID-2019 NO
+7265 Kathy Willis Vietnam 78 MERS-COV NO
+4076 Lori Gonzalez Vietnam 76 FLU-2018 YES 28-03-2000
+9576 Kathleen Cardenas Vietnam 61 H1N1 YES 21-09-2019
+9576 Kathleen Cardenas Vietnam 61 EVD NO
+5053 Victoria Shea Vietnam 63 FLU-2018 YES 23-05-2005
+5053 Victoria Shea Vietnam 63 SARS-1 YES 20-03-2006
+1836 Annette Porter Vietnam 56 FLU-2018 YES 24-08-2009
+1211 Diane Moore Vietnam 25 FLU-2018 NO
+4139 Jonathan Greer Vietnam 46 EVD YES 27-08-2015
+6043 Jessica Ortiz Vietnam 22 COVID-2019 YES 12-07-2011
+4471 Rachel Humphrey Vietnam 46 MERS-COV YES 29-03-2016
+1464 Greg Mack Vietnam 22 EVD YES 26-04-2014
+604 Gerald Perry Vietnam 31 EVD YES 04-02-2021
+6497 Ashley Sharp Vietnam 37 SARS-1 NO
+8633 Jessica Goodwin Vietnam 72 EVD YES 22-07-2016
+8337 Craig Larson Vietnam 63 MERS-COV NO
+2217 Michelle Lee Vietnam 60 MERS-COV YES 29-02-2020
+9985 Samuel Lane Vietnam 50 COVID-2019 NO
+2628 Victoria Anderson Vietnam 34 SARS-1 YES 03-01-2005
+5530 Jeffrey Cameron Vietnam 77 MERS-COV YES 29-06-2013
+4715 Christopher Patton Vietnam 70 FLU-2018 NO
+2134 Lisa Sims Vietnam 23 MERS-COV NO
+8147 Phyllis Schultz Vietnam 65 EVD NO
+8362 Brady Camacho Vietnam 31 EVD YES 05-09-2011
+7432 Paula Jones Vietnam 54 SARS-1 NO
+1271 Jessica Nichols Vietnam 49 FLU-2018 YES 15-04-2015
+1271 Jessica Nichols Vietnam 49 SARS-COV-2 NO
+9507 Ryan Wright Vietnam 55 COVID-2019 YES 10-03-2017
+3524 Cameron Ramos Vietnam 19 H1N1 NO
+4907 Sandra Hansen Vietnam 42 SARS-COV-2 YES 08-11-2017
+752 Angela Johnson Vietnam 36 MERS-COV NO
+752 Angela Johnson Vietnam 36 SARS-1 YES 29-05-2014
+5174 James Lee Vietnam 46 COVID-2019 YES 05-11-2020
+7952 Stephen Barrera Vietnam 41 MERS-COV YES 06-11-2010
+3898 Sarah Frazier Vietnam 65 FLU-2018 YES 30-08-2018
+1093 Lisa Reynolds Vietnam 79 SARS-COV-2 YES 16-05-2014
+5913 Sheila Adams Vietnam 50 FLU-2018 NO
+6623 Rickey Walters Vietnam 66 MERS-COV YES 20-09-2011
+797 Kenneth Carter Vietnam 74 SARS-1 YES 02-06-2005
+8404 Thomas Castro Vietnam 25 H1N1 YES 14-08-2019
+5101 Jessica Nguyen Vietnam 67 EVD YES 11-07-2007
+3990 Veronica Allen Vietnam 43 EVD NO
+790 Kimberly Hernandez Vietnam 37 FLU-2018 YES 22-11-2002
+2593 Bradley Armstrong Vietnam 15 SARS-1 NO
+9092 Jessica Ayala Vietnam 61 SARS-1 NO
+7218 Courtney Mcdaniel Vietnam 20 H1N1 NO
+6212 Marilyn Hale Vietnam 55 EVD NO
+5403 Rachel Hernandez Vietnam 11 FLU-2018 NO
+5403 Rachel Hernandez Vietnam 11 EVD YES 26-01-2018
+9516 Courtney Carlson Vietnam 73 H1N1 YES 31-05-2018
+8028 Jorge Guzman Vietnam 18 SARS-COV-2 YES 30-05-2003
+664 Robert Casey Vietnam 76 H1N1 NO
+6935 Kristen Shepard Vietnam 31 EVD YES 19-03-2008
+4040 James Wilson Vietnam 40 SARS-COV-2 NO
+4739 David Koch Vietnam 34 SARS-1 YES 27-01-2012
+618 Ellen Nelson Vietnam 75 FLU-2018 NO
+618 Ellen Nelson Vietnam 75 H1N1 YES 13-07-2016
+4129 Caitlin Snyder Vietnam 50 SARS-1 NO
+7563 Lauren Cooper Vietnam 29 SARS-COV-2 NO
+3541 Rebekah Coffey Vietnam 20 EVD NO
+1143 Shaun Miles Vietnam 26 SARS-1 YES 22-02-2008
+8 Travis Perez Vietnam 37 H1N1 NO
+3472 Angela Bonilla Vietnam 72 H1N1 NO
+3422 Zoe Mendez Vietnam 64 FLU-2018 NO
+3422 Zoe Mendez Vietnam 64 H1N1 YES 24-11-2010
+2716 Brian Glenn Vietnam 72 SARS-1 NO
+4481 Nicholas Figueroa Vietnam 65 COVID-2019 YES 11-09-2008
+4481 Nicholas Figueroa Vietnam 65 FLU-2018 YES 16-06-2002
+3807 Noah Gregory Vietnam 10 MERS-COV NO
+9080 Elizabeth Odom Vietnam 73 H1N1 YES 23-02-2006
+4487 Daniel Rogers Vietnam 45 H1N1 YES 22-02-2006
+1609 Joel Cooper Vietnam 62 H1N1 NO
+3169 Susan Perez Vietnam 18 COVID-2019 YES 04-05-2019
+5851 Debbie Walters Vietnam 46 EVD NO
+4688 Darius Brown Vietnam 24 SARS-COV-2 YES 21-11-2003
+6136 William Wright Vietnam 11 FLU-2018 YES 19-10-2000
+6136 William Wright Vietnam 11 EVD NO
+8305 Shane Miller Vietnam 41 SARS-COV-2 YES 18-04-2002
+6284 Diana Williams Vietnam 47 FLU-2018 NO
+711 Mark Adkins Vietnam 42 EVD NO
+4632 Michael Martinez Vietnam 45 FLU-2018 YES 01-06-2004
+487 Tonya Ray Vietnam 73 MERS-COV NO
+1128 Willie Wilcox Vietnam 60 SARS-COV-2 NO
+4140 Andre Hall Vietnam 55 SARS-COV-2 YES 21-04-2010
+7036 William Edwards Vietnam 22 H1N1 YES 14-01-2011
+2238 Margaret Simmons Vietnam 75 FLU-2018 NO
+3742 Kathleen Brown Vietnam 33 MERS-COV NO
+2531 Susan Dickerson Vietnam 64 SARS-COV-2 YES 02-09-2008
+7143 Penny Williams Vietnam 51 H1N1 YES 21-03-2003
+8293 Dylan Juarez Vietnam 26 FLU-2018 YES 05-05-2012
+8135 Randall Erickson Vietnam 43 EVD YES 15-09-2005
+2107 Thomas Deleon Vietnam 45 MERS-COV NO
+3152 Cheryl White Vietnam 24 SARS-COV-2 YES 07-08-2011
+130 Cynthia Campbell Vietnam 32 H1N1 NO
+4084 David Johnson Vietnam 40 SARS-1 YES 21-03-2016
+4084 David Johnson Vietnam 40 MERS-COV NO
+4807 Scott Phillips Vietnam 21 MERS-COV NO
+189 Steven Brown Vietnam 74 SARS-COV-2 NO
+7775 Paul Martinez Vietnam 23 FLU-2018 NO
+1319 Michael Armstrong Vietnam 45 SARS-COV-2 YES 17-06-2013
+5707 Kenneth Medina Vietnam 14 MERS-COV YES 31-12-2017
+3788 Michael Reeves Vietnam 78 COVID-2019 NO
+3788 Michael Reeves Vietnam 78 MERS-COV NO
+6448 Emily Sullivan Vietnam 55 SARS-COV-2 YES 07-11-2003
+258 Stephanie Deleon Vietnam 68 COVID-2019 NO
+339 Nicholas Patel Vietnam 77 H1N1 YES 21-09-2019
+339 Nicholas Patel Vietnam 77 SARS-COV-2 NO
+7980 Rebecca Davidson Vietnam 44 SARS-1 NO
+2419 Stefanie Johnson Vietnam 52 H1N1 YES 10-09-2002
+1667 Erin Trevino Vietnam 36 SARS-COV-2 YES 26-06-2003
+1667 Erin Trevino Vietnam 36 H1N1 YES 21-09-2018
+4944 Lisa Mitchell Vietnam 71 SARS-COV-2 NO
+9090 Michael Parrish Vietnam 40 SARS-COV-2 YES 18-02-2020
+2867 Melanie Mckee Vietnam 28 FLU-2018 NO
+4937 Shannon Bell Vietnam 72 MERS-COV YES 27-08-2019
+5417 Joy Wilson Vietnam 75 SARS-1 NO
+5249 Heather Perkins Vietnam 20 EVD YES 24-04-2010
+2530 Bryan Berg Vietnam 17 MERS-COV YES 05-03-2008
+2530 Bryan Berg Vietnam 17 SARS-COV-2 YES 25-11-2020
+670 Michelle Jacobs Vietnam 10 SARS-1 NO
+1597 Jill Morrison Vietnam 67 H1N1 YES 16-06-2007
+2523 Darius Freeman Vietnam 46 FLU-2018 YES 24-02-2005
+2523 Darius Freeman Vietnam 46 SARS-1 YES 13-09-2009
+5963 Timothy Oconnor Vietnam 21 FLU-2018 NO
+3239 Philip Gonzalez Vietnam 54 H1N1 YES 31-05-2011
+2422 Donald Tucker Vietnam 75 FLU-2018 NO
+2422 Donald Tucker Vietnam 75 EVD NO
+4154 Donald Gonzalez Vietnam 72 SARS-1 YES 09-08-2008
+5471 Marcus Ryan Vietnam 72 SARS-COV-2 NO
+1158 Robert Walker Vietnam 10 SARS-COV-2 NO
+1158 Robert Walker Vietnam 10 FLU-2018 YES 26-12-2014
+9367 Tammy Vasquez Vietnam 16 COVID-2019 YES 23-10-2002
+3790 Mark Roman Vietnam 39 COVID-2019 NO
+5526 Michelle Mcbride Vietnam 17 H1N1 NO
+7995 Autumn Cole Vietnam 60 MERS-COV YES 21-09-2008
+3037 Jessica Wilkinson Vietnam 33 EVD YES 17-09-2016
+1878 Shawn Lynch Vietnam 52 EVD NO
+1878 Shawn Lynch Vietnam 52 MERS-COV YES 16-06-2010
+7531 Glenn Daniel Vietnam 28 SARS-COV-2 NO
+2563 Jodi Cobb Vietnam 36 COVID-2019 YES 09-08-2004
+8286 Gregory Hines Vietnam 43 H1N1 YES 21-07-2006
+8286 Gregory Hines Vietnam 43 MERS-COV YES 29-10-2015
+2394 Mike Singleton Vietnam 28 SARS-1 YES 26-02-2014
+4259 Alan Fisher Vietnam 75 COVID-2019 YES 08-01-2020
+4259 Alan Fisher Vietnam 75 SARS-COV-2 YES 10-11-2004
+4535 Joshua Lewis Vietnam 77 SARS-COV-2 NO
+3247 Andrea Thompson Vietnam 36 MERS-COV YES 12-08-2014
+3247 Andrea Thompson Vietnam 36 H1N1 NO
+3235 Timothy James Vietnam 75 FLU-2018 YES 25-04-2008
+3066 Charlotte Hoffman Vietnam 72 FLU-2018 YES 09-11-2015
+9477 Dale Brewer Vietnam 45 SARS-1 NO
+7381 Maria Kennedy Vietnam 11 COVID-2019 YES 24-01-2000
+2558 Matthew Mercado Vietnam 72 H1N1 NO
+6766 Robert Hess Vietnam 33 EVD YES 09-04-2013
+6915 Brenda Arnold Vietnam 10 EVD NO
+9075 Alicia Wheeler Vietnam 35 H1N1 YES 06-11-2015
+714 Wayne Saunders Vietnam 10 SARS-1 NO
+9399 Laura Chang Vietnam 40 EVD YES 18-07-2017
+9732 Jennifer Mcdaniel Vietnam 22 SARS-COV-2 YES 25-03-2016
+3231 Brian Baker Vietnam 49 EVD YES 26-07-2007
+7186 David Garcia Vietnam 51 SARS-COV-2 NO
+3364 Eric Bowman Vietnam 38 H1N1 YES 08-11-2003
+4455 Aaron Wright Vietnam 60 EVD YES 09-02-2017
+9696 Melinda Nolan Vietnam 59 H1N1 NO
+7188 Rick Armstrong Vietnam 60 EVD NO
+8806 Jillian Morgan Vietnam 76 COVID-2019 YES 25-02-2015
+6509 Kim Wood Vietnam 69 FLU-2018 NO
+4703 Cole Bean Vietnam 56 COVID-2019 YES 06-08-2014
+4703 Cole Bean Vietnam 56 H1N1 NO
+5577 Anna Gates Vietnam 44 EVD YES 02-08-2005
+4405 Robert Davis Vietnam 52 MERS-COV NO
+1108 Julian Forbes Vietnam 10 H1N1 YES 22-03-2018
+8627 Heidi Buchanan Vietnam 24 SARS-1 YES 14-06-2010
+5164 Erica Martinez Vietnam 18 FLU-2018 YES 08-09-2009
+8896 Patrick Thomas Vietnam 70 EVD NO
+3520 Catherine Carter Vietnam 25 EVD YES 02-02-2004
+8327 Melissa Stewart Vietnam 54 FLU-2018 NO
+2829 Jason Perry Vietnam 72 MERS-COV YES 14-09-2015
+5798 Mark Peck Vietnam 66 SARS-COV-2 NO
+5798 Mark Peck Vietnam 66 EVD NO
+8655 Michael Mitchell Vietnam 31 SARS-1 YES 23-07-2018
+2085 Timothy Adams Vietnam 70 SARS-COV-2 NO
+2085 Timothy Adams Vietnam 70 EVD NO
+4768 James Gardner Vietnam 62 FLU-2018 YES 29-06-2014
+4393 Michael Reynolds Vietnam 63 SARS-1 YES 31-08-2003
+3373 Garrett Martin Vietnam 10 COVID-2019 NO
+767 Wendy Beck Vietnam 24 FLU-2018 YES 01-09-2012
+624 Rebecca Foley Vietnam 72 COVID-2019 NO
+3831 Logan Gallegos Vietnam 59 EVD NO
+8240 Robert Thompson Vietnam 44 MERS-COV YES 04-01-2007
+2993 Kelly English Vietnam 68 SARS-COV-2 NO
+6751 Jason Miller Vietnam 39 MERS-COV YES 21-06-2005
+5059 Jessica Levy Vietnam 53 H1N1 YES 05-04-2017
+5059 Jessica Levy Vietnam 53 SARS-COV-2 NO
+6803 Katherine Walker Vietnam 35 FLU-2018 YES 21-06-2002
+608 Neil Oconnell Vietnam 10 SARS-COV-2 YES 17-04-2020
+7255 Shawn Francis Vietnam 53 SARS-1 YES 21-05-2009
+9730 Adam Ramirez Vietnam 27 COVID-2019 YES 31-12-2017
+7430 Tina Williams Vietnam 38 H1N1 NO
+7430 Tina Williams Vietnam 38 FLU-2018 YES 17-08-2012
+2159 Jose Torres Vietnam 26 SARS-1 YES 03-03-2009
+3144 Ariana Brooks Vietnam 15 MERS-COV YES 20-04-2018
+1443 Andrew Cox Vietnam 41 EVD YES 10-05-2002
+3736 Derrick Roman Vietnam 49 COVID-2019 NO
+3736 Derrick Roman Vietnam 49 SARS-1 NO
+9895 Lisa Anderson Vietnam 10 EVD YES 23-05-2017
+1831 Desiree Bowman Vietnam 55 SARS-1 YES 11-04-2001
+196 Tommy Flowers Vietnam 11 FLU-2018 NO
+9504 Adam Cannon Vietnam 77 COVID-2019 YES 06-05-2020
+1684 Emma Mitchell Vietnam 21 MERS-COV NO
+1684 Emma Mitchell Vietnam 21 H1N1 NO
+7659 Michelle Walker Vietnam 78 H1N1 YES 09-12-2008
+8217 Steven Graham Vietnam 32 MERS-COV YES 22-07-2019
+9403 Scott Robinson Vietnam 48 SARS-1 YES 12-11-2014
+7213 Lauren Sanchez Vietnam 10 COVID-2019 NO
+4765 Paul Taylor Vietnam 22 SARS-1 NO
+3533 Ryan Mccarty Vietnam 17 COVID-2019 YES 30-05-2004
+5269 Melissa Myers Vietnam 74 SARS-COV-2 YES 29-11-2000
+5269 Melissa Myers Vietnam 74 COVID-2019 NO
+147 Margaret Reese Vietnam 45 SARS-COV-2 YES 22-10-2000
+4127 William Nelson Vietnam 75 EVD YES 08-09-2012
+223 Traci Cobb Vietnam 62 SARS-COV-2 YES 08-01-2007
+3004 Julie Thompson Vietnam 35 H1N1 NO
+5225 Micheal Brown Vietnam 38 MERS-COV YES 27-05-2020
+1630 Scott Evans Vietnam 79 FLU-2018 NO
+7433 Susan Robbins Vietnam 68 COVID-2019 NO
+2831 Patricia Young Vietnam 79 H1N1 YES 27-08-2013
+3192 Matthew Johnson Vietnam 53 SARS-1 YES 19-11-2000
+7415 Matthew Manning Vietnam 49 SARS-1 YES 24-09-2016
+2726 Christopher Stone Vietnam 45 SARS-COV-2 NO
+5243 Sarah Duncan Vietnam 58 COVID-2019 NO
+2468 Thomas Juarez Vietnam 71 SARS-COV-2 YES 04-11-2009
+1142 Angela Wagner Vietnam 58 MERS-COV NO
+7333 Tony Taylor Vietnam 20 FLU-2018 YES 18-03-2004
+4406 Frances Miller Vietnam 28 COVID-2019 NO
+1937 Caroline Johnson Vietnam 42 SARS-1 NO
+2461 William Scott Vietnam 51 H1N1 NO
+3738 Lynn Nguyen Vietnam 76 EVD NO
+3738 Lynn Nguyen Vietnam 76 H1N1 NO
+9715 Michael Mccormick Vietnam 73 COVID-2019 NO
+7043 Dominique Oliver Vietnam 72 SARS-COV-2 NO
+878 Carol Molina Vietnam 75 EVD NO
+878 Carol Molina Vietnam 75 FLU-2018 NO
+194 Brandon Perez Vietnam 63 SARS-COV-2 YES 26-02-2010
+763 Mindy Brown Vietnam 10 EVD YES 29-08-2002
+8445 Ricky Vazquez Vietnam 68 H1N1 NO
+6004 Martha Alvarado Vietnam 39 H1N1 NO
+6004 Martha Alvarado Vietnam 39 EVD NO
+8103 Kevin Quinn Vietnam 54 FLU-2018 YES 24-12-2019
+1320 Megan Perkins Vietnam 10 MERS-COV NO
+2484 Eric Evans Vietnam 57 MERS-COV YES 26-11-2012
+1512 Michael Malone Vietnam 38 MERS-COV YES 19-02-2009
+2938 Brittany Murray Vietnam 54 SARS-COV-2 NO
+2938 Brittany Murray Vietnam 54 EVD YES 22-07-2014
+2284 Matthew Ramos Vietnam 74 SARS-1 YES 19-01-2009
+8531 Douglas Hanna Vietnam 79 SARS-COV-2 YES 06-09-2006
+5649 Joshua Evans Vietnam 45 SARS-1 YES 25-01-2009
+8761 Jeffrey Flores Vietnam 25 FLU-2018 NO
+2101 Kelly Wu Vietnam 37 COVID-2019 NO
+8152 Mary Wallace Vietnam 63 FLU-2018 YES 30-08-2001
+5995 Kim Sexton Vietnam 45 SARS-1 YES 11-11-2007
+5064 Robert Burke Vietnam 53 MERS-COV YES 11-09-2020
+5064 Robert Burke Vietnam 53 FLU-2018 NO
+3708 Thomas Smith Vietnam 70 MERS-COV NO
+3857 Matthew Carr Vietnam 27 COVID-2019 NO
+2648 Daniel Evans Vietnam 53 COVID-2019 YES 02-09-2002
+9281 Chase Stephens Vietnam 31 EVD NO
+8149 Charles Ward Vietnam 55 H1N1 YES 07-11-2010
+3762 Nancy Ruiz Vietnam 64 COVID-2019 NO
+9030 Shannon Khan Vietnam 66 H1N1 YES 28-11-2008
+6975 Stephanie Carroll Vietnam 54 EVD YES 01-11-2005
+7269 Jessica Williams Vietnam 24 FLU-2018 YES 27-08-2006
+9665 Mitchell Blake Vietnam 38 EVD NO
+6940 Andrew Park Vietnam 76 MERS-COV NO
+1987 Nicholas Kelly Vietnam 57 H1N1 NO
+2912 Steven Weaver Vietnam 23 SARS-COV-2 NO
+749 Brian Lee Vietnam 17 EVD NO
+749 Brian Lee Vietnam 17 SARS-1 NO
+9116 Donald Davenport Vietnam 18 COVID-2019 NO
+9691 John Sullivan Vietnam 67 H1N1 YES 12-11-2014
+2136 Latasha Carr Vietnam 53 H1N1 NO
+8973 Felicia Stewart Vietnam 67 H1N1 NO
+5912 Jason Davis Vietnam 70 MERS-COV NO
+6167 Jason Morgan Vietnam 66 SARS-COV-2 YES 07-09-2003
+3528 Kristin White Vietnam 37 H1N1 YES 07-11-2001
+3528 Kristin White Vietnam 37 SARS-COV-2 NO
+8394 Tina Butler Vietnam 19 FLU-2018 NO
+7128 Carlos Holmes Vietnam 79 SARS-COV-2 YES 05-10-2008
+4672 Michele Wright Vietnam 52 MERS-COV YES 19-02-2003
+8898 David Santiago Vietnam 25 SARS-COV-2 YES 24-11-2004
+6533 Elizabeth Reed Vietnam 43 COVID-2019 NO
+2904 Elizabeth Goodman Vietnam 19 COVID-2019 NO
+1376 Linda Reynolds Vietnam 59 COVID-2019 YES 11-02-2004
+7534 Pamela Robinson Vietnam 42 MERS-COV YES 24-12-2013
+1548 Victor Anthony Vietnam 53 MERS-COV YES 12-03-2010
+4301 Michael Jackson Vietnam 39 SARS-COV-2 YES 26-02-2010
+4323 Sharon Ramos Vietnam 44 H1N1 NO
+392 Erica Morgan Vietnam 73 COVID-2019 YES 06-09-2004
+1141 Justin Fowler Vietnam 41 EVD YES 21-05-2006
+8866 Rebecca Ball Vietnam 34 SARS-1 YES 28-05-2014
+265 David Harris Vietnam 63 SARS-COV-2 YES 03-09-2018
+2438 Amber Holder Vietnam 69 EVD YES 03-11-2005
+6009 Stacie Mcbride Vietnam 30 SARS-COV-2 YES 29-12-2004
+3854 Adam Moss Vietnam 22 COVID-2019 NO
+5479 Lisa Robinson Vietnam 27 MERS-COV YES 26-06-2012
+5808 Elaine Neal Vietnam 79 COVID-2019 YES 13-03-2007
+6742 David Jordan Vietnam 78 MERS-COV YES 22-09-2004
+4902 Steven Robinson Vietnam 47 FLU-2018 NO
+9402 Andrew Sandoval Vietnam 78 SARS-COV-2 YES 02-05-2001
+4699 Shannon Cummings Vietnam 74 MERS-COV YES 19-02-2007
+6413 Amanda Herrera Vietnam 37 EVD NO
+8753 Kyle Rodriguez Vietnam 65 SARS-1 YES 02-03-2018
+5991 Amy Smith Vietnam 52 H1N1 NO
+581 Lori Vaughn Vietnam 61 FLU-2018 YES 29-12-2010
+7082 Tony Powell Vietnam 70 MERS-COV YES 04-08-2020
+7650 Brianna Diaz Vietnam 29 H1N1 NO
+8712 Albert Miller Vietnam 21 EVD YES 17-01-2019
+8297 Trevor Owens Vietnam 46 H1N1 NO
+4202 Ashley Taylor Vietnam 58 EVD NO
+4492 James Roberts Vietnam 53 SARS-COV-2 YES 29-11-2003
+8941 Robert Meyer Vietnam 48 FLU-2018 NO
+8809 Samantha Ayala Vietnam 32 EVD NO
+5337 Brittany Mccarthy Vietnam 11 FLU-2018 NO
+1087 Susan Howard Vietnam 27 COVID-2019 NO
+1262 Kendra Harrell Vietnam 62 COVID-2019 NO
+7130 Charles Ashley Vietnam 70 COVID-2019 YES 08-10-2013
+2467 Sabrina Richardson Vietnam 59 MERS-COV YES 26-03-2004
+264 Lindsey Miller Vietnam 77 FLU-2018 NO
+2300 Nicholas Smith Vietnam 12 EVD YES 30-11-2006
+5341 Victoria Gomez Vietnam 71 SARS-COV-2 NO
+7937 Jerome Beltran Vietnam 75 H1N1 YES 28-04-2017
+2686 Tricia Reed Vietnam 18 COVID-2019 NO
+9858 William Alexander Vietnam 39 EVD NO
+4863 Ashley Craig Vietnam 79 SARS-COV-2 NO
+11 Kelsey Brown Vietnam 77 SARS-COV-2 YES 01-03-2007
+1380 Kimberly Herrera Vietnam 43 FLU-2018 YES 03-07-2011
+630 Taylor Cameron Vietnam 28 EVD NO
+630 Taylor Cameron Vietnam 28 SARS-1 YES 13-05-2011
+4656 Lisa Larson Vietnam 13 SARS-1 NO
+7779 Karen Edwards Vietnam 27 SARS-1 NO
+3933 Regina Yoder Vietnam 79 MERS-COV NO
+4026 Angela Torres Vietnam 43 MERS-COV NO
+3887 Angela Ryan Vietnam 40 SARS-1 NO
+3887 Angela Ryan Vietnam 40 H1N1 NO
+520 Aaron White Vietnam 43 SARS-1 NO
+1744 Dawn Russell Vietnam 45 H1N1 YES 01-01-2021
+1744 Dawn Russell Vietnam 45 FLU-2018 NO
+9415 Ashley Perkins Vietnam 24 MERS-COV YES 20-06-2014
+4300 Sergio Gonzalez Vietnam 63 SARS-1 NO
+1188 Pamela Cruz Vietnam 37 MERS-COV NO
+7059 Eric Harris Vietnam 18 SARS-COV-2 YES 08-10-2016
+3636 Michelle Fischer Vietnam 50 MERS-COV NO
+3636 Michelle Fischer Vietnam 50 H1N1 NO
+1841 Daniel Rogers Vietnam 69 H1N1 NO
+6908 Susan Cox Vietnam 61 SARS-1 NO
+70 Brandon Bennett Vietnam 58 MERS-COV YES 11-11-2013
+5402 Shane Camacho Vietnam 49 H1N1 NO
+5402 Shane Camacho Vietnam 49 SARS-COV-2 YES 29-04-2011
+407 Alyssa Davis Vietnam 69 SARS-1 YES 26-05-2014
+4700 Brent Zuniga Vietnam 70 SARS-COV-2 YES 02-10-2015
+1745 Angelica Tate Vietnam 59 MERS-COV YES 25-10-2004
+1745 Angelica Tate Vietnam 59 EVD YES 31-01-2016
+4627 Sean Arnold Vietnam 46 SARS-COV-2 YES 28-02-2007
+5419 Tyler Anderson Vietnam 41 SARS-COV-2 NO
+5177 Christopher Dodson Vietnam 74 SARS-COV-2 NO
+1692 Miguel Shaw Vietnam 40 EVD NO
+7072 Mark Ward Vietnam 24 MERS-COV NO
+6060 Katelyn Fisher Vietnam 15 H1N1 YES 26-07-2000
+4122 Lisa Bryant Vietnam 19 FLU-2018 NO
+6187 Christy Moss Vietnam 65 COVID-2019 NO
+9408 Scott Daniel Vietnam 58 H1N1 YES 30-11-2000
+9408 Scott Daniel Vietnam 58 EVD NO
+6444 Stacie Ellis Vietnam 64 MERS-COV YES 19-12-2009
+6444 Stacie Ellis Vietnam 64 COVID-2019 YES 08-04-2008
+2730 Jared Webster Vietnam 68 H1N1 NO
+3822 Vanessa Rice Vietnam 13 EVD NO
+7772 Arthur Chapman Vietnam 42 SARS-COV-2 NO
+8050 Amy Smith Vietnam 54 COVID-2019 YES 15-04-2003
+8050 Amy Smith Vietnam 54 H1N1 YES 10-12-2020
+1656 David Adams Vietnam 76 SARS-COV-2 NO
+498 Elizabeth Winters Vietnam 64 EVD YES 02-03-2020
+2635 Brandon Spencer Vietnam 25 COVID-2019 NO
+3267 Nancy Price Vietnam 70 EVD NO
+3267 Nancy Price Vietnam 70 H1N1 NO
+8729 William Gilmore Vietnam 77 COVID-2019 NO
+2058 Dorothy Tran Vietnam 27 MERS-COV YES 12-01-2018
+2408 Melissa Trevino Vietnam 76 SARS-COV-2 NO
+2408 Melissa Trevino Vietnam 76 COVID-2019 NO
+9920 Phillip Garrett Vietnam 77 H1N1 YES 28-01-2008
+4265 Jason Walker Vietnam 36 SARS-1 YES 17-04-2010
+3321 Lisa Carroll Vietnam 42 FLU-2018 NO
+9542 Tina Sullivan Vietnam 15 H1N1 NO
+2623 Billy Mack Vietnam 49 COVID-2019 NO
+5594 Courtney Wallace Vietnam 54 SARS-1 YES 23-12-2015
+5949 Angela Todd Vietnam 37 H1N1 YES 05-04-2018
+2232 Megan Munoz Vietnam 23 FLU-2018 YES 15-04-2001
+8216 Erica Stout Vietnam 19 MERS-COV YES 24-10-2009
+8216 Erica Stout Vietnam 19 SARS-COV-2 YES 25-02-2004
+9618 Barbara Adkins Vietnam 27 SARS-COV-2 YES 25-07-2011
+5286 Madison Ross Vietnam 52 SARS-COV-2 NO
+4403 Angel Keller Vietnam 44 SARS-COV-2 YES 03-10-2009
+4403 Angel Keller Vietnam 44 FLU-2018 YES 12-09-2020
+5975 Lauren Reed Vietnam 63 MERS-COV NO
+9876 Justin Davis Vietnam 68 COVID-2019 NO
+155 Luis Mejia Vietnam 50 FLU-2018 YES 06-03-2015
+3187 Ashley Walker Vietnam 47 MERS-COV YES 08-07-2006
+6239 Michelle Bryant Vietnam 25 MERS-COV NO

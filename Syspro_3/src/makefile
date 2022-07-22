@@ -1,0 +1,110 @@
+# intellectual property of Dionysios Mpentour All Rights Reserved
+
+OBJS 	= app.o mylist.o functions.o myhashtable.o countrylist.o date_record.o mybloomfilter.o myskiplist.o hash_functions.o coordinator.o monitor.o countrydir_list.o socketlist.o travelReq_list.o ConsumersQueue.o
+SOURCE	= app.c mylist.c functions.c travelMonitorClient.c myhashtable.c countrylist.c date_record.c mybloomfilter.c myskiplist.c hash_functions.c coordinator.c monitor.c countrydir_list.c socketlist.c travelReq_list.c ConsumersQueue.c
+HEADER  = app.h mylist.h functions.h myhashtable.h countrylist.h date_record.h mybloomfilter.h myskiplist.h hash_functions.h coordinator.h monitor.h countrydir_list.h socketlist.h travelReq_list.h ConsumersQueue.h
+OUT1  	= travelMonitorClient
+OUT2	= monitorServer
+CC	= gcc
+FLAGS   = -g -ggdb -c -Wall
+FLAGS2	= -g -ggdb -Wall
+
+all:$(OUT1) $(OUT2)
+
+
+$(OUT1): travelMonitorClient.o $(OBJS)
+	$(CC) $(FLAGS2) travelMonitorClient.o $(OBJS) -o $(OUT1) -lpthread
+
+
+$(OUT2): monitorServer.o $(OBJS)
+	$(CC) $(FLAGS2) monitorServer.o $(OBJS) -o $(OUT2) -lpthread
+
+# create/compile the individual files >>separately<< 
+
+ConsumersQueue.o: ConsumersQueue.c
+	$(CC) $(FLAGS) ConsumersQueue.c
+
+travelMonitorClient.o: travelMonitorClient.c
+	$(CC) $(FLAGS) travelMonitorClient.c
+
+travelReq_list.o: travelReq_list.c
+	$(CC) $(FLAGS) travelReq_list.c
+
+monitorServer.o: monitorServer.c
+	$(CC) $(FLAGS) monitorServer.c
+
+socketlist.o: socketlist.c
+	$(CC) $(FLAGS) socketlist.c
+
+countrydir_list.o: countrydir_list.c
+	$(CC) $(FLAGS) countrydir_list.c
+
+monitor.o: monitor.c
+	$(CC) $(FLAGS) monitor.c
+
+coordinator.o: coordinator.c
+	$(CC) $(FLAGS) coordinator.c
+
+hash_functions.o: hash_functions.c
+	$(CC) $(FLAGS) hash_functions.c
+
+myskiplist: myskiplist.c
+	$(CC) $(FLAGS) myskiplist.c
+app.o: app.c
+	$(CC) $(FLAGS) app.c
+
+mybloomfilter: mybloomfilter.c
+	$(CC) $(FLAGS) mybloomfilter.c
+
+date_record.o: date_record.c
+	$(CC) $(FLAGS) date_record.c
+
+mylist.o: mylist.c
+	$(CC) $(FLAGS) mylist.c
+
+countrylist.o: countrylist.c
+	$(CC) $(FLAGS) countrylist.c
+
+myhashtable.o: myhashtable.c
+	$(CC) $(FLAGS) myhashtable.c
+
+functions.o: functions.c
+	$(CC) $(FLAGS) functions.c
+
+valgrind:
+	valgrind  --leak-check=full --show-leak-kinds=all --track-origins=yes -s ./travelMonitorClient -m 2 -b 512 -s 256 -i data_small -c 512 -t 4
+
+
+valgrind2:
+	valgrind  --leak-check=full --show-leak-kinds=all -s --trace-children=yes ./travelMonitorClient -m 1 -b 512 -s 256 -i data_small -c 512 -t 4
+
+#//./travelMonitorClient –m numMonitors -b socketBufferSize -c cyclicBufferSize -s sizeOfBloom -i input_dir -t numThreads
+
+
+test:
+	./travelMonitorClient -m 1 -b 512 -s 256 -i data_small -c 512 -t 3
+
+test2:
+	valgrind  --leak-check=full --show-leak-kinds=all -s --trace-children=yes ./travelMonitorClient -m 3 -b 512 -s 256 -i data_small -c 512 -t 5
+
+run:
+	./travelMonitorClient -m 3000 -b 512 -s 256 -i data_small -c 512 -t 1
+run1:
+	./travelMonitorClient -m 4 -b 512 -s 256 -i data_small -c 512 -t 7
+
+run2:
+	./travelMonitorClient -m 1 -b 512 -s 256 -i data_medium -c 512 -t 3
+
+run3:
+	./travelMonitorClient -m 3 -b 512 -s 256 -i data_small -c 512 -t 5
+
+large:
+	valgrind  --leak-check=full --show-leak-kinds=all -s --trace-children=yes ./travelMonitorClient -m 3 -b 512 -s 256 -i data_large -c 512 -t 5
+
+
+clean:
+	rm -f $(OBJS) $(OUT1) $(OUT2) travelMonitorClient.o monitorServer.o
+
+debug:
+	gdb --args ./travelMonitorClient -m 1 -b 512 -s 256 -i data_medium -c 512 -t 2
+#//./travelMonitorClient –m numMonitors -b bufferSize -s sizeOfBloom -i input_dir

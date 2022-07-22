@@ -1,0 +1,3341 @@
+73233 David Lane Italy 57 MERS-COV YES 05-02-2021
+33794 Richard Evans Italy 43 H1N1 NO
+88353 Felicia Mack Italy 71 COVID-2019 NO
+71711 Christopher Michael Italy 49 COVID-2019 NO
+90928 Veronica Anderson Italy 67 MERS-COV YES 06-06-2004
+3326 Daniel Roberts Italy 32 COVID-2019 YES 16-12-2004
+79911 Wayne Mccullough Italy 54 MERS-COV NO
+15635 Elizabeth Adams Italy 76 SARS-1 NO
+40335 Bethany Noble Italy 78 SARS-COV-2 NO
+77978 Daniel Smith Italy 46 SARS-1 NO
+92727 Brian Simmons Italy 26 H1N1 NO
+25278 Theresa Shepard Italy 15 COVID-2019 YES 30-06-2019
+4655 Kevin Mcguire Italy 75 EVD YES 04-09-2013
+71244 Katherine Jones Italy 40 FLU-2018 NO
+83841 Nicholas Brown Italy 51 SARS-COV-2 NO
+59065 Alan Marsh Italy 48 MERS-COV YES 06-11-2012
+33774 Latasha Smith Italy 26 H1N1 YES 05-08-2017
+58162 Alexandria Trujillo Italy 76 SARS-COV-2 YES 02-09-2019
+40566 Karen Garrett Italy 79 H1N1 NO
+10217 Melissa Owens Italy 64 SARS-1 YES 04-12-2009
+25077 Veronica Swanson Italy 46 H1N1 YES 15-09-2015
+17514 Matthew Ballard Italy 32 H1N1 YES 27-07-2001
+88254 Eric Gonzalez Italy 29 FLU-2018 NO
+6543 Amy Diaz Italy 73 SARS-COV-2 NO
+45652 Jay Dennis Italy 47 MERS-COV YES 14-04-2010
+29807 Leah Anderson Italy 70 EVD NO
+67825 Carrie Charles Italy 15 SARS-COV-2 YES 21-01-2021
+71706 Claudia Garcia Italy 58 MERS-COV NO
+78125 Julie Bryant Italy 74 SARS-1 YES 21-04-2010
+43050 Sherry Dalton Italy 24 H1N1 NO
+26424 Michael Hunt Italy 17 SARS-COV-2 YES 24-05-2004
+18695 Edward Melendez Italy 62 COVID-2019 YES 14-02-2020
+58504 Erin Nelson Italy 31 EVD YES 16-01-2009
+32606 Charles Russell Italy 43 EVD NO
+44843 Jasmine Jacobs Italy 59 FLU-2018 NO
+18498 Richard Soto Italy 62 COVID-2019 NO
+86964 Julia Curry Italy 63 MERS-COV YES 02-02-2015
+10719 Janice Williams Italy 38 FLU-2018 YES 25-02-2002
+88373 Linda Fitzgerald Italy 48 SARS-COV-2 YES 20-06-2006
+2627 Lori Hayden Italy 41 H1N1 YES 01-08-2000
+73229 Stephanie Freeman Italy 54 EVD YES 27-02-2003
+29558 Adam Smith Italy 45 SARS-1 YES 02-01-2020
+41225 Robert Sandoval Italy 67 MERS-COV YES 27-04-2012
+54342 Miguel Odonnell Italy 54 SARS-COV-2 YES 11-06-2003
+75669 Joshua Combs Italy 53 FLU-2018 YES 25-06-2005
+93174 Christian Taylor Italy 53 MERS-COV NO
+64456 Michael Nelson Italy 54 EVD NO
+8869 Briana May Italy 40 SARS-1 YES 19-01-2013
+34881 Stuart Pacheco Italy 41 FLU-2018 YES 28-07-2012
+23265 Jeffrey Richard Italy 43 SARS-1 NO
+80345 Bridget Howard Italy 64 EVD YES 29-10-2010
+74269 Amy Burke Italy 11 EVD NO
+89668 Mark Cardenas Italy 49 FLU-2018 YES 24-04-2012
+14688 Madison Thompson Italy 69 H1N1 YES 01-12-2012
+29550 James Jennings Italy 24 FLU-2018 NO
+18089 Eric Garcia Italy 57 SARS-COV-2 NO
+35312 Melissa Ray Italy 19 SARS-1 YES 28-12-2001
+58688 Lori Miller Italy 49 EVD YES 13-04-2016
+8135 Phillip Vega Italy 69 FLU-2018 YES 24-01-2018
+79314 Marissa Williams Italy 78 FLU-2018 YES 03-08-2002
+56813 Lawrence Hunter Italy 15 FLU-2018 YES 22-11-2005
+64787 Jennifer Saunders Italy 61 FLU-2018 YES 02-10-2014
+54954 Samantha Thompson Italy 75 SARS-1 YES 01-02-2008
+99566 Robert Fernandez Italy 56 SARS-COV-2 YES 22-12-2018
+35925 Scott Dixon Italy 21 MERS-COV NO
+73054 Dwayne Scott Italy 75 SARS-COV-2 YES 27-03-2004
+51219 Anthony Lewis Italy 18 FLU-2018 YES 16-02-2004
+73947 Anthony Martinez Italy 73 H1N1 NO
+83813 Travis Hernandez Italy 20 MERS-COV NO
+21432 Christine Houston Italy 64 EVD NO
+69766 Jacqueline Robinson Italy 22 EVD YES 01-01-2003
+30966 Michelle Dominguez Italy 58 MERS-COV YES 11-10-2014
+11874 Laura Gilbert Italy 77 H1N1 NO
+11023 Kimberly Kim Italy 52 COVID-2019 NO
+14821 Brian Frey Italy 61 SARS-COV-2 YES 19-05-2003
+42995 Alexander Martin Italy 67 H1N1 YES 13-02-2015
+66071 Collin Green Italy 75 COVID-2019 YES 14-05-2011
+87126 Renee Ayala Italy 17 COVID-2019 YES 15-09-2013
+6183 Rebecca Flynn Italy 46 COVID-2019 NO
+7256 Stacey Snyder Italy 59 SARS-COV-2 NO
+36987 Michael Mckinney Italy 23 EVD YES 23-06-2016
+62248 Jessica Hill Italy 15 SARS-COV-2 YES 04-08-2016
+65509 Michael Henry Italy 22 COVID-2019 YES 04-11-2007
+97743 Charles Rios Italy 46 H1N1 YES 11-06-2011
+22189 Emily West Italy 10 SARS-1 NO
+71111 Anthony Walker Italy 25 FLU-2018 NO
+74411 Michelle Gilbert Italy 44 H1N1 YES 29-05-2010
+36333 Lisa Cole Italy 58 SARS-1 NO
+67069 Joseph Hammond Italy 28 SARS-COV-2 YES 06-08-2006
+40904 Allison Hernandez Italy 37 H1N1 YES 28-01-2001
+46086 Amanda Thompson Italy 52 FLU-2018 NO
+22737 Marcia Christensen Italy 76 SARS-COV-2 YES 08-10-2019
+73930 Mary Delgado Italy 66 EVD NO
+63714 Tonya Davis Italy 33 SARS-COV-2 YES 06-08-2013
+30263 Whitney Brown Italy 23 SARS-1 YES 07-12-2019
+33004 Tyler Porter Italy 24 MERS-COV YES 04-06-2003
+26199 Ashley Conrad Italy 67 H1N1 NO
+80188 Nathan Kelly Italy 30 FLU-2018 YES 30-05-2007
+52085 Jason White Italy 61 H1N1 NO
+10245 Carlos Smith Italy 78 SARS-COV-2 YES 12-11-2012
+58209 Joanna Murray Italy 76 SARS-1 NO
+70336 Jared Davis Italy 66 MERS-COV NO
+28145 Stephanie Ramirez Italy 74 COVID-2019 YES 23-03-2020
+3783 Angela Moreno Italy 15 SARS-COV-2 YES 01-06-2002
+87478 Kristin Holmes Italy 63 SARS-COV-2 YES 25-11-2012
+25787 Monica Richardson Italy 13 FLU-2018 NO
+99963 Benjamin Roberson Italy 35 FLU-2018 YES 26-06-2010
+28745 Brendan Davis Italy 19 EVD NO
+16143 Tyler Kelly Italy 62 H1N1 YES 29-02-2000
+64593 April Fowler Italy 70 COVID-2019 NO
+28948 David Anderson Italy 64 MERS-COV NO
+12187 Matthew Rogers Italy 57 COVID-2019 YES 03-06-2001
+75313 Jennifer Norris Italy 65 H1N1 NO
+66692 Brian Brown Italy 72 FLU-2018 NO
+70756 Angela Wiley Italy 10 COVID-2019 NO
+67114 Jonathan Ballard Italy 55 SARS-1 NO
+24611 Greg Hayes Italy 28 MERS-COV YES 26-06-2004
+89901 Timothy Meyers Italy 41 COVID-2019 YES 21-12-2006
+45177 Donna Dean Italy 11 SARS-1 NO
+74475 Tabitha Guerra Italy 71 FLU-2018 NO
+10855 Amy Rogers Italy 38 FLU-2018 YES 11-01-2003
+93837 James Romero Italy 19 EVD YES 14-11-2007
+74103 Jason Roy Italy 38 EVD YES 21-05-2019
+47359 Sherry Lambert Italy 71 COVID-2019 YES 01-12-2017
+69461 Scott Baldwin Italy 60 FLU-2018 NO
+79724 David Burke Italy 79 H1N1 NO
+88467 Timothy Andrews Italy 46 MERS-COV NO
+52449 John Caldwell Italy 47 EVD NO
+87438 Marcus Nichols Italy 70 FLU-2018 NO
+91998 Darlene Smith Italy 48 SARS-1 NO
+38419 Hailey Brown Italy 61 COVID-2019 YES 25-09-2001
+48542 Jennifer Villarreal Italy 38 MERS-COV NO
+28490 Andrew Palmer Italy 75 COVID-2019 YES 24-05-2014
+26063 Courtney Nichols Italy 45 SARS-1 NO
+28514 Andrew Glover Italy 32 MERS-COV YES 02-01-2009
+11189 Patrick Jones Italy 20 COVID-2019 YES 30-05-2015
+46452 Madeline Chambers Italy 51 EVD YES 25-03-2006
+93187 Suzanne Allen Italy 58 EVD NO
+30550 Katherine Duncan Italy 24 SARS-1 YES 19-05-2005
+38613 Emily Hernandez Italy 56 EVD NO
+25391 Megan Massey Italy 57 COVID-2019 NO
+26376 Gabriella Huynh Italy 76 SARS-1 YES 24-11-2012
+18063 Ashley Wilson Italy 52 FLU-2018 NO
+61190 Ryan Tyler Italy 26 H1N1 NO
+1477 Gina Moore Italy 68 SARS-COV-2 YES 03-10-2020
+69882 Justin Berg Italy 38 MERS-COV YES 05-09-2001
+11720 Hannah Carter Italy 45 EVD NO
+35653 William Hawkins Italy 48 SARS-1 NO
+58021 Whitney Stone Italy 35 H1N1 YES 05-10-2010
+6053 Paul Hess Italy 59 EVD NO
+61992 Matthew George Italy 44 MERS-COV YES 20-04-2009
+19108 Sherri Taylor Italy 22 COVID-2019 NO
+11469 John Jenkins Italy 38 FLU-2018 YES 28-05-2013
+42971 Daniel Morris Italy 25 MERS-COV NO
+3632 Nathan Murray Italy 64 MERS-COV NO
+7935 Michael Andrews Italy 30 COVID-2019 NO
+64894 Lauren Robinson Italy 43 FLU-2018 YES 21-08-2016
+14364 Linda Fernandez Italy 15 SARS-COV-2 NO
+69737 Scott Golden Italy 53 MERS-COV YES 03-06-2016
+8744 Kari Hanson Italy 33 FLU-2018 YES 17-03-2011
+25479 Jacob Little Italy 35 COVID-2019 YES 10-10-2002
+10632 Derrick Carter Italy 30 SARS-1 NO
+78060 Emily Pope Italy 73 SARS-1 NO
+96313 Lisa Hopkins Italy 33 COVID-2019 YES 06-03-2007
+64446 Patricia Jensen Italy 44 SARS-1 NO
+23370 Patricia Sims Italy 42 MERS-COV YES 24-01-2011
+76587 Scott Clarke Italy 32 SARS-COV-2 NO
+59096 Jennifer Smith Italy 79 H1N1 NO
+46703 David Crawford Italy 46 FLU-2018 NO
+31113 Kenneth Freeman Italy 73 COVID-2019 YES 15-11-2002
+84724 Jason Williams Italy 50 FLU-2018 NO
+71281 Maria Bryant Italy 12 H1N1 NO
+56480 Dwayne Richardson Italy 56 COVID-2019 NO
+82815 Corey Harris Italy 68 EVD YES 22-04-2009
+80392 David Brown Italy 14 COVID-2019 NO
+26144 Denise Walker Italy 55 COVID-2019 NO
+21690 Randy Schwartz Italy 34 SARS-COV-2 NO
+72863 Troy Castillo Italy 66 H1N1 YES 27-10-2004
+41780 Timothy Church Italy 33 H1N1 YES 23-03-2011
+43904 Angela Perry Italy 63 SARS-COV-2 YES 28-02-2017
+88168 Kimberly Cole Italy 67 MERS-COV NO
+24881 Courtney Cooley Italy 48 COVID-2019 NO
+84313 Frederick Hines Italy 11 SARS-COV-2 NO
+87710 Matthew Santiago Italy 50 H1N1 YES 27-01-2018
+68408 Sarah Acevedo Italy 44 MERS-COV YES 14-05-2012
+73667 Ashley Jones Italy 44 MERS-COV YES 15-04-2017
+60781 Brittany Price Italy 46 SARS-COV-2 NO
+69348 Danielle Smith Italy 78 COVID-2019 YES 18-07-2000
+31399 Wendy Berry Italy 17 H1N1 YES 17-11-2003
+32759 Anna Brown Italy 52 EVD NO
+31670 Ralph Bates Italy 12 MERS-COV NO
+18961 Jennifer Torres Italy 63 SARS-COV-2 YES 25-03-2007
+65701 Elizabeth Garcia Italy 65 COVID-2019 NO
+65771 Yolanda Wheeler Italy 18 H1N1 NO
+33021 Sara Clay Italy 38 EVD NO
+90845 Melissa Cohen Italy 21 EVD YES 31-05-2005
+52262 Darren Price Italy 29 EVD NO
+13903 Sandra Gutierrez Italy 75 SARS-1 NO
+21273 Isaac Sanchez Italy 12 FLU-2018 YES 17-05-2006
+89868 Kristen Chaney Italy 16 H1N1 YES 17-10-2018
+49842 Richard Salazar Italy 38 SARS-1 YES 09-08-2019
+95574 Christopher Ortega Italy 22 COVID-2019 NO
+75680 Lauren Dorsey Italy 56 H1N1 NO
+81022 Thomas Harrison Italy 48 SARS-1 YES 29-06-2005
+13803 Kari Hoover Italy 54 SARS-1 YES 27-09-2008
+89571 Amber Burch Italy 76 EVD YES 07-09-2013
+95392 Lori Holmes Italy 32 SARS-COV-2 NO
+42902 Robert Harrell Italy 76 COVID-2019 YES 20-12-2009
+59220 Dana French Italy 23 SARS-1 YES 03-11-2017
+53154 Caitlin Cannon Italy 77 SARS-COV-2 YES 18-02-2015
+81343 Michael May Italy 22 EVD NO
+42945 Larry Nguyen Italy 63 SARS-1 NO
+98096 Kelly Robertson Italy 54 MERS-COV NO
+29446 Yolanda Harris Italy 24 SARS-COV-2 YES 22-08-2010
+77627 Jessica Wood Italy 35 H1N1 YES 30-08-2009
+72418 Suzanne Hale Italy 67 EVD NO
+83945 Shawn Williams Italy 15 H1N1 YES 31-10-2002
+25525 Ashley Smith Italy 50 H1N1 NO
+97232 Bridget Hayes Italy 76 SARS-COV-2 NO
+9415 Sara Phillips Italy 76 MERS-COV YES 30-07-2007
+44757 Stacey Dixon Italy 44 MERS-COV YES 28-01-2017
+50186 Gary Jackson Italy 43 SARS-1 YES 20-11-2008
+63654 Adam Long Italy 17 MERS-COV NO
+72634 Joan Torres Italy 74 MERS-COV NO
+56520 Vanessa Rivers Italy 51 EVD NO
+1118 Stephanie Castillo Italy 27 FLU-2018 YES 25-09-2000
+31229 Karen Benson Italy 45 SARS-1 YES 21-02-2002
+12216 Christian Mann Italy 16 EVD NO
+18195 Charles Black Italy 68 FLU-2018 NO
+44313 Sharon Smith Italy 67 MERS-COV NO
+97655 Jonathan Hendricks Italy 51 FLU-2018 YES 09-02-2005
+32813 Christian Garza Italy 35 SARS-1 YES 23-01-2013
+90284 Marcia Maynard Italy 19 FLU-2018 YES 14-11-2000
+62440 Amy Lee Italy 20 EVD YES 08-04-2007
+48441 Allison Ward Italy 75 SARS-1 NO
+53790 Alison Montgomery Italy 53 SARS-1 YES 16-03-2018
+46 James Cobb Italy 54 COVID-2019 NO
+4734 Sara Jones Italy 74 COVID-2019 NO
+41587 Jay Suarez Italy 63 SARS-1 YES 26-01-2005
+14776 Darren Lane Italy 24 SARS-COV-2 NO
+67821 Evelyn Jones Italy 29 EVD NO
+30704 Laura Baker Italy 49 MERS-COV YES 26-12-2007
+91524 Nancy Duran Italy 48 H1N1 YES 01-05-2000
+88630 Daniel White Italy 71 MERS-COV YES 09-08-2018
+82907 Anna Delacruz Italy 41 H1N1 YES 16-06-2011
+60358 Jay Jackson Italy 17 H1N1 YES 23-07-2001
+26307 Sarah Pineda Italy 12 H1N1 YES 18-06-2019
+80818 Julie Page Italy 11 EVD YES 21-07-2013
+14189 David Day Italy 71 COVID-2019 NO
+1500 Holly Miller Italy 51 SARS-COV-2 NO
+60350 Valerie Williams Italy 27 H1N1 NO
+44857 Caleb Whitaker Italy 33 SARS-1 NO
+1946 Tamara Walker Italy 26 SARS-COV-2 NO
+6689 Melissa Lewis Italy 49 EVD YES 24-01-2018
+32420 Gabriella Park Italy 41 EVD YES 18-09-2001
+61346 Stephen May Italy 17 H1N1 YES 08-11-2007
+45717 Rachel Craig Italy 74 MERS-COV NO
+38258 Michael Gonzales Italy 37 MERS-COV NO
+85403 Stephanie Edwards Italy 51 SARS-COV-2 NO
+37500 Thomas Diaz Italy 38 FLU-2018 YES 02-10-2013
+9451 Erin Cochran Italy 36 SARS-1 YES 09-06-2004
+12073 Nicholas Mcbride Italy 72 EVD YES 22-08-2009
+56146 Deanna Martin Italy 44 MERS-COV NO
+4716 Lisa Oliver Italy 29 COVID-2019 NO
+10973 Sharon Burke Italy 47 EVD NO
+28877 Stephen Mason Italy 43 H1N1 YES 21-09-2005
+76383 Stephanie Gonzalez Italy 34 EVD YES 02-04-2004
+69977 Lawrence Carpenter Italy 16 H1N1 YES 27-05-2001
+51893 Tara Moore Italy 54 SARS-1 NO
+73532 Theodore Guzman Italy 78 SARS-COV-2 YES 18-09-2016
+97163 Charles Zavala Italy 21 FLU-2018 NO
+99748 Elizabeth Brown Italy 63 SARS-COV-2 NO
+60067 James Phillips Italy 79 FLU-2018 YES 30-12-2018
+45473 Ariel Andrade Italy 69 FLU-2018 NO
+41398 Darrell Deleon Italy 33 SARS-COV-2 NO
+80617 Cindy Barnes Italy 35 H1N1 NO
+78815 Rebecca Decker Italy 16 SARS-COV-2 YES 20-10-2018
+99849 Ashley Johnson Italy 73 COVID-2019 NO
+67151 John Elliott Italy 25 SARS-COV-2 YES 12-05-2003
+34284 Jacqueline Nelson Italy 31 H1N1 YES 14-11-2010
+69705 Anita Peterson Italy 42 MERS-COV YES 16-02-2000
+58816 Anthony Singleton Italy 74 SARS-1 YES 24-10-2000
+35866 David Bryant Italy 78 SARS-COV-2 YES 20-09-2013
+59261 Andrew Ramirez Italy 71 FLU-2018 NO
+665 Jesus Cross Italy 70 SARS-1 YES 15-11-2010
+21969 Katrina Simpson Italy 69 SARS-COV-2 NO
+64938 Mary Shaw Italy 11 COVID-2019 NO
+65660 Melinda Gonzalez Italy 48 SARS-COV-2 YES 30-10-2010
+66586 Christina Guerrero Italy 59 FLU-2018 YES 20-08-2017
+22925 Robert Kane Italy 50 EVD NO
+86216 Alicia Williams Italy 22 SARS-COV-2 YES 17-09-2004
+54672 James Alvarez Italy 19 SARS-COV-2 YES 22-06-2009
+44974 Hannah Rich Italy 20 H1N1 NO
+24659 Trevor Douglas Italy 22 FLU-2018 YES 14-05-2018
+83989 Angela Green Italy 24 MERS-COV NO
+39189 Lisa Alexander Italy 10 SARS-COV-2 YES 04-03-2001
+61801 Philip Klein Italy 48 SARS-COV-2 YES 22-06-2015
+6016 Ryan Scott Italy 36 EVD YES 23-12-2017
+93591 Jared Tran Italy 36 FLU-2018 NO
+38854 Michele Lewis Italy 53 FLU-2018 YES 23-09-2018
+42441 Cheryl Evans Italy 42 SARS-COV-2 NO
+82657 Jessica Stuart Italy 14 EVD NO
+97078 Samantha George Italy 38 MERS-COV NO
+76373 Melissa Newman Italy 39 FLU-2018 NO
+60348 Shannon Luna Italy 15 COVID-2019 NO
+99485 Brandon Ortiz Italy 59 H1N1 NO
+91571 John Watkins Italy 65 MERS-COV NO
+84995 Kari Rios Italy 71 FLU-2018 YES 23-10-2010
+63561 Renee Washington Italy 58 SARS-1 YES 04-07-2005
+61508 Bruce Johnson Italy 20 EVD NO
+46775 Martha Macias Italy 23 EVD NO
+78283 Kimberly Lee Italy 31 FLU-2018 NO
+88665 Rebecca Smith Italy 71 MERS-COV YES 15-04-2014
+113 Jody Fletcher Italy 76 EVD YES 07-07-2017
+68881 Jose Ryan Italy 52 SARS-1 YES 23-02-2009
+73136 Zoe Mitchell Italy 60 SARS-1 YES 11-01-2018
+30303 John Carrillo Italy 33 MERS-COV NO
+80870 Sydney Robinson Italy 47 EVD NO
+59167 Melissa Mcgee Italy 29 H1N1 NO
+33729 Wendy Moreno Italy 64 MERS-COV NO
+26002 Arthur Le Italy 65 FLU-2018 YES 08-07-2009
+88572 Trevor Morgan Italy 41 COVID-2019 NO
+72521 Cynthia Atkins Italy 29 EVD NO
+12973 Thomas Gray Italy 63 MERS-COV YES 13-09-2020
+8785 Teresa Strickland Italy 18 COVID-2019 NO
+50646 Whitney Harris Italy 23 SARS-COV-2 NO
+49667 Ryan Velazquez Italy 36 FLU-2018 NO
+22805 Audrey Weiss Italy 16 COVID-2019 NO
+23956 Joe Douglas Italy 45 SARS-1 NO
+59929 Tiffany Carson Italy 73 EVD YES 27-10-2001
+31862 Amanda Young Italy 26 MERS-COV NO
+39919 Taylor Monroe Italy 55 EVD YES 12-07-2015
+33394 Jennifer Mejia Italy 65 H1N1 YES 11-05-2016
+73918 April Mcpherson Italy 47 H1N1 YES 28-03-2019
+34454 Kristen Cooper Italy 29 H1N1 NO
+15823 Ryan Adams Italy 46 FLU-2018 NO
+65527 Kaitlyn Mueller Italy 61 COVID-2019 NO
+78056 Nicholas Molina Italy 20 COVID-2019 YES 22-02-2008
+20037 Alan Fisher Italy 32 SARS-1 NO
+89508 Jasmine Ramirez Italy 46 FLU-2018 YES 06-10-2010
+17375 Kenneth Dodson Italy 76 COVID-2019 YES 09-05-2001
+30620 Lee Johnson Italy 79 SARS-1 YES 17-08-2007
+94275 Debbie Sims Italy 23 EVD YES 06-07-2018
+33780 April White Italy 39 COVID-2019 YES 30-11-2015
+46371 Jennifer Lowe Italy 22 FLU-2018 YES 10-10-2015
+63496 Michael Spencer Italy 70 EVD YES 13-05-2015
+26982 Dana Navarro Italy 62 COVID-2019 NO
+52189 Brittney Singleton Italy 54 FLU-2018 YES 05-05-2014
+71268 Heather Wright Italy 37 FLU-2018 NO
+3461 Robert Marshall Italy 57 SARS-COV-2 NO
+69776 Kristine Merritt Italy 15 FLU-2018 YES 16-06-2012
+11254 Melody Anderson Italy 42 FLU-2018 YES 20-03-2012
+77241 Shawn Hodges Italy 44 MERS-COV NO
+59563 Linda Landry Italy 15 SARS-COV-2 YES 08-05-2008
+11505 Franklin Watts Italy 38 EVD NO
+19766 George Ball Italy 39 COVID-2019 NO
+61053 Susan Simmons Italy 32 FLU-2018 NO
+42053 Stephen Sharp Italy 70 SARS-1 NO
+55544 Stacey Robinson Italy 73 COVID-2019 YES 02-09-2006
+56848 Jerry Dixon Italy 53 FLU-2018 YES 19-10-2016
+38934 William Russell Italy 58 FLU-2018 NO
+36039 Regina Cochran Italy 61 SARS-1 NO
+42312 Andrea Greene Italy 74 SARS-COV-2 YES 07-04-2008
+60091 Karen Webster Italy 21 COVID-2019 NO
+40296 Catherine Tran Italy 50 H1N1 YES 29-11-2010
+74100 Sean Melendez Italy 34 FLU-2018 YES 21-07-2016
+9536 Shawn Woodward Italy 15 COVID-2019 NO
+96779 Kathleen Nelson Italy 79 H1N1 NO
+79827 James Thompson Italy 72 COVID-2019 YES 07-08-2016
+33838 Alex Lee Italy 68 MERS-COV NO
+16062 Laura Marshall Italy 77 MERS-COV NO
+32969 Cristina Mendoza Italy 46 H1N1 NO
+49374 Austin Wilson Italy 22 EVD NO
+14191 Elizabeth Hill Italy 25 FLU-2018 NO
+84266 Christopher Lopez Italy 56 COVID-2019 YES 03-11-2000
+49193 Bethany Olson Italy 19 SARS-1 YES 13-10-2000
+20974 Alison Brown Italy 12 MERS-COV NO
+17277 Mark Mcgee Italy 45 FLU-2018 NO
+2091 John Brown Italy 16 H1N1 NO
+26696 Brittany Perez Italy 76 EVD YES 18-01-2000
+55890 Amanda Smith Italy 77 SARS-1 NO
+3874 Herbert Avery Italy 31 FLU-2018 YES 22-05-2003
+66752 Robert Bentley Italy 65 SARS-1 NO
+92213 Christopher Schmitt Italy 41 MERS-COV NO
+1189 William Sexton Italy 41 SARS-COV-2 YES 04-04-2009
+52725 Amanda Hall Italy 67 H1N1 YES 03-12-2011
+49524 Alan Campos Italy 43 H1N1 NO
+66240 Rebekah Cooper Italy 24 COVID-2019 YES 09-05-2009
+7460 Robert Dyer Italy 51 FLU-2018 NO
+67465 Colin Mitchell Italy 10 COVID-2019 NO
+49359 Ruben Gonzalez Italy 23 SARS-COV-2 YES 03-06-2008
+49318 Melanie Davis Italy 69 H1N1 YES 03-12-2019
+60793 Colin Stone Italy 25 EVD NO
+63810 Danielle Allen Italy 28 SARS-COV-2 NO
+9766 Dustin Hester Italy 26 SARS-COV-2 YES 03-08-2012
+371 Marc Brown Italy 77 COVID-2019 NO
+5246 Jack Hill Italy 61 COVID-2019 YES 30-06-2015
+23104 Meredith Smith Italy 72 COVID-2019 YES 27-01-2017
+68536 Timothy Mcintosh Italy 71 COVID-2019 NO
+49901 Bruce Anderson Italy 57 SARS-1 YES 15-07-2003
+60414 Michael Ramos Italy 25 FLU-2018 NO
+54772 Michelle Lara Italy 35 EVD NO
+35224 April Haynes Italy 56 H1N1 NO
+79615 Jacqueline Alexander Italy 69 SARS-1 YES 11-02-2005
+93448 Philip Galvan Italy 44 COVID-2019 YES 14-12-2013
+47195 Kathleen Copeland Italy 39 FLU-2018 YES 29-10-2006
+78912 Robert Nash Italy 30 SARS-1 YES 29-11-2011
+82296 Michele Wilcox Italy 22 SARS-COV-2 NO
+31198 Jenny Beasley Italy 33 FLU-2018 YES 27-04-2004
+71668 Tammy Vaughn Italy 33 EVD YES 16-12-2011
+97626 Brianna Dawson Italy 44 EVD NO
+51021 David Hernandez Italy 38 EVD NO
+61415 Megan Vega Italy 46 EVD NO
+8443 Sandra Jones Italy 79 H1N1 YES 13-03-2008
+30096 Sharon Frost Italy 20 FLU-2018 YES 30-11-2000
+2115 Matthew Kaufman Italy 65 EVD YES 20-12-2016
+75659 Jose Callahan Italy 59 COVID-2019 YES 16-09-2015
+20072 Kyle Smith Italy 71 MERS-COV YES 30-10-2009
+91842 Megan Luna Italy 46 SARS-1 NO
+59414 Paul Cunningham Italy 64 FLU-2018 YES 08-03-2007
+91490 Scott Green Italy 69 EVD YES 04-11-2004
+67461 Bobby Lee Italy 69 EVD YES 29-01-2001
+39662 Katherine Perez Italy 60 COVID-2019 NO
+8479 Luke Stewart Italy 70 MERS-COV NO
+75809 Adam Ortega Italy 13 SARS-1 NO
+92672 Alicia Watson Italy 40 H1N1 NO
+23655 Derrick Harris Italy 24 SARS-1 NO
+14147 Amanda Chaney Italy 20 EVD YES 04-12-2017
+65626 Kimberly Hancock Italy 70 H1N1 YES 15-09-2007
+51137 Robert Wood Italy 15 FLU-2018 NO
+46505 Amanda Hutchinson Italy 72 COVID-2019 YES 28-08-2003
+77030 Timothy Jones Italy 79 FLU-2018 NO
+55352 Caroline Tate Italy 67 H1N1 YES 23-03-2010
+69005 Keith Rivera Italy 57 FLU-2018 NO
+69460 Lisa Hooper Italy 58 SARS-1 NO
+63223 Joanna Carpenter Italy 16 FLU-2018 NO
+52149 Nathan Perez Italy 18 SARS-COV-2 NO
+95342 Shane Williams Italy 65 MERS-COV YES 21-09-2014
+56264 Fernando Schneider Italy 69 SARS-1 YES 10-09-2007
+66192 Timothy Silva Italy 46 H1N1 NO
+79479 Linda Harrison Italy 20 COVID-2019 NO
+64765 Eric Rodriguez Italy 34 H1N1 YES 28-01-2012
+83590 Daniel Mosley Italy 70 MERS-COV YES 07-09-2004
+51126 Sara King Italy 64 SARS-1 YES 09-02-2011
+85683 Tiffany Escobar Italy 57 EVD NO
+45998 Douglas Kerr Italy 52 MERS-COV NO
+7127 James Woods Italy 45 SARS-COV-2 NO
+68554 Stephen Tucker Italy 22 SARS-COV-2 YES 12-12-2012
+82948 Susan Mccarthy Italy 69 COVID-2019 YES 04-08-2010
+91222 Clarence Barber Italy 16 EVD YES 20-05-2015
+78527 Elizabeth Dorsey Italy 75 SARS-COV-2 NO
+30389 Kelly Reese Italy 59 SARS-1 NO
+30766 Thomas Johnson Italy 41 H1N1 YES 21-04-2016
+47536 Meghan Moore Italy 44 EVD YES 23-03-2007
+21013 Ryan Gardner Italy 51 FLU-2018 NO
+74542 Jordan Richardson Italy 27 SARS-1 YES 07-10-2018
+35239 Elizabeth Salas Italy 18 FLU-2018 NO
+79380 Kelly Campos Italy 45 SARS-COV-2 NO
+38522 Caroline Parker Italy 39 COVID-2019 YES 26-07-2010
+957 Garrett Walker Italy 57 EVD NO
+70668 Benjamin Howard Italy 66 COVID-2019 NO
+38630 Thomas Carr Italy 56 SARS-COV-2 NO
+83380 Julie Howard Italy 64 COVID-2019 YES 25-12-2003
+17378 Brandon Ochoa Italy 67 EVD NO
+10169 Heidi Martin Italy 44 COVID-2019 NO
+37974 Edward Ray Italy 13 EVD NO
+79702 Luke Khan Italy 27 EVD NO
+92023 Jim Turner Italy 50 FLU-2018 NO
+85127 Susan Ponce Italy 14 H1N1 NO
+76535 Marc Hurley Italy 79 COVID-2019 YES 02-02-2012
+77185 Deborah Nunez Italy 19 MERS-COV YES 04-07-2010
+92050 Lydia Carter Italy 30 MERS-COV NO
+85774 Michael Flynn Italy 28 FLU-2018 YES 24-03-2013
+50498 Ryan Hart Italy 13 H1N1 NO
+70450 Joel Brown Italy 69 MERS-COV YES 31-10-2002
+40420 Allen Golden Italy 76 FLU-2018 YES 02-07-2005
+25659 Austin Lee Italy 52 COVID-2019 YES 14-02-2016
+34910 Jared Smith Italy 17 SARS-1 NO
+26570 Margaret Garza Italy 18 H1N1 NO
+80269 Megan Kim Italy 73 MERS-COV YES 13-03-2000
+73757 Jason Johnson Italy 17 COVID-2019 YES 25-06-2011
+86469 Thomas Hernandez Italy 48 MERS-COV NO
+24744 David Obrien Italy 73 MERS-COV YES 24-03-2002
+38441 Michelle Thompson Italy 13 SARS-1 YES 07-04-2016
+48433 Charles Gonzales Italy 17 COVID-2019 NO
+58005 Tracy Campos Italy 32 EVD YES 17-03-2006
+58556 Shane Hall Italy 14 SARS-COV-2 YES 06-03-2003
+18560 Michelle Hernandez Italy 19 H1N1 YES 16-01-2004
+3862 Mason Bradley Italy 14 FLU-2018 NO
+90347 Vincent Sims Italy 72 SARS-1 YES 22-06-2013
+61018 Ryan Hale Italy 79 MERS-COV NO
+27124 William Reed Italy 52 FLU-2018 NO
+45890 Kendra Carter Italy 67 FLU-2018 NO
+20321 Michael Taylor Italy 17 COVID-2019 NO
+19281 Carla Chambers Italy 63 EVD NO
+43142 Shawn Davis Italy 47 SARS-COV-2 YES 03-02-2016
+87772 Charles Rodriguez Italy 42 SARS-COV-2 NO
+43906 Kathleen Jensen Italy 16 MERS-COV NO
+42992 Gregg Cooper Italy 15 H1N1 NO
+25152 Kristin Hensley Italy 39 EVD NO
+38738 Sara Cox Italy 43 MERS-COV YES 07-02-2020
+1886 Nicholas Sheppard Italy 79 FLU-2018 YES 31-10-2015
+21902 Mary Murphy Italy 20 MERS-COV NO
+89618 Andrea Marsh Italy 30 SARS-COV-2 YES 15-08-2017
+82050 Marc Taylor Italy 75 H1N1 NO
+25214 Richard Jones Italy 57 MERS-COV YES 19-02-2000
+61380 Wendy Becker Italy 62 SARS-COV-2 YES 21-08-2017
+9020 Gregory Kim Italy 28 FLU-2018 NO
+81589 Jennifer Moon Italy 36 SARS-COV-2 YES 22-06-2005
+84668 Joseph Kelley Italy 58 FLU-2018 NO
+65738 Brittany Patel Italy 28 SARS-COV-2 NO
+28019 Krista Barrera Italy 70 FLU-2018 NO
+81701 Michelle Sims Italy 41 FLU-2018 YES 26-09-2001
+77514 Vincent Martin Italy 28 COVID-2019 NO
+75020 Christina Freeman Italy 47 FLU-2018 YES 21-02-2019
+48179 Patricia Harris Italy 55 H1N1 NO
+85665 Vanessa Rodriguez Italy 41 SARS-1 NO
+4888 Kyle Dorsey Italy 23 FLU-2018 NO
+85277 Leslie Burton Italy 38 COVID-2019 NO
+75756 Terry Howard Italy 53 MERS-COV NO
+69750 Joshua Jackson Italy 48 FLU-2018 YES 22-02-2002
+98536 Erika Campbell Italy 77 COVID-2019 NO
+48331 Aaron Lopez Italy 20 MERS-COV YES 25-08-2014
+26677 Robert Hodges Italy 14 COVID-2019 NO
+18944 Christopher Abbott Italy 39 SARS-1 YES 03-02-2017
+48338 Phillip Gomez Italy 51 COVID-2019 NO
+51094 Gail Vincent Italy 71 SARS-COV-2 NO
+71806 Samantha Russell Italy 51 SARS-COV-2 NO
+26556 Amy Diaz Italy 38 MERS-COV NO
+13014 Christina Schultz Italy 24 MERS-COV YES 20-04-2010
+77783 Leah Cortez Italy 17 COVID-2019 NO
+80266 Sean Taylor Italy 52 COVID-2019 YES 12-09-2017
+62837 Larry Johnson Italy 12 SARS-1 NO
+26453 Christina Buck Italy 27 EVD NO
+49138 Christina Swanson Italy 18 MERS-COV NO
+76444 Lauren Vincent Italy 56 SARS-1 NO
+73537 Stacey Clark Italy 47 COVID-2019 NO
+32154 Laura Kelly Italy 10 FLU-2018 YES 02-06-2018
+26541 Susan Tyler Italy 67 MERS-COV NO
+94899 Brian Hammond Italy 53 FLU-2018 YES 18-12-2009
+69630 Grant Conrad Italy 47 COVID-2019 NO
+47436 Anne Hayden Italy 61 COVID-2019 NO
+21393 Mary Myers Italy 16 H1N1 NO
+22339 Abigail Mcclain Italy 27 SARS-1 YES 08-07-2007
+36635 Nicholas Clark Italy 52 EVD YES 07-10-2008
+61714 Regina Zamora Italy 50 EVD YES 14-05-2004
+59822 Lauren West Italy 22 SARS-1 NO
+77094 Jennifer Parker Italy 74 SARS-1 YES 27-07-2005
+70227 Tyler Mitchell Italy 68 EVD NO
+83960 Kathleen Gray Italy 11 EVD NO
+45586 Ellen Lewis Italy 12 EVD YES 07-05-2013
+43505 Jimmy Rojas Italy 67 MERS-COV YES 19-04-2010
+8926 Aaron Caldwell Italy 41 EVD NO
+97520 Christopher White Italy 29 SARS-COV-2 NO
+41546 John Murray Italy 54 H1N1 NO
+17887 Jeremiah Smith Italy 61 FLU-2018 YES 03-04-2016
+92937 Jill Williams Italy 34 EVD NO
+24363 Crystal Cruz Italy 12 MERS-COV NO
+63692 Karen Chavez Italy 78 FLU-2018 NO
+68092 Leroy Willis Italy 44 EVD NO
+65693 David Reed Italy 61 MERS-COV YES 09-08-2004
+48241 Jeffrey Davis Italy 48 SARS-COV-2 YES 18-08-2006
+52803 Stephanie Stevenson Italy 43 SARS-COV-2 NO
+64466 Donald Martinez Italy 37 MERS-COV YES 27-03-2017
+11882 Rebecca Gomez Italy 34 FLU-2018 YES 11-03-2020
+12702 Andrea Santiago Italy 18 MERS-COV NO
+44952 Lindsey Townsend Italy 51 FLU-2018 YES 07-08-2011
+5926 George Sanchez Italy 47 COVID-2019 NO
+59515 Patrick Riley Italy 18 H1N1 YES 19-01-2007
+95061 Carrie Moore Italy 79 SARS-1 YES 13-07-2019
+21308 Jack Lopez Italy 26 FLU-2018 YES 17-07-2015
+18447 Daniel Jackson Italy 63 FLU-2018 NO
+42671 Willie Owens Italy 32 MERS-COV NO
+27587 Christine White Italy 76 SARS-COV-2 YES 10-08-2007
+58608 Wendy Christian Italy 60 SARS-COV-2 YES 25-09-2017
+82812 Michelle Martinez Italy 31 H1N1 YES 16-05-2007
+34931 Lisa Adkins Italy 77 H1N1 YES 29-07-2007
+46079 Jeremy Wang Italy 17 SARS-1 YES 21-12-2016
+34504 Ryan Berger Italy 38 COVID-2019 NO
+41833 Julie Moore Italy 48 SARS-1 YES 09-12-2000
+4237 Chelsea Williams Italy 27 EVD YES 16-05-2006
+54033 Amy Miller Italy 52 SARS-1 YES 14-01-2007
+23841 Lindsey Moore Italy 42 MERS-COV YES 21-11-2012
+31450 Jeffery Sanchez Italy 41 SARS-1 NO
+43752 Raymond Duncan Italy 52 SARS-1 NO
+68390 Fred Jones Italy 43 COVID-2019 YES 20-11-2006
+80068 Melissa Martin Italy 47 SARS-COV-2 YES 19-11-2001
+21688 Mckenzie Chambers Italy 64 MERS-COV NO
+14953 Paul Morrison Italy 53 COVID-2019 NO
+5467 Anne Pearson Italy 44 FLU-2018 NO
+73461 Scott Bryant Italy 51 MERS-COV YES 07-08-2001
+87570 Tanya Henderson Italy 67 COVID-2019 NO
+17833 Nicholas Hayes Italy 58 H1N1 NO
+68220 Samantha Davis Italy 61 MERS-COV YES 15-04-2002
+64817 Chad Nelson Italy 53 SARS-1 YES 08-06-2020
+59998 Joshua Bryant Italy 40 FLU-2018 NO
+5877 Albert Lewis Italy 70 SARS-COV-2 YES 01-09-2007
+87138 Leslie Wilson Italy 35 SARS-COV-2 YES 25-02-2002
+31448 Hannah Berg Italy 28 COVID-2019 NO
+69378 Joan Zamora Italy 45 SARS-COV-2 YES 07-11-2006
+5418 Kelly Wall Italy 49 MERS-COV YES 14-01-2001
+41561 Mary Johnson Italy 59 EVD YES 27-09-2006
+93115 Anthony Anderson Italy 17 COVID-2019 YES 11-05-2016
+9192 Jennifer Brown Italy 63 SARS-COV-2 YES 21-01-2013
+56056 Mary Haney Italy 31 SARS-COV-2 NO
+2924 Edward Chase Italy 44 FLU-2018 YES 16-09-2011
+47421 Mia Wu Italy 69 H1N1 NO
+46574 Isaac Jones Italy 12 H1N1 YES 24-04-2017
+37674 Kara Johnson Italy 45 MERS-COV YES 10-09-2016
+45414 Emily Brady Italy 69 SARS-1 YES 21-06-2002
+44621 Alan Torres Italy 64 EVD NO
+91540 Susan Moore Italy 15 SARS-1 YES 23-05-2013
+87189 Austin Vega Italy 75 COVID-2019 YES 24-12-2009
+23183 Keith White Italy 13 SARS-COV-2 YES 29-12-2019
+68193 Michael Smith Italy 73 FLU-2018 YES 11-02-2017
+68247 Emily Crawford Italy 21 COVID-2019 YES 10-03-2014
+64507 Kayla Spears Italy 53 MERS-COV NO
+44209 Valerie Butler Italy 30 SARS-1 NO
+687 Devin Oliver Italy 18 COVID-2019 YES 30-04-2018
+5929 Alyssa Price Italy 38 MERS-COV YES 03-10-2013
+50975 Ruth Evans Italy 26 H1N1 YES 22-06-2006
+31984 Katie Diaz Italy 72 FLU-2018 YES 01-02-2000
+26542 Kevin Evans Italy 46 EVD YES 06-06-2016
+17601 Eugene Smith Italy 33 COVID-2019 NO
+76700 Michelle Vargas Italy 36 MERS-COV YES 10-06-2018
+91812 William Howard Italy 68 H1N1 YES 28-09-2013
+52195 Richard Kelly Italy 60 SARS-COV-2 NO
+16636 Kimberly Lowe Italy 76 COVID-2019 NO
+89874 Jonathan Wong Italy 22 SARS-COV-2 NO
+50880 Edward Ewing Italy 26 FLU-2018 YES 01-03-2001
+53807 Duane Murphy Italy 39 SARS-1 YES 20-03-2012
+49937 Caitlyn Nixon Italy 78 COVID-2019 YES 27-06-2014
+98806 Marcus Chang Italy 73 COVID-2019 YES 28-02-2015
+98539 Diane Henry Italy 31 SARS-COV-2 NO
+76211 Frank Ewing Italy 68 EVD YES 17-01-2014
+50252 Crystal Choi Italy 73 SARS-COV-2 YES 17-07-2011
+58901 Austin Pearson Italy 72 EVD YES 23-05-2001
+96416 Cynthia Hunter Italy 26 SARS-COV-2 NO
+64848 Melanie Harrison Italy 61 EVD YES 11-07-2012
+32252 Amy Barnett Italy 56 EVD YES 17-08-2018
+27663 Stephanie Yang Italy 34 H1N1 YES 26-07-2004
+56857 Jesse Ramsey Italy 47 EVD NO
+26238 Troy Barr Italy 56 SARS-1 YES 01-05-2011
+22832 Dylan Hansen Italy 49 H1N1 NO
+41930 Michael Smith Italy 25 MERS-COV YES 19-12-2011
+20911 Christian Peters Italy 66 FLU-2018 NO
+94125 Linda Waller Italy 53 H1N1 YES 20-12-2020
+88292 Sandra Barron Italy 46 SARS-1 YES 18-01-2016
+40746 Joel Reed Italy 70 SARS-1 YES 20-02-2017
+28356 Anne Medina Italy 66 SARS-1 NO
+22846 Joyce Reed Italy 44 COVID-2019 YES 31-05-2003
+3370 Richard Miller Italy 10 SARS-1 NO
+51859 Barbara Fox Italy 37 SARS-1 YES 16-11-2019
+49045 Kelly Castaneda Italy 43 COVID-2019 YES 10-02-2016
+68738 Paul Blair Italy 37 FLU-2018 NO
+11336 Tanya Santos Italy 52 EVD YES 25-04-2017
+81799 Elizabeth Mcmillan Italy 38 H1N1 NO
+19273 Richard Bautista Italy 14 SARS-1 YES 18-07-2017
+11735 Maria Wright Italy 53 SARS-COV-2 YES 10-05-2009
+33297 James Pitts Italy 65 H1N1 YES 17-01-2014
+37334 Karl Hughes Italy 22 MERS-COV NO
+13536 Lauren Li Italy 30 EVD YES 21-03-2015
+10711 Theresa Kelly Italy 29 MERS-COV NO
+3878 Christopher Sanchez Italy 23 FLU-2018 NO
+74958 Julie Martinez Italy 74 FLU-2018 NO
+34751 Dennis Stokes Italy 13 EVD NO
+34306 Christina Berg Italy 40 EVD YES 27-02-2012
+55496 John Daniel Italy 29 COVID-2019 NO
+61519 Alyssa Chavez Italy 74 COVID-2019 NO
+71137 Sherri Robertson Italy 55 MERS-COV YES 16-05-2010
+23693 Joy Williams Italy 21 FLU-2018 NO
+15877 Michael Gonzalez Italy 63 EVD NO
+34043 Allison Lane Italy 70 SARS-1 YES 26-11-2019
+15077 William Perez Italy 17 EVD YES 23-02-2009
+87108 Austin Martinez Italy 44 SARS-COV-2 YES 29-05-2009
+53564 Melissa Wilson Italy 48 COVID-2019 NO
+6299 Kim Wilson Italy 45 COVID-2019 NO
+51369 Wendy Bell Italy 12 H1N1 NO
+81218 Joshua Smith Italy 26 EVD YES 26-11-2011
+13340 Christopher Sanchez Italy 67 MERS-COV YES 23-02-2012
+3302 Daniel Hanson Italy 26 SARS-COV-2 NO
+88625 Alyssa Lewis Italy 33 MERS-COV YES 06-07-2006
+41038 Jeremy Lowery Italy 69 H1N1 YES 13-01-2001
+92632 Richard Williams Italy 59 COVID-2019 YES 09-09-2018
+50919 Jeffrey Jensen Italy 17 EVD YES 15-08-2020
+73503 William Bishop Italy 45 SARS-1 YES 14-07-2003
+97219 Sydney Howard Italy 35 EVD YES 09-12-2000
+31549 Shane Thomas Italy 15 COVID-2019 YES 03-12-2006
+98103 Jennifer Rose Italy 58 SARS-1 YES 18-04-2007
+33386 Marissa Hawkins Italy 60 SARS-COV-2 YES 08-11-2011
+55614 Brandon Reilly Italy 52 MERS-COV YES 17-05-2003
+23767 Justin Brewer Italy 66 H1N1 NO
+79269 Dana Butler Italy 72 H1N1 NO
+67559 James Horn Italy 69 H1N1 YES 20-10-2017
+76816 Emma Thompson Italy 12 SARS-1 YES 23-03-2004
+55349 Dale Garcia Italy 43 SARS-1 YES 13-07-2019
+66504 Shawn Wright Italy 69 MERS-COV NO
+47258 Rebecca Dodson Italy 67 COVID-2019 NO
+25149 Daniel Long Italy 35 SARS-1 YES 21-04-2017
+27184 Matthew Stevens Italy 75 SARS-COV-2 NO
+64148 Christian Harris Italy 34 H1N1 YES 23-10-2019
+23552 Alexa Adkins Italy 15 H1N1 YES 24-11-2000
+18228 Peter Rose Italy 37 COVID-2019 NO
+72874 Glenn Kelley Italy 59 H1N1 YES 22-09-2020
+9365 Jacqueline Mason Italy 37 MERS-COV YES 03-06-2017
+88942 Brittany Brown Italy 11 EVD NO
+32192 Jasmine Rodgers Italy 66 FLU-2018 YES 19-02-2000
+91411 Megan Meyer Italy 45 SARS-COV-2 YES 02-04-2004
+39435 Vanessa Hill Italy 12 H1N1 YES 11-06-2008
+59347 Ashley Tran Italy 74 MERS-COV NO
+83095 Barbara Jackson Italy 36 EVD YES 03-09-2006
+94235 Michael Robertson Italy 23 COVID-2019 YES 14-05-2020
+35689 Johnny Hess Italy 75 EVD YES 25-11-2001
+52961 Colleen Sanchez Italy 59 SARS-COV-2 NO
+88673 Sandra Cooper Italy 53 MERS-COV YES 28-03-2011
+49799 Frances Smith Italy 66 SARS-1 YES 08-04-2004
+3564 Jennifer Thomas Italy 68 H1N1 NO
+80971 Andrew Taylor Italy 67 H1N1 YES 27-12-2016
+5444 Michelle Nguyen Italy 38 EVD NO
+11615 Michael Duran Italy 59 COVID-2019 YES 02-01-2001
+73542 Raymond Baker Italy 66 COVID-2019 NO
+5071 Sarah Matthews Italy 63 MERS-COV YES 07-03-2007
+5506 Nicholas Bishop Italy 56 COVID-2019 NO
+63044 Michele Williams Italy 22 FLU-2018 YES 12-03-2001
+76892 Jeremy Burnett Italy 48 SARS-1 YES 26-01-2019
+20182 Amy Spencer Italy 44 COVID-2019 NO
+58245 Krystal Medina Italy 34 SARS-1 NO
+22117 Angela Ruiz Italy 15 SARS-COV-2 YES 02-03-2003
+7243 Samantha Buchanan Italy 58 EVD NO
+33171 Charles Lyons Italy 31 FLU-2018 YES 21-08-2005
+23102 Kristen Chan Italy 67 SARS-1 NO
+56757 Andrea Miller Italy 31 MERS-COV NO
+61972 Seth Brown Italy 22 SARS-COV-2 YES 10-12-2010
+25017 Marissa Chang Italy 35 EVD YES 07-11-2010
+24477 Jeremy Baird Italy 62 COVID-2019 NO
+3045 Steven Abbott Italy 44 SARS-1 NO
+27672 Austin Gregory Italy 45 EVD NO
+23418 Leah Thompson Italy 36 FLU-2018 NO
+49091 Jeremiah Peck Italy 59 SARS-1 NO
+76556 Kevin Floyd Italy 57 COVID-2019 YES 13-12-2002
+32740 Tiffany Johnson Italy 71 MERS-COV NO
+47722 Elizabeth Neal Italy 36 H1N1 NO
+425 Connie Scott Italy 36 MERS-COV NO
+89023 Isaiah Jackson Italy 76 SARS-1 NO
+46962 Matthew Turner Italy 68 SARS-COV-2 YES 07-05-2004
+65082 Collin Hammond Italy 21 EVD YES 22-07-2000
+43742 Eric Haley Italy 61 SARS-COV-2 YES 16-08-2013
+37975 Michael Herrera Italy 49 COVID-2019 NO
+31793 Vanessa Hartman Italy 21 MERS-COV NO
+76627 Stephen Higgins Italy 13 SARS-1 NO
+60095 Jason Romero Italy 49 EVD YES 13-10-2004
+14632 Angel Bradley Italy 43 SARS-COV-2 YES 26-11-2018
+54951 Dana Hall Italy 59 SARS-1 NO
+73848 Jessica Hays Italy 42 MERS-COV NO
+75118 Gregory Goodman Italy 46 SARS-COV-2 NO
+22689 Adrian Garza Italy 13 MERS-COV NO
+51194 Dean Wright Italy 29 COVID-2019 YES 03-11-2012
+68615 Karla Shaw Italy 39 SARS-COV-2 NO
+22876 Tami Cook Italy 55 SARS-1 NO
+8756 John Fuller Italy 18 SARS-1 YES 24-12-2007
+17536 Valerie Fisher Italy 29 EVD YES 06-01-2020
+78267 Jill Hamilton Italy 65 COVID-2019 NO
+57048 Jessica Hansen Italy 54 COVID-2019 YES 12-12-2006
+95847 Terri Collins Italy 49 SARS-1 YES 03-05-2016
+53167 Christopher Hays Italy 14 FLU-2018 YES 27-02-2021
+49715 Jennifer Sanders Italy 13 FLU-2018 NO
+85370 Karen Escobar Italy 31 EVD NO
+43481 Alexis Torres Italy 29 SARS-COV-2 YES 27-11-2004
+9982 Matthew Coleman Italy 64 EVD YES 06-08-2010
+56271 Randall Sullivan Italy 21 EVD NO
+15583 Victor Macdonald Italy 12 COVID-2019 NO
+73836 Gary Pacheco Italy 53 MERS-COV NO
+97588 Brian Cobb Italy 63 COVID-2019 NO
+95162 Paul Sparks Italy 71 COVID-2019 YES 29-08-2006
+90020 Michael Martinez Italy 60 EVD NO
+8986 Jose Morton Italy 59 MERS-COV YES 19-06-2008
+48730 Dana Moore Italy 21 COVID-2019 NO
+8471 Megan Aguilar Italy 66 EVD YES 30-11-2014
+70769 William Delacruz Italy 35 COVID-2019 YES 21-01-2001
+90716 Reginald Nichols Italy 73 COVID-2019 YES 03-05-2009
+62146 Caitlin Osborn Italy 54 EVD YES 29-04-2009
+50266 Melanie Lozano Italy 12 MERS-COV YES 03-07-2014
+97294 Carl Oconnor Italy 63 SARS-1 NO
+27395 Emily Wallace Italy 11 FLU-2018 YES 12-03-2005
+42089 Robert Johnson Italy 62 SARS-1 NO
+88048 Charlene Klein Italy 57 MERS-COV NO
+74726 Connie Franklin Italy 47 SARS-COV-2 YES 22-12-2013
+48335 Dominique Phillips Italy 42 FLU-2018 NO
+30595 Ryan Harris Italy 48 EVD NO
+73237 Jeffrey Bruce Italy 17 EVD NO
+35669 Brandon Hart Italy 79 H1N1 NO
+78542 Patrick Morrison Italy 70 COVID-2019 YES 25-07-2003
+90478 Thomas Johnson Italy 31 SARS-COV-2 YES 26-12-2020
+49445 Jeremy Campbell Italy 11 COVID-2019 YES 07-05-2007
+13932 Robert Bonilla Italy 21 COVID-2019 NO
+25016 Russell Wood Italy 29 H1N1 NO
+95867 Harry Charles Italy 20 FLU-2018 YES 04-06-2016
+49207 Miranda Martinez Italy 74 EVD NO
+21135 Johnathan Lopez Italy 79 SARS-1 NO
+87263 Kathy Powell Italy 70 FLU-2018 YES 19-11-2005
+38955 Christopher Bell Italy 26 COVID-2019 YES 22-11-2008
+44954 Michelle Brown Italy 12 SARS-COV-2 YES 03-03-2020
+66634 Donna Stein Italy 41 SARS-1 YES 24-10-2004
+53595 Caitlin Byrd Italy 56 MERS-COV YES 20-05-2007
+96242 Patrick Austin Italy 71 SARS-COV-2 NO
+44800 David Levy Italy 50 EVD YES 09-12-2012
+37685 Lisa Campbell Italy 66 H1N1 NO
+71645 Roger Carroll Italy 66 H1N1 YES 25-11-2005
+6677 Heather Hansen Italy 68 COVID-2019 NO
+26651 Jonathan Wright Italy 67 COVID-2019 YES 16-07-2003
+55805 Clinton Scott Italy 74 FLU-2018 NO
+63284 Sarah Bailey Italy 24 EVD YES 31-12-2004
+79114 Christopher Moses Italy 55 FLU-2018 NO
+15756 Joseph Wilson Italy 36 EVD NO
+5489 Jeremy Oliver Italy 11 MERS-COV YES 31-10-2015
+32821 Melissa White Italy 54 EVD YES 16-04-2014
+5194 Jason Montoya Italy 45 COVID-2019 NO
+36361 Cody Mason Italy 20 H1N1 NO
+28040 Robert Sweeney Italy 15 FLU-2018 NO
+32337 James Villarreal Italy 51 COVID-2019 NO
+67165 Sean Powell Italy 48 SARS-1 NO
+2592 Taylor Lara Italy 69 EVD YES 27-06-2009
+76032 Robyn Williams Italy 30 EVD YES 04-03-2020
+83402 Mariah Castillo Italy 17 MERS-COV YES 19-04-2013
+43074 Laura Hall Italy 52 SARS-COV-2 NO
+50682 Thomas Williams Italy 10 EVD NO
+18716 Kristen Powell Italy 16 MERS-COV NO
+74989 Edward Carey Italy 32 FLU-2018 NO
+80467 Jay Guerrero Italy 78 MERS-COV NO
+91051 Christopher Spencer Italy 58 COVID-2019 NO
+73160 Kimberly Hammond Italy 54 SARS-1 NO
+54030 Nicole Russell Italy 66 COVID-2019 YES 24-08-2004
+69436 Stephen Reynolds Italy 64 COVID-2019 NO
+61306 Rachel Bryant Italy 73 H1N1 YES 19-12-2009
+67055 Victoria Peters Italy 30 EVD NO
+96630 Zachary Wallace Italy 26 SARS-1 NO
+23740 Mark Bell Italy 57 SARS-1 NO
+25826 Teresa Carter Italy 18 EVD NO
+17127 Douglas Hines Italy 47 EVD YES 22-04-2000
+63691 Brian Wright Italy 68 SARS-COV-2 YES 16-02-2019
+1655 Eric Vaughan Italy 23 FLU-2018 NO
+36948 Shannon Stokes Italy 33 H1N1 YES 21-03-2007
+87764 Robert Anderson Italy 66 SARS-COV-2 NO
+63169 Michelle Bell Italy 23 FLU-2018 NO
+50676 Diane Kaufman Italy 21 H1N1 YES 14-04-2001
+61230 Michael Gallegos Italy 28 MERS-COV YES 01-07-2004
+15163 Jonathan Nguyen Italy 63 EVD NO
+74887 Martin Thompson Italy 11 SARS-1 NO
+87658 Willie Miller Italy 53 FLU-2018 NO
+38497 Sarah Adams Italy 12 SARS-1 NO
+16707 Edward Bell Italy 27 H1N1 NO
+14667 Sandy Johnson Italy 18 H1N1 YES 04-07-2007
+26114 Brittany Conway Italy 16 COVID-2019 YES 23-04-2020
+79826 Shawn Lynn Italy 42 SARS-1 NO
+25240 Philip Barrett Italy 70 SARS-1 NO
+69788 Christopher King Italy 65 MERS-COV YES 11-01-2001
+84165 Steve Wright Italy 23 EVD NO
+29276 Whitney Bullock Italy 27 SARS-1 YES 11-03-2004
+17182 Kenneth Collins Italy 59 COVID-2019 YES 04-01-2016
+99065 Debra Flores Italy 65 SARS-COV-2 NO
+53772 Amanda Morrow Italy 50 FLU-2018 YES 02-08-2019
+55246 Daniel King Italy 76 SARS-COV-2 YES 19-02-2002
+37205 Jerry Suarez Italy 36 MERS-COV NO
+86185 Cody Martin Italy 17 FLU-2018 NO
+28753 Claudia Rodriguez Italy 57 SARS-1 NO
+48254 Christopher Wolf Italy 48 SARS-COV-2 YES 15-03-2003
+84435 Rhonda Estes Italy 36 SARS-1 YES 21-12-2017
+97747 Patricia Manning Italy 50 MERS-COV NO
+24451 Tammy Gutierrez Italy 28 SARS-COV-2 NO
+71104 Dwayne Bray Italy 73 H1N1 NO
+57115 Maria Williams Italy 63 MERS-COV NO
+31989 Chelsea Miller Italy 14 MERS-COV NO
+81598 Jennifer Wells Italy 74 COVID-2019 NO
+22720 Raymond Mckenzie Italy 43 SARS-COV-2 YES 03-04-2014
+52976 Margaret Stewart Italy 62 FLU-2018 NO
+65583 Jennifer Malone Italy 45 H1N1 NO
+51404 Jack Downs Italy 61 EVD NO
+45109 Jackson Hernandez Italy 58 SARS-COV-2 YES 28-05-2018
+28339 Brandon Maddox Italy 42 SARS-COV-2 YES 25-06-2009
+41088 Amanda Hayes Italy 10 MERS-COV YES 26-10-2017
+5087 Brian Walker Italy 48 H1N1 YES 08-12-2012
+49206 Ryan Lopez Italy 52 COVID-2019 NO
+59621 Joseph Williams Italy 55 H1N1 YES 30-05-2006
+10742 Thomas Ayers Italy 48 FLU-2018 NO
+50938 Michele Johnson Italy 57 MERS-COV NO
+60576 Travis Bell Italy 16 FLU-2018 NO
+65900 Hayley Williams Italy 78 COVID-2019 NO
+95826 Jennifer Martinez Italy 18 H1N1 NO
+93960 Thomas Scott Italy 40 COVID-2019 YES 17-04-2010
+73403 Maria Johnston Italy 45 SARS-COV-2 YES 09-04-2002
+37629 Michael Stewart Italy 16 MERS-COV NO
+76701 Marvin Johnson Italy 78 FLU-2018 YES 07-08-2005
+27298 Robin Fuller Italy 60 COVID-2019 YES 16-08-2020
+75792 Jasmine Smith Italy 24 SARS-1 YES 05-11-2020
+88721 Manuel Baxter Italy 39 COVID-2019 YES 17-09-2002
+95388 Raymond Brown Italy 16 FLU-2018 YES 16-06-2002
+69573 Warren Clark Italy 65 H1N1 YES 08-02-2015
+59863 Chelsea Michael Italy 34 FLU-2018 NO
+19862 Breanna Jones Italy 55 COVID-2019 YES 17-01-2005
+80990 Alan Schmidt Italy 76 MERS-COV NO
+37539 Zachary Contreras Italy 27 EVD YES 12-02-2018
+61847 Richard Pierce Italy 36 SARS-1 NO
+1279 Carlos Yoder Italy 75 MERS-COV YES 06-01-2002
+49306 Adam Huffman Italy 41 FLU-2018 NO
+38122 James Reeves Italy 33 EVD YES 03-12-2002
+30465 Wesley Wong Italy 39 SARS-COV-2 NO
+40233 Michelle Koch Italy 65 MERS-COV YES 26-07-2004
+33914 Amanda Mendez Italy 24 H1N1 YES 18-08-2004
+30740 Laura Long Italy 76 EVD YES 07-02-2019
+62106 Shannon Benson Italy 13 MERS-COV YES 26-06-2015
+67577 Mark Boyd Italy 75 SARS-1 YES 10-03-2000
+55615 Robert Smith Italy 45 SARS-1 YES 17-04-2008
+97375 Thomas Roman Italy 63 COVID-2019 YES 10-06-2003
+29678 Crystal Bailey Italy 20 EVD YES 07-03-2018
+59473 Emily Murray Italy 41 FLU-2018 YES 30-10-2006
+99913 Sandra Stuart Italy 18 H1N1 YES 28-01-2015
+56920 Melissa Rivera Italy 55 MERS-COV NO
+16656 Mitchell Scott Italy 72 SARS-COV-2 NO
+17420 Jonathan Davis Italy 60 H1N1 NO
+47564 Michael Clay Italy 68 COVID-2019 NO
+41800 Catherine Lynch Italy 15 COVID-2019 YES 04-11-2018
+18864 James Peterson Italy 39 H1N1 YES 26-02-2009
+44588 Brad Clark Italy 76 EVD NO
+55581 Marcus Jackson Italy 19 FLU-2018 NO
+38594 Sara Edwards Italy 74 H1N1 NO
+72978 Anthony Morgan Italy 22 EVD YES 23-09-2016
+39726 David Massey Italy 46 SARS-1 NO
+52326 Carmen Ochoa Italy 70 H1N1 YES 28-06-2017
+62182 Steve Gordon Italy 51 MERS-COV YES 23-08-2003
+38938 Ashley Norris Italy 45 SARS-1 NO
+85947 Zachary Lee Italy 60 COVID-2019 YES 29-07-2020
+64804 Reginald Johnson Italy 50 COVID-2019 NO
+20098 Andrew Walsh Italy 26 H1N1 NO
+18780 Matthew Thompson Italy 35 SARS-1 YES 29-06-2008
+88117 Christopher Morse Italy 65 EVD YES 19-12-2000
+90382 Julie Hernandez Italy 20 COVID-2019 YES 05-09-2000
+59942 Troy Martin Italy 16 EVD NO
+63765 Jacqueline Dennis Italy 36 FLU-2018 YES 14-09-2008
+45126 Robert Hale Italy 17 EVD YES 23-06-2018
+4870 Bryan Price Italy 44 MERS-COV YES 31-05-2013
+15751 Robert Bennett Italy 41 MERS-COV NO
+46840 Anthony Adkins Italy 68 H1N1 NO
+56999 Brian Camacho Italy 23 COVID-2019 YES 13-03-2020
+24080 Andre Garcia Italy 46 COVID-2019 NO
+47588 Troy Murillo Italy 55 SARS-1 NO
+20014 Megan Odonnell Italy 40 EVD NO
+1444 Thomas Hicks Italy 68 MERS-COV YES 10-07-2011
+57222 Nicole Navarro Italy 32 MERS-COV YES 30-06-2002
+35833 Teresa Poole Italy 33 EVD YES 07-04-2004
+13974 Samantha Moreno Italy 27 EVD NO
+71065 Denise Beasley Italy 33 FLU-2018 NO
+55136 David Weaver Italy 75 EVD NO
+315 Charles Hunter Italy 67 COVID-2019 NO
+46907 Ryan Hernandez Italy 26 EVD NO
+55238 Daniel Smith Italy 10 MERS-COV NO
+26029 Brenda Arias Italy 68 MERS-COV NO
+86341 Kristen Day Italy 77 COVID-2019 NO
+69638 Rachel Robles Italy 65 COVID-2019 NO
+73206 James Bates Italy 77 FLU-2018 YES 08-03-2000
+51921 David Collins Italy 59 EVD NO
+48240 James Bennett Italy 62 MERS-COV NO
+87536 Katie Ellis Italy 67 H1N1 NO
+2072 Keith Vargas Italy 48 MERS-COV NO
+85043 Kimberly Marshall Italy 63 COVID-2019 NO
+65930 Sheila Colon Italy 72 COVID-2019 YES 10-01-2015
+98095 Sandra Clarke Italy 21 SARS-COV-2 NO
+70470 Natalie Morgan Italy 49 MERS-COV YES 19-12-2003
+47975 William Manning Italy 49 SARS-COV-2 YES 30-06-2009
+58068 Michelle Rios Italy 63 SARS-COV-2 YES 24-03-2012
+21400 Francis Tyler Italy 14 FLU-2018 YES 22-09-2003
+67013 Holly Kline Italy 79 H1N1 YES 17-09-2011
+65150 Allison Butler Italy 40 SARS-COV-2 NO
+62125 Kathy Johnson Italy 28 SARS-COV-2 NO
+20231 Monique Robinson Italy 19 H1N1 YES 17-12-2017
+56126 Kevin Foster Italy 29 FLU-2018 NO
+11232 Dominique Arnold Italy 18 H1N1 YES 30-10-2004
+1940 Leslie Jennings Italy 51 MERS-COV NO
+13391 David Price Italy 41 COVID-2019 NO
+15336 Charles Norman Italy 28 COVID-2019 NO
+47527 Michael Strickland Italy 72 MERS-COV NO
+91669 Samantha Fox Italy 17 COVID-2019 YES 15-10-2014
+10242 David Ford Italy 12 FLU-2018 NO
+32726 Brent Carney Italy 35 H1N1 YES 20-09-2010
+42705 David Mueller Italy 58 MERS-COV YES 23-12-2020
+97638 Christina Hudson Italy 14 EVD NO
+73802 Charles Bell Italy 36 COVID-2019 NO
+88127 Carrie Russell Italy 25 SARS-1 YES 11-04-2006
+97516 Melissa Ramirez Italy 64 SARS-COV-2 YES 02-06-2012
+87159 Jeffrey Curtis Italy 70 H1N1 YES 03-04-2010
+85555 Johnathan Lee Italy 46 SARS-COV-2 YES 15-06-2011
+30931 Elizabeth Gray Italy 48 SARS-COV-2 NO
+86377 Lisa Foster Italy 77 FLU-2018 YES 15-03-2016
+64716 Latoya Edwards Italy 17 SARS-1 YES 09-03-2015
+5110 Nicole Orozco Italy 65 COVID-2019 NO
+9520 Victoria Bullock Italy 29 SARS-1 NO
+33705 Leah Stevens Italy 71 EVD NO
+2683 Brittney Ashley Italy 10 COVID-2019 NO
+84032 Mary Robertson Italy 42 EVD YES 13-11-2006
+71639 Joann Thompson Italy 54 SARS-COV-2 NO
+27357 Annette Harvey Italy 49 H1N1 NO
+35747 Brandi Burns Italy 34 EVD NO
+244 Garrett Galvan Italy 74 SARS-COV-2 NO
+30981 Tammy Ward Italy 45 SARS-1 NO
+60831 Nicholas Cochran Italy 72 MERS-COV NO
+22553 Melissa Walters Italy 11 MERS-COV YES 20-08-2000
+50735 Michael Perry Italy 19 H1N1 YES 14-07-2012
+10234 Margaret Merritt Italy 72 H1N1 YES 26-04-2012
+98168 Laura Meyer Italy 17 SARS-COV-2 YES 11-11-2020
+59273 Eric Lewis Italy 36 EVD NO
+88580 Christine Ward Italy 72 EVD YES 29-08-2017
+87518 Matthew Carlson Italy 40 SARS-1 NO
+76654 Christopher Brown Italy 61 EVD NO
+92454 Anthony Macias Italy 17 H1N1 YES 02-03-2001
+1101 Shannon Jones Italy 27 EVD NO
+73039 Julie Castaneda Italy 26 EVD YES 19-08-2007
+44141 Andrew Camacho Italy 53 H1N1 YES 23-02-2021
+13169 Cheyenne Dean Italy 61 COVID-2019 YES 01-08-2006
+78237 Sean Campbell Italy 36 H1N1 YES 18-04-2009
+89795 Russell Kirby Italy 33 SARS-1 NO
+69846 Jillian Warren Italy 44 FLU-2018 NO
+80265 Jessica Hayes Italy 40 SARS-1 YES 19-12-2002
+41724 Logan Morton Italy 28 H1N1 YES 17-02-2016
+50030 Yolanda Fuentes Italy 14 FLU-2018 YES 25-06-2019
+43469 Christina Dunlap Italy 21 FLU-2018 NO
+70311 Jason Best Italy 56 EVD NO
+27433 Christopher Morgan Italy 47 SARS-COV-2 NO
+78733 Craig Soto Italy 17 SARS-COV-2 NO
+817 Albert Foster Italy 77 MERS-COV NO
+34545 Ronald Hughes Italy 72 EVD YES 31-10-2002
+61703 Kathy Carter Italy 50 H1N1 YES 03-11-2013
+78228 Paul Harris Italy 68 H1N1 YES 11-10-2015
+78307 James Henderson Italy 77 SARS-COV-2 NO
+53160 Lee Taylor Italy 30 SARS-COV-2 YES 22-07-2006
+22311 Gene Frost Italy 40 H1N1 NO
+78691 Colton Mosley Italy 18 COVID-2019 YES 12-08-2003
+29332 Austin Torres Italy 73 FLU-2018 NO
+60092 Jennifer Brown Italy 62 FLU-2018 YES 26-03-2001
+60981 Adam Guerrero Italy 62 COVID-2019 NO
+26653 Alexis Oliver Italy 42 EVD YES 04-11-2017
+41338 Daniel Smith Italy 79 EVD YES 20-08-2000
+90117 Kevin Gates Italy 10 SARS-1 YES 07-10-2004
+17701 Destiny Atkins Italy 14 SARS-1 NO
+65376 Michelle Rowe Italy 31 H1N1 YES 07-08-2009
+16445 Bianca Phillips Italy 29 FLU-2018 YES 13-12-2013
+37786 Kayla Wilkins Italy 47 H1N1 NO
+72858 Alison Hall Italy 36 SARS-1 NO
+13233 Joyce Castillo Italy 41 EVD YES 01-10-2017
+89352 Matthew Leon Italy 78 SARS-1 NO
+78043 Aaron Ballard Italy 67 SARS-COV-2 NO
+79589 Eric Wells Italy 47 MERS-COV YES 01-07-2017
+85527 Caitlin Guzman Italy 11 EVD YES 05-02-2020
+35374 Dawn Walker Italy 24 EVD NO
+96578 Emily Howard Italy 23 SARS-1 NO
+60010 Jamie Beltran Italy 18 SARS-COV-2 NO
+90830 Carol Davis Italy 22 SARS-1 YES 27-06-2002
+24869 Ana Fernandez Italy 40 EVD YES 20-06-2003
+38687 Amber Trevino Italy 65 MERS-COV NO
+54477 Brian Johnson Italy 55 SARS-1 NO
+62893 Shawn May Italy 77 SARS-1 YES 18-06-2019
+2923 Wendy Bowman Italy 37 SARS-1 NO
+98707 Jessica Lee Italy 68 SARS-COV-2 NO
+54318 Elizabeth Arnold Italy 16 FLU-2018 YES 24-10-2007
+30949 David Smith Italy 55 EVD NO
+51354 Christian Joseph Italy 47 FLU-2018 YES 18-01-2020
+848 John Hinton Italy 30 EVD YES 02-01-2011
+63570 Antonio Adams Italy 79 H1N1 NO
+24226 Tina Jackson Italy 44 MERS-COV NO
+13746 Penny Garcia Italy 68 H1N1 YES 05-09-2015
+67969 Billy Bailey Italy 73 COVID-2019 NO
+22280 John Harrell Italy 75 FLU-2018 NO
+17709 Hannah Davis Italy 58 SARS-COV-2 YES 21-01-2014
+94830 Angelica Smith Italy 17 FLU-2018 YES 28-04-2009
+40519 Annette Mcdonald Italy 51 EVD YES 21-06-2005
+20298 Zachary Smith Italy 67 EVD NO
+71897 Martin Hill Italy 69 H1N1 NO
+35521 Kim Mcdowell Italy 57 EVD YES 13-09-2012
+24770 Patricia Peterson Italy 70 SARS-1 YES 21-09-2005
+87261 Carrie Glenn Italy 53 H1N1 NO
+20506 Andrew Bridges Italy 79 H1N1 YES 12-01-2016
+7178 Carol Gibson Italy 48 MERS-COV NO
+89904 Rachel Gutierrez Italy 25 H1N1 YES 12-06-2020
+72132 John Adkins Italy 70 H1N1 YES 24-06-2014
+40990 Christopher Villegas Italy 30 SARS-1 NO
+96798 Michelle Estes Italy 24 COVID-2019 NO
+53449 Jason Perkins Italy 21 COVID-2019 NO
+85198 Makayla Becker Italy 46 H1N1 NO
+88135 Jacqueline Buchanan Italy 59 MERS-COV NO
+47622 Sean Sims Italy 30 MERS-COV YES 04-12-2003
+16895 Jennifer Scott Italy 35 EVD YES 06-11-2003
+68952 Wendy Brown Italy 32 H1N1 YES 30-06-2001
+98796 Allison George Italy 44 H1N1 YES 16-01-2013
+52500 Cynthia Jenkins Italy 59 MERS-COV NO
+43482 Leah Edwards Italy 42 H1N1 YES 01-01-2009
+90084 Diana Diaz Italy 68 SARS-1 YES 29-09-2013
+76976 Wendy Morgan Italy 50 EVD NO
+14370 Monica Ross Italy 51 MERS-COV NO
+19768 Jeanette Howell Italy 61 H1N1 NO
+64253 Chad Yang Italy 79 SARS-1 YES 15-09-2017
+64195 Cheryl Ward Italy 60 COVID-2019 YES 20-04-2011
+60889 Latasha Smith Italy 28 SARS-COV-2 YES 23-02-2006
+69330 Kristina Byrd Italy 54 EVD YES 27-11-2005
+40697 Brendan Palmer Italy 65 SARS-1 YES 21-04-2001
+50561 Paula Black Italy 30 COVID-2019 NO
+1889 Jenna Donovan Italy 64 COVID-2019 NO
+75721 Nathan Bowers Italy 20 SARS-1 NO
+71328 Jeffery Patel Italy 77 MERS-COV NO
+79151 Melinda Alvarado Italy 78 SARS-COV-2 NO
+7635 Kellie Buck Italy 26 H1N1 NO
+96722 Courtney Duncan Italy 38 SARS-COV-2 YES 14-05-2005
+60876 James Walls Italy 56 SARS-COV-2 NO
+13230 Jose Evans Italy 17 SARS-COV-2 YES 11-09-2017
+34618 Jo Lindsey Italy 59 H1N1 NO
+25630 Edgar Bond Italy 54 COVID-2019 YES 16-07-2018
+59935 Heather Spencer Italy 50 EVD NO
+8943 Angela Day Italy 69 SARS-COV-2 YES 31-12-2016
+47121 Nathan Jacobs Italy 74 MERS-COV YES 20-01-2021
+55522 Ana Knox Italy 39 MERS-COV YES 20-07-2011
+7464 Meredith Davis Italy 70 MERS-COV YES 02-11-2003
+88280 Amanda Hall Italy 18 H1N1 YES 16-07-2000
+90260 Christopher Hart Italy 72 H1N1 YES 29-07-2016
+87775 Andrew Castillo Italy 20 FLU-2018 NO
+45186 Carly Flores Italy 32 MERS-COV YES 17-01-2008
+28797 Brittany Gaines Italy 19 EVD NO
+92609 Kristen Hunter Italy 69 H1N1 NO
+62408 Lisa Summers Italy 26 MERS-COV NO
+15817 Kimberly Chavez Italy 58 COVID-2019 YES 26-09-2018
+25485 Laura Hall Italy 27 FLU-2018 YES 11-07-2004
+69171 Stephanie Nguyen Italy 79 EVD NO
+36761 Penny Moss Italy 31 H1N1 NO
+48761 Scott Thompson Italy 41 FLU-2018 YES 19-07-2014
+52573 Laurie Rodriguez Italy 69 EVD NO
+98154 Elizabeth Kline Italy 31 FLU-2018 YES 11-01-2001
+17217 Kathy Patterson Italy 38 MERS-COV NO
+49820 Laura Clark Italy 59 SARS-1 YES 07-01-2019
+60372 Michael Peterson Italy 45 FLU-2018 YES 21-03-2005
+36977 Arthur Hayes Italy 57 H1N1 YES 07-11-2011
+62851 Tony Clark Italy 35 H1N1 NO
+58597 Jackie Howard Italy 28 COVID-2019 NO
+29275 Rachel Roman Italy 31 FLU-2018 YES 18-01-2014
+21421 Amy Gonzalez Italy 48 SARS-1 NO
+37206 Sarah Smith Italy 70 EVD NO
+92088 Erika Lindsey Italy 43 SARS-COV-2 NO
+82873 Desiree Long Italy 38 FLU-2018 NO
+30662 Evan Kim Italy 56 EVD NO
+68285 Donald Young Italy 74 SARS-COV-2 NO
+98932 Victoria Evans Italy 23 FLU-2018 NO
+88129 Anne Rodriguez Italy 11 EVD NO
+78878 Jason Taylor Italy 19 SARS-COV-2 NO
+96169 Ryan Wiggins Italy 63 COVID-2019 NO
+9853 Nicholas Edwards Italy 31 COVID-2019 YES 01-06-2010
+33902 Kevin Reed Italy 38 MERS-COV YES 08-11-2000
+11009 John May Italy 29 EVD YES 23-06-2001
+78402 Chad Rogers Italy 13 EVD NO
+55694 Melissa Hill Italy 47 H1N1 NO
+2621 Dawn Brown Italy 14 MERS-COV NO
+85192 Hannah Mercado Italy 72 SARS-COV-2 YES 24-06-2017
+63720 Jessica Chang Italy 40 EVD NO
+5488 Rachael Saunders Italy 33 MERS-COV NO
+38153 Melanie Moody Italy 55 SARS-1 YES 17-02-2011
+22304 John Moran Italy 77 H1N1 NO
+50171 Tina Hansen Italy 63 SARS-COV-2 NO
+42145 Kenneth Cox Italy 21 SARS-1 NO
+16866 Mary Lee Italy 10 SARS-COV-2 YES 06-06-2000
+81645 Joseph Garcia Italy 24 FLU-2018 YES 09-04-2006
+49895 Travis Rogers Italy 11 COVID-2019 NO
+10562 Keith Henry Italy 53 MERS-COV NO
+39840 Timothy Townsend Italy 60 FLU-2018 NO
+11190 Cynthia Ford Italy 18 MERS-COV YES 12-02-2008
+98126 Rachel Mason Italy 31 H1N1 NO
+30950 Todd Harris Italy 30 EVD YES 14-07-2019
+31807 Valerie Jones Italy 30 EVD YES 09-08-2008
+6657 Jessica Martinez Italy 61 H1N1 YES 13-05-2004
+29882 Sheila Diaz Italy 67 MERS-COV YES 11-01-2016
+36653 Robert Russell Italy 71 MERS-COV YES 05-02-2009
+39304 Jeffrey Garcia Italy 43 SARS-1 NO
+76666 Samantha Jennings Italy 41 EVD NO
+51826 Tanya Martinez Italy 42 FLU-2018 NO
+71430 Derek Morgan Italy 36 SARS-COV-2 NO
+85959 Anna Brown Italy 21 MERS-COV YES 21-12-2010
+56124 Steven Kennedy Italy 60 COVID-2019 NO
+93932 Jared Mckenzie Italy 53 COVID-2019 NO
+7037 Devin Phillips Italy 49 SARS-COV-2 NO
+90775 Matthew Castillo Italy 68 SARS-1 YES 25-10-2011
+54485 Laura Davis Italy 49 SARS-1 NO
+30754 Ryan Mccall Italy 24 COVID-2019 NO
+52743 Vanessa Novak Italy 42 COVID-2019 NO
+47563 William Miles Italy 67 SARS-COV-2 NO
+15187 Danielle Luna Italy 14 H1N1 YES 21-05-2018
+4878 Heather Smith Italy 16 FLU-2018 NO
+12022 Megan Nguyen Italy 14 EVD YES 30-06-2020
+94730 Aaron Patterson Italy 54 MERS-COV YES 28-08-2009
+63331 Jeffrey Fleming Italy 77 FLU-2018 YES 02-03-2015
+54665 Shannon Massey Italy 18 SARS-COV-2 NO
+20998 Carrie Johnson Italy 26 FLU-2018 NO
+9165 Joshua Wagner Italy 66 COVID-2019 NO
+97033 Cindy Anderson Italy 51 FLU-2018 NO
+34530 Elizabeth Graham Italy 37 FLU-2018 NO
+52890 Jon Watkins Italy 74 COVID-2019 YES 09-01-2008
+10472 Richard Cline Italy 62 EVD NO
+60722 Lisa Walters Italy 62 H1N1 YES 13-06-2014
+40680 Anthony Carroll Italy 47 SARS-COV-2 YES 29-11-2017
+62187 Garrett Lopez Italy 53 SARS-COV-2 YES 15-12-2020
+22777 Matthew Thomas Italy 43 SARS-COV-2 YES 15-07-2002
+22770 Tracey Wilson Italy 22 H1N1 NO
+45634 Christopher Schaefer Italy 71 MERS-COV YES 06-08-2004
+705 Dawn Mcguire Italy 55 SARS-1 NO
+82426 Michelle Estrada Italy 40 EVD YES 29-03-2020
+99318 Frederick Luna Italy 74 FLU-2018 NO
+46958 Haley Moore Italy 21 H1N1 NO
+82095 Paul Vance Italy 45 FLU-2018 NO
+94860 Edwin Meyer Italy 71 FLU-2018 YES 27-02-2013
+98235 Virginia Mcgee Italy 76 MERS-COV NO
+62421 Adrian Travis Italy 37 SARS-1 NO
+76874 Barbara Mcclure Italy 26 H1N1 NO
+23952 David White Italy 18 EVD NO
+70538 William Hamilton Italy 63 SARS-COV-2 NO
+38389 Stacy Lowe Italy 53 COVID-2019 YES 31-07-2006
+83425 Matthew Gardner Italy 64 MERS-COV NO
+51007 Kimberly Hodge Italy 39 COVID-2019 NO
+94892 Robert Fields Italy 30 COVID-2019 YES 06-02-2006
+28242 Robert Wright Italy 40 FLU-2018 YES 13-02-2003
+20464 Tom Williams Italy 59 MERS-COV YES 23-06-2009
+26535 Jeremy Perez Italy 19 SARS-COV-2 NO
+71600 Jeremy Kaufman Italy 57 MERS-COV YES 25-03-2006
+23108 Mark Haynes Italy 49 SARS-COV-2 YES 10-12-2014
+121 Eric Moreno Italy 35 EVD NO
+96192 Stephen Hernandez Italy 71 MERS-COV YES 14-11-2002
+92338 Chad Jones Italy 64 COVID-2019 NO
+12165 Stephanie Webb Italy 18 SARS-COV-2 YES 25-01-2007
+56468 Andrea Brooks Italy 21 MERS-COV NO
+89054 Nicole Long Italy 27 MERS-COV NO
+49122 Jeremy Mack Italy 78 FLU-2018 NO
+87789 Paul Phillips Italy 19 H1N1 YES 09-09-2017
+86422 Mckenzie Pierce Italy 32 SARS-1 YES 26-01-2018
+45195 Ana Miller Italy 46 FLU-2018 NO
+19447 Travis Miller Italy 38 SARS-1 NO
+78792 Scott Wright Italy 10 FLU-2018 YES 18-09-2012
+76312 Elizabeth Payne Italy 31 SARS-1 NO
+17426 Matthew Luna Italy 42 FLU-2018 NO
+85353 Craig Kane Italy 52 H1N1 YES 10-06-2011
+25975 Malik Baker Italy 70 SARS-COV-2 NO
+35220 Victoria Bradley Italy 41 FLU-2018 NO
+35032 Brandon Swanson Italy 38 H1N1 NO
+99111 Samuel Phillips Italy 34 SARS-1 YES 09-11-2015
+70607 Shirley Hampton Italy 59 EVD NO
+21904 Rodney Duke Italy 21 EVD YES 14-06-2017
+20181 Duane Silva Italy 30 MERS-COV NO
+55907 Alexandra Perez Italy 42 H1N1 YES 29-09-2015
+89148 William Mendoza Italy 27 SARS-1 YES 18-08-2012
+31069 Diane Jenkins Italy 18 COVID-2019 YES 21-05-2003
+46949 Virginia Silva Italy 58 SARS-1 NO
+51574 Bradley Rivera Italy 75 EVD YES 25-05-2002
+4304 Jessica Reyes Italy 62 COVID-2019 YES 11-10-2012
+22188 Mary Scott Italy 48 EVD NO
+87611 Tina Allen Italy 71 H1N1 NO
+14348 Tiffany Andersen Italy 25 SARS-1 YES 03-11-2006
+58871 Jonathon Diaz Italy 73 MERS-COV NO
+42843 Michael Browning Italy 67 COVID-2019 YES 15-03-2008
+50362 Madison Chapman Italy 50 FLU-2018 NO
+93341 Mike Myers Italy 41 FLU-2018 NO
+6960 Eric White Italy 62 MERS-COV YES 20-01-2018
+34228 David Mercer Italy 49 COVID-2019 YES 07-08-2009
+64542 Christine Hansen Italy 49 EVD YES 27-02-2015
+18307 Alicia Burgess Italy 37 SARS-COV-2 YES 21-08-2004
+2662 Brandon Roberson Italy 38 COVID-2019 YES 03-04-2020
+66941 Julian Middleton Italy 36 SARS-1 NO
+52025 Jack Smith Italy 69 H1N1 YES 23-11-2009
+6440 Stephen Hall Italy 24 MERS-COV NO
+50080 Russell Conley Italy 53 EVD YES 09-12-2017
+44704 Derrick Harvey Italy 21 H1N1 NO
+99390 John Vargas Italy 15 SARS-COV-2 YES 22-12-2014
+19683 Jamie Thompson Italy 70 SARS-1 YES 24-08-2014
+89359 Roberto Brewer Italy 74 SARS-1 NO
+5572 Denise Smith Italy 17 SARS-1 NO
+12965 Audrey Fox Italy 71 SARS-1 NO
+98276 James Chapman Italy 35 COVID-2019 YES 11-12-2016
+22926 Emily Cox Italy 15 FLU-2018 YES 02-09-2020
+6760 Jeffrey Lucas Italy 14 FLU-2018 YES 13-12-2005
+51873 Andrea Smith Italy 17 H1N1 NO
+68867 Thomas Cook Italy 52 EVD NO
+86378 Willie Roberts Italy 59 H1N1 YES 26-07-2010
+89665 Samantha Hutchinson Italy 30 FLU-2018 YES 15-08-2014
+94380 Daniel Fitzpatrick Italy 32 SARS-COV-2 NO
+31923 Rachel Valencia Italy 45 MERS-COV YES 05-08-2013
+79159 Kristine Brooks Italy 18 EVD NO
+96606 Tracey Jimenez Italy 64 SARS-1 YES 15-07-2009
+3880 Dale Cunningham Italy 54 H1N1 YES 20-09-2015
+82372 Sarah Walker Italy 74 MERS-COV NO
+26117 Renee Morris Italy 24 COVID-2019 NO
+14719 Marcus Thomas Italy 30 EVD YES 28-07-2004
+35792 John Mckinney Italy 67 MERS-COV YES 02-06-2016
+17395 James Morris Italy 37 SARS-1 NO
+74123 Ryan Gray Italy 30 EVD YES 15-05-2001
+13128 Mark Baker Italy 69 MERS-COV NO
+29233 Michelle Hughes Italy 49 COVID-2019 YES 11-09-2016
+9452 Heather Navarro Italy 34 FLU-2018 YES 08-06-2006
+72350 Susan Santiago Italy 75 MERS-COV NO
+95431 Stephen Jenkins Italy 52 SARS-COV-2 NO
+72638 Maria Cortez Italy 77 MERS-COV YES 05-05-2014
+32140 Natasha Wheeler Italy 55 COVID-2019 NO
+11046 Daniel Coleman Italy 74 EVD NO
+57306 Allison Mayer Italy 34 SARS-1 NO
+77863 Jerry Townsend Italy 13 MERS-COV YES 22-04-2000
+93165 Daniel Johnson Italy 79 H1N1 NO
+53879 Ashley Taylor Italy 40 COVID-2019 NO
+54328 Claudia Banks Italy 21 MERS-COV YES 14-03-2002
+50033 Stacey Buck Italy 25 H1N1 YES 31-08-2008
+37131 Paula Burns Italy 40 H1N1 YES 06-01-2013
+23421 James Vasquez Italy 66 SARS-COV-2 NO
+42508 Daniel Avery Italy 57 H1N1 YES 28-05-2010
+31115 Joshua Stephens Italy 55 SARS-1 YES 18-03-2005
+41404 Andrea Jensen Italy 67 SARS-1 YES 23-03-2014
+70149 Heather Murphy Italy 58 SARS-COV-2 YES 05-03-2003
+1416 Jacob Duke Italy 44 SARS-COV-2 YES 28-04-2015
+11197 Debbie Allen Italy 40 EVD YES 08-12-2010
+28539 Jennifer Thomas Italy 68 SARS-COV-2 YES 12-11-2004
+65952 Patricia Parker Italy 63 MERS-COV NO
+53837 David Williams Italy 34 SARS-COV-2 YES 19-11-2018
+36815 Melissa Perez Italy 58 EVD NO
+9019 Joshua Case Italy 73 SARS-COV-2 YES 25-05-2012
+8021 Whitney Riley Italy 27 EVD NO
+64758 Michael Griffith Italy 30 EVD NO
+53930 Jonathan Acosta Italy 71 SARS-1 NO
+19311 Kathy Brock Italy 68 EVD YES 05-05-2005
+17715 Andrew Nguyen Italy 49 MERS-COV YES 22-05-2002
+86065 Dwayne Scott Italy 53 SARS-COV-2 NO
+44023 Geoffrey Potter Italy 76 SARS-COV-2 YES 06-09-2007
+95612 Daniel Bradley Italy 71 H1N1 YES 04-08-2007
+58863 Sonya Hawkins Italy 69 MERS-COV YES 19-06-2011
+69389 Connie Stevens Italy 45 FLU-2018 YES 10-01-2006
+60726 Kathleen Griffith Italy 41 COVID-2019 YES 05-12-2013
+32636 Craig Brooks Italy 55 H1N1 YES 10-10-2007
+22051 Tracy Jenkins Italy 25 H1N1 NO
+3432 Maria Richmond Italy 56 FLU-2018 NO
+41620 Megan Anderson Italy 66 EVD NO
+81892 Robert Le Italy 18 FLU-2018 YES 16-01-2004
+3231 Sharon Watts Italy 17 H1N1 NO
+9644 Diane Kim Italy 22 H1N1 NO
+80024 Katie Hughes Italy 64 MERS-COV YES 05-05-2002
+34610 Sydney Lopez Italy 59 SARS-1 YES 11-09-2005
+6155 Melissa Barker Italy 36 EVD YES 06-02-2012
+1623 Jennifer Howell Italy 59 COVID-2019 NO
+59804 Lisa Carlson Italy 48 COVID-2019 NO
+42837 Lori Marsh Italy 27 H1N1 YES 15-10-2002
+60660 Jessica Greene Italy 13 SARS-COV-2 NO
+61758 Jerome Garza Italy 55 SARS-1 NO
+61359 Claire Stevenson Italy 60 SARS-1 YES 11-06-2003
+82246 Richard Moses Italy 60 SARS-1 YES 12-04-2005
+67509 Krista Stafford Italy 37 SARS-COV-2 NO
+12415 Joy Gordon Italy 14 FLU-2018 YES 18-03-2016
+48674 Tammy Martinez Italy 53 EVD YES 15-05-2017
+96210 Donald Thomas Italy 64 SARS-1 NO
+27915 Kimberly David Italy 30 SARS-COV-2 NO
+39433 Dustin Hall Italy 41 MERS-COV YES 05-08-2007
+46788 Stanley Miller Italy 69 H1N1 NO
+42139 Lisa Holden Italy 24 MERS-COV NO
+38779 William Henderson Italy 10 H1N1 YES 30-05-2019
+4432 Nicole Serrano Italy 79 COVID-2019 NO
+19986 Michael Mosley Italy 71 COVID-2019 NO
+73426 Michael Manning Italy 41 SARS-COV-2 YES 23-05-2007
+88208 Brian Hughes Italy 23 SARS-1 YES 09-11-2020
+69619 Brittany Sims Italy 57 FLU-2018 NO
+9426 Donna Kerr Italy 48 EVD YES 29-11-2011
+17878 Robert Johnson Italy 36 COVID-2019 YES 09-05-2008
+16857 Jessica Watkins Italy 23 COVID-2019 YES 05-09-2010
+15595 Jason Jones Italy 55 FLU-2018 NO
+72663 Ryan Payne Italy 10 COVID-2019 NO
+97344 Kelly Simmons Italy 34 SARS-COV-2 NO
+55599 Jason Fernandez Italy 19 SARS-1 NO
+65948 Lisa Kennedy Italy 60 SARS-COV-2 YES 12-06-2013
+26873 Lisa Robinson Italy 43 H1N1 NO
+47250 Nicole Gilmore Italy 52 SARS-COV-2 NO
+13153 Allison Moreno Italy 49 SARS-1 YES 26-04-2003
+98319 Tammy Hamilton Italy 10 COVID-2019 NO
+11121 Christopher Moore Italy 37 MERS-COV YES 16-11-2015
+15850 James Leblanc Italy 16 MERS-COV YES 01-03-2016
+84131 Andrew Boyd Italy 14 FLU-2018 YES 22-03-2014
+32329 Stephanie Alvarez Italy 64 FLU-2018 NO
+55757 Sarah West Italy 16 MERS-COV NO
+90065 Anthony Hanson Italy 25 SARS-1 YES 27-04-2018
+60633 Michael Goodwin Italy 11 FLU-2018 NO
+25754 Nathaniel Baldwin Italy 28 SARS-1 NO
+46851 Nicholas Ford Italy 73 MERS-COV NO
+74838 Elaine Davis Italy 10 FLU-2018 YES 26-10-2015
+65684 Lisa Garcia Italy 55 SARS-COV-2 NO
+31660 Shawn Sims Italy 22 MERS-COV NO
+82406 Nathaniel Noble Italy 44 SARS-1 NO
+8240 Thomas Velazquez Italy 66 MERS-COV YES 08-08-2006
+47969 Kenneth Lewis Italy 38 COVID-2019 NO
+36501 Joshua Thomas Italy 21 H1N1 NO
+83117 Samuel Mata Italy 16 FLU-2018 NO
+96207 Valerie Gibson Italy 44 COVID-2019 NO
+75256 Vincent Wiley Italy 44 SARS-1 YES 06-05-2020
+91794 Nicholas Taylor Italy 50 MERS-COV YES 12-10-2018
+23626 Nancy Brown Italy 39 H1N1 NO
+16162 Katherine Hobbs Italy 31 COVID-2019 NO
+88676 Abigail Baker Italy 79 MERS-COV YES 31-07-2005
+48571 Robert Dawson Italy 23 SARS-COV-2 NO
+68771 Michael Anderson Italy 13 EVD YES 05-03-2015
+44598 Brian Booth Italy 26 COVID-2019 NO
+42861 Timothy Nunez Italy 23 H1N1 NO
+38759 Melanie Welch Italy 38 COVID-2019 NO
+6190 Andrew Golden Italy 10 H1N1 YES 14-01-2001
+25319 Robert Stafford Italy 52 EVD YES 04-09-2000
+17696 Manuel Obrien Italy 28 EVD NO
+97350 Brittany Blevins Italy 10 EVD YES 22-02-2012
+83786 John Kennedy Italy 20 SARS-1 YES 11-05-2007
+35183 Natasha Gonzalez Italy 55 H1N1 YES 28-03-2000
+22170 Patricia Cole Italy 29 EVD NO
+8433 Sally Frye Italy 75 MERS-COV NO
+18496 Molly King Italy 31 SARS-COV-2 NO
+56114 Michele Mitchell Italy 71 COVID-2019 NO
+97579 Kathleen Frederick Italy 56 H1N1 YES 26-01-2007
+31945 Dana Lester Italy 32 COVID-2019 NO
+46569 Tristan Osborne Italy 58 SARS-COV-2 NO
+59838 Caleb Hernandez Italy 64 MERS-COV YES 11-01-2014
+65736 Frank Burke Italy 62 FLU-2018 NO
+17571 Bonnie Chavez Italy 22 SARS-COV-2 YES 05-04-2016
+78496 Stephen Dixon Italy 25 SARS-COV-2 YES 14-02-2012
+51839 Melissa Shepherd Italy 45 FLU-2018 NO
+46380 Andrew Russo Italy 55 FLU-2018 YES 31-10-2000
+21947 Jason Smith Italy 47 COVID-2019 YES 20-07-2014
+87545 Katie Thomas Italy 61 H1N1 YES 11-03-2018
+86832 John Lloyd Italy 25 MERS-COV YES 16-01-2004
+56657 Melissa Harmon Italy 23 FLU-2018 NO
+53617 Curtis Wilson Italy 75 SARS-COV-2 YES 26-04-2000
+37455 Austin Brewer Italy 25 EVD NO
+99976 Melanie Baker Italy 73 MERS-COV NO
+12658 Mary Peters Italy 51 FLU-2018 NO
+11843 Anthony Martin Italy 11 SARS-COV-2 NO
+33895 Morgan Simpson Italy 30 SARS-COV-2 YES 01-05-2012
+22242 Jonathan Nunez Italy 55 MERS-COV NO
+31667 Katherine Cunningham Italy 30 SARS-1 NO
+8909 Christopher Rhodes Italy 55 FLU-2018 NO
+81713 Thomas Mckay Italy 51 FLU-2018 YES 06-10-2001
+8248 Amy Farley Italy 49 EVD NO
+32929 Christopher Quinn Italy 25 COVID-2019 YES 12-08-2003
+92511 Jenna Carter Italy 30 EVD YES 28-06-2004
+98960 Rachel Walker Italy 18 COVID-2019 NO
+87048 Carlos Horne Italy 39 SARS-1 NO
+48670 James Chavez Italy 31 FLU-2018 YES 14-01-2004
+43395 Raymond Watson Italy 21 H1N1 YES 30-10-2010
+21520 Rachel Stone Italy 50 MERS-COV YES 19-03-2009
+75728 Kelsey Adkins Italy 43 SARS-COV-2 YES 19-04-2012
+976 Joyce Nelson Italy 70 SARS-COV-2 NO
+22154 Patrick Russell Italy 21 SARS-COV-2 YES 18-04-2004
+65510 Joseph Gaines Italy 35 MERS-COV YES 21-04-2017
+44826 Johnathan Ramirez Italy 52 COVID-2019 NO
+60142 Aaron Palmer Italy 43 COVID-2019 YES 14-05-2019
+38486 Cody May Italy 38 SARS-1 NO
+27761 Kyle Reed Italy 77 EVD YES 08-05-2000
+39510 Catherine Johnson Italy 67 SARS-COV-2 YES 22-07-2000
+94315 Raymond Farmer Italy 10 SARS-1 NO
+50312 Casey Gordon Italy 73 SARS-1 NO
+48369 Dana Haley Italy 79 H1N1 NO
+39704 James Moore Italy 19 EVD YES 27-04-2002
+53919 Amanda Long Italy 14 H1N1 YES 26-12-2007
+89545 Tiffany Maldonado Italy 55 SARS-1 NO
+83088 Dana Matthews Italy 38 H1N1 NO
+44922 Michelle Snyder Italy 38 SARS-COV-2 YES 20-01-2001
+37461 Shaun Shelton Italy 52 SARS-COV-2 YES 14-05-2011
+394 William Wood Italy 69 FLU-2018 YES 12-06-2019
+42124 Leah Williams Italy 71 H1N1 NO
+68154 Jenna Pena Italy 11 FLU-2018 NO
+77033 Jason White Italy 28 SARS-1 YES 21-11-2016
+82769 Dawn Smith Italy 11 FLU-2018 YES 06-03-2003
+43535 Roberto Dorsey Italy 74 EVD YES 26-01-2010
+35906 Tracy Taylor Italy 76 SARS-COV-2 NO
+31513 Sheryl Summers Italy 46 FLU-2018 NO
+60520 James Wright Italy 58 FLU-2018 NO
+40732 Laura Curry Italy 79 H1N1 YES 11-03-2001
+51127 Thomas Shepherd Italy 36 COVID-2019 NO
+28820 John Davies Italy 76 MERS-COV NO
+62704 Mike Hayes Italy 55 COVID-2019 NO
+55449 Ashley Kramer Italy 54 EVD NO
+5063 Steven Juarez Italy 18 H1N1 NO
+15366 Dawn Blankenship Italy 25 COVID-2019 YES 30-07-2008
+92638 Scott Peterson Italy 34 MERS-COV NO
+99922 Jesus Jordan Italy 67 SARS-1 NO
+72714 Julie Stanton Italy 35 MERS-COV YES 16-09-2006
+33100 Ashley Barron Italy 56 FLU-2018 NO
+88357 Brandi Castillo Italy 46 FLU-2018 NO
+56925 Kevin Hicks Italy 49 MERS-COV NO
+31429 Savannah Carson Italy 55 EVD YES 10-07-2014
+6381 Willie Leon Italy 70 EVD NO
+9132 David Moreno Italy 68 EVD YES 23-02-2021
+55641 Gary Oliver Italy 11 EVD YES 29-11-2015
+65220 Robert Stanton Italy 15 SARS-COV-2 NO
+1217 Matthew Bush Italy 56 MERS-COV NO
+36394 Ronald Jordan Italy 47 FLU-2018 NO
+71787 Connie Floyd Italy 69 H1N1 YES 14-01-2019
+488 Julia Williams Italy 51 H1N1 NO
+80940 Kevin Price Italy 20 SARS-COV-2 YES 11-02-2003
+6046 Savannah Le Italy 51 MERS-COV NO
+71358 Timothy Hardin Italy 44 H1N1 NO
+24147 Brandi Henderson Italy 19 MERS-COV YES 18-12-2015
+64967 William Mays Italy 72 SARS-1 NO
+37838 Shannon Garcia Italy 49 EVD YES 06-01-2002
+81609 Benjamin Butler Italy 36 EVD NO
+65996 Stephanie Horton Italy 71 MERS-COV YES 13-10-2002
+99049 Andrew Barber Italy 79 H1N1 YES 19-12-2011
+82298 Thomas Rodriguez Italy 71 EVD NO
+85654 Kristina Hanson Italy 65 FLU-2018 NO
+88054 Debra Hill Italy 35 SARS-COV-2 NO
+39028 Bradley Harris Italy 58 COVID-2019 NO
+92621 Laura Young Italy 53 COVID-2019 YES 17-11-2015
+66304 Marc Landry Italy 46 SARS-1 NO
+98531 Michael Lynch Italy 69 H1N1 YES 06-03-2002
+70569 John Liu Italy 73 MERS-COV NO
+3401 Shirley Williams Italy 39 EVD YES 11-07-2019
+17617 Nicholas Smith Italy 21 SARS-COV-2 YES 27-05-2016
+79421 Bruce Clark Italy 12 FLU-2018 NO
+414 Joshua Burns Italy 60 COVID-2019 NO
+93665 Kent Obrien Italy 19 MERS-COV NO
+84479 Jesse Marshall Italy 44 COVID-2019 NO
+98506 Kevin Johnson Italy 67 MERS-COV NO
+68625 Michael Johnson Italy 72 FLU-2018 NO
+32033 Mark Pratt Italy 66 H1N1 NO
+56910 David Lynn Italy 64 SARS-1 NO
+6679 Alison Castillo Italy 75 SARS-1 NO
+40753 Samuel Warner Italy 67 SARS-1 YES 05-04-2012
+69253 Michael Rodriguez Italy 70 H1N1 NO
+40654 Sarah Pope Italy 75 COVID-2019 YES 23-08-2008
+56618 Danielle Goodman Italy 17 MERS-COV NO
+77484 Samuel Peck Italy 55 SARS-1 NO
+83972 Michelle Williams Italy 37 SARS-1 NO
+63588 Jeff Taylor Italy 57 SARS-1 YES 17-11-2015
+40515 Kaitlyn Riddle Italy 48 H1N1 NO
+27406 Ryan Watson Italy 31 MERS-COV YES 20-10-2017
+62545 Joel Hill Italy 10 FLU-2018 YES 14-06-2017
+96987 Erika Pace Italy 24 FLU-2018 YES 30-09-2002
+82512 Debra Salinas Italy 18 FLU-2018 NO
+19468 Victoria Velez Italy 72 SARS-COV-2 YES 29-11-2009
+91326 Mary Anderson Italy 37 MERS-COV NO
+8894 Cynthia Walker Italy 16 COVID-2019 NO
+97185 Jennifer Vaughn Italy 44 EVD NO
+87437 Thomas Barajas Italy 59 SARS-1 YES 17-09-2015
+9324 Beth Jackson Italy 17 SARS-1 NO
+40858 Nathan Moore Italy 53 SARS-COV-2 NO
+45438 Mary Adams Italy 56 SARS-COV-2 NO
+70023 Linda Patterson Italy 19 MERS-COV NO
+12317 Michael Stanley Italy 56 COVID-2019 YES 04-04-2014
+21503 Jillian Bartlett Italy 31 SARS-1 YES 01-04-2009
+25666 Christopher Daniel Italy 44 COVID-2019 NO
+18094 Miranda Boyle Italy 25 H1N1 YES 27-09-2011
+85103 Heather Hunter Italy 28 FLU-2018 NO
+54117 Aaron Krueger Italy 44 EVD NO
+13755 Erika Turner Italy 48 COVID-2019 YES 21-11-2003
+82402 Matthew Johnson Italy 44 SARS-COV-2 YES 20-11-2008
+4455 Nancy Boone Italy 51 H1N1 YES 12-06-2015
+37823 Dustin Clayton Italy 17 MERS-COV NO
+95901 Alicia Waters Italy 37 SARS-COV-2 NO
+68831 Devin Alvarez Italy 65 COVID-2019 NO
+44523 Philip Fitzgerald Italy 27 SARS-1 NO
+47166 Walter Johnson Italy 75 FLU-2018 NO
+81324 James Harris Italy 61 FLU-2018 YES 10-09-2020
+28233 Barry Turner Italy 69 EVD NO
+91988 Debra Nguyen Italy 65 EVD YES 08-06-2005
+5927 Emma Reyes Italy 35 H1N1 NO
+41897 Joel Jacobs Italy 27 FLU-2018 NO
+37094 Vanessa Harrison Italy 76 H1N1 YES 03-02-2002
+69379 David Cooper Italy 47 SARS-1 YES 30-08-2017
+392 Donald Rodgers Italy 55 SARS-1 NO
+68170 Melissa Williamson Italy 74 H1N1 NO
+57066 Courtney Clarke Italy 43 FLU-2018 NO
+74984 Eric Blair Italy 10 FLU-2018 NO
+38584 Jose Guzman Italy 66 SARS-COV-2 YES 21-01-2021
+72214 Joe Lang Italy 49 MERS-COV NO
+26136 Mary Barton Italy 54 FLU-2018 YES 23-05-2008
+11653 Ann Ingram Italy 13 FLU-2018 NO
+78104 Carl Williams Italy 26 COVID-2019 NO
+49732 Alejandro Woods Italy 40 COVID-2019 YES 05-10-2000
+35088 Lindsey Gonzales Italy 22 COVID-2019 NO
+50720 Edward Reyes Italy 71 FLU-2018 NO
+30334 Jason Daniels Italy 16 COVID-2019 NO
+36081 Antonio Harrison Italy 31 H1N1 NO
+75739 Heather Richardson Italy 76 SARS-COV-2 NO
+46308 Johnny Mcconnell Italy 76 MERS-COV NO
+61349 Alexandra Bennett Italy 71 FLU-2018 NO
+1730 Tracy Anderson Italy 35 FLU-2018 NO
+69013 Kevin Jordan Italy 66 EVD NO
+82946 Desiree Wilson Italy 16 COVID-2019 NO
+88178 Danielle Berry Italy 54 EVD YES 30-12-2018
+83653 Brittany Simmons Italy 41 H1N1 NO
+30517 Lori Brown Italy 46 SARS-COV-2 NO
+27211 Tara Leonard Italy 31 COVID-2019 YES 08-05-2010
+80857 Mario Allen Italy 46 SARS-COV-2 NO
+68434 Kelly Collins Italy 59 SARS-1 YES 13-11-2016
+39152 Nicole Webb Italy 64 SARS-COV-2 YES 09-12-2016
+76224 Linda Odom Italy 33 H1N1 YES 11-03-2001
+95010 Charles Hodges Italy 13 MERS-COV YES 04-09-2015
+53723 Bonnie Small Italy 70 MERS-COV NO
+39898 Jessica Davis Italy 44 EVD NO
+97809 Daniel Salazar Italy 55 COVID-2019 YES 01-10-2003
+79846 Carmen Bender Italy 31 H1N1 YES 31-05-2003
+24619 Amanda Morgan Italy 76 MERS-COV YES 23-08-2013
+53329 Chelsea Casey Italy 72 SARS-COV-2 NO
+47627 Mary Conway Italy 20 SARS-1 YES 19-06-2003
+62128 Megan Chambers Italy 24 FLU-2018 NO
+12337 Gabriel Goodman Italy 54 MERS-COV YES 03-05-2003
+85835 Michael Hayden Italy 56 MERS-COV YES 14-04-2018
+44530 William Johnson Italy 45 H1N1 YES 21-04-2020
+70390 Marie Vaughn Italy 77 MERS-COV NO
+36379 Emma Lopez Italy 11 EVD YES 04-10-2019
+73755 Matthew Fox Italy 38 FLU-2018 NO
+99080 Daniel Leon Italy 63 FLU-2018 YES 03-08-2006
+14242 Victoria Lucas Italy 70 COVID-2019 YES 20-02-2004
+88260 Colton Holt Italy 63 FLU-2018 NO
+97522 Cynthia Reynolds Italy 63 H1N1 YES 13-07-2005
+81063 Tracy Vega Italy 25 COVID-2019 YES 29-10-2000
+89499 Courtney Sanchez Italy 40 H1N1 NO
+33916 Kim Kelly Italy 75 H1N1 YES 03-07-2018
+81031 Mario Bender Italy 25 SARS-COV-2 NO
+95769 Jeffrey Campbell Italy 52 EVD NO
+82504 Susan Porter Italy 67 FLU-2018 NO
+62088 Laura Schultz Italy 17 SARS-COV-2 NO
+90248 Ashley Richards Italy 65 SARS-1 YES 10-03-2004
+34600 Kathryn Williams Italy 68 SARS-1 YES 30-07-2005
+76640 Jessica Murphy Italy 36 EVD NO
+86234 John Gill Italy 57 COVID-2019 YES 12-04-2011
+86582 Tammy Patterson Italy 73 EVD YES 08-08-2014
+66878 Joseph Ruiz Italy 76 FLU-2018 YES 28-11-2020
+77103 James Sanchez Italy 31 EVD YES 30-10-2016
+79432 Jonathan Garrett Italy 56 EVD YES 30-07-2011
+71181 Jill Fletcher Italy 40 H1N1 YES 15-08-2003
+98129 Peter Meyer Italy 59 COVID-2019 YES 02-09-2007
+90766 Amber Campos Italy 42 FLU-2018 NO
+68369 Anne Tucker Italy 35 SARS-COV-2 NO
+38886 Kevin Garrett Italy 46 H1N1 YES 27-02-2011
+17032 Rebecca Ramirez Italy 77 MERS-COV YES 04-02-2016
+54113 Jane Mcdonald Italy 70 H1N1 YES 06-12-2001
+75874 Rachel Curtis Italy 21 EVD NO
+58107 Kathy Mitchell Italy 34 COVID-2019 YES 21-01-2015
+18555 Jacob Berry Italy 27 MERS-COV NO
+76205 Sherry Woods Italy 69 MERS-COV NO
+13298 Richard Harris Italy 54 COVID-2019 YES 06-03-2009
+71436 Chelsea Montoya Italy 10 FLU-2018 NO
+64697 Rebecca Webb Italy 24 SARS-COV-2 NO
+91498 Jeremy Daniel Italy 51 COVID-2019 YES 03-07-2001
+7493 Kristen Mcintyre Italy 28 EVD NO
+95745 Aaron Anderson Italy 34 MERS-COV YES 30-05-2000
+29317 James Owen Italy 24 H1N1 YES 18-07-2014
+21188 Tina Russo Italy 17 SARS-COV-2 YES 21-04-2007
+75915 Kristine Smith Italy 46 H1N1 NO
+33428 Dylan Wilson Italy 51 EVD YES 21-11-2008
+63734 Eric Sanchez Italy 45 EVD YES 17-09-2002
+71670 Amy Davis Italy 48 COVID-2019 YES 31-03-2015
+21919 Christine Smith Italy 60 EVD NO
+27178 Tammy Petersen Italy 37 MERS-COV YES 18-08-2009
+17723 Joan Allen Italy 48 COVID-2019 NO
+58453 Lauren Wise Italy 74 COVID-2019 YES 06-09-2016
+2077 Barbara Ryan Italy 60 FLU-2018 NO
+20249 Gerald Mcbride Italy 51 EVD NO
+92407 Tracey Haynes Italy 19 COVID-2019 YES 24-04-2019
+97499 Daniel Thompson Italy 35 COVID-2019 YES 08-07-2012
+84305 Carl Cowan Italy 16 SARS-1 YES 24-08-2006
+59530 James Norris Italy 24 H1N1 NO
+70521 Derek Wolfe Italy 15 SARS-COV-2 YES 11-11-2001
+96033 Alyssa Good Italy 28 H1N1 YES 25-09-2012
+58875 Norma Chandler Italy 40 EVD YES 04-05-2014
+2100 David Martin Italy 28 SARS-1 NO
+4390 Theresa Lawrence Italy 24 COVID-2019 NO
+52691 Sarah Humphrey Italy 55 SARS-1 NO
+38416 Karen Suarez Italy 77 FLU-2018 NO
+18374 Kerri Harris Italy 40 COVID-2019 NO
+4108 Brian Harris Italy 36 MERS-COV NO
+10701 Christina Andrews Italy 79 MERS-COV NO
+95740 Ronald Ray Italy 52 MERS-COV YES 06-06-2010
+57789 Jocelyn Giles Italy 62 EVD NO
+2441 Rhonda Cohen Italy 27 SARS-COV-2 NO
+87501 Nicholas Carey Italy 77 SARS-1 YES 12-10-2008
+1029 John Lewis Italy 78 EVD YES 16-06-2009
+6514 John Martinez Italy 69 H1N1 YES 07-09-2002
+38596 Melinda Hayes Italy 38 MERS-COV YES 07-05-2017
+44844 Michelle Hall Italy 25 EVD NO
+67429 Sergio Moore Italy 44 H1N1 YES 14-12-2013
+72635 James King Italy 78 SARS-1 NO
+69129 Kathleen Contreras Italy 13 COVID-2019 YES 03-04-2005
+63975 Scott Ramirez Italy 29 EVD NO
+75521 Kimberly Smith Italy 68 COVID-2019 YES 25-10-2001
+78172 Nicholas Anderson Italy 49 FLU-2018 YES 17-02-2006
+45356 Patrick Hodges Italy 43 MERS-COV NO
+82654 Victoria Stokes Italy 45 SARS-COV-2 YES 10-12-2007
+95627 Dwayne Elliott Italy 13 SARS-COV-2 NO
+97498 Mark Peters Italy 69 SARS-1 YES 21-04-2017
+84364 Christopher Chambers Italy 16 FLU-2018 YES 14-02-2019
+17712 Cindy Brown Italy 26 COVID-2019 NO
+18259 Alexander Juarez Italy 36 SARS-1 NO
+18714 Justin Ferguson Italy 35 FLU-2018 NO
+78097 Patricia Johnson Italy 50 MERS-COV NO
+81144 Elizabeth Donovan Italy 49 FLU-2018 YES 21-03-2008
+63990 Crystal Sweeney Italy 42 FLU-2018 NO
+92207 Dennis Hernandez Italy 32 H1N1 NO
+97775 Adam Cruz Italy 43 EVD NO
+44522 Amber Kane Italy 57 COVID-2019 YES 02-05-2002
+68414 Carrie Anderson Italy 42 SARS-COV-2 NO
+88460 Tina Morris Italy 37 SARS-COV-2 NO
+42484 Kristopher George Italy 53 MERS-COV NO
+68168 Danny Estrada Italy 66 SARS-1 NO
+53493 Marissa Walter Italy 59 H1N1 YES 03-11-2000
+65054 William Wright Italy 47 H1N1 NO
+77246 Brian Erickson Italy 65 FLU-2018 YES 14-01-2014
+34892 Cameron Hayes Italy 33 H1N1 YES 23-03-2000
+28495 Erin Smith Italy 75 MERS-COV YES 16-07-2016
+2382 Victoria Pierce Italy 58 EVD NO
+71558 Nicholas Wilson Italy 66 COVID-2019 NO
+71637 Brandon Ortiz Italy 44 SARS-COV-2 NO
+49448 Cynthia Anderson Italy 18 H1N1 YES 29-03-2000
+76229 Heather Bates Italy 53 FLU-2018 YES 11-07-2001
+6633 Victoria Berry Italy 53 EVD NO
+27739 Jill Price Italy 67 MERS-COV YES 02-07-2001
+35067 John Escobar Italy 51 COVID-2019 YES 29-04-2019
+41227 Brandon Stewart Italy 42 COVID-2019 NO
+27846 Manuel Clay Italy 61 SARS-1 YES 20-10-2002
+21011 David Moore Italy 20 SARS-COV-2 NO
+64946 Elijah Kelley Italy 36 SARS-COV-2 YES 03-07-2013
+46645 George Richardson Italy 65 SARS-COV-2 NO
+60455 Dana Barr Italy 50 COVID-2019 NO
+29341 Mary Torres Italy 49 EVD NO
+56313 Jason Harris Italy 25 MERS-COV YES 21-06-2003
+47605 Jason Carroll Italy 69 COVID-2019 YES 27-08-2013
+46374 Krista Moore Italy 34 MERS-COV YES 16-12-2020
+82313 Paul Donaldson Italy 72 SARS-1 NO
+21627 Bruce Cooper Italy 64 SARS-1 YES 06-10-2012
+40373 Robert Brown Italy 64 FLU-2018 YES 21-07-2017
+97249 Janet Petersen Italy 54 H1N1 YES 25-01-2012
+22675 Danielle Bailey Italy 68 EVD YES 02-11-2004
+47469 Howard Skinner Italy 70 H1N1 YES 08-10-2015
+25793 Daniel Kelly Italy 46 SARS-COV-2 NO
+60773 Jared Middleton Italy 64 FLU-2018 YES 27-05-2017
+39802 Samantha Keller Italy 66 EVD NO
+10831 Tina Smith Italy 19 COVID-2019 YES 14-06-2004
+17239 Tina Suarez Italy 71 SARS-1 YES 20-03-2019
+19305 Peter Jordan Italy 53 SARS-1 NO
+56329 William Roberts Italy 60 MERS-COV YES 15-05-2003
+84903 Jimmy Phillips Italy 55 H1N1 YES 16-09-2004
+4139 Patrick Mayo Italy 43 SARS-1 NO
+83949 Christopher Harris Italy 14 SARS-1 NO
+10377 William Sanchez Italy 71 FLU-2018 NO
+79951 Spencer Downs Italy 11 EVD NO
+92595 Albert Wagner Italy 15 EVD YES 13-07-2013
+75853 Emily Mccullough Italy 32 FLU-2018 NO
+27416 Darren Clark Italy 68 SARS-COV-2 NO
+64653 Laura Lindsey Italy 71 FLU-2018 YES 10-06-2000
+73743 Gilbert Villa Italy 61 FLU-2018 YES 25-04-2014
+1718 Summer Phillips Italy 75 COVID-2019 YES 27-04-2016
+75431 Kimberly Lee Italy 12 MERS-COV NO
+71935 Adam Torres Italy 18 H1N1 NO
+30772 Susan King Italy 56 SARS-COV-2 NO
+6665 Michael Cruz Italy 17 MERS-COV NO
+46998 Laurie Gonzales Italy 73 SARS-1 YES 26-09-2005
+5980 Ivan Jimenez Italy 14 COVID-2019 YES 21-05-2007
+70674 Tina Hill Italy 15 FLU-2018 YES 18-01-2001
+33226 Vincent English Italy 49 SARS-COV-2 YES 10-05-2016
+90930 Veronica Maxwell Italy 49 COVID-2019 YES 08-08-2016
+60037 Amanda Anderson Italy 76 MERS-COV NO
+76953 Nicholas Bates Italy 27 EVD NO
+4774 Nicholas Adams Italy 11 FLU-2018 NO
+77344 Eric Hughes Italy 14 COVID-2019 NO
+90050 Nicholas Day Italy 17 COVID-2019 NO
+69358 Steven Dyer Italy 10 EVD YES 19-10-2002
+52888 Marvin Moore Italy 25 SARS-COV-2 NO
+7187 David Green Italy 12 COVID-2019 NO
+71775 Amber Lawrence Italy 59 EVD YES 17-07-2007
+56515 Barry Gates Italy 50 MERS-COV YES 28-05-2015
+24526 Laura Reyes Italy 46 MERS-COV NO
+21353 Cheryl Gardner Italy 69 H1N1 NO
+23187 Jacqueline Bates Italy 76 FLU-2018 YES 03-10-2004
+32087 Debbie Fleming Italy 68 SARS-COV-2 NO
+18361 Michelle Ramirez Italy 47 EVD YES 17-03-2012
+41940 Kevin Williams Italy 22 EVD NO
+90760 Melissa Walsh Italy 52 COVID-2019 NO
+64543 Ashley Bell Italy 46 SARS-1 NO
+78922 Kevin Miller Italy 74 EVD NO
+73859 Eric Reeves Italy 66 SARS-COV-2 YES 05-07-2013
+93733 Jennifer Gutierrez Italy 33 EVD YES 13-01-2005
+72491 Franklin Benson Italy 48 SARS-1 YES 21-09-2005
+73610 Philip Tucker Italy 13 EVD NO
+93121 John Reyes Italy 48 FLU-2018 NO
+0 Janice Williams Italy 61 SARS-1 NO
+22252 Tammy Berg Italy 46 FLU-2018 YES 06-11-2017
+82673 James Nelson Italy 63 FLU-2018 YES 28-12-2005
+82224 Amber Farrell Italy 64 FLU-2018 YES 05-01-2011
+24905 Lance Anderson Italy 12 H1N1 YES 04-01-2000
+3936 Anne Valenzuela Italy 21 COVID-2019 YES 04-03-2011
+99729 John Figueroa Italy 65 EVD YES 02-01-2007
+64585 Randy Ferguson Italy 40 H1N1 YES 22-09-2017
+36216 Andrew Lara Italy 47 SARS-COV-2 NO
+45974 Betty Cox Italy 27 FLU-2018 YES 11-03-2011
+90252 Patrick Nicholson Italy 76 EVD NO
+54036 David Baker Italy 34 COVID-2019 YES 24-08-2006
+96813 Cheryl Castillo Italy 24 MERS-COV NO
+8341 Alan Smith Italy 77 SARS-1 YES 07-12-2008
+36791 Kyle Hanson Italy 49 MERS-COV YES 07-01-2002
+97678 Barry Miller Italy 20 SARS-1 YES 19-05-2007
+17517 James Alvarez Italy 41 EVD NO
+57443 Donna Berg Italy 18 MERS-COV YES 02-04-2014
+76166 Daniel Hurst Italy 37 FLU-2018 NO
+51950 Caleb Mccoy Italy 27 FLU-2018 NO
+43854 Laura Garrett Italy 59 FLU-2018 NO
+17434 Ricardo Jackson Italy 74 COVID-2019 NO
+74302 Nichole Knight Italy 32 SARS-1 NO
+93688 Stephanie Snyder Italy 42 H1N1 NO
+59148 Elizabeth Kennedy Italy 15 SARS-COV-2 NO
+16274 Sydney Roberts Italy 70 SARS-COV-2 NO
+25856 Sydney Hood Italy 17 EVD NO
+57358 Angela Clements Italy 42 COVID-2019 YES 29-05-2003
+60188 Richard Lewis Italy 58 SARS-1 NO
+98173 Sharon Proctor Italy 64 H1N1 NO
+74181 Charles Tucker Italy 47 FLU-2018 YES 05-06-2020
+71491 Susan Ramos Italy 73 COVID-2019 NO
+93896 William Brooks Italy 23 SARS-COV-2 YES 08-08-2016
+3877 Melanie Fernandez Italy 19 SARS-1 YES 04-03-2017
+57474 Amanda Salas Italy 73 H1N1 YES 05-09-2010
+16998 Carolyn Miller Italy 58 H1N1 YES 01-05-2004
+2217 Joseph Johnson Italy 55 COVID-2019 NO
+27999 John Gentry Italy 16 COVID-2019 NO
+63208 Charles Mason Italy 16 SARS-1 YES 17-04-2013
+27542 Debra Walker Italy 70 EVD NO
+17323 Andrea Robles Italy 68 H1N1 YES 08-12-2006
+47425 Laurie Robertson Italy 12 SARS-COV-2 NO
+13642 Christina Bush Italy 21 FLU-2018 YES 16-12-2010
+21756 Brian Hammond Italy 23 COVID-2019 NO
+71822 Leah Martinez Italy 42 COVID-2019 YES 18-12-2007
+41213 Joshua Collins Italy 44 FLU-2018 YES 08-01-2011
+46444 Kathy Thomas Italy 55 SARS-COV-2 YES 27-04-2008
+89798 Sabrina Gibson Italy 32 MERS-COV YES 07-09-2019
+75872 Samuel Ferguson Italy 53 SARS-COV-2 YES 12-11-2012
+66917 Sandra Fisher Italy 54 SARS-1 YES 09-02-2000
+5512 Brian Roach Italy 70 SARS-1 NO
+30225 Andre Jackson Italy 49 EVD YES 05-07-2012
+50998 Nicole Perry Italy 57 SARS-COV-2 NO
+18494 Christina Garner Italy 71 FLU-2018 YES 27-07-2003
+76454 Victoria Martin Italy 18 SARS-COV-2 YES 18-11-2019
+82807 Stephanie Cole Italy 71 SARS-COV-2 NO
+49166 Tracy Jackson Italy 74 EVD NO
+76900 John Walton Italy 21 FLU-2018 YES 05-11-2008
+73297 Angela Perez Italy 38 COVID-2019 YES 06-03-2007
+18334 Daniel Thomas Italy 66 COVID-2019 NO
+50165 Shaun Richardson Italy 22 EVD YES 27-09-2003
+9791 Mary Conley Italy 54 EVD NO
+24563 James Sanchez Italy 55 COVID-2019 NO
+21985 Nicole Frye Italy 25 FLU-2018 YES 15-04-2005
+57572 Victoria Vaughan Italy 39 EVD NO
+26262 Melinda Webb Italy 34 SARS-1 NO
+45152 Angel Johnson Italy 15 SARS-COV-2 YES 23-06-2017
+44508 Lance Fowler Italy 47 MERS-COV NO
+1258 Paul Edwards Italy 78 MERS-COV YES 27-06-2018
+93059 William Mills Italy 28 H1N1 YES 20-09-2010
+16801 Debra Weaver Italy 68 EVD NO
+7312 Stephen Scott Italy 64 H1N1 YES 07-05-2003
+45149 Stefanie Contreras Italy 74 COVID-2019 NO
+66326 Robert Jones Italy 17 FLU-2018 NO
+88304 Eric Baker Italy 50 H1N1 NO
+66333 Elizabeth Holmes Italy 51 COVID-2019 YES 12-03-2002
+31700 Andrew Kelly Italy 25 H1N1 NO
+15464 Zachary Reid Italy 36 SARS-COV-2 NO
+82972 Nancy Acevedo Italy 68 MERS-COV YES 21-10-2000
+51277 Carol Duffy Italy 33 EVD NO
+58567 Christopher Gill Italy 42 SARS-COV-2 NO
+62365 Robert Shaw Italy 26 SARS-COV-2 NO
+39368 Adam Bradley Italy 55 MERS-COV NO
+40327 Robert Navarro Italy 20 FLU-2018 NO
+62339 Sergio Meyer Italy 39 H1N1 NO
+80753 Leslie Robbins Italy 35 FLU-2018 NO
+4398 Christine Gonzalez Italy 34 SARS-1 NO
+59912 Jacob Norton Italy 14 COVID-2019 YES 18-11-2002
+64020 Marissa Shannon Italy 61 H1N1 NO
+70016 John Becker Italy 64 MERS-COV NO
+38933 Suzanne Jenkins Italy 67 FLU-2018 NO
+10325 Carl Owens Italy 20 FLU-2018 YES 06-11-2009
+91955 Brian Crawford Italy 33 FLU-2018 YES 05-12-2017
+75582 Tammy White Italy 50 SARS-COV-2 NO
+39910 Kevin Raymond Italy 14 EVD NO
+55063 Sarah Roberts Italy 26 COVID-2019 YES 11-07-2009
+86438 Kerry Clark Italy 32 MERS-COV YES 09-02-2000
+7305 Robert Cline Italy 76 SARS-1 YES 08-10-2012
+29336 Stephanie Hall Italy 31 MERS-COV NO
+74108 Julia Carlson Italy 56 EVD YES 28-07-2007
+76208 Gary Sims Italy 69 SARS-COV-2 YES 05-04-2002
+69206 Jennifer Ochoa Italy 54 COVID-2019 YES 26-05-2009
+86423 Cindy Jones Italy 17 EVD NO
+78712 Jessica Young Italy 50 SARS-COV-2 YES 21-12-2010
+79830 Jillian Andrews Italy 47 SARS-COV-2 YES 07-06-2019
+32505 Connie Hunter Italy 43 H1N1 NO
+58869 Kevin Smith Italy 74 H1N1 YES 05-08-2010
+5431 Heather Olson Italy 13 H1N1 NO
+9394 William Mcdonald Italy 74 SARS-1 YES 10-12-2016
+2196 Karen Parker Italy 28 FLU-2018 NO
+96251 Adrian Rodriguez Italy 68 FLU-2018 YES 09-04-2009
+93102 Dale Henry Italy 59 SARS-1 NO
+75690 Manuel Cole Italy 72 MERS-COV NO
+57548 Jeffrey Cook Italy 52 H1N1 YES 16-07-2017
+38337 Cindy Luna Italy 59 FLU-2018 NO
+78139 Shane Ibarra Italy 13 SARS-COV-2 YES 28-11-2015
+72592 Amy Yu Italy 71 SARS-COV-2 YES 09-08-2012
+71062 Bryan Nunez Italy 77 H1N1 NO
+74340 Daniel Anderson Italy 73 FLU-2018 NO
+63592 Cheryl Lopez Italy 55 SARS-1 NO
+93737 Cassandra Lopez Italy 49 MERS-COV YES 05-03-2006
+96381 Emily Reyes Italy 36 FLU-2018 NO
+32136 Gina Harvey Italy 52 MERS-COV NO
+93738 Kyle Simmons Italy 63 SARS-1 YES 04-09-2011
+38911 Kathleen Morales Italy 67 SARS-COV-2 NO
+60808 Daniel Lee Italy 47 EVD NO
+14906 Nicholas James Italy 72 H1N1 YES 27-08-2006
+35578 Kevin Wade Italy 10 COVID-2019 YES 29-11-2006
+9497 Todd Evans Italy 46 H1N1 YES 01-10-2010
+31125 Victoria Peterson Italy 50 FLU-2018 NO
+46756 Matthew Dunn Italy 23 FLU-2018 NO
+45007 Jessica Ray Italy 20 MERS-COV NO
+22759 Kimberly Willis Italy 71 SARS-COV-2 NO
+63837 Stephanie Harris Italy 17 H1N1 YES 30-06-2001
+35165 Crystal Mason Italy 18 MERS-COV YES 29-04-2008
+55115 Mark Rodriguez Italy 44 SARS-1 NO
+37107 Sabrina Bailey Italy 22 FLU-2018 NO
+15712 Michael Williams Italy 57 SARS-COV-2 NO
+22053 Courtney Parsons Italy 23 SARS-COV-2 YES 06-04-2004
+72580 John Alexander Italy 19 MERS-COV NO
+39183 Mike Blanchard Italy 74 EVD NO
+10877 Angela Ferguson Italy 67 SARS-1 YES 31-10-2003
+42893 Kristin Webb Italy 57 SARS-COV-2 NO
+76160 Laura Chung Italy 48 H1N1 YES 02-04-2016
+5775 James Hughes Italy 24 EVD YES 05-09-2000
+14283 David Jackson Italy 45 EVD NO
+18891 Charles Weber Italy 62 SARS-COV-2 NO
+31707 Edward Copeland Italy 79 FLU-2018 YES 30-03-2014
+37521 Jason Bell Italy 27 SARS-1 NO
+84747 Juan Cruz Italy 18 H1N1 NO
+59505 Carl Bender Italy 16 SARS-1 YES 23-01-2009
+25781 Laura Hall Italy 66 SARS-1 NO
+32774 Jodi Washington Italy 61 SARS-1 YES 29-10-2009
+97915 Monique Lam Italy 38 MERS-COV YES 22-06-2001
+56555 Ronald Orozco Italy 49 MERS-COV YES 04-10-2016
+52250 Nathaniel Bishop Italy 63 SARS-1 YES 24-11-2000
+23214 Teresa Johnson Italy 31 H1N1 NO
+40122 Steven Garcia Italy 71 FLU-2018 YES 16-05-2004
+27140 Stephanie Harmon Italy 23 SARS-1 NO
+52090 Kevin Calderon Italy 38 SARS-1 YES 13-10-2020
+28034 Eric Nguyen Italy 42 COVID-2019 YES 07-11-2019
+57773 Lisa Green Italy 39 SARS-1 NO
+36228 Caroline Garza Italy 46 SARS-COV-2 YES 19-03-2019
+27080 Brandon Ho Italy 78 H1N1 YES 19-07-2001
+64900 Samuel Stark Italy 66 H1N1 YES 03-08-2014
+70118 Kathy Morgan Italy 50 EVD YES 18-01-2005
+48964 Mark Tran Italy 75 MERS-COV NO
+53313 Mary Hendricks Italy 32 SARS-COV-2 YES 28-05-2017
+73325 Jeffery Edwards Italy 41 SARS-1 YES 25-01-2011
+60436 Amy Nelson Italy 48 MERS-COV NO
+13542 Christine Duran Italy 10 COVID-2019 NO
+74853 Carly Rose Italy 66 FLU-2018 NO
+43052 Kevin Green Italy 44 SARS-COV-2 YES 18-06-2018
+98308 Zachary Berry Italy 53 SARS-1 YES 01-12-2001
+71340 Carla Obrien Italy 14 SARS-COV-2 NO
+29705 William Bass Italy 35 SARS-1 NO
+54412 Felicia Cisneros Italy 62 MERS-COV YES 17-03-2009
+89720 John Rodriguez Italy 61 SARS-1 YES 08-06-2013
+94035 Michael Vazquez Italy 69 EVD YES 28-09-2009
+32233 Jacob Howard Italy 37 FLU-2018 YES 04-08-2010
+94924 Carrie Carey Italy 54 COVID-2019 YES 07-09-2009
+37290 Brooke Barrera Italy 67 H1N1 YES 19-03-2000
+93882 Robert Mendoza Italy 59 SARS-COV-2 NO
+83812 Cory Woodard Italy 79 SARS-COV-2 YES 23-07-2014
+27515 Christopher Brown Italy 19 COVID-2019 NO
+33038 David Bryant Italy 18 SARS-1 NO
+32798 Kevin Olsen Italy 55 SARS-COV-2 YES 30-08-2002
+7880 Samuel Ford Italy 67 EVD NO
+42129 Erik Paul Italy 45 FLU-2018 NO
+97769 Alexandra Taylor Italy 77 SARS-1 NO
+64511 Timothy Evans Italy 12 FLU-2018 YES 30-05-2019
+49886 Robert Schwartz Italy 26 MERS-COV YES 15-05-2011
+88731 Diana Cruz Italy 36 FLU-2018 YES 11-01-2001
+94968 Seth Kaiser Italy 68 COVID-2019 NO
+87009 Jessica Jackson Italy 46 SARS-1 YES 07-09-2007
+1354 Steven Ford Italy 62 MERS-COV YES 17-11-2010
+91116 Carly Irwin Italy 16 FLU-2018 NO
+25609 Sara Foster Italy 27 FLU-2018 NO
+95472 Jennifer Smith Italy 47 EVD NO
+38682 Andrea Thomas Italy 59 SARS-1 YES 29-11-2000
+23450 Gregory Richardson Italy 60 SARS-1 YES 08-10-2001
+84739 Danielle Wright Italy 75 FLU-2018 YES 18-03-2001
+66641 Jennifer Krause Italy 68 SARS-1 NO
+90991 Christina Miller Italy 18 SARS-1 NO
+28363 Andrew Hopkins Italy 53 EVD NO
+83936 Matthew Palmer Italy 66 MERS-COV NO
+97007 Erica Smith Italy 12 SARS-1 NO
+21277 Cynthia Glenn Italy 68 MERS-COV YES 27-06-2016
+94981 Aaron Gutierrez Italy 69 MERS-COV NO
+86343 Christopher Cooper Italy 21 COVID-2019 YES 22-06-2019
+83069 Jennifer Owen Italy 54 FLU-2018 NO
+64777 Patrick Tucker Italy 39 H1N1 NO
+49705 Michael Romero Italy 74 MERS-COV YES 01-04-2001
+442 Amber Hill Italy 47 MERS-COV YES 17-10-2004
+41647 Ashley Bean Italy 24 H1N1 NO
+12477 William Walker Italy 17 SARS-1 NO
+87687 Anthony Smith Italy 57 FLU-2018 YES 05-10-2013
+28264 Rick Hicks Italy 28 SARS-1 YES 14-01-2019
+97274 Angela Cantrell Italy 53 SARS-1 NO
+15569 Cody Browning Italy 19 COVID-2019 YES 19-06-2002
+59292 Glen Harvey Italy 65 H1N1 YES 29-04-2004
+38858 Mark Zimmerman Italy 64 EVD NO
+39365 Stephanie Jenkins Italy 38 H1N1 NO
+87404 Alison Gilbert Italy 23 SARS-1 NO
+18056 William Chavez Italy 29 FLU-2018 NO
+89899 Nicole Hernandez Italy 32 MERS-COV NO
+52367 Kristina Ward Italy 29 FLU-2018 YES 10-07-2008
+32782 Christopher Hughes Italy 67 SARS-COV-2 YES 09-04-2001
+15517 Ryan Howard Italy 59 FLU-2018 YES 07-12-2001
+10885 Cynthia Mccall Italy 53 EVD YES 12-09-2001
+93867 Kristopher Jones Italy 46 SARS-COV-2 YES 06-06-2018
+46123 Dorothy Rodriguez Italy 53 EVD NO
+75796 Charles Tyler Italy 67 SARS-COV-2 NO
+83832 Andrea Peters Italy 14 SARS-1 YES 21-04-2004
+52935 Sue Moore Italy 38 H1N1 YES 20-07-2001
+38359 Stephanie Wells Italy 22 MERS-COV NO
+89556 Joy Guerrero Italy 72 EVD YES 05-06-2002
+35876 Susan King Italy 45 FLU-2018 NO
+73155 Tracey Smith Italy 13 SARS-COV-2 YES 31-01-2004
+64214 Sarah Bryan Italy 76 SARS-1 NO
+7680 Justin Garrett Italy 58 SARS-1 NO
+79068 Kelli Schultz Italy 13 SARS-1 YES 12-01-2004
+4817 Lauren Davis Italy 40 H1N1 NO
+13677 Jose Roberts Italy 48 SARS-1 YES 22-07-2004
+91873 Autumn Clark Italy 31 FLU-2018 YES 26-07-2007
+87440 Steven Delgado Italy 24 FLU-2018 YES 25-12-2004
+52453 Matthew Harris Italy 63 FLU-2018 NO
+90903 Matthew Martinez Italy 42 EVD NO
+55394 William Velez Italy 44 COVID-2019 NO
+82107 Christina Dixon Italy 30 SARS-1 YES 24-01-2003
+37404 James Burgess Italy 38 H1N1 YES 22-04-2003
+35595 Steve Fisher Italy 39 H1N1 NO
+61475 Ryan Adams Italy 42 MERS-COV YES 16-12-2007
+68490 Bridget Villa Italy 58 SARS-1 YES 28-02-2009
+96673 Tracie Johnson Italy 52 COVID-2019 YES 24-06-2003
+14575 Jackson Johnson Italy 30 SARS-COV-2 YES 21-11-2009
+44332 Dorothy Howard Italy 50 FLU-2018 YES 27-04-2010
+10438 Michael Guerrero Italy 66 FLU-2018 NO
+7725 Timothy Lutz Italy 50 SARS-1 NO
+30411 Emily Savage Italy 23 EVD YES 24-12-2017
+29915 Emma Flores Italy 58 COVID-2019 NO
+6562 Jennifer Williams Italy 25 MERS-COV NO
+65625 Crystal Meyers Italy 78 SARS-COV-2 NO
+38600 Charles Chambers Italy 50 SARS-1 YES 16-05-2005
+38005 Marie White Italy 27 H1N1 NO
+31064 Mary Price Italy 48 SARS-COV-2 YES 16-06-2015
+66229 Sharon Owens Italy 26 FLU-2018 NO
+78751 Jeremy Carter Italy 19 H1N1 NO
+84429 Shawn Lopez Italy 48 SARS-COV-2 YES 06-05-2000
+34141 Jennifer Ortiz Italy 51 SARS-1 YES 25-06-2007
+64478 Emily Marshall Italy 26 MERS-COV YES 04-09-2009
+44441 James Higgins Italy 72 SARS-COV-2 YES 22-07-2000
+32126 David Rodriguez Italy 59 SARS-COV-2 YES 03-08-2005
+76223 Joan Thompson Italy 70 MERS-COV NO
+2969 Kim Kelly Italy 42 EVD NO
+92300 Cheryl Camacho Italy 27 COVID-2019 YES 24-05-2002
+5093 Bruce Benitez Italy 36 FLU-2018 YES 24-04-2019
+73773 Priscilla Meyer Italy 36 SARS-1 NO
+57741 Marissa Tyler Italy 43 H1N1 YES 26-12-2014
+92955 Gina Arellano Italy 70 H1N1 YES 08-04-2005
+25261 Scott Sanchez Italy 15 H1N1 NO
+41265 Brandon Bailey Italy 28 EVD YES 20-06-2005
+60684 Melinda Hodges Italy 57 SARS-1 NO
+86523 Shannon Baker Italy 32 SARS-1 NO
+57109 Erin White Italy 21 SARS-1 YES 11-12-2007
+33943 Tanner Hart Italy 75 EVD NO
+63804 David Lee Italy 70 MERS-COV YES 19-11-2014
+58501 James Marshall Italy 19 SARS-COV-2 NO
+22673 Brian Velazquez Italy 70 H1N1 YES 22-07-2014
+53625 Ivan Flowers Italy 61 MERS-COV YES 14-01-2020
+4389 Chase Jones Italy 68 H1N1 NO
+86069 Gerald Rosales Italy 25 COVID-2019 YES 12-01-2013
+47447 Troy Daniels Italy 63 H1N1 YES 22-04-2008
+88932 Samuel Guerrero Italy 43 SARS-1 YES 23-09-2017
+12942 Stephanie Cook Italy 78 H1N1 YES 05-05-2002
+13513 Daniel Ortiz Italy 21 EVD NO
+9218 Nancy Cook Italy 70 SARS-1 NO
+80296 Kimberly Black Italy 65 SARS-COV-2 NO
+20986 Tina Wright Italy 55 SARS-1 YES 09-09-2004
+45997 Monica Gomez Italy 76 MERS-COV NO
+73299 Roberta Pitts Italy 54 H1N1 YES 11-06-2000
+37952 Mark Hall Italy 50 SARS-COV-2 YES 23-12-2006
+5134 Michael Hicks Italy 54 H1N1 NO
+21834 Melissa Johnson Italy 31 MERS-COV NO
+21535 Courtney Santos Italy 54 SARS-COV-2 NO
+96437 Kathleen Hamilton Italy 55 H1N1 NO
+44532 Joseph Buck Italy 20 H1N1 NO
+39931 Kimberly Miller Italy 33 MERS-COV YES 02-08-2013
+1712 David Graham Italy 57 H1N1 YES 28-07-2018
+57852 Karen Harris Italy 77 SARS-1 YES 23-08-2002
+97976 Tanya Campbell Italy 34 COVID-2019 YES 05-11-2009
+48587 Michael Vaughn Italy 78 FLU-2018 YES 28-11-2010
+95848 Jenna Brown Italy 25 SARS-COV-2 NO
+73627 James Holloway Italy 18 FLU-2018 YES 20-03-2012
+85908 Mallory Jones Italy 55 FLU-2018 YES 11-10-2000
+29987 Michael Mcdaniel Italy 38 SARS-1 YES 14-10-2013
+61459 Candace Rodriguez Italy 35 FLU-2018 NO
+78465 Kristine Diaz Italy 28 EVD NO
+2802 Anthony Moore Italy 78 EVD NO
+66659 David Smith Italy 72 COVID-2019 NO
+31887 Emily Avery Italy 68 MERS-COV YES 20-10-2006
+1574 Ashley Smith Italy 77 FLU-2018 NO
+44676 Angela Bryant Italy 63 COVID-2019 NO
+17294 Miguel Ford Italy 58 SARS-COV-2 NO
+71954 Danielle Lewis Italy 41 SARS-COV-2 NO
+22764 Caleb Hamilton Italy 66 H1N1 YES 06-12-2011
+49274 Linda Tyler Italy 53 FLU-2018 NO
+15977 Mary Sanchez Italy 77 EVD NO
+13592 Craig Bond Italy 14 SARS-1 NO
+46597 Shannon Ward Italy 37 SARS-COV-2 NO
+23330 Martin Reyes Italy 58 FLU-2018 NO
+23556 Candice Bentley Italy 13 SARS-COV-2 NO
+69193 Edward Johnson Italy 38 COVID-2019 NO
+32003 Cynthia Jordan Italy 36 SARS-COV-2 YES 13-10-2019
+22236 Jeremiah Newman Italy 56 COVID-2019 NO
+95477 Taylor Wallace Italy 55 SARS-1 YES 01-10-2012
+36951 Hunter Mitchell Italy 60 SARS-1 YES 23-01-2013
+8878 Michelle Gibson Italy 31 SARS-1 YES 30-04-2002
+186 Kenneth Tyler Italy 29 COVID-2019 NO
+88307 Thomas Smith Italy 41 H1N1 YES 21-10-2017
+6545 Paula Guerra Italy 16 SARS-1 NO
+36303 Brendan Mcdonald Italy 71 COVID-2019 YES 24-01-2017
+38348 Kevin Smith Italy 21 SARS-1 NO
+91373 Paul Martinez Italy 17 SARS-COV-2 YES 11-03-2005
+22954 Ryan Padilla Italy 73 H1N1 YES 11-02-2019
+88448 Susan Roy Italy 57 COVID-2019 YES 16-03-2010
+19732 Sandra Lewis Italy 65 H1N1 YES 20-11-2007
+68612 Chad Ali Italy 68 EVD NO
+55684 Stephen Hansen Italy 29 H1N1 YES 23-07-2015
+32915 Gilbert Allen Italy 23 FLU-2018 NO
+1197 Bradley Garcia Italy 23 SARS-1 YES 26-10-2018
+36932 Jennifer West Italy 29 MERS-COV YES 08-10-2016
+50596 Elizabeth Wall Italy 75 H1N1 NO
+59055 Robert Young Italy 56 H1N1 NO
+84864 Jessica Smith Italy 18 H1N1 NO
+41950 Mary Mills Italy 26 COVID-2019 NO
+81387 Elizabeth Hernandez Italy 47 H1N1 YES 25-01-2005
+34027 James Jordan Italy 20 COVID-2019 NO
+83923 Eric Guerrero Italy 49 MERS-COV YES 24-09-2005
+49022 Amber Weeks Italy 53 COVID-2019 YES 14-01-2002
+52373 Ashley Schneider Italy 40 H1N1 YES 18-08-2019
+10156 Brittney Morris Italy 29 FLU-2018 YES 19-02-2015
+90934 Monique Gardner Italy 51 H1N1 NO
+83031 Matthew Morris Italy 64 SARS-COV-2 YES 03-12-2010
+97572 Denise Burke Italy 17 FLU-2018 NO
+87322 Sandra Gutierrez Italy 31 SARS-1 NO
+89021 Kim Johnson Italy 44 FLU-2018 NO
+48899 Christine Robbins Italy 67 COVID-2019 NO
+86287 Aaron James Italy 73 EVD NO
+78543 Steven Pearson Italy 24 SARS-1 YES 23-12-2000
+7146 Mary Green Italy 47 SARS-COV-2 YES 16-12-2007
+31477 Anne Wilson Italy 23 SARS-1 YES 19-07-2005
+4621 Holly Robinson Italy 17 H1N1 YES 08-12-2013
+95870 Jason Freeman Italy 76 FLU-2018 NO
+60539 Jenny Schmidt Italy 76 H1N1 NO
+66178 Mark Rice Italy 52 FLU-2018 NO
+75842 Krystal Barnes Italy 15 SARS-1 NO
+84034 Michael Savage Italy 52 H1N1 YES 22-07-2013
+28510 Frances Sullivan Italy 63 H1N1 NO
+80351 Alisha Ward Italy 29 MERS-COV YES 25-07-2002
+14438 Melissa Porter Italy 63 H1N1 YES 05-05-2010
+80545 Ashley Holmes Italy 67 COVID-2019 YES 24-10-2013
+42807 Brenda Franco Italy 55 COVID-2019 YES 03-12-2007
+36914 Jennifer Hogan Italy 20 SARS-1 NO
+10418 Teresa Baxter Italy 60 H1N1 YES 24-11-2016
+53570 Kelly Thompson Italy 68 FLU-2018 NO
+22561 Devon Robinson Italy 59 SARS-COV-2 NO
+18004 Ronnie Hale Italy 38 EVD NO
+70542 Tina Rodriguez Italy 66 MERS-COV NO
+83682 Andrew Miller Italy 37 MERS-COV NO
+17593 Carol Ellis Italy 75 MERS-COV NO
+50774 Stacy Schultz Italy 69 SARS-COV-2 NO
+3523 Jeffrey Adams Italy 68 FLU-2018 YES 30-09-2006
+73583 Rhonda Fuller Italy 42 COVID-2019 NO
+51896 Jared Clark Italy 13 MERS-COV YES 18-06-2017
+42609 Katelyn Roach Italy 51 FLU-2018 NO
+64983 Mary Chan Italy 34 SARS-1 YES 02-02-2013
+57917 Jeremy Davis Italy 47 SARS-COV-2 YES 14-05-2002
+95823 Mark Barnes Italy 16 COVID-2019 YES 06-07-2008
+70848 Derrick Richardson Italy 55 MERS-COV NO
+78974 Shannon Elliott Italy 68 SARS-COV-2 YES 31-07-2017
+44373 Gerald Peters Italy 18 EVD YES 29-06-2005
+102 Lisa Carson Italy 16 SARS-1 YES 02-06-2017
+94405 Darius Jones Italy 24 SARS-1 NO
+50862 Marissa Sanchez Italy 50 MERS-COV NO
+5352 Johnny George Italy 36 EVD YES 03-09-2008
+65898 Aaron Lozano Italy 24 H1N1 YES 15-10-2002
+64220 Hannah Webb Italy 69 COVID-2019 YES 24-09-2004
+74369 Eddie Hoover Italy 79 COVID-2019 YES 08-07-2000
+78558 Stephen Garcia Italy 72 H1N1 YES 28-12-2012
+79964 Kenneth Watkins Italy 19 COVID-2019 NO
+58574 William Griffin Italy 30 FLU-2018 NO
+86364 Lisa Russell Italy 63 EVD NO
+53420 Melanie Allen Italy 70 FLU-2018 NO
+92788 Michael Smith Italy 65 MERS-COV NO
+46694 Amber Oconnor Italy 55 MERS-COV NO
+56635 Julie Allen Italy 39 COVID-2019 YES 16-07-2009
+6456 Ashley Torres Italy 30 COVID-2019 YES 19-01-2015
+91300 Noah Davis Italy 60 EVD NO
+83012 Carmen Mcgrath Italy 76 H1N1 YES 23-05-2017
+31387 Krystal Grimes Italy 77 MERS-COV NO
+20020 Jennifer Rocha Italy 68 EVD NO
+2762 Catherine Morgan Italy 20 SARS-COV-2 YES 16-02-2000
+2654 Angie Butler Italy 47 H1N1 YES 26-06-2012
+23458 Renee Dyer Italy 50 SARS-1 NO
+62578 Jose Walker Italy 61 EVD NO
+88097 Zachary Winters Italy 31 EVD YES 03-11-2008
+80004 Tara Nelson Italy 58 SARS-1 NO
+90254 Savannah Aguirre Italy 77 FLU-2018 YES 01-08-2017
+86442 Samuel Woods Italy 40 SARS-1 NO
+99321 David Gibson Italy 47 MERS-COV YES 17-07-2008
+12731 Tanya Cruz Italy 79 FLU-2018 NO
+38620 Anna Smith Italy 72 SARS-1 NO
+98323 Mary Lawson Italy 25 H1N1 YES 19-02-2000
+3511 Marc Mcdonald Italy 51 EVD YES 19-03-2004
+15007 Desiree Smith Italy 77 FLU-2018 YES 22-01-2002
+94813 Brittany Grant Italy 17 SARS-COV-2 YES 19-06-2002
+3033 Bruce Griffin Italy 44 FLU-2018 YES 04-06-2019
+69712 Ashley Davis Italy 10 SARS-1 NO
+32101 Joanne Scott Italy 78 EVD YES 21-11-2013
+97407 Erik Medina Italy 48 FLU-2018 NO
+61607 Donna Landry Italy 46 COVID-2019 YES 27-12-2015
+13012 Richard Anthony Italy 35 H1N1 YES 30-03-2008
+26134 Karen Spears Italy 36 COVID-2019 NO
+31966 Kiara Taylor Italy 67 H1N1 NO
+72363 Diane Irwin Italy 60 SARS-1 NO
+82680 Sergio Gallegos Italy 69 FLU-2018 YES 21-11-2010
+89239 Sandra Cohen Italy 19 SARS-COV-2 NO
+90773 Samantha Ellis Italy 51 FLU-2018 YES 17-05-2010
+31709 Amber Ross Italy 46 H1N1 YES 31-05-2016
+95042 Amy Haney Italy 52 COVID-2019 NO
+32367 Laura Miller Italy 28 COVID-2019 YES 26-11-2016
+11665 Jennifer Ortiz Italy 44 FLU-2018 NO
+43169 David Wilson Italy 30 H1N1 NO
+37382 Steven Walker Italy 33 SARS-COV-2 NO
+65360 Dustin Black Italy 27 COVID-2019 YES 05-03-2013
+2071 Scott Giles Italy 37 FLU-2018 NO
+27686 Brian Hawkins Italy 16 FLU-2018 NO
+25736 Jacob Burch Italy 28 H1N1 NO
+51660 Angela Haynes Italy 62 EVD YES 08-08-2010
+27255 Aaron Cooper Italy 68 COVID-2019 YES 12-12-2001
+43260 Michael Jennings Italy 23 EVD NO
+15893 George Villarreal Italy 77 COVID-2019 YES 30-12-2016
+14618 Jennifer Matthews Italy 23 SARS-COV-2 YES 07-12-2007
+90656 Angela Mccoy Italy 30 EVD YES 28-12-2007
+23201 Daniel Schneider Italy 46 SARS-COV-2 NO
+67230 Adrienne Parsons Italy 22 H1N1 YES 31-08-2019
+51629 Timothy Taylor Italy 16 SARS-COV-2 YES 06-12-2006
+1990 Shelby Diaz Italy 45 EVD NO
+87391 Charles Hall Italy 14 COVID-2019 YES 19-02-2013
+91904 Angela Benson Italy 58 COVID-2019 NO
+7362 Elizabeth Peterson Italy 75 COVID-2019 NO
+60078 Samuel Johnson Italy 21 SARS-1 NO
+18636 David Atkinson Italy 68 SARS-COV-2 YES 05-02-2009
+22087 Ralph Williamson Italy 35 FLU-2018 YES 17-09-2006
+28173 Joseph Park Italy 34 COVID-2019 YES 17-02-2011
+52183 Tim Russell Italy 26 MERS-COV NO
+82331 Laura Mcneil Italy 23 SARS-1 NO
+16326 Zachary Kim Italy 10 SARS-1 YES 23-10-2013
+84035 Danielle Rice Italy 78 FLU-2018 NO
+71640 Stephanie Hawkins Italy 69 SARS-COV-2 NO
+29998 Susan Arellano Italy 13 EVD NO
+97685 Jennifer Cooper Italy 36 SARS-1 YES 05-03-2004
+10344 Francisco Cameron Italy 63 SARS-COV-2 NO
+85346 Michelle Jones Italy 69 MERS-COV YES 28-01-2007
+14192 Sharon Harmon Italy 67 SARS-COV-2 NO
+82039 Julian Martinez Italy 65 FLU-2018 NO
+30012 Jasmine Jordan Italy 29 SARS-COV-2 NO
+77555 Bruce Hudson Italy 25 FLU-2018 NO
+65969 Cheryl Martin Italy 41 SARS-COV-2 NO
+84337 Bradley Wagner Italy 20 FLU-2018 YES 30-10-2011
+98621 Jared Walker Italy 43 COVID-2019 NO
+52146 Kelly Williams Italy 64 COVID-2019 NO
+6520 Charles Dickson Italy 30 SARS-1 NO
+43435 Christina Raymond Italy 77 MERS-COV YES 09-05-2017
+12140 Donald Johnson Italy 79 FLU-2018 NO
+52973 David Robinson Italy 66 MERS-COV NO
+87372 Jorge Bowman Italy 78 FLU-2018 YES 28-02-2016
+4171 Jennifer Doyle Italy 73 H1N1 YES 05-08-2016
+12089 Whitney Hendrix Italy 27 COVID-2019 YES 27-12-2009
+68055 Ryan Beck Italy 69 COVID-2019 YES 13-07-2007
+12927 Ashley Gray Italy 24 COVID-2019 YES 29-03-2011
+18293 James Butler Italy 38 H1N1 YES 23-03-2012
+66595 Sherry Klein Italy 53 MERS-COV YES 20-12-2000
+19352 William Martinez Italy 11 COVID-2019 YES 03-02-2005
+27566 David Stein Italy 46 FLU-2018 YES 11-02-2012
+8997 James Welch Italy 33 SARS-COV-2 YES 13-05-2009
+83644 Bryan Murray Italy 56 COVID-2019 NO
+37757 Robert Terry Italy 51 SARS-COV-2 YES 29-06-2004
+61278 Kathleen Greene Italy 13 H1N1 YES 17-10-2019
+21711 Michael Schwartz Italy 28 H1N1 YES 29-12-2004
+88480 Katelyn Dougherty Italy 46 SARS-COV-2 NO
+19502 William Jones Italy 38 COVID-2019 NO
+33018 Patrick Pena Italy 61 SARS-COV-2 YES 10-09-2008
+49403 James Williams Italy 73 H1N1 YES 25-07-2018
+58386 Trevor Snyder Italy 18 FLU-2018 NO
+93529 Ryan English Italy 43 EVD NO
+4211 Tara Lewis Italy 47 COVID-2019 NO
+38818 Denise Barrett Italy 70 EVD NO
+64076 Crystal Rice Italy 33 EVD YES 30-05-2012
+88816 Michael Walton Italy 70 EVD NO
+85928 Kevin Butler Italy 55 EVD NO
+34292 Dominique Shelton Italy 41 MERS-COV YES 25-08-2011
+39071 Stephen Chavez Italy 12 MERS-COV NO
+87371 Bradley Jackson Italy 35 SARS-COV-2 YES 18-02-2014
+93340 Cindy Willis Italy 48 COVID-2019 YES 01-07-2005
+64092 Michael Ramos Italy 44 EVD NO
+70229 Jane Gonzalez Italy 34 EVD NO
+21745 Tanya Williamson Italy 71 H1N1 YES 29-01-2013
+89429 Tammy Brown Italy 60 SARS-1 NO
+38421 Troy Mendoza Italy 71 H1N1 NO
+24000 Stacey Hardy Italy 22 EVD NO
+67447 Gabrielle Reed Italy 47 MERS-COV NO
+4756 Gregory Smith Italy 78 SARS-COV-2 NO
+24059 Carolyn Stevenson Italy 56 FLU-2018 NO
+58076 Andrea Owens Italy 67 SARS-COV-2 YES 18-01-2013
+2729 Kayla Brown Italy 74 SARS-1 NO
+43831 Albert Levine Italy 57 FLU-2018 YES 31-07-2004
+52567 Michelle Kaufman Italy 68 SARS-COV-2 NO
+92540 Samantha Le Italy 77 EVD YES 12-07-2010
+25299 Jeffrey White Italy 66 COVID-2019 NO
+64721 Phillip Pierce Italy 79 EVD NO
+22005 Michael Vazquez Italy 56 H1N1 NO
+61136 Lori Taylor Italy 65 SARS-COV-2 NO
+25097 Emily Howard Italy 49 MERS-COV YES 15-05-2020
+40766 Thomas Martin Italy 22 SARS-COV-2 NO
+89695 Philip Holmes Italy 45 EVD NO
+7119 Kyle Gonzalez Italy 39 FLU-2018 YES 14-07-2020
+75267 Amanda Hayes Italy 79 MERS-COV YES 17-12-2015
+96365 Monica Barton Italy 36 SARS-1 NO
+57742 Victoria Francis Italy 56 H1N1 YES 19-11-2016
+75712 Alex Hale Italy 41 SARS-COV-2 NO
+63936 Michael Walker Italy 78 EVD YES 08-08-2020
+31202 Mary Wells Italy 27 COVID-2019 YES 20-05-2019
+37396 Nancy Salinas Italy 27 MERS-COV YES 14-10-2006
+66053 Nathaniel Jackson Italy 39 SARS-COV-2 NO
+99354 Ruth Arroyo Italy 56 SARS-1 NO
+51815 Cheryl Roberts Italy 63 SARS-1 YES 04-01-2015
+67070 Bradley Guerrero Italy 74 EVD YES 26-07-2009
+8948 Luis Edwards Italy 62 SARS-COV-2 YES 29-07-2005
+2019 Robert Allen Italy 16 COVID-2019 YES 19-05-2020
+95622 Heather Dillon Italy 17 H1N1 YES 28-10-2010
+43567 Eduardo Coleman Italy 17 SARS-1 NO
+66721 Adrian Riddle Italy 20 MERS-COV YES 13-10-2013
+79509 Christine Weaver Italy 72 H1N1 NO
+71651 Alexander Lutz Italy 43 MERS-COV NO
+7744 Robert Clark Italy 41 COVID-2019 YES 31-01-2007
+52636 Adam Coleman Italy 65 FLU-2018 NO
+40730 Aaron Farmer Italy 71 COVID-2019 YES 17-08-2010
+34703 Cheryl Rodriguez Italy 65 SARS-COV-2 YES 27-10-2014
+42681 Lori Simmons Italy 21 SARS-COV-2 NO
+14551 Briana Villanueva Italy 29 SARS-1 YES 13-12-2020
+82270 Jennifer James Italy 76 EVD NO
+6625 Kelly Hernandez Italy 75 MERS-COV NO
+54351 Anthony Henry Italy 54 FLU-2018 YES 03-03-2008
+47980 Deborah Khan Italy 29 MERS-COV NO
+51992 Alyssa Wilson Italy 30 SARS-1 NO
+25221 Martin Watson Italy 16 COVID-2019 YES 12-05-2017
+13484 Connor Keith Italy 41 MERS-COV NO
+43310 Charles Gray Italy 61 H1N1 YES 31-03-2009
+36102 Darius Roy Italy 66 COVID-2019 YES 13-02-2010
+50658 Heidi Berger Italy 56 FLU-2018 YES 17-01-2017
+15205 Jonathan Sanchez Italy 48 H1N1 YES 17-04-2017
+72691 Jillian Winters Italy 37 EVD NO
+73290 Donald Brown Italy 41 FLU-2018 NO
+51516 Heather Roth Italy 27 H1N1 NO
+17293 Savannah Brown Italy 31 FLU-2018 YES 02-12-2003
+80825 Jodi Le Italy 20 COVID-2019 NO
+91823 Jennifer Oliver Italy 51 H1N1 NO
+32893 Katherine Hamilton Italy 23 SARS-COV-2 YES 18-05-2011
+93949 Colton Frazier Italy 39 EVD YES 27-07-2017
+58268 Adam King Italy 41 COVID-2019 YES 28-09-2012
+62647 Adrian Cruz Italy 18 EVD NO
+45409 April Morris Italy 15 FLU-2018 YES 14-05-2008
+72601 Christopher Lopez Italy 44 FLU-2018 YES 06-04-2012
+96291 Elijah Jones Italy 17 COVID-2019 NO
+70208 Cole Blackwell Italy 41 H1N1 YES 15-06-2016
+50061 Micheal Davis Italy 47 MERS-COV NO
+55881 Randy Edwards Italy 60 EVD YES 25-12-2005
+70611 Christina Ellis Italy 45 SARS-COV-2 NO
+88727 Michael Scott Italy 77 SARS-COV-2 YES 11-06-2004
+94048 Patricia Thomas Italy 73 H1N1 NO
+97526 Melissa Small Italy 60 SARS-COV-2 NO
+4129 David Hogan Italy 79 EVD YES 30-08-2014
+74175 Thomas Hooper Italy 68 SARS-1 YES 03-07-2016
+83089 Dennis Anderson Italy 70 H1N1 NO
+87080 Blake Robles Italy 45 FLU-2018 NO
+2060 Sean Vega Italy 30 MERS-COV NO
+54727 Paula Mitchell Italy 29 EVD NO
+54767 Amber Turner Italy 36 SARS-COV-2 YES 23-03-2017
+19796 Jennifer Stein Italy 55 FLU-2018 NO
+37120 Aaron Marsh Italy 77 EVD YES 07-07-2007
+13901 Ann Gonzalez Italy 16 COVID-2019 YES 21-05-2011
+16691 Caroline Marshall Italy 25 H1N1 NO
+47304 Douglas Jones Italy 32 SARS-1 YES 17-09-2006
+24044 Holly Owens Italy 46 H1N1 YES 05-11-2010
+70368 Robert Strickland Italy 37 H1N1 NO
+91456 Robert Wise Italy 30 MERS-COV YES 02-06-2003
+65772 Robert Bradley Italy 27 FLU-2018 NO
+96076 Nicole Moore Italy 38 MERS-COV YES 06-08-2013
+83461 Russell Taylor Italy 69 COVID-2019 YES 30-10-2004
+27948 Maria Garner Italy 72 EVD YES 13-09-2003
+10638 Nicole Kent Italy 37 EVD YES 24-10-2005
+24542 Tammie Rhodes Italy 38 SARS-COV-2 YES 24-11-2009
+13960 Donald Petersen Italy 72 SARS-COV-2 YES 17-07-2019
+40429 Gina Austin Italy 27 COVID-2019 NO
+79955 Nathaniel Johnson Italy 74 MERS-COV YES 14-01-2010
+54595 Valerie Hayes Italy 18 COVID-2019 YES 02-06-2001
+63737 Paul Howard Italy 79 COVID-2019 NO
+44139 Edward Morrow Italy 55 SARS-COV-2 YES 16-01-2001
+21759 Darryl Payne Italy 32 MERS-COV YES 11-05-2016
+28675 Stephen Garcia Italy 29 SARS-1 YES 07-11-2012
+28326 Jonathan Smith Italy 65 SARS-COV-2 NO
+57311 Henry Phillips Italy 34 EVD NO
+84381 Kyle Larsen Italy 27 MERS-COV NO
+25201 James Carroll Italy 67 H1N1 YES 13-03-2009
+80863 Brittney Cross Italy 79 MERS-COV YES 26-09-2002
+1062 Nicholas Spears Italy 40 FLU-2018 YES 24-03-2017
+82585 Charles Walton Italy 11 MERS-COV NO
+5024 David Cardenas Italy 48 EVD NO
+84472 Kevin Rice Italy 73 EVD NO
+96808 Erin Dalton Italy 67 EVD YES 31-08-2007
+32309 Kevin Hill Italy 26 FLU-2018 YES 03-04-2006
+51667 Derek Phillips Italy 14 FLU-2018 YES 21-05-2019
+44899 John Hernandez Italy 72 SARS-COV-2 NO
+19997 Raymond Thomas Italy 46 MERS-COV YES 19-04-2009
+81789 Stacey Cole Italy 79 FLU-2018 YES 23-09-2013
+58925 Daniel Duran Italy 76 COVID-2019 YES 19-05-2016
+25173 Timothy Johnson Italy 11 MERS-COV NO
+27525 Carrie Steele Italy 51 SARS-COV-2 YES 01-04-2001
+92971 Gary Hendricks Italy 48 COVID-2019 NO
+34532 Emily Santiago Italy 64 SARS-1 YES 26-04-2017
+51606 Christina Myers Italy 27 COVID-2019 YES 23-05-2009
+89113 Bradley Fowler Italy 62 SARS-1 NO
+19532 Michael Harrison Italy 61 SARS-1 NO
+76176 Billy Proctor Italy 45 SARS-1 NO
+53152 Johnny Lewis Italy 44 FLU-2018 YES 11-05-2019
+90565 Kimberly Owens Italy 65 MERS-COV YES 12-03-2016
+94688 Melissa Hansen Italy 59 FLU-2018 NO
+81590 Jennifer Griffin Italy 76 H1N1 NO
+43599 Christopher Nichols Italy 38 H1N1 YES 17-08-2011
+39893 Jeffery Thomas Italy 43 SARS-1 NO
+78916 Corey Smith Italy 65 EVD YES 26-02-2007
+41137 Lori Smith Italy 42 SARS-COV-2 YES 10-08-2004
+49876 Gloria Moore Italy 21 MERS-COV NO
+99775 Marie Shaffer Italy 50 SARS-COV-2 YES 08-06-2015
+9585 Michael Jackson Italy 63 COVID-2019 YES 29-05-2017
+82721 Michael Lewis Italy 54 SARS-1 NO
+65732 Julie Weber Italy 44 FLU-2018 NO
+50844 Sherry Long Italy 10 SARS-COV-2 YES 24-10-2001
+66396 Amy Guerrero Italy 34 COVID-2019 NO
+88221 Michelle Donaldson Italy 31 SARS-COV-2 NO
+15649 Bryan Thompson Italy 16 MERS-COV YES 31-03-2019
+87396 Mark Sanders Italy 73 EVD NO
+67814 Robert Bruce Italy 15 EVD YES 27-07-2003
+23727 Grant Young Italy 36 COVID-2019 YES 04-01-2011
+29712 Lance Gutierrez Italy 36 MERS-COV NO
+12996 Jonathon Martinez Italy 46 MERS-COV YES 30-03-2019
+59233 Jacob Hardy Italy 63 COVID-2019 NO
+92510 Brian Orr Italy 41 EVD NO
+40352 Brad Davis Italy 26 EVD NO
+73174 Jeffrey Mcclure Italy 67 SARS-COV-2 YES 15-10-2013
+78428 Melissa Lester Italy 78 MERS-COV YES 07-01-2010
+16700 Alicia Arellano Italy 45 SARS-1 YES 01-04-2000
+77464 Jennifer Ponce Italy 32 SARS-1 YES 19-01-2007
+50764 Anne Clarke Italy 46 SARS-COV-2 NO
+2558 Jill Berry Italy 44 EVD NO
+33254 Jennifer Krause Italy 66 MERS-COV NO
+93723 Donna Sullivan Italy 10 SARS-1 YES 23-12-2013
+8838 Jonathan Arias Italy 24 EVD YES 28-05-2007
+39224 Candice Morrison Italy 29 SARS-COV-2 NO
+19405 Juan Thompson Italy 46 EVD YES 15-04-2008
+31791 Wayne Roberts Italy 60 FLU-2018 YES 08-02-2004
+3320 Kayla Cook Italy 71 MERS-COV YES 22-07-2005
+14424 Anna Vance Italy 50 EVD NO
+91913 Danielle Pierce Italy 67 SARS-1 NO
+16393 Jerry Wilson Italy 69 EVD NO
+12347 Jennifer Martin Italy 66 SARS-COV-2 NO
+47537 Alicia Martin Italy 56 H1N1 YES 17-08-2002
+66370 Sara Hunter Italy 16 SARS-1 YES 02-12-2006
+97593 Erica Sullivan Italy 29 SARS-1 YES 13-05-2008
+29816 John Byrd Italy 10 SARS-1 YES 13-08-2016
+63440 Lauren Owens Italy 79 FLU-2018 YES 07-09-2009
+52799 David Lowe Italy 67 SARS-1 YES 17-11-2003
+55954 April Byrd Italy 46 H1N1 YES 01-06-2001
+81263 Alejandra Watkins Italy 44 EVD YES 10-02-2012
+76415 Anthony Taylor Italy 68 MERS-COV YES 01-09-2016
+20041 Kelly Green Italy 45 SARS-COV-2 NO
+82375 Megan Charles Italy 30 H1N1 YES 19-03-2004
+46112 Jeffery Lopez Italy 13 H1N1 YES 13-09-2009
+42525 Sarah Kane Italy 35 SARS-COV-2 YES 12-06-2010
+26041 Carrie Martinez Italy 66 EVD NO
+89459 Gail Garcia Italy 12 SARS-COV-2 YES 07-12-2010
+62867 Alan Cisneros Italy 75 SARS-1 NO
+88157 Eugene Price Italy 46 EVD NO
+45621 Mark Solomon Italy 37 SARS-COV-2 NO
+54537 Abigail Combs Italy 33 H1N1 NO
+57457 David Carter Italy 55 EVD NO
+7856 Alejandro Leonard Italy 66 H1N1 YES 24-09-2010
+90157 Douglas Hendrix Italy 45 EVD NO
+70523 Thomas Garcia Italy 25 SARS-1 YES 06-08-2000
+86156 Elizabeth Baker Italy 42 EVD YES 20-11-2004
+26526 Jeffrey Boone Italy 51 FLU-2018 NO
+60518 Jenny Moore Italy 24 FLU-2018 NO
+10800 Hannah Kelley Italy 34 COVID-2019 NO
+17768 Judith Rangel Italy 25 EVD NO
+31745 Charles Lane Italy 34 EVD YES 10-03-2004
+72285 Adam Rodriguez Italy 23 SARS-COV-2 YES 02-12-2016
+40507 Michael Stein Italy 67 H1N1 NO
+4195 Matthew Golden Italy 49 SARS-COV-2 NO
+72379 Amy Norris Italy 56 FLU-2018 YES 02-12-2005
+76197 Christopher Simmons Italy 34 SARS-COV-2 YES 14-03-2003
+53058 Christopher Stout Italy 29 COVID-2019 YES 01-01-2013
+75143 Heather Valenzuela Italy 65 FLU-2018 NO
+20956 Melinda Davis Italy 15 EVD YES 04-07-2010
+14857 Jonathan Howard Italy 63 SARS-COV-2 YES 27-03-2020
+1986 Robert Wiley Italy 55 MERS-COV YES 16-01-2012
+55781 Joshua Lewis Italy 78 COVID-2019 YES 24-02-2016
+5853 Jamie Bridges Italy 50 SARS-1 YES 20-10-2002
+91803 Gina Ross Italy 62 SARS-COV-2 YES 26-02-2009
+43527 Jessica Cervantes Italy 68 COVID-2019 NO
+49661 Jennifer Galvan Italy 47 SARS-1 YES 19-11-2017
+47148 Christopher Wheeler Italy 67 SARS-COV-2 NO
+98655 Crystal Gonzalez Italy 45 SARS-COV-2 YES 21-01-2017
+38477 Jennifer Harris Italy 19 SARS-1 YES 11-06-2019
+90948 Ryan Scott Italy 43 H1N1 YES 16-06-2007
+30577 Laura Jackson Italy 23 SARS-COV-2 NO
+12115 Todd Medina Italy 34 SARS-COV-2 NO
+68692 Jennifer Butler Italy 73 H1N1 NO
+44058 Carolyn Frye Italy 44 MERS-COV YES 11-10-2017
+54805 Tommy Gutierrez Italy 70 SARS-COV-2 YES 04-01-2007
+13287 Luis Dennis Italy 63 SARS-COV-2 YES 01-12-2010
+91439 Sherri Cook Italy 16 MERS-COV NO
+4346 Miranda Johnson Italy 32 FLU-2018 YES 13-07-2012
+44276 Richard Nash Italy 67 EVD YES 28-06-2020
+16234 Sandra Castro Italy 20 MERS-COV YES 10-12-2017
+69726 Christopher Thomas Italy 25 SARS-1 YES 25-08-2000
+77032 Richard Miller Italy 56 H1N1 NO
+91214 Michael Wood Italy 24 SARS-COV-2 NO
+25803 William Jones Italy 61 SARS-1 YES 25-08-2012
+35590 Jennifer Arnold Italy 33 COVID-2019 NO
+8571 Rachel Rodgers Italy 44 FLU-2018 YES 24-09-2001
+74578 Matthew Rodriguez Italy 13 SARS-COV-2 YES 19-11-2003
+2243 Leslie Ward Italy 69 EVD YES 17-04-2010
+18803 Marissa Nash Italy 61 MERS-COV NO
+40274 Cynthia Peterson Italy 67 H1N1 YES 25-05-2019
+31047 Andre Hunt Italy 41 H1N1 NO
+4846 Steven Monroe Italy 76 H1N1 YES 27-11-2016
+97856 Christopher Johnson Italy 21 MERS-COV YES 01-04-2020
+81606 Kristen Johnson Italy 22 COVID-2019 YES 05-05-2001
+24404 Ryan Green Italy 17 COVID-2019 YES 10-06-2005
+48667 Lisa Walsh Italy 62 SARS-COV-2 YES 16-01-2004
+64587 Karen Lynch Italy 46 H1N1 YES 13-11-2010
+93509 Jacob Becker Italy 75 COVID-2019 NO
+76062 Luis Smith Italy 79 EVD YES 26-05-2007
+70933 Antonio Shepherd Italy 34 H1N1 YES 14-10-2006
+60820 Lindsey Reed Italy 62 EVD NO
+61233 Patricia Gonzales Italy 66 H1N1 NO
+42167 Benjamin Murphy Italy 14 COVID-2019 NO
+46833 Amy Morris Italy 19 FLU-2018 NO
+78183 Michelle Schneider Italy 28 H1N1 YES 08-09-2011
+4710 Jeffrey Ferguson Italy 34 H1N1 NO
+80848 Dana Rhodes Italy 78 H1N1 NO
+12045 Timothy Garcia Italy 11 SARS-1 NO
+24841 Lee Davis Italy 28 COVID-2019 NO
+37177 James Payne Italy 30 COVID-2019 YES 10-05-2004
+69799 Mark Cook Italy 54 H1N1 NO
+82891 Christopher Castro Italy 75 MERS-COV NO
+94600 Kristen Torres Italy 72 EVD YES 05-02-2018
+5450 Jessica Sharp Italy 67 FLU-2018 NO
+85094 Joseph Barnett Italy 59 H1N1 NO
+14196 John Melton Italy 25 SARS-1 NO
+49737 Robert Jarvis Italy 22 MERS-COV YES 12-05-2008
+3026 Nancy Johnson Italy 27 MERS-COV NO
+49862 Megan Floyd Italy 33 FLU-2018 YES 19-07-2003
+16709 Anthony Stafford Italy 65 SARS-COV-2 NO
+26439 Anna Gonzalez Italy 46 SARS-1 NO
+77775 Frances Wood Italy 70 SARS-COV-2 YES 14-07-2005
+11059 Jack Conner Italy 28 SARS-COV-2 NO
+97386 Donald Rodriguez Italy 72 FLU-2018 YES 10-06-2010
+70797 Monica Smith Italy 16 FLU-2018 YES 06-03-2020
+75244 Barry Porter Italy 15 H1N1 NO
+87133 Jonathan Wiley Italy 43 FLU-2018 YES 28-03-2000
+14470 David Wallace Italy 46 COVID-2019 NO
+72908 Douglas Williams Italy 51 SARS-COV-2 NO
+54190 Ann Vargas Italy 49 H1N1 NO
+88852 Danny Hernandez Italy 12 SARS-COV-2 YES 03-05-2015
+47986 Jennifer Calhoun Italy 28 FLU-2018 NO
+59635 David Kelley Italy 28 SARS-1 YES 07-06-2019
+38675 Eric Morgan Italy 43 SARS-1 NO
+9374 Michael Lopez Italy 56 MERS-COV NO
+95030 Lee Robinson Italy 40 SARS-COV-2 NO
+97903 Richard Garcia Italy 77 COVID-2019 NO
+84520 Chad Weeks Italy 70 SARS-1 NO
+21905 Toni Williams Italy 13 SARS-1 YES 10-09-2005
+22787 Brett Pace Italy 26 H1N1 YES 09-01-2020
+77431 Dawn Walters Italy 79 H1N1 YES 08-08-2015
+55021 Luke Scott Italy 73 COVID-2019 NO
+95230 Jessica Harrison Italy 71 MERS-COV YES 07-04-2018
+21585 Mark Collins Italy 66 MERS-COV YES 06-06-2019
+37283 Michael Banks Italy 55 SARS-1 NO
+50693 Gregory Riggs Italy 25 SARS-1 YES 24-08-2013
+82546 Frank Holland Italy 35 SARS-1 NO
+91729 Wendy Newton Italy 47 EVD NO
+10633 Lauren Rosario Italy 39 EVD YES 31-03-2000
+21298 Catherine Cooper Italy 34 SARS-1 YES 29-10-2007
+73481 Charles Harris Italy 55 EVD YES 02-01-2019
+75243 Chad Martin Italy 41 SARS-COV-2 NO
+60008 Brittany Shaw Italy 11 SARS-1 YES 01-02-2014
+89781 Alyssa Schwartz Italy 63 SARS-COV-2 YES 25-02-2010
+86433 Melissa Andrade Italy 13 H1N1 NO
+75664 Melissa Lynch Italy 22 SARS-COV-2 NO
+94499 Katherine Donovan Italy 59 MERS-COV YES 06-07-2008
+43353 Daniel Owens Italy 11 SARS-1 NO
+65134 Cindy Ritter Italy 11 MERS-COV YES 08-10-2006
+24326 Nicole Matthews Italy 59 SARS-COV-2 YES 15-01-2002
+31475 Lawrence Kelley Italy 61 MERS-COV NO
+80321 George Roberts Italy 51 COVID-2019 NO
+24144 Rebecca Montoya Italy 37 H1N1 NO
+59187 Elaine Velazquez Italy 44 SARS-COV-2 YES 31-03-2006
+47993 Cole Stone Italy 78 EVD YES 12-01-2015
+98799 Lonnie Phillips Italy 10 H1N1 YES 20-02-2014
+61751 Anthony Anderson Italy 19 COVID-2019 YES 22-02-2013
+42327 Danielle Glover Italy 28 MERS-COV NO
+7273 Alex Moreno Italy 77 SARS-1 NO
+51654 Danielle Bell Italy 33 SARS-1 NO
+57280 Dakota Simmons Italy 74 H1N1 NO
+36699 Joshua Melton Italy 62 EVD YES 19-11-2017
+11344 Leonard Campbell Italy 12 FLU-2018 NO
+87047 Oscar Martin Italy 62 SARS-1 YES 20-08-2014
+87927 Brandon Allen Italy 74 SARS-1 NO
+56566 Steven Hardin Italy 20 SARS-1 NO
+95143 Lori Jordan Italy 49 FLU-2018 NO
+33232 Amanda Lopez Italy 60 H1N1 NO
+67982 Brandy Dominguez Italy 41 H1N1 YES 27-03-2018
+39177 Nicholas Beck Italy 20 FLU-2018 NO
+73176 James Harris Italy 42 FLU-2018 NO
+60281 Darren Harvey Italy 23 H1N1 NO
+56866 Abigail Henry Italy 49 SARS-1 NO
+54423 Brandon Rodriguez Italy 62 EVD YES 13-03-2013
+21588 Crystal Ward Italy 34 COVID-2019 YES 04-11-2015
+33882 James Rhodes Italy 16 SARS-COV-2 NO
+44869 Cole Fisher Italy 11 COVID-2019 NO
+83181 James Harvey Italy 38 SARS-COV-2 NO
+43092 Jason Kim Italy 43 MERS-COV YES 04-07-2007
+29713 Stephanie Walsh Italy 41 FLU-2018 YES 13-01-2009
+39908 Drew Brown Italy 47 EVD NO
+87707 Jeffrey Parker Italy 25 COVID-2019 NO
+95196 Debbie Graham Italy 31 FLU-2018 YES 13-10-2003
+44768 Sharon Powell Italy 38 EVD NO
+89421 Stephanie Lee Italy 12 COVID-2019 YES 01-03-2016
+56351 Grant Fitzgerald Italy 22 SARS-1 YES 14-11-2008
+12917 Denise Brown Italy 77 MERS-COV NO
+1506 Stacey Dunn Italy 49 H1N1 NO
+54196 Emily Nguyen Italy 71 FLU-2018 NO
+55601 Jordan Green Italy 30 SARS-COV-2 YES 26-09-2010
+81755 Mark Duncan Italy 42 H1N1 YES 18-11-2016
+83297 Krista Phillips Italy 65 SARS-1 NO
+31044 Tara Guerra Italy 21 MERS-COV YES 10-07-2013
+36411 Gerald Cisneros Italy 19 H1N1 NO
+68553 Jason White Italy 29 MERS-COV YES 15-04-2002
+86428 Samantha Chaney Italy 37 COVID-2019 NO
+58169 Kyle Phillips Italy 45 SARS-1 NO
+31007 James Becker Italy 43 MERS-COV NO
+97170 Brian Fitzgerald Italy 15 SARS-COV-2 NO
+48283 Amanda Brown Italy 25 H1N1 NO
+37494 Ashley Morris Italy 48 EVD NO
+66719 Martha Jones Italy 40 SARS-COV-2 NO
+23887 Kiara Walls Italy 16 SARS-COV-2 YES 08-09-2005
+27727 Kyle Bell Italy 65 H1N1 YES 01-02-2002
+23978 Robin Rhodes Italy 29 SARS-COV-2 NO
+70506 Jessica Jackson Italy 57 COVID-2019 NO
+2291 David Klein Italy 54 H1N1 NO
+55887 Stacy Salinas Italy 20 FLU-2018 NO
+92022 Timothy Cuevas Italy 14 COVID-2019 NO
+79243 Jean Flores Italy 75 SARS-COV-2 NO
+12656 Erin Hernandez Italy 17 FLU-2018 YES 24-12-2003
+87146 Matthew Smith Italy 48 H1N1 NO
+60833 Veronica Aguirre Italy 58 H1N1 YES 21-10-2009
+69685 Michael Hernandez Italy 37 SARS-COV-2 YES 10-06-2002
+20971 Jacqueline Hampton Italy 41 SARS-COV-2 YES 08-09-2002
+70105 Jake Ruiz Italy 76 COVID-2019 NO
+6489 Jeffrey Garcia Italy 40 EVD YES 14-04-2017
+22666 Jonathon Lee Italy 16 EVD NO
+59371 Anthony Gillespie Italy 60 COVID-2019 YES 30-10-2019
+45705 Olivia Taylor Italy 58 SARS-COV-2 NO
+15133 David Wright Italy 58 FLU-2018 NO
+25869 John Brown Italy 68 MERS-COV NO
+6012 Cynthia Pham Italy 17 FLU-2018 NO
+64353 Robert Johnson Italy 79 MERS-COV YES 05-12-2008
+75848 Kenneth Anderson Italy 35 MERS-COV YES 09-10-2010
+4729 John Fernandez Italy 13 H1N1 YES 24-07-2012
+20268 Erika Rodgers Italy 23 COVID-2019 NO
+44364 Antonio Cook Italy 44 H1N1 YES 07-12-2015
+67745 Kara Zuniga Italy 65 FLU-2018 NO
+98811 Jose Mills Italy 15 COVID-2019 YES 21-01-2016
+31230 Lisa Butler Italy 38 COVID-2019 YES 15-12-2018
+20837 Alyssa Gutierrez Italy 27 MERS-COV YES 02-04-2020
+33138 Hannah Johnson Italy 14 FLU-2018 NO
+28411 Matthew Johnson Italy 52 FLU-2018 YES 07-11-2014
+13066 John Pineda Italy 22 FLU-2018 NO
+13680 Jonathan Gomez Italy 78 MERS-COV YES 22-02-2010
+47648 Sharon Wade Italy 42 FLU-2018 NO
+17724 Victoria Gillespie Italy 50 SARS-1 NO
+65452 Stacy Rios Italy 58 MERS-COV YES 07-11-2006
+20659 Mary Hubbard Italy 33 COVID-2019 NO
+95123 Christopher Francis Italy 58 MERS-COV NO
+53100 Jesse Hernandez Italy 79 FLU-2018 YES 20-03-2001
+92349 Shawn Morton Italy 37 COVID-2019 NO
+17431 Curtis Thornton Italy 64 COVID-2019 YES 08-10-2019
+42678 Gina Paul Italy 32 SARS-COV-2 NO
+91187 Deborah Carroll Italy 72 SARS-COV-2 YES 04-06-2004
+74176 Christopher Collins Italy 36 EVD NO
+27861 Daniel Mason Italy 76 H1N1 NO
+55053 Leslie Olson Italy 52 SARS-COV-2 NO
+12748 Christopher Griffin Italy 45 SARS-1 NO
+70800 Diana Hall Italy 78 H1N1 YES 04-03-2007
+35697 Jonathon Morgan Italy 59 COVID-2019 NO
+72237 Katrina Stevenson Italy 21 FLU-2018 NO
+56607 Robert Robinson Italy 79 H1N1 NO
+52717 Michael Rogers Italy 22 COVID-2019 YES 13-12-2015
+38733 Russell Barnes Italy 13 COVID-2019 NO
+98067 Emily Wong Italy 16 H1N1 NO
+6227 Kevin Shepard Italy 65 SARS-COV-2 NO
+49406 Erica Short Italy 41 COVID-2019 YES 31-07-2008
+25516 John Martinez Italy 15 SARS-COV-2 NO
+95619 Christina Lawrence Italy 54 SARS-COV-2 NO
+87406 Bryan Hill Italy 60 MERS-COV YES 22-07-2012
+20414 Ronald Jones Italy 54 SARS-COV-2 NO
+76126 Dana Silva Italy 30 COVID-2019 NO
+46434 Alicia Green Italy 19 MERS-COV YES 08-01-2012
+7334 Corey Floyd Italy 77 COVID-2019 YES 22-03-2020
+97371 Jeremy Cain Italy 55 SARS-1 NO
+97977 Regina Carroll Italy 46 MERS-COV YES 23-04-2011
+76990 Jason Bailey Italy 27 FLU-2018 NO
+25973 David Roberson Italy 20 SARS-1 NO
+23174 Bruce Clarke Italy 22 COVID-2019 NO
+43838 Matthew Moore Italy 74 MERS-COV NO
+13046 Jason Smith Italy 79 SARS-1 YES 28-10-2009
+46732 Timothy Miller Italy 58 FLU-2018 NO
+17356 Mary Roy Italy 51 COVID-2019 YES 27-02-2020
+21568 Geoffrey Cooper Italy 36 SARS-COV-2 YES 15-12-2010
+96141 Dennis Shields Italy 74 SARS-1 NO
+79887 Mark Foley Italy 15 COVID-2019 NO
+4853 Andres Love Italy 21 SARS-COV-2 YES 16-09-2001
+38009 Dana Watts Italy 61 MERS-COV YES 02-07-2011
+73844 Michelle Turner Italy 78 SARS-1 YES 26-10-2005
+26946 Christopher Collins Italy 52 H1N1 NO
+2979 Vanessa Ramirez Italy 20 MERS-COV NO
+79494 Douglas Escobar Italy 18 FLU-2018 YES 24-12-2000
+97230 Jacob Obrien Italy 62 COVID-2019 YES 28-07-2009
+69983 Gina Cox Italy 20 EVD NO
+56831 William Owen Italy 49 EVD NO
+38492 Brian Medina Italy 36 H1N1 NO
+20652 Danielle Payne Italy 13 SARS-1 YES 06-01-2013
+93199 Jacob Austin Italy 41 FLU-2018 NO
+68445 Cody Harris Italy 77 FLU-2018 NO
+29414 Michael Adkins Italy 29 MERS-COV NO
+15710 Terri Martinez Italy 55 SARS-COV-2 NO
+33827 Jonathan Vincent Italy 55 SARS-COV-2 YES 01-03-2012
+52356 Anthony Little Italy 77 MERS-COV YES 12-09-2019
+63215 Pedro Martinez Italy 27 EVD NO
+11027 Kristine Gonzales Italy 62 MERS-COV NO
+92129 Brent Kelly Italy 62 SARS-1 NO
+94820 Nicholas Miller Italy 49 EVD YES 14-03-2018
+76886 Benjamin Brown Italy 43 H1N1 YES 04-01-2017
+3067 Jason Smith Italy 71 MERS-COV NO
+5340 Ashley Ramirez Italy 15 H1N1 NO
+78812 Randall Romero Italy 52 COVID-2019 NO
+91958 Michael Moses Italy 63 EVD NO
+91486 Dean Costa Italy 35 COVID-2019 NO
+75072 Jacob Odonnell Italy 43 EVD YES 29-05-2020
+46727 Crystal Dudley Italy 17 FLU-2018 YES 13-02-2017
+2181 Brandon Schneider Italy 67 COVID-2019 NO
+30092 Amy Bush Italy 57 SARS-COV-2 YES 05-10-2001
+38843 Randall Solis Italy 46 H1N1 NO
+23135 Vincent Carrillo Italy 41 SARS-1 NO
+4353 Darlene Douglas Italy 77 FLU-2018 NO
+34818 Amanda Lee Italy 72 SARS-COV-2 YES 31-10-2003
+36553 Erica Christensen Italy 17 EVD NO
+23485 Gina Rojas Italy 51 SARS-1 NO
+94389 Jeremy Smith Italy 24 SARS-COV-2 YES 19-06-2009
+43397 Matthew Hodge Italy 36 COVID-2019 NO
+42553 Tonya Myers Italy 53 H1N1 NO
+33698 Jeffrey Davis Italy 73 SARS-COV-2 YES 08-08-2011
+13026 Latasha Mercado Italy 24 SARS-1 YES 27-10-2006
+73599 Phillip Adams Italy 77 MERS-COV YES 06-09-2019
+98454 Natalie Baker Italy 47 SARS-COV-2 YES 14-04-2015
+72444 Jennifer Henderson Italy 20 COVID-2019 NO
+72903 Cassandra Anderson Italy 50 FLU-2018 NO
+80523 Christopher Cooper Italy 70 SARS-1 YES 29-10-2020
+41870 James Clark Italy 11 H1N1 NO
+97519 Tracie Fox Italy 70 FLU-2018 NO
+99348 Patrick Franco Italy 26 H1N1 NO
+3525 Andrea Chan Italy 71 SARS-COV-2 YES 09-06-2000
+86125 Mark Ruiz Italy 10 SARS-COV-2 NO
+14741 Sonya Leonard Italy 75 SARS-COV-2 NO
+33265 Paul Russo Italy 26 SARS-1 YES 15-03-2014
+23846 Chad Gordon Italy 17 H1N1 YES 07-03-2011
+83929 Denise Carter Italy 11 FLU-2018 NO
+25256 Nicolas Shepherd Italy 51 SARS-COV-2 NO
+85028 Rebecca Nichols Italy 54 H1N1 YES 29-01-2003
+53573 Kathleen Drake Italy 36 MERS-COV YES 26-03-2017
+44799 Meghan Armstrong Italy 43 MERS-COV YES 15-09-2019
+18071 Dale Miller Italy 12 COVID-2019 NO
+75309 Renee Strickland Italy 47 SARS-COV-2 NO
+72010 Nathan Hernandez Italy 35 FLU-2018 NO
+62872 Jason Vasquez Italy 25 H1N1 YES 17-08-2015
+75834 Charles Ward Italy 78 SARS-COV-2 YES 18-04-2016
+63335 Kelly Day Italy 52 SARS-COV-2 NO
+65761 Jeffrey Rodriguez Italy 36 EVD NO
+34481 Laura Carroll Italy 47 EVD YES 11-10-2001
+8942 Robert Johnson Italy 51 SARS-COV-2 NO
+74082 Michelle Gross Italy 61 SARS-COV-2 YES 25-07-2010
+2294 Jessica Espinoza Italy 21 SARS-1 YES 09-09-2001
+57803 Amber Clark Italy 53 H1N1 NO
+42500 Kristopher Bennett Italy 15 H1N1 NO
+5430 Anthony Peck Italy 36 COVID-2019 YES 13-07-2001
+621 Suzanne Foster Italy 24 H1N1 NO
+29867 Daniel Pratt Italy 65 SARS-COV-2 YES 14-05-2006
+39536 Michael Cook Italy 31 H1N1 NO
+91962 Miranda Martin Italy 17 FLU-2018 NO
+41857 Curtis Sanders Italy 34 H1N1 NO
+78377 Matthew Leonard Italy 13 EVD NO
+7195 James Parks Italy 51 MERS-COV NO
+76143 Ashley Martin Italy 25 H1N1 NO
+60290 James Harris Italy 24 MERS-COV NO
+88997 Scott Hernandez Italy 16 EVD NO
+1174 Mark Smith Italy 78 H1N1 NO
+34819 Shelly Sherman Italy 70 EVD NO
+85867 Kimberly Leonard Italy 11 H1N1 NO
+10897 Juan Anderson Italy 30 H1N1 YES 13-06-2020
+6450 Anne Lewis Italy 73 COVID-2019 NO
+19287 Thomas Brown Italy 79 H1N1 NO
+26800 Mary Blankenship Italy 41 COVID-2019 NO
+44883 Anthony Lowe Italy 44 H1N1 YES 27-09-2005
+70958 Carla Campbell Italy 44 COVID-2019 YES 14-01-2001
+41365 Matthew Daniel Italy 14 FLU-2018 YES 03-04-2008
+64717 Tamara Summers Italy 74 SARS-1 NO
+34462 Robert Petersen Italy 34 H1N1 YES 17-01-2017
+41978 Tammy Peters Italy 14 EVD YES 04-10-2017
+8796 Stephen Torres Italy 65 EVD YES 13-05-2013
+90596 Nathan Hancock Italy 74 MERS-COV NO
+80144 Morgan Estrada Italy 66 SARS-1 YES 20-03-2004
+89726 Jackson Good Italy 24 COVID-2019 NO
+62080 Sarah Castaneda Italy 69 EVD YES 10-05-2003
+81615 Matthew Davis Italy 55 SARS-COV-2 NO
+32302 Marissa Evans Italy 57 H1N1 YES 12-11-2010
+38776 Robin Green Italy 25 SARS-COV-2 NO
+7580 David Dixon Italy 48 H1N1 NO
+64921 Angela Martin Italy 40 COVID-2019 YES 23-04-2016
+81806 Joshua Martinez Italy 25 SARS-1 NO
+9857 Thomas Arroyo Italy 44 FLU-2018 NO
+56218 Vanessa Small Italy 19 COVID-2019 YES 01-03-2017
+53351 Thomas Anderson Italy 65 SARS-1 NO
+8521 Samantha Mitchell Italy 16 H1N1 NO
+54747 Jeffrey Reyes Italy 76 H1N1 NO
+99016 Angela Cruz Italy 34 H1N1 YES 20-06-2009
+73148 Colton Mcguire Italy 72 EVD NO
+7737 Randy Meyer Italy 54 MERS-COV YES 28-06-2005
+9560 Kimberly Dalton Italy 55 MERS-COV NO
+21063 Lisa Gonzalez Italy 74 MERS-COV NO
+41176 Philip Mendoza Italy 32 COVID-2019 NO
+66051 Ashley Smith Italy 17 FLU-2018 NO
+76913 Connie Davis Italy 55 MERS-COV NO
+58563 Joshua Archer Italy 69 EVD YES 13-10-2005
+40738 Edward Washington Italy 27 COVID-2019 YES 16-07-2009
+25410 Katherine Williams Italy 27 SARS-1 NO
+115 Alicia Hill Italy 52 FLU-2018 YES 17-02-2004
+34514 Alexander Mills Italy 62 COVID-2019 NO
+69512 Austin Henson Italy 26 COVID-2019 NO
+91349 Brittany Hogan Italy 47 COVID-2019 YES 29-08-2005
+62465 Brandon Sanchez Italy 78 COVID-2019 YES 02-06-2001
+79604 Michael Rocha Italy 21 H1N1 YES 03-08-2003
+86218 Michael Miller Italy 59 FLU-2018 YES 16-07-2009
+39434 Victor Johnson Italy 46 EVD YES 04-01-2009
+1711 Mark Oliver Italy 11 EVD NO
+72416 Mark Caldwell Italy 32 SARS-1 YES 01-05-2001
+98793 Christine Contreras Italy 25 FLU-2018 NO
+84464 Michael Gonzales Italy 58 H1N1 NO
+41253 Daniel Miller Italy 41 COVID-2019 NO
+51732 David Lowe Italy 16 EVD YES 02-08-2009
+24024 Paula Carter Italy 31 H1N1 NO
+98865 Samantha Bailey Italy 61 SARS-COV-2 YES 21-08-2012
+86999 Kelly Morgan Italy 25 SARS-1 NO
+87870 Whitney Shelton Italy 11 EVD YES 23-06-2020
+88337 Mike Lynch Italy 55 COVID-2019 YES 05-03-2020
+79544 Joseph Williams Italy 29 MERS-COV NO
+91734 Miranda Delacruz Italy 40 COVID-2019 NO
+3091 Jennifer Pratt Italy 77 COVID-2019 YES 01-03-2020
+25043 Gabriel Campbell Italy 71 FLU-2018 YES 04-01-2005
+35603 Kyle Novak Italy 28 MERS-COV YES 12-11-2019
+296 Micheal Guzman Italy 58 COVID-2019 NO
+99196 Jamie Sanders Italy 67 SARS-COV-2 NO
+35397 Susan Blair Italy 26 SARS-1 YES 30-11-2013
+67476 Jennifer Miller Italy 34 H1N1 YES 21-11-2005
+28772 Justin Johnson Italy 77 SARS-COV-2 YES 28-10-2015
+6231 Elizabeth Anderson Italy 75 MERS-COV YES 23-11-2007
+13748 Jacqueline Garcia Italy 21 H1N1 NO
+22936 Kimberly White Italy 43 FLU-2018 NO
+59926 Danielle Taylor Italy 39 SARS-1 YES 15-01-2000
+16716 Brenda Webster Italy 12 SARS-1 NO
+9768 Stephanie Good Italy 68 SARS-COV-2 YES 03-03-2007
+4524 Timothy Larson Italy 20 MERS-COV NO
+45616 Timothy Wilson Italy 28 COVID-2019 YES 23-01-2014
+30228 Daniel Martinez Italy 38 H1N1 NO
+84466 Kevin Collins Italy 57 EVD YES 19-09-2000
+42652 Haley Gibson Italy 18 SARS-1 NO
+4340 Paul Malone Italy 41 MERS-COV YES 16-02-2013
+82324 Emily Hendrix Italy 19 H1N1 YES 12-11-2018
+72117 Christopher Harris Italy 62 COVID-2019 YES 22-02-2021
+59069 Tina Brown Italy 36 EVD NO
+28534 Patrick Hunter Italy 15 FLU-2018 YES 29-11-2008
+41881 Katherine Graves Italy 28 SARS-1 YES 15-09-2002
+80919 Johnny Huber Italy 54 SARS-1 YES 01-03-2018
+27882 Karen Ferguson Italy 13 H1N1 NO
+27319 John Pitts Italy 77 FLU-2018 NO
+31671 Nicholas Hernandez Italy 79 H1N1 YES 11-01-2012
+87171 Christopher Nicholson Italy 10 MERS-COV YES 25-04-2005
+25764 Kayla Ibarra Italy 72 MERS-COV NO
+68140 Daniel Harrison Italy 62 MERS-COV NO
+52784 Mario Branch Italy 56 COVID-2019 YES 16-03-2010
+44328 Samantha Lopez Italy 52 MERS-COV YES 12-01-2012
+52719 Victoria Hogan Italy 68 FLU-2018 NO
+50400 Jonathan Marsh Italy 14 EVD NO
+84309 Madison Collins Italy 67 MERS-COV YES 30-03-2012
+59285 Emma Ortega Italy 13 COVID-2019 YES 22-09-2014
+67556 David Goodwin Italy 23 EVD NO
+45629 Michael Miller Italy 78 EVD YES 15-01-2003
+82895 Olivia White Italy 22 H1N1 NO
+87834 Katherine Thompson Italy 66 FLU-2018 NO
+49369 James Brown Italy 36 SARS-1 YES 19-06-2013
+29916 Lisa Lewis Italy 55 SARS-1 YES 12-07-2003
+79687 Brady Beck Italy 24 SARS-COV-2 NO
+81148 Jesse Holden Italy 34 H1N1 YES 09-04-2006
+30589 Evan Foster Italy 23 H1N1 NO
+17826 Lauren Hines Italy 29 COVID-2019 NO
+63615 Debra Herring Italy 35 H1N1 NO
+20260 Kevin Turner Italy 21 EVD NO
+77137 Sherri Gallagher Italy 10 SARS-1 YES 26-05-2002
+69410 Christine Lynch Italy 34 H1N1 NO
+79438 Christina Miller Italy 39 COVID-2019 NO
+9179 Kellie Williams Italy 57 EVD NO
+77701 Martin Vasquez Italy 72 SARS-1 NO
+77826 Jacob Moore Italy 73 FLU-2018 YES 12-10-2015
+17769 Jennifer Stephens Italy 17 FLU-2018 NO
+89687 Gerald Patterson Italy 16 EVD NO
+24021 John Barrett Italy 59 H1N1 YES 18-12-2004
+28689 Aaron Schmitt Italy 59 SARS-1 NO
+80713 Haley Hodge Italy 63 FLU-2018 NO
+95983 Melanie Barber Italy 14 EVD YES 22-03-2009
+18275 Nathaniel Reyes Italy 35 COVID-2019 NO
+96064 Sarah Davis Italy 60 EVD YES 27-08-2005
+65575 Jason Pace Italy 50 SARS-1 YES 12-08-2019
+41104 Kathy Davis Italy 78 COVID-2019 YES 27-10-2010
+73254 James Hensley Italy 68 SARS-COV-2 YES 11-12-2012
+19915 Barbara Fields Italy 55 COVID-2019 YES 21-01-2003
+67140 Meredith Graham Italy 54 COVID-2019 YES 11-02-2004
+84001 Wendy Scott Italy 21 FLU-2018 NO
+45215 Michael Moran Italy 34 COVID-2019 NO
+69817 Stephanie Grant Italy 36 EVD YES 25-06-2002
+20179 Molly Ellis Italy 19 COVID-2019 YES 29-10-2010
+96265 Carlos Hogan Italy 13 MERS-COV NO
+61099 Rodney Ellison Italy 73 FLU-2018 NO
+20830 Emily White Italy 48 SARS-COV-2 YES 17-10-2002
+69373 Brandon Sanford Italy 19 MERS-COV NO
+1369 Jennifer Martinez Italy 53 SARS-COV-2 YES 20-01-2015
+4892 Robert Williams Italy 37 MERS-COV NO
+3286 Lynn Stewart Italy 65 H1N1 YES 14-07-2005
+3691 Gerald Guerra Italy 63 SARS-1 NO
+54317 Cindy Delgado Italy 51 COVID-2019 NO
+88976 Justin Rivera Italy 19 MERS-COV NO
+61718 Deanna Duffy Italy 69 COVID-2019 YES 14-10-2016
+60805 Stephanie Baxter Italy 54 SARS-1 NO
+37426 Tara Castillo Italy 49 COVID-2019 YES 04-02-2011
+3313 Cole Garrett Italy 39 COVID-2019 NO
+58817 Brad Jennings Italy 37 SARS-COV-2 YES 15-05-2014
+79579 Nicholas Blanchard Italy 42 MERS-COV YES 01-08-2010
+18057 Ashley Coffey Italy 69 EVD NO
+29881 Paula Perez Italy 20 SARS-COV-2 NO
+60986 Tammy Brown Italy 74 EVD YES 18-02-2012
+37508 Mary Robles Italy 44 H1N1 YES 02-07-2008
+82782 Jon Steele Italy 17 SARS-1 NO
+4752 Rebecca Bennett Italy 33 EVD NO
+8833 Matthew Davidson Italy 65 FLU-2018 NO
+77503 Elizabeth Ellis Italy 34 EVD NO
+75280 Alec Franco Italy 52 COVID-2019 NO
+97135 Evan Morrison Italy 16 MERS-COV YES 29-09-2019
+56992 Justin Thomas Italy 65 H1N1 YES 07-02-2016
+10898 James Carpenter Italy 20 SARS-COV-2 NO
+46072 Joshua Frye Italy 79 SARS-1 YES 24-01-2021
+35976 Tracy Flowers Italy 45 MERS-COV NO
+59960 Manuel Williams Italy 25 SARS-1 YES 19-07-2013
+60956 Jennifer Phillips Italy 21 H1N1 NO
+45298 Allen Jordan Italy 66 MERS-COV NO
+16598 Kristen Terrell Italy 22 COVID-2019 NO
+24375 Jeffrey Beard Italy 66 SARS-1 YES 01-04-2008
+9666 Christopher Nguyen Italy 26 SARS-1 NO
+92358 Julie Brooks Italy 77 EVD YES 25-09-2020
+12788 Judy Shaffer Italy 30 MERS-COV YES 06-11-2010
+72767 James Davis Italy 18 H1N1 YES 24-01-2017
+11955 Travis Moore Italy 67 COVID-2019 NO
+72124 Philip Baker Italy 21 COVID-2019 YES 16-08-2001
+92024 Leslie Yang Italy 59 MERS-COV YES 12-01-2005
+23074 Shannon Reed Italy 79 MERS-COV NO
+30148 Christina Smith Italy 30 SARS-COV-2 YES 22-09-2019
+13124 Carrie Wallace Italy 46 FLU-2018 YES 16-03-2017
+76824 Patricia Williamson Italy 38 H1N1 YES 18-02-2010
+9495 Thomas Hill Italy 79 MERS-COV NO
+20033 Richard Mckenzie Italy 67 SARS-1 NO
+91466 Ashley Miller Italy 11 SARS-1 YES 16-04-2013
+74131 Fernando Hicks Italy 78 COVID-2019 NO
+62292 Aaron Barker Italy 29 SARS-COV-2 YES 04-10-2019
+83345 Timothy Ross Italy 59 SARS-1 NO
+5167 Tyler Baird Italy 26 EVD YES 11-04-2020
+82471 Danielle Martin Italy 69 FLU-2018 NO
+92164 Kimberly Barrett Italy 19 COVID-2019 NO
+79399 Lisa West Italy 32 COVID-2019 NO
+86819 Kristopher Yang Italy 77 MERS-COV NO
+67467 Sean Mooney Italy 13 EVD YES 09-05-2003
+62038 Hannah Caldwell Italy 74 MERS-COV NO
+21455 Eric Andrews Italy 43 H1N1 YES 31-08-2000
+42337 Jonathan Cruz Italy 61 COVID-2019 YES 13-11-2017
+2166 Elizabeth Brown Italy 79 EVD YES 26-03-2013
+61056 Margaret Henderson Italy 30 SARS-COV-2 NO
+88740 Dylan Bishop Italy 79 EVD NO
+22150 Pamela Roberts Italy 38 EVD NO
+29026 Joseph Morgan Italy 64 SARS-COV-2 NO
+96898 Christopher Carrillo Italy 36 EVD NO
+85280 Sherry Bender Italy 20 FLU-2018 NO
+82538 Darrell Bailey Italy 47 SARS-COV-2 NO
+58404 Elizabeth Baird Italy 59 SARS-1 NO
+2693 Trevor Montes Italy 29 MERS-COV NO
+50458 Troy White Italy 22 MERS-COV YES 29-12-2019
+92098 Alfred Stone Italy 62 SARS-1 NO
+54081 John Kelly Italy 69 SARS-COV-2 YES 08-09-2019
+61469 Faith Walters Italy 28 EVD NO
+75465 Michelle Campbell Italy 31 COVID-2019 YES 06-03-2018
+9401 Thomas Thompson Italy 14 MERS-COV YES 20-09-2014
+18188 Christina Moody Italy 27 SARS-1 NO
+15371 Monica Clayton Italy 39 FLU-2018 NO
+22659 Charles Figueroa Italy 36 EVD YES 11-05-2015
+29256 Mia Moore Italy 32 MERS-COV NO
+63234 Taylor Peters Italy 72 COVID-2019 NO
+77765 Kathy Cook Italy 35 FLU-2018 YES 07-12-2003
+92500 David Flores Italy 47 EVD NO
+2958 Timothy Flores Italy 26 SARS-COV-2 YES 24-11-2012
+10532 Michael Martin Italy 26 H1N1 NO
+36999 Melissa Allen Italy 28 COVID-2019 NO
+52366 Steven Perez Italy 39 SARS-COV-2 YES 12-01-2019
+39590 Nancy Gonzalez Italy 71 COVID-2019 NO
+53717 Timothy Barnett Italy 23 MERS-COV YES 23-03-2002
+85864 Amanda Young Italy 36 SARS-COV-2 YES 21-04-2009
+43023 Robert Bird Italy 20 EVD NO
+72628 Wanda Ramirez Italy 47 H1N1 YES 14-12-2020
+45514 Dana Dunn Italy 71 COVID-2019 YES 06-01-2001
+69861 Faith Walton Italy 69 FLU-2018 YES 04-02-2006
+82441 David Green Italy 46 H1N1 YES 08-10-2017
+22465 Lisa Rhodes Italy 21 SARS-1 YES 01-06-2005
+60757 Ryan Hernandez Italy 59 EVD YES 20-03-2018
+61951 Shawn Morris Italy 39 SARS-COV-2 NO
+60917 Karen Walker Italy 36 EVD NO
+39360 Norma Rivera Italy 12 FLU-2018 YES 01-04-2016
+80569 Alicia Davis Italy 63 H1N1 YES 19-02-2016
+1113 Wendy Estrada Italy 14 SARS-1 NO
+6284 Sharon Morales Italy 29 COVID-2019 YES 01-11-2001
+92987 Michael Miller Italy 46 MERS-COV NO
+94983 Kristin Green Italy 30 COVID-2019 YES 17-05-2016
+92836 Cathy Kim Italy 70 H1N1 NO
+99557 Pamela Roberts Italy 35 FLU-2018 NO
+56102 Tina Cross Italy 23 H1N1 YES 08-12-2015
+22920 James Thomas Italy 62 SARS-COV-2 NO
+44585 Katie King Italy 37 SARS-COV-2 NO
+54264 Joseph Rodriguez Italy 65 FLU-2018 YES 15-05-2015
+92899 Sabrina Martinez Italy 10 COVID-2019 YES 10-04-2016
+65806 Matthew Green Italy 25 EVD YES 27-02-2008
+82328 Daniel Porter Italy 48 SARS-COV-2 NO
+17879 Brian Davis Italy 61 FLU-2018 YES 07-08-2005
+13708 Luis Velazquez Italy 77 MERS-COV NO
+3211 Anita House Italy 78 COVID-2019 YES 26-07-2016
+20092 James Russell Italy 52 MERS-COV NO
+46746 Todd Mcgee Italy 18 FLU-2018 YES 08-12-2013
+87169 Thomas Ross Italy 14 FLU-2018 YES 09-09-2011
+80299 Mary Novak Italy 30 MERS-COV YES 26-10-2015
+6120 Ariel Lopez Italy 47 MERS-COV NO
+96394 Curtis Hardy Italy 47 SARS-COV-2 YES 25-03-2007
+63985 Dylan Ewing Italy 15 FLU-2018 YES 11-06-2007
+720 Larry English Italy 76 H1N1 YES 06-09-2020
+13678 Christopher Knapp Italy 31 FLU-2018 YES 08-06-2004
+1024 Denise Rogers Italy 20 SARS-COV-2 NO
+68199 Robert Jarvis Italy 18 EVD YES 11-08-2007
+77432 Debbie Clayton Italy 16 MERS-COV YES 08-08-2007
+89083 Patrick Hughes Italy 71 EVD YES 05-09-2009
+90418 Ryan Shelton Italy 60 MERS-COV NO
+93080 Linda Collins Italy 30 FLU-2018 NO
+3846 Rebecca Everett Italy 26 EVD YES 14-05-2020
+45043 Joshua Garcia Italy 59 SARS-1 NO
+84705 Kevin Palmer Italy 57 COVID-2019 YES 22-07-2011
+27040 Jacqueline Sanders Italy 27 COVID-2019 YES 25-07-2007
+92390 Mark Baird Italy 43 SARS-COV-2 YES 28-09-2011
+40865 John Coleman Italy 15 SARS-1 YES 31-07-2008
+96048 Nathan Washington Italy 12 SARS-1 YES 28-02-2011
+48409 Sean Patel Italy 73 H1N1 YES 19-04-2004
+19191 Charles Hernandez Italy 34 H1N1 YES 06-09-2000
+40945 Louis Guerra Italy 41 SARS-1 YES 31-01-2004
+85205 Robert Rosario Italy 31 SARS-1 NO
+41345 Christian Graham Italy 53 EVD NO
+28335 Stanley Bryan Italy 77 H1N1 NO
+90169 Sarah Williamson Italy 74 SARS-1 NO
+54009 Andrew Parker Italy 20 SARS-1 NO
+76583 Matthew George Italy 18 COVID-2019 NO
+34907 Mary Thomas Italy 48 MERS-COV YES 08-08-2013
+15313 Diana Buck Italy 29 COVID-2019 NO
+80058 Kelly Jimenez Italy 75 SARS-COV-2 YES 05-05-2003
+73909 Eileen Rios Italy 29 SARS-COV-2 YES 20-01-2019
+12205 Tiffany Diaz Italy 30 SARS-COV-2 YES 24-02-2001
+22817 Susan Caldwell Italy 43 MERS-COV NO
+42578 Derek Cooper Italy 55 MERS-COV YES 12-04-2010
+29811 Jeffery Scott Italy 49 FLU-2018 NO
+29253 Cristian Potts Italy 48 SARS-COV-2 YES 17-03-2001
+29991 Eric Robinson Italy 16 COVID-2019 YES 22-04-2010
+86455 Claire Gray Italy 41 COVID-2019 YES 31-10-2010
+14609 Olivia Williams Italy 28 COVID-2019 YES 13-11-2011
+90004 Lauren Carr Italy 68 SARS-1 NO
+92111 Gregory Rodriguez Italy 57 FLU-2018 NO
+49785 Katie Miller Italy 50 MERS-COV YES 25-04-2020
+32167 Jonathan Tran Italy 17 SARS-COV-2 YES 15-06-2005
+49425 Harold Banks Italy 35 SARS-COV-2 YES 06-09-2016
+40855 Kristopher Mack Italy 34 FLU-2018 NO
+23272 Robert Kelly Italy 19 H1N1 NO
+11411 Danny Jones Italy 47 SARS-COV-2 YES 22-11-2018
+56466 Christopher Phelps Italy 27 SARS-1 NO
+99715 Susan Camacho Italy 51 SARS-1 YES 15-10-2019
+37239 Michael Williams Italy 51 MERS-COV NO
+16583 Dawn Duncan Italy 11 FLU-2018 YES 06-03-2002
+87019 Benjamin Graham Italy 60 COVID-2019 YES 14-03-2021
+43253 Brandy Mahoney Italy 12 FLU-2018 NO
+93990 Kimberly Harris Italy 63 SARS-COV-2 YES 16-12-2000
+15928 Susan Thompson Italy 29 MERS-COV YES 07-10-2008
+50797 Lori Lawson Italy 34 MERS-COV YES 14-01-2009
+58242 Leah Ayers Italy 41 SARS-1 YES 30-12-2009
+99794 Jasmine Mccall Italy 34 SARS-COV-2 YES 27-04-2019
+87516 Kimberly Ramirez Italy 28 SARS-1 YES 21-02-2019
+98528 Kaitlyn Werner Italy 72 COVID-2019 YES 05-05-2006
+78052 Tyler Mora Italy 39 SARS-COV-2 NO
+32274 Curtis Brooks Italy 14 SARS-1 YES 12-07-2014
+57644 Jonathan Paul Italy 49 MERS-COV YES 23-07-2019
+86371 Alexander Simmons Italy 74 MERS-COV YES 24-11-2006
+76469 Kelsey Jackson Italy 49 FLU-2018 NO
+11968 Paul Zimmerman Italy 37 MERS-COV NO
+96462 William Cross Italy 54 MERS-COV YES 06-09-2006
+43690 Jesse Rollins Italy 29 SARS-COV-2 NO
+13636 Robert Choi Italy 10 SARS-1 NO
+93103 Barbara Smith Italy 29 SARS-1 NO
+52768 Ashley Henderson Italy 76 SARS-1 YES 26-03-2010
+89355 Shaun Mcdonald Italy 30 COVID-2019 NO
+28968 Anthony Martinez Italy 18 EVD YES 27-02-2008
+52632 Brett Lopez Italy 42 MERS-COV NO
+82196 Natalie Bennett Italy 59 COVID-2019 NO
+45902 Cody Richardson Italy 22 SARS-1 YES 24-08-2010
+77637 Wayne Suarez Italy 64 SARS-1 NO
+27786 Edward Peterson Italy 23 EVD NO
+37763 Zachary Hickman Italy 60 SARS-COV-2 YES 06-05-2009
+99602 Michael Richardson Italy 47 EVD NO
+95436 Tiffany Pham Italy 44 H1N1 NO
+11481 Dakota Wagner Italy 28 SARS-1 NO
+21252 Stephanie Rose Italy 29 SARS-1 YES 18-10-2012
+68371 Jeffery Wall Italy 65 SARS-1 YES 28-07-2003
+83242 Teresa Brown Italy 50 COVID-2019 YES 07-03-2001
+71313 Anthony Burns Italy 76 MERS-COV YES 23-02-2006
+28048 Jeffery Jones Italy 74 H1N1 NO
+92262 Dennis Brown Italy 42 SARS-1 YES 10-09-2011
+36012 Joshua Harvey Italy 79 FLU-2018 YES 15-02-2001
+55988 John Hawkins Italy 11 H1N1 YES 19-07-2017
+5355 Allison Taylor Italy 75 SARS-COV-2 NO
+57619 Luke Garrett Italy 12 COVID-2019 YES 22-03-2017
+1719 Robert Fisher Italy 57 FLU-2018 NO
+70907 David Quinn Italy 44 SARS-COV-2 YES 22-02-2017
+8589 Debra Shepard Italy 61 H1N1 NO
+51650 Travis Bennett Italy 20 MERS-COV YES 15-09-2018
+62354 Jennifer Sims Italy 46 H1N1 YES 05-10-2010
+22705 Lisa Ford Italy 10 COVID-2019 YES 20-07-2012
+37311 George Hanson Italy 11 COVID-2019 YES 31-08-2007
+13377 Judith York Italy 53 SARS-COV-2 YES 04-05-2007
+83036 Edwin Anderson Italy 19 H1N1 YES 30-08-2010
+84915 Alicia Phillips Italy 45 FLU-2018 NO
+83412 Bradley Wagner Italy 38 EVD YES 25-04-2013
+10560 Jessica Farley Italy 66 H1N1 NO
+27961 Jerry Garcia Italy 30 MERS-COV YES 16-06-2014
+28741 Damon Clements Italy 47 EVD NO
+95319 Adrian Gonzalez Italy 53 H1N1 NO
+72422 Richard Mcmahon Italy 41 MERS-COV NO
+35718 Collin Orr Italy 32 COVID-2019 NO
+30629 Angela Scott Italy 46 MERS-COV YES 31-05-2018
+18626 Brent James Italy 16 MERS-COV NO
+80247 Justin Reed Italy 58 MERS-COV NO
+41596 Arthur Dominguez Italy 45 SARS-COV-2 YES 03-08-2015
+13782 Thomas Sellers Italy 58 EVD NO
+78170 Gary Mcbride Italy 58 SARS-1 NO
+2588 James Morris Italy 38 EVD YES 22-01-2006
+27593 David Ellison Italy 70 EVD YES 22-04-2005
+52305 Robert Wright Italy 74 SARS-COV-2 YES 17-03-2007
+10905 Gina Smith Italy 53 EVD NO
+23353 John Garcia Italy 62 EVD NO
+35630 Christine Thomas Italy 22 EVD YES 21-09-2007
+88294 Alan Jenkins Italy 46 H1N1 YES 02-10-2010
+81791 Patricia Flores Italy 23 MERS-COV YES 29-11-2007
+80085 Grace Fox Italy 75 FLU-2018 NO
+50421 Breanna Nelson Italy 64 SARS-1 YES 21-06-2003
+52050 Denise Gibson Italy 67 SARS-1 NO
+53749 Annette Washington Italy 70 EVD NO
+58911 Todd Wheeler Italy 76 MERS-COV NO
+24452 Mark Williams Italy 70 EVD YES 09-02-2000
+1907 David Brown Italy 44 FLU-2018 YES 27-12-2012
+73196 Caitlin Mathews Italy 15 SARS-COV-2 NO
+98823 Austin Greer Italy 45 SARS-COV-2 YES 08-01-2020
+449 Jessica Hill Italy 73 COVID-2019 YES 14-03-2012
+58248 Shannon Smith Italy 75 SARS-1 NO
+71870 Anthony Graves Italy 78 SARS-1 NO
+75200 Scott Garcia Italy 10 SARS-COV-2 YES 18-11-2016
+54434 James Davis Italy 21 COVID-2019 YES 04-08-2005
+37101 Kelly Lamb Italy 44 H1N1 YES 23-06-2020
+68854 Debbie Gardner Italy 42 SARS-1 NO
+52687 Kayla Rose Italy 24 EVD YES 19-08-2003
+7768 Ashley Harrison Italy 15 MERS-COV NO
+27853 Sylvia Anderson Italy 73 EVD NO
+46570 April Logan Italy 46 COVID-2019 NO
+23470 Vanessa Martinez Italy 79 H1N1 YES 31-05-2000
+29007 Cameron Lewis Italy 32 FLU-2018 NO
+32095 Diana Barber Italy 17 FLU-2018 YES 07-07-2002
+23913 Andrew Jackson Italy 45 SARS-COV-2 YES 28-09-2019
+9260 Thomas Williams Italy 79 SARS-COV-2 NO
+9678 Mary Medina Italy 68 SARS-COV-2 NO
+43706 Aaron Miller Italy 25 MERS-COV YES 02-02-2012
+90639 Sherri Davis Italy 56 SARS-COV-2 NO
+82286 Kristin Anderson Italy 30 EVD NO
+37793 Lisa Mcbride Italy 27 EVD YES 20-07-2011
+52849 Marcus Wells Italy 52 MERS-COV NO
+30413 Teresa Mccullough Italy 14 EVD NO
+83924 Vincent Burns Italy 20 SARS-COV-2 NO
+86613 Carlos Brown Italy 74 H1N1 NO
+70945 Katherine Gutierrez Italy 50 SARS-1 YES 31-12-2005
+6698 Tyler Bates Italy 19 H1N1 NO
+52864 Jason Adams Italy 75 COVID-2019 NO
+9996 John Dixon Italy 38 FLU-2018 NO
+14232 Paul Greene Italy 36 SARS-1 NO
+76963 Kenneth Lee Italy 67 H1N1 YES 29-08-2005
+85373 Michelle Jones Italy 15 COVID-2019 NO
+84358 Eric Davidson Italy 37 MERS-COV YES 04-06-2010
+79723 Blake Garza Italy 71 SARS-COV-2 YES 06-11-2006
+96927 Dylan Joseph Italy 12 FLU-2018 YES 22-12-2018
+16571 Hayden Morrow Italy 51 SARS-1 YES 08-07-2007
+60761 Madison Vargas Italy 64 FLU-2018 NO
+82920 Amy Duncan Italy 61 H1N1 YES 19-01-2001
+55097 Kristen Howell Italy 71 COVID-2019 NO
+86411 Eric Bishop Italy 78 MERS-COV YES 27-02-2007
+32349 Desiree Gardner Italy 44 H1N1 NO
+87078 Rachel Evans Italy 20 COVID-2019 NO
+60479 William Bradley Italy 78 EVD NO
+1121 Jennifer Jackson Italy 58 SARS-COV-2 YES 07-07-2005
+49570 Andrew Flores Italy 18 EVD NO
+45587 Brent Wyatt Italy 13 H1N1 NO
+80596 Jason Wright Italy 22 COVID-2019 NO
+81194 Sonya Anderson Italy 64 EVD YES 13-08-2018
+89174 Carolyn Johnson Italy 69 SARS-COV-2 NO
+84408 John Clark Italy 40 FLU-2018 NO
+69144 Elizabeth Ross Italy 69 COVID-2019 YES 10-12-2016
+43566 Michelle Riley Italy 50 SARS-COV-2 NO
+96588 Lisa Thompson Italy 47 MERS-COV NO
+44973 Debra Love Italy 36 SARS-COV-2 NO
+48106 Joseph Flores Italy 25 EVD YES 27-02-2004
+43666 Scott Glass Italy 10 H1N1 NO
+44932 Katie Davidson Italy 20 FLU-2018 YES 31-01-2006
+58976 Rachel Dougherty Italy 74 SARS-1 NO
+17967 Ruth Peterson Italy 33 FLU-2018 YES 11-04-2009
+24354 Hannah Tucker Italy 43 FLU-2018 NO
+76754 Diana Williams Italy 40 MERS-COV NO
+36133 Dawn Woodard Italy 32 SARS-1 NO
+43529 Amanda Wood Italy 18 SARS-1 NO
+98893 Stacey Soto Italy 53 EVD NO
+38902 Nicole King Italy 39 SARS-1 YES 02-12-2017
+12226 John Cross Italy 13 COVID-2019 YES 05-08-2017
+94019 Amy Rodriguez Italy 34 COVID-2019 YES 14-08-2008
+74003 Melissa Holt Italy 27 SARS-1 NO
+50324 Jade Ellis Italy 46 COVID-2019 YES 03-02-2005
+37573 Pamela Fisher Italy 25 SARS-COV-2 YES 07-08-2005
+52900 Catherine Reed Italy 12 FLU-2018 NO
+35768 Christopher Young Italy 19 SARS-COV-2 NO
+89228 Jordan Morris Italy 25 COVID-2019 YES 31-10-2019
+75630 Dawn Griffin Italy 69 SARS-COV-2 YES 14-12-2013
+17905 David Giles Italy 67 FLU-2018 YES 04-05-2014
+21952 Kathleen Middleton Italy 65 H1N1 NO
+12843 Patricia Knight Italy 59 EVD NO
+54202 Chelsea Rush Italy 75 SARS-COV-2 NO
+93629 Cynthia Johnson Italy 34 MERS-COV NO
+23401 Donna Perez Italy 38 EVD YES 20-09-2011
+50242 Sean Powell Italy 74 H1N1 YES 10-12-2002
+57145 Lisa Pitts Italy 18 SARS-COV-2 YES 17-09-2011
+46999 Anthony Griffith Italy 61 SARS-COV-2 YES 03-08-2000
+57423 Kathy Bell Italy 68 EVD YES 25-05-2018
+76998 Marco Garrison Italy 49 H1N1 YES 14-11-2008
+21355 Laura Watts Italy 62 SARS-COV-2 YES 22-09-2004
+93045 Evan Gonzalez Italy 27 EVD YES 25-07-2010
+43384 David Douglas Italy 21 SARS-COV-2 YES 15-01-2002
+78280 Shawn Schultz Italy 63 EVD NO
+2967 Samantha Randolph Italy 69 SARS-1 NO
+58606 Jennifer White Italy 14 H1N1 YES 15-07-2003
+89131 Julie Armstrong Italy 58 EVD NO
+37723 David Miller Italy 37 COVID-2019 YES 15-04-2000
+16508 Tyler Lopez Italy 64 H1N1 YES 08-03-2005
+50323 Meredith Ford Italy 14 EVD YES 06-11-2016
+55346 Philip Hester Italy 40 H1N1 NO
+99471 Megan Miller Italy 76 COVID-2019 YES 01-02-2012
+29090 Nicole Pratt Italy 37 EVD YES 06-01-2007
+55266 Billy Garcia Italy 42 EVD NO
+99256 Roberta Duffy Italy 49 FLU-2018 YES 10-10-2009
+41681 Barbara Medina Italy 10 EVD NO
+14465 Alexander Williams Italy 34 SARS-COV-2 NO
+1593 Michael Reynolds Italy 68 EVD YES 05-03-2009
+33192 Margaret Howard Italy 60 COVID-2019 YES 27-09-2000
+46905 Michelle Owens Italy 71 MERS-COV NO
+91987 Lori Perry Italy 26 SARS-COV-2 NO
+60442 Steven Jones Italy 59 SARS-COV-2 NO
+57200 Christopher Sanders Italy 37 MERS-COV YES 29-09-2011
+56383 Andrew Neal Italy 71 H1N1 NO
+48906 Mary Meadows Italy 30 COVID-2019 YES 03-10-2020
+72460 Nicholas Oliver Italy 47 MERS-COV YES 10-06-2005
+26728 Wanda Lewis Italy 16 MERS-COV NO
+59068 Lawrence Bridges Italy 21 SARS-1 YES 07-10-2020
+96941 John Sanders Italy 62 H1N1 YES 02-01-2001
+41172 Rhonda Lucas Italy 21 FLU-2018 YES 25-05-2015
+99857 Alexandria Nguyen Italy 72 MERS-COV YES 28-06-2012
+55029 Stacy Michael Italy 49 COVID-2019 YES 21-08-2018
+76857 Derek Smith Italy 26 SARS-1 NO
+91576 Scott Lopez Italy 57 SARS-1 NO
+92928 Elizabeth Fuller Italy 11 EVD NO
+2928 Robin Barnett Italy 14 COVID-2019 NO
+77039 Michael Vargas Italy 49 EVD YES 29-07-2006
+26106 Joshua Barron Italy 73 H1N1 NO
+19290 Jessica Fox Italy 13 SARS-COV-2 YES 14-05-2014
+10483 Courtney Werner Italy 12 EVD YES 10-10-2000
+99723 Mitchell Harris Italy 28 COVID-2019 NO

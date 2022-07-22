@@ -1,0 +1,540 @@
+3516 Catherine Boyer Brazil 11 FLU-2018 NO
+1941 Louis Mitchell Brazil 31 H1N1 NO
+9416 William Hopkins Brazil 68 H1N1 NO
+2415 Tiffany Hanson Brazil 57 MERS-COV NO
+1402 Anthony Clayton Brazil 39 SARS-1 NO
+1402 Anthony Clayton Brazil 39 H1N1 NO
+9168 Mary Blair Brazil 16 FLU-2018 YES 19-11-2013
+1444 Matthew Baker Brazil 65 COVID-2019 NO
+8321 Kathryn Leblanc Brazil 39 SARS-1 NO
+109 Aaron Zamora Brazil 68 SARS-COV-2 NO
+9884 Adrian Nelson Brazil 41 FLU-2018 YES 06-01-2005
+4642 Brianna Ali Brazil 39 FLU-2018 YES 20-04-2019
+4692 John Ramos Brazil 35 EVD NO
+8535 Mary Gibbs Brazil 26 EVD YES 06-02-2014
+6544 Richard Cannon Brazil 65 MERS-COV YES 29-12-2018
+6479 Roy Hunt Brazil 10 SARS-COV-2 NO
+8140 Robin Frazier Brazil 72 H1N1 YES 09-06-2002
+6317 Michael Johnson Brazil 76 SARS-1 YES 14-07-2012
+2980 Eric Williams Brazil 78 MERS-COV YES 25-08-2012
+9122 Brandon Pierce Brazil 64 SARS-COV-2 YES 16-11-2005
+1754 Emily Moreno Brazil 74 EVD YES 14-08-2005
+5199 Brian Ortiz Brazil 69 SARS-COV-2 YES 07-09-2016
+5086 Paula Stewart Brazil 52 SARS-COV-2 YES 14-01-2006
+6403 Danielle Ward Brazil 63 SARS-COV-2 YES 21-01-2021
+7969 Diana Cox Brazil 52 SARS-1 NO
+1588 Sara Keller Brazil 36 EVD YES 09-11-2010
+9067 Robert Parker Brazil 60 MERS-COV NO
+4465 Diane Mason Brazil 57 EVD NO
+657 Mary Carpenter Brazil 76 MERS-COV NO
+2063 Michelle Moore Brazil 15 H1N1 NO
+5680 Larry Nolan Brazil 38 COVID-2019 YES 22-03-2005
+7875 Debra Fisher Brazil 15 FLU-2018 NO
+3023 Patrick Stewart Brazil 33 COVID-2019 YES 18-05-2013
+1603 Darrell Allen Brazil 65 H1N1 NO
+2789 James Sawyer Brazil 11 SARS-1 YES 20-05-2020
+515 Matthew Mann Brazil 23 SARS-1 YES 19-09-2008
+515 Matthew Mann Brazil 23 SARS-COV-2 NO
+3860 Stephanie Leon Brazil 46 EVD YES 13-04-2000
+8332 Lori Taylor Brazil 76 SARS-1 NO
+5261 Angela Alexander Brazil 42 MERS-COV YES 24-05-2007
+528 Julie Zimmerman Brazil 67 H1N1 YES 09-04-2019
+2891 Carrie Knight Brazil 37 EVD YES 14-11-2005
+2278 Daniel Torres Brazil 64 SARS-COV-2 YES 10-03-2009
+6697 Miranda Edwards Brazil 32 SARS-COV-2 NO
+5824 Julia Graham Brazil 40 EVD YES 31-08-2019
+6829 Mario Potts Brazil 19 MERS-COV NO
+9276 Karen Malone Brazil 13 H1N1 YES 18-08-2001
+3859 Maria Anderson Brazil 24 H1N1 NO
+9431 Wanda Madden Brazil 38 H1N1 NO
+4216 Mark Hunter Brazil 65 EVD NO
+7808 Melissa Gonzalez Brazil 60 COVID-2019 NO
+4978 Lisa Massey Brazil 42 COVID-2019 YES 19-06-2018
+8150 Jack Cummings Brazil 44 SARS-1 YES 14-01-2006
+6894 Lisa Gibbs Brazil 73 COVID-2019 NO
+6646 Rebecca Jennings Brazil 57 H1N1 NO
+6744 Taylor Krueger Brazil 56 H1N1 NO
+1619 Dustin Hall Brazil 72 SARS-COV-2 YES 27-11-2005
+8654 Amy Cherry Brazil 12 H1N1 YES 15-08-2011
+1222 Timothy Crawford Brazil 57 H1N1 YES 13-08-2012
+5311 Jessica Taylor Brazil 31 SARS-1 YES 31-03-2011
+9288 Christopher Castillo Brazil 66 H1N1 NO
+8401 Alyssa Woodward Brazil 17 FLU-2018 NO
+8401 Alyssa Woodward Brazil 17 EVD YES 28-09-2015
+6875 Nathan Jones Brazil 48 MERS-COV YES 13-08-2000
+135 Christine Campbell Brazil 24 MERS-COV YES 13-08-2010
+421 Marilyn Gomez Brazil 36 SARS-1 YES 30-08-2016
+6821 Michael Morgan Brazil 77 SARS-COV-2 NO
+7759 Noah Smith Brazil 47 SARS-1 YES 14-10-2004
+511 Danny Olson Brazil 68 EVD YES 06-11-2008
+8382 Samantha Davis Brazil 66 EVD YES 25-05-2009
+4188 Ryan Lewis Brazil 73 COVID-2019 NO
+964 Joshua Dodson Brazil 13 MERS-COV NO
+8885 Michael Myers Brazil 32 SARS-1 NO
+8483 Nancy Payne Brazil 20 COVID-2019 NO
+4184 Carrie Ortiz Brazil 13 FLU-2018 YES 03-03-2003
+9236 James Farrell Brazil 46 H1N1 YES 22-09-2005
+7399 Hector Montgomery Brazil 69 SARS-COV-2 YES 18-12-2001
+1088 Melissa Harris Brazil 43 FLU-2018 YES 29-07-2005
+9428 Katie Bruce Brazil 73 SARS-1 YES 07-04-2009
+6984 Jose Montes Brazil 54 MERS-COV NO
+5110 Victoria Beck Brazil 73 MERS-COV YES 24-02-2008
+2715 James Hodge Brazil 26 SARS-1 NO
+5609 John Lee Brazil 70 EVD YES 17-07-2013
+9624 Steve Wagner Brazil 19 SARS-COV-2 NO
+2785 Amber Huber Brazil 76 MERS-COV YES 21-08-2016
+3869 Wendy Hurst Brazil 56 MERS-COV YES 16-06-2013
+833 Mercedes Green Brazil 31 MERS-COV YES 30-01-2017
+4167 James Gonzales Brazil 40 H1N1 YES 25-03-2015
+3094 David Cox Brazil 21 EVD NO
+9657 Elizabeth Hernandez Brazil 37 EVD NO
+8285 Daniel Thomas Brazil 62 SARS-1 NO
+5973 Maria Morales Brazil 30 H1N1 NO
+6891 Joshua Hampton Brazil 40 SARS-COV-2 NO
+2089 Wesley Williams Brazil 30 EVD YES 19-07-2010
+9027 Christopher Roberts Brazil 72 EVD YES 11-10-2013
+4027 Manuel Carson Brazil 59 H1N1 YES 22-01-2004
+9699 Michelle Taylor Brazil 63 COVID-2019 YES 09-05-2015
+8363 Lisa Robertson Brazil 17 SARS-COV-2 YES 10-02-2011
+9134 James Gilmore Brazil 63 SARS-1 NO
+877 John Welch Brazil 27 COVID-2019 NO
+512 Sandra Williams Brazil 78 H1N1 YES 26-10-2013
+6283 Amy Wilkerson Brazil 45 FLU-2018 YES 06-04-2003
+6595 Courtney Velez Brazil 43 MERS-COV YES 24-07-2002
+3835 Christopher Mora Brazil 42 SARS-1 YES 18-11-2007
+7844 Kimberly Young Brazil 74 H1N1 NO
+7844 Kimberly Young Brazil 74 SARS-1 NO
+3372 Paula Jackson Brazil 19 EVD YES 22-12-2012
+3372 Paula Jackson Brazil 19 MERS-COV YES 03-07-2016
+2813 Ronald Morton Brazil 10 MERS-COV YES 17-09-2019
+7665 Nicole Woods Brazil 52 FLU-2018 NO
+7665 Nicole Woods Brazil 52 SARS-1 YES 20-04-2018
+1899 Tracy Rodriguez Brazil 78 SARS-COV-2 NO
+3130 Edward Guerrero Brazil 17 H1N1 NO
+3171 Judith Woodard Brazil 29 FLU-2018 NO
+7515 Christopher Clark Brazil 63 H1N1 YES 23-09-2014
+8864 Ann Gibson Brazil 70 FLU-2018 YES 28-01-2012
+4624 Michael Lynch Brazil 27 EVD YES 02-10-2020
+32 Travis Green Brazil 69 SARS-COV-2 YES 06-01-2010
+3348 Kathryn Lindsey Brazil 66 SARS-1 YES 02-01-2020
+3348 Kathryn Lindsey Brazil 66 EVD NO
+7259 Jenna Shepherd Brazil 26 MERS-COV NO
+5366 Jacob Rodriguez Brazil 10 FLU-2018 NO
+7874 Brittany Green Brazil 34 H1N1 NO
+6390 Rebecca Thomas Brazil 32 SARS-COV-2 NO
+9139 Madison Escobar Brazil 50 FLU-2018 NO
+8632 Leslie Harvey Brazil 32 EVD NO
+7353 Anthony Andrade Brazil 38 FLU-2018 YES 06-09-2003
+4213 Donna Lucero Brazil 77 SARS-1 YES 15-05-2015
+2760 Aaron King Brazil 27 SARS-COV-2 YES 01-09-2020
+5343 Brian Martin Brazil 10 SARS-COV-2 YES 30-05-2008
+5343 Brian Martin Brazil 10 MERS-COV YES 02-02-2020
+6298 Jessica Sawyer Brazil 41 FLU-2018 YES 26-11-2019
+6406 Corey Diaz Brazil 27 SARS-COV-2 YES 03-05-2019
+3752 Morgan Burns Brazil 42 SARS-1 YES 16-02-2014
+3752 Morgan Burns Brazil 42 FLU-2018 NO
+650 Colin Thompson Brazil 57 EVD YES 24-08-2005
+7707 Mckenzie Ortega Brazil 26 SARS-COV-2 NO
+383 Tiffany Roberts Brazil 48 FLU-2018 YES 24-05-2016
+7351 Valerie Horn Brazil 60 MERS-COV YES 07-10-2013
+9471 Craig Zimmerman Brazil 71 SARS-COV-2 YES 09-03-2010
+4971 Matthew Jordan Brazil 17 EVD YES 28-02-2021
+5814 Jason White Brazil 62 SARS-COV-2 NO
+2404 Matthew Burns Brazil 39 FLU-2018 NO
+7717 Rodney Rivera Brazil 37 H1N1 NO
+9406 Jeffery Middleton Brazil 62 FLU-2018 YES 02-11-2003
+3663 Donna Jones Brazil 74 COVID-2019 NO
+2148 Karen Woods Brazil 57 EVD NO
+9143 Benjamin Gutierrez Brazil 51 COVID-2019 YES 12-06-2000
+3261 Whitney Hill Brazil 74 SARS-COV-2 NO
+2151 Willie Waters Brazil 39 SARS-COV-2 NO
+8415 Jennifer Bauer Brazil 34 SARS-1 NO
+128 John Jacobson Brazil 54 EVD YES 29-11-2015
+7083 Sierra Barker Brazil 73 COVID-2019 NO
+3766 Lauren Smith Brazil 76 SARS-COV-2 NO
+2547 Tamara Reynolds Brazil 39 SARS-COV-2 YES 01-08-2007
+8000 Sandra Lam Brazil 53 H1N1 YES 28-11-2001
+4602 Jason Sanchez Brazil 78 EVD YES 21-03-2016
+8063 Cynthia Cook Brazil 46 MERS-COV NO
+642 Michelle Hull Brazil 28 EVD NO
+642 Michelle Hull Brazil 28 SARS-COV-2 YES 18-07-2007
+6437 Timothy Hernandez Brazil 20 SARS-COV-2 YES 17-02-2004
+8180 Russell Gonzalez Brazil 42 H1N1 YES 28-09-2010
+8180 Russell Gonzalez Brazil 42 MERS-COV NO
+1593 Randy Griffin Brazil 35 H1N1 YES 13-10-2020
+1153 Justin Lopez Brazil 24 H1N1 YES 21-07-2016
+7584 Katelyn Hood Brazil 29 SARS-COV-2 YES 04-11-2005
+1940 Kevin Barker Brazil 64 COVID-2019 NO
+2435 Annette Cook Brazil 68 MERS-COV NO
+741 James Bass Brazil 42 MERS-COV NO
+8668 Calvin Morgan Brazil 64 FLU-2018 YES 16-10-2010
+8668 Calvin Morgan Brazil 64 H1N1 NO
+2604 Denise Porter Brazil 53 MERS-COV YES 01-09-2002
+532 Kim Walters Brazil 67 EVD NO
+8176 Michael Martin Brazil 51 FLU-2018 YES 29-06-2005
+5039 Marilyn Hicks Brazil 46 EVD YES 26-04-2017
+6586 Joseph Kline Brazil 33 FLU-2018 NO
+3147 Tara Brown Brazil 32 EVD YES 29-11-2006
+2332 Robert Burch Brazil 10 H1N1 YES 23-03-2011
+5815 Richard Stephens Brazil 18 MERS-COV YES 10-04-2019
+2630 Kristen Shaw Brazil 77 FLU-2018 NO
+2791 Shirley Smith Brazil 70 H1N1 YES 29-04-2017
+5821 Keith Morales Brazil 25 SARS-COV-2 NO
+2482 Kelly Franklin Brazil 56 MERS-COV NO
+1152 Kristin Day Brazil 76 SARS-1 NO
+7147 Sean Cunningham Brazil 16 COVID-2019 NO
+3992 Shawn Allen Brazil 51 COVID-2019 NO
+9073 James Barton Brazil 22 SARS-1 NO
+9073 James Barton Brazil 22 MERS-COV NO
+4221 Kendra Williams Brazil 45 SARS-1 YES 05-06-2007
+815 Peter Glass Brazil 76 H1N1 YES 27-09-2011
+9364 Jessica Hunter Brazil 69 SARS-COV-2 YES 30-06-2000
+695 Donna Moore Brazil 36 COVID-2019 NO
+3167 Brett Walker Brazil 51 MERS-COV NO
+8824 Paul Black Brazil 12 MERS-COV NO
+9931 John Lee Brazil 13 H1N1 YES 20-08-2018
+6750 Linda Miller Brazil 52 FLU-2018 NO
+3128 Lori Lewis Brazil 78 SARS-1 YES 17-09-2016
+393 Riley Wilson Brazil 67 SARS-COV-2 YES 29-03-2017
+8930 Tony Diaz Brazil 64 SARS-1 NO
+6189 Shawn Melton Brazil 50 MERS-COV NO
+2432 Jasmine Moon Brazil 33 MERS-COV NO
+8243 Elizabeth Nicholson Brazil 59 EVD NO
+1125 Vanessa Lawrence Brazil 69 H1N1 NO
+9165 Robert Barnett Brazil 12 H1N1 NO
+2590 Alan Johnson Brazil 10 SARS-1 NO
+6002 Joseph Anderson Brazil 76 SARS-COV-2 NO
+9755 David Green Brazil 53 MERS-COV YES 10-06-2002
+6650 Jim Holland Brazil 79 MERS-COV NO
+2212 Kevin Freeman Brazil 18 SARS-1 YES 14-08-2009
+8137 Douglas Jackson Brazil 72 FLU-2018 NO
+5421 Robert Ramos Brazil 63 H1N1 NO
+8437 Daniel Gomez Brazil 62 MERS-COV NO
+7041 Raymond Jones Brazil 77 SARS-1 YES 17-03-2016
+7041 Raymond Jones Brazil 77 COVID-2019 YES 03-10-2009
+173 Robert Gardner Brazil 62 H1N1 YES 06-02-2005
+6643 William Johnson Brazil 61 FLU-2018 NO
+6643 William Johnson Brazil 61 COVID-2019 NO
+4249 Debbie Gregory Brazil 32 MERS-COV NO
+6631 Glen Herrera Brazil 79 H1N1 YES 16-12-2013
+6631 Glen Herrera Brazil 79 SARS-1 YES 23-11-2019
+4773 Caitlin Gray Brazil 60 H1N1 NO
+6536 Elizabeth Barrera Brazil 21 H1N1 YES 19-07-2006
+9722 Carl Flores Brazil 49 EVD YES 17-09-2012
+257 Jose Horne Brazil 61 EVD NO
+3300 Mike Daniels Brazil 61 H1N1 YES 05-01-2017
+9293 Kyle Murphy Brazil 31 FLU-2018 YES 26-10-2001
+5401 Thomas Fowler Brazil 48 COVID-2019 NO
+34 Cassie Stephens Brazil 59 H1N1 NO
+5217 Ralph Lee Brazil 20 H1N1 YES 13-05-2009
+9997 Douglas Kennedy Brazil 51 H1N1 YES 16-09-2004
+6387 Michelle White Brazil 12 EVD YES 19-02-2018
+6277 Melissa Cruz Brazil 48 EVD YES 01-02-2003
+7462 Samuel Lamb Brazil 20 FLU-2018 YES 28-03-2010
+2599 Cody Lewis Brazil 39 H1N1 YES 20-10-2014
+7151 Timothy Gordon Brazil 43 EVD NO
+9233 William Chavez Brazil 14 SARS-COV-2 NO
+8595 Robert Webb Brazil 17 EVD NO
+4867 Carol Wilson Brazil 78 COVID-2019 YES 11-12-2010
+1872 John Jones Brazil 69 MERS-COV YES 31-07-2003
+1872 John Jones Brazil 69 SARS-COV-2 YES 03-01-2009
+2130 Adam Lopez Brazil 22 EVD YES 27-04-2017
+3311 Zachary Smith Brazil 15 COVID-2019 NO
+9157 Richard Rojas Brazil 23 MERS-COV NO
+9157 Richard Rojas Brazil 23 COVID-2019 NO
+8736 Kelly Bowen Brazil 67 COVID-2019 YES 02-08-2016
+5224 Christian Rodriguez Brazil 41 MERS-COV YES 22-09-2014
+5224 Christian Rodriguez Brazil 41 SARS-COV-2 YES 07-11-2006
+4566 Kimberly Thomas Brazil 54 SARS-1 YES 27-11-2007
+1532 Stephanie Mitchell Brazil 77 SARS-1 NO
+8637 Amanda Maynard Brazil 20 COVID-2019 NO
+143 Donald Townsend Brazil 53 COVID-2019 YES 11-12-2010
+8758 Brittany Holmes Brazil 19 SARS-1 NO
+6374 Taylor Kelley Brazil 50 H1N1 NO
+8365 Ruth Harper Brazil 70 MERS-COV NO
+8309 Gregg Martinez Brazil 31 FLU-2018 YES 03-09-2017
+6837 Lisa Perkins Brazil 51 FLU-2018 NO
+6947 Jeremy Hall Brazil 51 EVD NO
+4366 Leslie Walters Brazil 54 SARS-COV-2 NO
+6370 Mallory Zimmerman Brazil 13 H1N1 YES 10-07-2009
+4526 Nancy Johnson Brazil 59 COVID-2019 YES 05-03-2020
+2478 Debra Mckinney Brazil 17 MERS-COV NO
+1975 Matthew Williams Brazil 41 FLU-2018 YES 02-01-2000
+7809 Kyle Cunningham Brazil 78 H1N1 YES 03-02-2000
+7046 Stephen Smith Brazil 10 COVID-2019 YES 09-08-2011
+7046 Stephen Smith Brazil 10 EVD NO
+1119 Jessica Johnson Brazil 31 H1N1 NO
+993 Alicia Oneal Brazil 12 FLU-2018 YES 10-10-2019
+8446 Christina Ward Brazil 32 FLU-2018 YES 31-07-2019
+6945 Jasmine Yates Brazil 25 EVD YES 07-02-2020
+4791 Jill Nunez Brazil 10 MERS-COV NO
+4930 Angela Garza Brazil 49 EVD YES 06-10-2004
+4930 Angela Garza Brazil 49 COVID-2019 NO
+3878 William Foster Brazil 14 FLU-2018 NO
+8650 Patrick Daniel Brazil 42 FLU-2018 YES 12-11-2019
+4269 Carol Curry Brazil 21 SARS-1 YES 04-04-2003
+6385 Catherine Reese Brazil 57 EVD NO
+2677 Jeff Logan Brazil 15 COVID-2019 NO
+4238 John Medina Brazil 69 FLU-2018 YES 01-06-2006
+746 Glenda Hodges Brazil 77 H1N1 NO
+1970 Steven Massey Brazil 37 SARS-1 YES 05-06-2007
+891 Dakota Higgins Brazil 40 MERS-COV YES 02-10-2010
+891 Dakota Higgins Brazil 40 H1N1 YES 27-11-2020
+5096 Briana Kemp Brazil 35 FLU-2018 NO
+3573 Barbara Vasquez Brazil 58 SARS-COV-2 YES 10-05-2016
+3573 Barbara Vasquez Brazil 58 COVID-2019 YES 02-03-2018
+8347 Hannah Roberts Brazil 66 FLU-2018 YES 17-11-2013
+5884 Lori Hammond Brazil 62 H1N1 YES 09-02-2012
+9523 Elizabeth Payne Brazil 73 SARS-1 YES 25-10-2005
+2154 Curtis Cline Brazil 12 FLU-2018 NO
+6111 Paul Wilson Brazil 54 EVD NO
+5312 Robert Schroeder Brazil 14 COVID-2019 YES 25-07-2006
+6313 Keith Taylor Brazil 60 SARS-COV-2 YES 28-07-2018
+8498 Shannon Sandoval Brazil 51 FLU-2018 NO
+1806 Kari Joyce Brazil 32 MERS-COV NO
+9037 Robert Garcia Brazil 16 COVID-2019 NO
+333 James West Brazil 25 SARS-1 YES 16-12-2020
+1617 Kathryn Schwartz Brazil 34 SARS-1 NO
+999 Leslie Perry Brazil 67 H1N1 YES 18-12-2020
+7941 Eric Dickerson Brazil 13 MERS-COV YES 29-08-2013
+1316 Scott Johnson Brazil 40 H1N1 YES 30-04-2007
+377 Amy Mann Brazil 15 EVD NO
+8290 Theresa Rodgers Brazil 13 SARS-1 NO
+8521 Justin Jenkins Brazil 13 H1N1 YES 23-11-2001
+2543 Becky Fry Brazil 63 SARS-1 YES 15-03-2003
+1260 Mario Huerta Brazil 66 SARS-1 NO
+4935 Jessica Quinn Brazil 27 SARS-COV-2 NO
+7407 Linda Guerrero Brazil 63 COVID-2019 YES 22-06-2009
+429 Eugene Adams Brazil 73 COVID-2019 NO
+4236 Ebony Nelson Brazil 78 FLU-2018 NO
+8881 Amy Dougherty Brazil 31 EVD NO
+9683 Laurie Valdez Brazil 15 COVID-2019 NO
+4544 Amanda King Brazil 66 EVD YES 27-09-2007
+6752 Mark Holmes Brazil 20 SARS-1 NO
+6384 Pam Pittman Brazil 12 FLU-2018 YES 18-02-2004
+8602 Ian Logan Brazil 79 SARS-1 YES 10-02-2002
+7129 Jennifer Powell Brazil 52 SARS-1 NO
+2729 Nicole Cole Brazil 16 H1N1 YES 03-05-2012
+2918 Emma Holden Brazil 43 SARS-COV-2 NO
+9223 Samuel Palmer Brazil 50 COVID-2019 YES 27-01-2017
+8975 Edward Campbell Brazil 28 SARS-COV-2 YES 11-09-2013
+5045 Kevin Young Brazil 29 SARS-COV-2 NO
+1939 Austin Gonzalez Brazil 16 FLU-2018 NO
+4071 Rachel Richardson Brazil 66 EVD NO
+9629 Stacy Miller Brazil 32 FLU-2018 NO
+1982 Aaron Bautista Brazil 27 MERS-COV NO
+7926 Gary Olson Brazil 10 COVID-2019 NO
+6195 Rachel Bright Brazil 58 H1N1 YES 03-10-2008
+6132 Briana Owens Brazil 31 SARS-1 NO
+3784 Thomas Holt Brazil 36 SARS-COV-2 YES 09-04-2009
+5625 Cynthia Brown Brazil 11 H1N1 YES 10-10-2003
+5625 Cynthia Brown Brazil 11 FLU-2018 NO
+8959 Seth Gonzales Brazil 73 SARS-COV-2 YES 24-01-2009
+5604 Colleen Lewis Brazil 28 MERS-COV YES 11-11-2007
+3680 Ashley Moore Brazil 54 EVD NO
+4687 Kristina Harvey Brazil 76 SARS-1 NO
+941 Andrew Tucker Brazil 48 FLU-2018 YES 16-10-2002
+9310 Harold Maxwell Brazil 14 MERS-COV YES 13-04-2003
+9424 Emily Brooks Brazil 76 MERS-COV NO
+5938 Justin Terrell Brazil 18 MERS-COV NO
+3303 David Ramirez Brazil 30 MERS-COV NO
+8470 Nathan Miller Brazil 24 FLU-2018 NO
+9774 Michael Oliver Brazil 33 SARS-1 YES 17-02-2015
+3462 Katelyn Larson Brazil 30 SARS-1 YES 21-02-2003
+7605 Matthew Hunt Brazil 40 MERS-COV YES 20-09-2012
+6866 Amanda Campbell Brazil 75 SARS-1 NO
+7578 Heather Tucker Brazil 44 EVD NO
+6296 Christopher Barber Brazil 10 FLU-2018 NO
+9448 Laura Washington Brazil 77 MERS-COV NO
+6080 Elizabeth Howard Brazil 50 EVD NO
+536 Jon Nguyen Brazil 72 SARS-1 NO
+4212 Keith Phillips Brazil 13 MERS-COV NO
+7724 Thomas Smith Brazil 50 MERS-COV YES 26-04-2010
+9586 Roberta Smith Brazil 12 SARS-COV-2 NO
+2772 Steven Williamson Brazil 64 SARS-COV-2 NO
+7069 Nicole Petty Brazil 72 SARS-1 NO
+5502 Tyrone Rogers Brazil 78 SARS-COV-2 NO
+967 Thomas Rivera Brazil 60 SARS-1 YES 01-01-2003
+967 Thomas Rivera Brazil 60 H1N1 NO
+344 Theresa Clarke Brazil 47 H1N1 NO
+7231 Sarah Gomez Brazil 70 COVID-2019 NO
+7005 Denise Vargas Brazil 20 H1N1 NO
+5692 Annette Martinez Brazil 15 EVD YES 31-12-2006
+5692 Annette Martinez Brazil 15 COVID-2019 YES 20-12-2002
+4574 Vincent Alvarado Brazil 17 FLU-2018 NO
+8214 Lindsey Clay Brazil 33 EVD NO
+6037 Jane Jenkins Brazil 40 SARS-COV-2 YES 10-12-2019
+4668 Monique Cowan Brazil 38 SARS-COV-2 NO
+4668 Monique Cowan Brazil 38 SARS-1 NO
+8040 Nancy Smith Brazil 77 EVD NO
+2744 Todd Cannon Brazil 54 H1N1 YES 20-08-2020
+7182 Katherine Heath Brazil 54 H1N1 NO
+6013 Ronald Boone Brazil 21 H1N1 YES 29-05-2013
+8590 David Lloyd Brazil 76 EVD YES 13-07-2010
+3716 Denise Phelps Brazil 58 SARS-1 NO
+1916 Shawn Huber Brazil 40 EVD YES 27-11-2020
+7557 Nancy Reid Brazil 45 H1N1 NO
+1535 Scott Horton Brazil 46 EVD YES 21-06-2018
+3324 Colin Moore Brazil 18 SARS-COV-2 YES 04-01-2012
+3324 Colin Moore Brazil 18 SARS-1 NO
+6253 Stacey Jenkins Brazil 62 FLU-2018 YES 02-12-2016
+2747 Andrea Richardson Brazil 19 FLU-2018 NO
+4207 Michelle Mcknight Brazil 63 H1N1 YES 20-12-2014
+4207 Michelle Mcknight Brazil 63 EVD YES 10-05-2003
+8463 Nicole Jackson Brazil 66 MERS-COV NO
+9970 Sean Thomas Brazil 74 COVID-2019 YES 31-12-2004
+683 Angela Phillips Brazil 26 SARS-COV-2 YES 05-02-2014
+8980 Benjamin Dominguez Brazil 35 SARS-1 YES 17-12-2016
+2872 Ronnie Nguyen Brazil 47 MERS-COV NO
+1985 Nicole Rogers Brazil 49 COVID-2019 YES 16-05-2019
+2357 Anne Wilson Brazil 47 COVID-2019 NO
+6637 Jason Edwards Brazil 21 H1N1 NO
+9042 Gary Avila Brazil 71 H1N1 YES 19-08-2012
+1886 Robert Torres Brazil 15 FLU-2018 YES 15-08-2015
+9926 Keith Sutton Brazil 51 COVID-2019 YES 02-07-2020
+7744 Sandra Greene Brazil 62 FLU-2018 NO
+7744 Sandra Greene Brazil 62 EVD YES 17-08-2017
+7581 Michael Jacobs Brazil 35 FLU-2018 NO
+7581 Michael Jacobs Brazil 35 H1N1 NO
+9177 Anthony Williams Brazil 67 SARS-1 NO
+5141 Rebecca George Brazil 20 FLU-2018 NO
+7877 Adam Miller Brazil 14 EVD YES 23-09-2016
+6462 Robert Leach Brazil 52 H1N1 NO
+7404 Sara Massey Brazil 16 EVD YES 10-10-2011
+778 Amy Collins Brazil 15 SARS-1 YES 15-11-2000
+6606 Taylor Campbell Brazil 23 EVD YES 14-09-2007
+5107 Megan Lopez Brazil 15 SARS-COV-2 YES 08-05-2019
+3009 Lisa Rubio Brazil 38 FLU-2018 YES 16-01-2007
+5770 Scott Evans Brazil 36 SARS-COV-2 NO
+5770 Scott Evans Brazil 36 EVD NO
+2544 Amy Ramirez Brazil 53 SARS-1 YES 12-09-2013
+2775 Gabrielle Hodge Brazil 16 SARS-1 NO
+7766 Allen Benton Brazil 10 FLU-2018 YES 20-02-2019
+7766 Allen Benton Brazil 10 SARS-1 YES 09-10-2014
+6164 Joseph Young Brazil 56 SARS-1 NO
+7529 Nicholas Gonzalez Brazil 12 SARS-COV-2 YES 21-12-2004
+5716 Linda Baker Brazil 49 SARS-1 NO
+7398 Charles Medina Brazil 12 FLU-2018 NO
+7398 Charles Medina Brazil 12 EVD NO
+1065 Marc Perez Brazil 18 H1N1 YES 28-04-2011
+8847 Vanessa Nelson Brazil 51 EVD NO
+2219 William Cervantes Brazil 36 H1N1 YES 14-03-2001
+4092 Lindsay Terry Brazil 16 SARS-1 YES 15-12-2018
+8883 Logan Webb Brazil 34 MERS-COV YES 20-06-2007
+4669 Erin Hall Brazil 71 COVID-2019 NO
+8090 Melissa Campbell Brazil 43 SARS-COV-2 YES 30-12-2003
+7966 Carol Shaw Brazil 67 MERS-COV NO
+7966 Carol Shaw Brazil 67 H1N1 NO
+3160 Tammy Diaz Brazil 28 FLU-2018 NO
+6404 Andre Myers Brazil 41 SARS-COV-2 YES 17-09-2012
+337 Emily Washington Brazil 12 COVID-2019 NO
+9598 Marc Bailey Brazil 60 SARS-1 NO
+6818 Scott Lopez Brazil 53 H1N1 NO
+2073 Monica Johnson Brazil 79 H1N1 YES 04-01-2016
+8351 Jesse Brown Brazil 38 EVD NO
+4999 Marcus Cook Brazil 57 EVD YES 24-03-2013
+4999 Marcus Cook Brazil 57 MERS-COV YES 19-10-2003
+8203 David Miller Brazil 52 SARS-COV-2 NO
+4679 Robin Walters Brazil 75 COVID-2019 YES 01-10-2012
+8419 Joanne Osborne Brazil 35 COVID-2019 YES 16-02-2010
+4925 Patricia Aguilar Brazil 72 MERS-COV NO
+4925 Patricia Aguilar Brazil 72 H1N1 YES 05-03-2015
+1534 Robert Franklin Brazil 17 H1N1 NO
+8497 Shelby Nichols Brazil 69 FLU-2018 NO
+8491 Russell Bolton Brazil 56 EVD YES 05-03-2016
+7386 Darrell Allen Brazil 21 MERS-COV NO
+1721 Michael Norris Brazil 25 SARS-1 YES 29-12-2007
+3667 James Nelson Brazil 73 H1N1 YES 31-10-2020
+3667 James Nelson Brazil 73 SARS-COV-2 YES 07-08-2004
+1778 Joshua Gardner Brazil 70 FLU-2018 NO
+7257 James Nelson Brazil 67 FLU-2018 NO
+7831 Courtney Bender Brazil 52 EVD NO
+7831 Courtney Bender Brazil 52 COVID-2019 NO
+341 Jessica Jenkins Brazil 51 SARS-COV-2 NO
+6297 Jeffrey Newton Brazil 49 FLU-2018 NO
+6297 Jeffrey Newton Brazil 49 EVD NO
+6588 Trevor Hamilton Brazil 56 SARS-1 YES 09-05-2001
+7435 Mallory Ramos Brazil 10 FLU-2018 YES 26-05-2010
+3461 Christopher Wood Brazil 34 SARS-1 NO
+9702 Kenneth Stone Brazil 38 MERS-COV YES 09-07-2007
+3088 Tiffany Hill Brazil 64 COVID-2019 YES 18-11-2004
+1845 Sheila Lester Brazil 71 MERS-COV NO
+6428 Steven Jenkins Brazil 58 H1N1 YES 27-02-2014
+2120 Michael Mclaughlin Brazil 44 SARS-COV-2 YES 29-11-2000
+3647 Mark Martin Brazil 32 COVID-2019 YES 10-03-2021
+7234 April Hunt Brazil 18 FLU-2018 YES 18-02-2005
+3521 Donna White Brazil 20 FLU-2018 NO
+5874 Emily Snyder Brazil 52 EVD NO
+1293 Kelly Rodriguez Brazil 40 H1N1 NO
+1810 Stephanie Moore Brazil 56 MERS-COV NO
+396 Carlos Aguirre Brazil 34 H1N1 YES 09-05-2004
+396 Carlos Aguirre Brazil 34 SARS-COV-2 NO
+2193 James Walsh Brazil 75 MERS-COV YES 18-01-2015
+4285 Ryan White Brazil 19 EVD YES 11-11-2009
+9284 Mary Guzman Brazil 33 FLU-2018 YES 10-07-2003
+9284 Mary Guzman Brazil 33 SARS-COV-2 YES 21-06-2008
+1964 Steven Carlson Brazil 69 SARS-COV-2 YES 14-02-2002
+5916 Antonio Torres Brazil 24 EVD YES 09-03-2020
+4622 William Navarro Brazil 36 SARS-1 YES 25-07-2017
+1435 Jeffrey Ritter Brazil 18 FLU-2018 NO
+5139 Gail Torres Brazil 30 EVD NO
+7243 Laura Ramirez Brazil 16 FLU-2018 YES 12-01-2003
+7243 Laura Ramirez Brazil 16 COVID-2019 YES 19-07-2017
+1981 John Ryan Brazil 19 COVID-2019 YES 29-06-2013
+3980 Anne Price Brazil 37 H1N1 NO
+2183 Debra Cruz Brazil 31 COVID-2019 NO
+1145 Lisa Ramirez Brazil 37 H1N1 YES 16-04-2009
+9822 Jonathan Collins Brazil 15 EVD NO
+7764 James Cook Brazil 35 FLU-2018 YES 01-10-2017
+7764 James Cook Brazil 35 H1N1 YES 11-07-2003
+5809 Brian Williams Brazil 70 SARS-1 NO
+7159 Jim Kaufman Brazil 17 MERS-COV NO
+472 Robert Brewer Brazil 67 FLU-2018 YES 20-07-2000
+3290 Kellie Smith Brazil 69 H1N1 YES 16-12-2019
+3986 Curtis Fox Brazil 18 COVID-2019 YES 16-09-2011
+4793 Ashley Cox Brazil 64 SARS-COV-2 NO
+441 Gregory Moore Brazil 79 EVD NO
+2963 Cassidy Jefferson Brazil 51 FLU-2018 YES 29-07-2020
+4454 Diana Scott Brazil 79 EVD NO
+1154 Larry Gray Brazil 70 SARS-COV-2 NO
+2400 Brenda Whitney Brazil 49 FLU-2018 YES 28-06-2009
+7861 Joshua Wilson Brazil 34 COVID-2019 NO
+3587 Jennifer Daniels Brazil 50 COVID-2019 NO
+8848 Rhonda Lewis Brazil 14 H1N1 NO
+3473 Nicholas White Brazil 46 SARS-COV-2 YES 09-03-2002
+3473 Nicholas White Brazil 46 FLU-2018 YES 10-05-2006
+4831 Emily Jordan Brazil 29 H1N1 NO
+391 Justin Hall Brazil 15 FLU-2018 YES 20-05-2001
+391 Justin Hall Brazil 15 EVD YES 15-11-2003
+7375 Lisa Barton Brazil 37 SARS-1 YES 23-12-2001
+1374 Christina Conner Brazil 77 MERS-COV NO
+7564 William Greer Brazil 47 EVD NO
+9458 Kelly Wilson Brazil 58 SARS-COV-2 YES 26-05-2014
+4397 Christopher Bell Brazil 19 FLU-2018 YES 01-10-2011
+7894 Scott Cummings Brazil 28 COVID-2019 YES 16-03-2011
+9712 David Robles Brazil 17 H1N1 NO
+4824 Charles James Brazil 71 SARS-1 YES 16-04-2008
+9285 Emily Franco Brazil 27 MERS-COV NO
+9285 Emily Franco Brazil 27 FLU-2018 NO
+4224 Sandra Skinner Brazil 76 SARS-COV-2 NO
+9229 Benjamin Jensen Brazil 66 SARS-1 NO
+919 Nancy Werner Brazil 73 SARS-1 YES 02-09-2019
+65 Patricia Mendez Brazil 66 FLU-2018 NO
+7196 Linda Martinez Brazil 52 COVID-2019 NO
+5160 Tara Smith Brazil 79 EVD YES 25-01-2021
+3266 Shawn Foley Brazil 51 MERS-COV YES 20-05-2020
+4628 Lori Martinez Brazil 22 EVD YES 20-11-2015
+5070 Michelle Mayo Brazil 25 H1N1 NO
+5388 Alexis Yu Brazil 21 COVID-2019 YES 28-11-2014
+7672 Justin Lee Brazil 69 H1N1 NO
+2050 John Grant Brazil 32 COVID-2019 NO
+5340 William Richmond Brazil 36 SARS-1 NO
+9154 William Yang Brazil 45 MERS-COV YES 06-12-2005
+4177 Matthew Brown Brazil 18 COVID-2019 NO
+4177 Matthew Brown Brazil 18 SARS-1 YES 18-02-2002
+6000 Jason Vincent Brazil 70 MERS-COV YES 16-05-2012
+3654 Matthew Wilcox Brazil 75 EVD YES 01-10-2014
+2486 Michele Smith Brazil 62 COVID-2019 YES 15-09-2005
+2486 Michele Smith Brazil 62 SARS-1 NO
+4840 Edward Petersen Brazil 32 FLU-2018 NO
+5539 Sheryl Mcgee Brazil 13 COVID-2019 NO

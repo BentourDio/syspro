@@ -1,0 +1,3366 @@
+30090 Justin Anderson Russia 22 MERS-COV NO
+56827 Joseph Shepard Russia 71 MERS-COV YES 11-04-2008
+54324 Cheryl Faulkner Russia 31 SARS-1 YES 15-08-2014
+1485 Brenda Johnson Russia 71 EVD YES 08-07-2016
+95960 Brenda Morton Russia 74 FLU-2018 YES 25-05-2017
+41645 Michael Hansen Russia 69 FLU-2018 YES 07-03-2001
+74464 Patrick Pittman Russia 46 FLU-2018 YES 05-03-2003
+35990 Elizabeth Harris Russia 51 SARS-COV-2 YES 26-12-2013
+13718 Angel Wilson Russia 74 EVD YES 13-09-2010
+50654 Gregory Hubbard Russia 69 EVD YES 02-04-2016
+51814 Lawrence Smith Russia 56 EVD YES 13-01-2019
+99770 Stephanie Thomas Russia 29 H1N1 NO
+52829 Debbie Larsen Russia 52 MERS-COV YES 27-02-2014
+30398 Desiree Evans Russia 32 H1N1 YES 10-08-2014
+28930 Tonya Lowe Russia 40 MERS-COV NO
+26423 Timothy Wagner Russia 76 COVID-2019 NO
+27275 Jason Reynolds Russia 52 H1N1 YES 22-06-2001
+14594 Jason Lawson Russia 12 FLU-2018 NO
+10322 David Freeman Russia 40 H1N1 NO
+52633 Mark Krause Russia 48 FLU-2018 YES 10-05-2002
+78902 Destiny Wheeler Russia 13 MERS-COV YES 23-02-2004
+73837 Cheryl Thompson Russia 25 COVID-2019 NO
+1509 Amber Olsen Russia 76 EVD YES 12-08-2005
+9592 Jason Long Russia 24 H1N1 YES 07-01-2005
+77600 Jonathan Lynch Russia 45 SARS-1 YES 13-05-2010
+11613 Denise Smith Russia 37 FLU-2018 NO
+47131 Sherry Gibbs Russia 50 SARS-1 YES 25-09-2000
+95027 Angela Barber Russia 11 COVID-2019 NO
+28275 Paul Sullivan Russia 62 FLU-2018 NO
+77942 Michael Singh Russia 22 MERS-COV NO
+20111 Kathy Lee Russia 63 SARS-COV-2 YES 22-11-2014
+68366 Veronica Fernandez Russia 42 SARS-COV-2 NO
+1709 Zachary Lester Russia 77 EVD YES 23-01-2021
+39258 Jeffrey Meyer Russia 76 EVD YES 20-09-2010
+72308 Ronald Harris Russia 32 FLU-2018 NO
+50027 Timothy Duffy Russia 77 COVID-2019 YES 22-06-2006
+89888 Andrew Rivera Russia 37 H1N1 YES 17-06-2010
+72479 Christian Taylor Russia 52 EVD NO
+21207 Yolanda Chavez Russia 50 SARS-1 NO
+54572 Thomas Henderson Russia 54 MERS-COV YES 28-06-2019
+49139 Stephen Mills Russia 79 H1N1 YES 13-09-2011
+49399 Duane Andersen Russia 55 SARS-COV-2 NO
+88679 Belinda Li Russia 63 COVID-2019 YES 26-10-2005
+26387 Phillip Buckley Russia 34 FLU-2018 YES 21-02-2012
+27531 Cole Odonnell Russia 15 EVD NO
+43033 Heidi Sanders Russia 36 H1N1 NO
+51582 Glenn Atkins Russia 32 FLU-2018 NO
+20458 Robert Baird Russia 72 EVD YES 15-05-2005
+24149 Ruth Wood Russia 65 H1N1 NO
+57615 Austin Wallace Russia 28 SARS-COV-2 YES 26-02-2007
+99757 Steven Thompson Russia 22 SARS-COV-2 YES 23-04-2009
+54384 Douglas Gibson Russia 51 EVD NO
+61396 John Gutierrez Russia 73 H1N1 NO
+49480 Chelsea Patterson Russia 39 FLU-2018 YES 13-07-2004
+50233 Brian Chaney Russia 25 FLU-2018 YES 25-10-2015
+40225 Travis Booth Russia 28 SARS-1 NO
+77880 Kyle Mills Russia 69 SARS-COV-2 YES 02-02-2013
+80369 Sandra Hurst Russia 54 COVID-2019 YES 28-01-2013
+55380 Eric Chapman Russia 40 MERS-COV YES 04-07-2003
+41409 Justin Andrade Russia 33 H1N1 NO
+75531 Gerald Fernandez Russia 79 SARS-COV-2 NO
+20264 Janice Alexander Russia 58 EVD NO
+14338 Carmen Bailey Russia 36 EVD YES 05-03-2005
+33784 Scott Brown Russia 69 SARS-COV-2 YES 05-11-2016
+30659 Judy Johnson Russia 63 H1N1 NO
+59768 Douglas Le Russia 41 H1N1 YES 01-06-2000
+22891 Shannon Lewis Russia 78 COVID-2019 YES 21-01-2014
+99115 Jennifer Kennedy Russia 63 H1N1 NO
+67320 Ian Jones Russia 37 MERS-COV NO
+1839 Courtney Craig Russia 28 COVID-2019 YES 14-07-2005
+93953 Carrie Garza Russia 61 MERS-COV YES 12-10-2013
+82034 Arthur Simmons Russia 12 SARS-COV-2 NO
+2469 Samantha Rojas Russia 18 MERS-COV NO
+14295 Tiffany Cain Russia 43 COVID-2019 YES 23-01-2011
+23088 Douglas Yang Russia 54 COVID-2019 YES 01-10-2005
+44189 April Jones Russia 77 SARS-COV-2 NO
+83264 Micheal Nguyen Russia 29 COVID-2019 NO
+90469 Andrew Brown Russia 33 SARS-COV-2 YES 28-11-2004
+64160 Bridget Anderson Russia 51 EVD NO
+11024 Katie Dunn Russia 68 SARS-COV-2 NO
+11427 Connor Perez Russia 35 FLU-2018 NO
+71105 Lydia Martinez Russia 18 COVID-2019 YES 01-01-2002
+61198 Michael Carlson Russia 43 MERS-COV NO
+73398 Victoria Leonard Russia 41 MERS-COV YES 28-04-2000
+22048 David Medina Russia 26 H1N1 YES 30-05-2011
+64483 Rebecca Davis Russia 24 H1N1 NO
+44901 John Martin Russia 78 H1N1 NO
+98882 Eric Rodriguez Russia 66 COVID-2019 NO
+12272 Jessica Williams Russia 56 H1N1 YES 16-04-2015
+79138 Judy Pearson Russia 76 MERS-COV NO
+74672 Nicholas Rowe Russia 44 FLU-2018 NO
+27048 Nathan Hernandez Russia 28 MERS-COV NO
+84008 Eric Macdonald Russia 63 SARS-COV-2 YES 02-02-2018
+81974 Michael Rivers Russia 12 COVID-2019 NO
+48349 Eric Grant Russia 60 FLU-2018 YES 27-05-2001
+69615 Bryan Williams Russia 27 H1N1 YES 26-04-2011
+22495 Jessica Guerra Russia 30 H1N1 YES 24-05-2006
+84103 Sharon Duncan Russia 54 COVID-2019 NO
+26720 Michael Holmes Russia 70 FLU-2018 NO
+47457 Kyle Calderon Russia 63 COVID-2019 YES 15-07-2013
+74761 Madison Wallace Russia 69 EVD NO
+98952 Charlotte Campbell Russia 49 H1N1 YES 19-10-2011
+50694 Theresa Horne Russia 70 EVD YES 21-02-2009
+2039 Daniel Braun Russia 52 SARS-COV-2 YES 03-04-2018
+71300 Keith Meyer Russia 76 EVD YES 22-07-2010
+28449 Joshua Keith Russia 21 SARS-COV-2 NO
+81047 Christopher Jackson Russia 42 SARS-COV-2 YES 05-06-2014
+20081 James Clark Russia 41 H1N1 YES 07-09-2019
+83713 Diana Humphrey Russia 20 H1N1 YES 30-12-2000
+23428 Ronald Wilson Russia 13 H1N1 NO
+54621 Michael Sanchez Russia 33 EVD YES 06-06-2002
+7021 Thomas Skinner Russia 41 MERS-COV NO
+7438 Zachary Chan Russia 44 MERS-COV NO
+55269 Tara Martinez Russia 34 EVD YES 16-04-2019
+11528 Tammy Abbott Russia 18 FLU-2018 NO
+61264 Teresa Carter Russia 24 H1N1 YES 08-10-2015
+41032 Christopher Bowman Russia 33 MERS-COV YES 11-03-2014
+39788 Maria Murray Russia 22 H1N1 NO
+36231 Jennifer Taylor Russia 61 SARS-COV-2 NO
+18601 Lisa Williams Russia 37 MERS-COV YES 22-03-2002
+69522 Marcia Ford Russia 60 H1N1 YES 14-10-2013
+63755 Robert Molina Russia 61 MERS-COV YES 23-06-2011
+13436 Christopher Christensen Russia 70 EVD NO
+8945 Christine Scott Russia 70 FLU-2018 YES 17-03-2007
+84764 Adam Cannon Russia 56 SARS-COV-2 NO
+97148 Kyle Mcdowell Russia 71 SARS-COV-2 NO
+15180 Jon Roman Russia 56 FLU-2018 NO
+85590 Charlotte Brown Russia 56 MERS-COV NO
+4599 Kelly Stewart Russia 16 SARS-COV-2 NO
+98359 Robert Evans Russia 59 SARS-COV-2 YES 24-02-2015
+51134 Danielle Spencer Russia 28 SARS-COV-2 YES 07-06-2010
+37895 Daniel Stevens Russia 61 H1N1 NO
+41590 Kathleen Willis Russia 64 SARS-1 NO
+98233 Donna Thompson Russia 66 SARS-COV-2 YES 05-03-2021
+61774 Tiffany Knight Russia 41 SARS-1 YES 17-09-2019
+79805 Jennifer Moyer Russia 58 COVID-2019 YES 02-02-2006
+55308 Billy Guerra Russia 33 H1N1 YES 19-12-2006
+16222 Whitney Barnes Russia 76 MERS-COV NO
+60537 Monica Torres Russia 68 MERS-COV NO
+85747 Carolyn Rodriguez Russia 37 COVID-2019 YES 14-12-2015
+86477 Brandon Williamson Russia 15 H1N1 NO
+32294 Sharon Hart Russia 23 SARS-1 YES 27-11-2016
+1550 Jeffery Sanchez Russia 77 SARS-1 YES 27-03-2015
+53754 Christopher Abbott Russia 40 EVD NO
+41212 Beth Franklin Russia 26 EVD NO
+71942 Joseph Rhodes Russia 41 MERS-COV YES 13-09-2000
+49706 Lisa Anderson Russia 14 EVD NO
+30707 Kevin Jackson Russia 56 SARS-COV-2 NO
+71921 Clifford Mcdaniel Russia 74 EVD YES 16-10-2007
+58260 Wayne Wilson Russia 63 COVID-2019 YES 16-07-2007
+89835 Jared Williams Russia 38 COVID-2019 YES 01-03-2018
+86824 Cheryl Anderson Russia 55 SARS-1 NO
+36384 Eric Mcguire Russia 28 H1N1 YES 29-12-2003
+39037 Jacob Castro Russia 53 MERS-COV YES 11-09-2008
+41776 Tamara Jones Russia 66 H1N1 NO
+73 James Shaw Russia 37 H1N1 YES 25-12-2015
+24045 Amy Smith Russia 18 SARS-1 NO
+36529 Eric Castro Russia 10 SARS-1 YES 24-03-2019
+44340 Peggy Chen Russia 36 EVD YES 05-08-2018
+68118 Jeffrey Rodgers Russia 51 MERS-COV NO
+70257 Sydney Moreno Russia 74 MERS-COV YES 03-08-2012
+94598 Michelle Garcia Russia 46 COVID-2019 YES 20-10-2008
+4178 Brenda Wade Russia 53 H1N1 YES 30-03-2007
+30537 Kayla Salinas Russia 31 SARS-1 NO
+61330 Jason Craig Russia 41 MERS-COV NO
+79347 Jared Oconnor Russia 26 H1N1 NO
+75102 Crystal Armstrong Russia 47 SARS-COV-2 NO
+74608 Karen Hubbard Russia 16 MERS-COV NO
+80137 Chelsey Martin Russia 77 EVD YES 21-08-2001
+77773 Jimmy Bradford Russia 63 MERS-COV NO
+53166 William Smith Russia 79 EVD NO
+81938 Mario Lee Russia 22 SARS-COV-2 NO
+71014 Zachary Shaffer Russia 42 SARS-COV-2 NO
+41933 Edward Johnson Russia 47 COVID-2019 YES 10-03-2007
+17688 Tracy Washington Russia 57 SARS-1 YES 21-09-2020
+58351 Marcus Bender Russia 55 EVD YES 24-02-2016
+53877 Shannon Zuniga Russia 20 EVD NO
+54695 Laura Jackson Russia 54 FLU-2018 YES 20-04-2017
+64863 Brian Palmer Russia 64 EVD NO
+72597 Dennis Shepherd Russia 29 FLU-2018 YES 20-10-2005
+93530 Andrea Ferguson Russia 36 SARS-COV-2 NO
+38084 William Wheeler Russia 72 COVID-2019 YES 04-03-2014
+14169 James Smith Russia 15 FLU-2018 YES 07-06-2020
+7539 Troy Howell Russia 37 SARS-COV-2 NO
+25627 Kevin Whitaker Russia 21 H1N1 NO
+75423 Jason Hale Russia 79 FLU-2018 NO
+27444 Frank Gonzalez Russia 35 H1N1 NO
+26885 Laura Herrera Russia 20 EVD YES 15-05-2001
+69558 Heidi Hernandez Russia 18 EVD YES 06-01-2003
+43063 Ian Strong Russia 38 SARS-1 NO
+56245 Deborah West Russia 72 SARS-1 NO
+13260 Stacy Jones Russia 39 H1N1 YES 27-06-2018
+20871 James Reynolds Russia 68 MERS-COV NO
+26732 Steven Madden Russia 58 SARS-COV-2 YES 26-08-2019
+5912 Stephen Watson Russia 25 FLU-2018 NO
+92691 Elizabeth Hester Russia 65 FLU-2018 YES 17-02-2010
+83999 Karen King Russia 45 SARS-COV-2 NO
+57018 Cynthia Gonzales Russia 33 FLU-2018 NO
+19906 Janice Thomas Russia 59 SARS-1 YES 11-10-2005
+4138 Brooke Hughes Russia 40 SARS-1 YES 12-01-2011
+7791 Steven Townsend Russia 12 H1N1 NO
+98253 David Allen Russia 79 FLU-2018 NO
+98297 Sheila Sanchez Russia 35 FLU-2018 YES 03-08-2016
+64378 Jason Davis Russia 28 SARS-1 NO
+74498 Jeffrey Cole Russia 20 COVID-2019 YES 26-07-2004
+69944 Jesus Galloway Russia 21 COVID-2019 NO
+46608 Henry Ellis Russia 60 EVD NO
+95365 Shelly Scott Russia 47 FLU-2018 NO
+65185 Anthony Brown Russia 47 SARS-1 NO
+59761 Laura Chapman Russia 69 COVID-2019 NO
+89122 Stephanie Becker Russia 69 SARS-1 NO
+74915 John Daniels Russia 36 EVD YES 15-02-2008
+6049 Linda Robinson Russia 52 H1N1 NO
+77690 Brian Chung Russia 16 SARS-COV-2 NO
+16980 Amber Meadows Russia 69 EVD YES 15-08-2019
+65629 Joshua Hendrix Russia 51 SARS-COV-2 YES 20-10-2009
+69157 Kelly Nelson Russia 74 SARS-COV-2 YES 11-04-2003
+87402 Patricia Wilkins Russia 58 FLU-2018 YES 06-06-2010
+59314 Maria Bridges Russia 13 SARS-1 YES 28-03-2020
+86337 Kaitlin Moore Russia 35 COVID-2019 NO
+62949 Michelle Jones Russia 16 SARS-COV-2 YES 11-02-2005
+40492 Austin Cervantes Russia 37 SARS-1 NO
+73715 Sandra Flores Russia 60 MERS-COV YES 17-08-2019
+29841 Aaron Lewis Russia 20 H1N1 NO
+46372 Edwin Parks Russia 75 MERS-COV NO
+46588 Lisa Mullen Russia 40 SARS-1 NO
+66555 Matthew Brown Russia 57 EVD NO
+65002 Sabrina Watson Russia 52 SARS-COV-2 NO
+40308 Isaiah Villegas Russia 17 SARS-COV-2 YES 27-10-2014
+70376 Sharon Wilson Russia 17 COVID-2019 YES 06-10-2006
+98034 Joshua Richard Russia 35 H1N1 YES 17-07-2016
+35339 Dawn Pacheco Russia 29 FLU-2018 NO
+58850 Yesenia Powell Russia 42 SARS-COV-2 NO
+97735 James Santana Russia 67 FLU-2018 YES 18-06-2005
+58385 Scott Compton Russia 43 FLU-2018 YES 05-11-2002
+66159 Angela Maynard Russia 16 FLU-2018 NO
+32741 David Richardson Russia 50 EVD YES 05-11-2002
+87735 Samuel Hall Russia 40 H1N1 YES 14-02-2017
+91077 Alan Sullivan Russia 41 COVID-2019 NO
+72701 John Harris Russia 71 SARS-1 NO
+990 Elizabeth Phillips Russia 14 SARS-1 YES 04-12-2011
+60907 Corey Morgan Russia 37 SARS-1 YES 02-11-2004
+76546 Ethan Roman Russia 36 EVD YES 25-08-2000
+96243 Cindy Paul Russia 23 MERS-COV YES 27-07-2011
+66468 Bailey Davis Russia 56 FLU-2018 NO
+92969 Parker Ortiz Russia 77 MERS-COV NO
+65691 Nicole Morgan Russia 59 H1N1 YES 02-01-2003
+44258 Jessica Bishop Russia 27 COVID-2019 YES 06-10-2019
+82360 Monica Simon Russia 53 MERS-COV NO
+49463 Nancy Carter Russia 65 SARS-COV-2 YES 27-02-2000
+74032 Wendy Cervantes Russia 62 SARS-1 NO
+86207 James Gregory Russia 55 H1N1 YES 31-07-2003
+45261 Amy Page Russia 35 H1N1 NO
+44142 Daniel Scott Russia 52 FLU-2018 YES 04-06-2020
+58390 Kevin Johnson Russia 40 MERS-COV YES 05-08-2007
+90781 Joshua Curry Russia 26 H1N1 NO
+77495 Cynthia Diaz Russia 30 EVD NO
+34470 Mallory Cook Russia 60 SARS-COV-2 YES 06-04-2015
+16160 Francisco Martin Russia 63 SARS-COV-2 YES 12-03-2013
+90715 Michele Henderson Russia 56 SARS-1 NO
+9567 Sherry Lara Russia 79 SARS-1 YES 27-02-2015
+75002 Antonio Phillips Russia 48 SARS-COV-2 YES 12-06-2013
+99626 Jeffrey Walters Russia 60 FLU-2018 NO
+65961 Justin Schultz Russia 14 COVID-2019 NO
+65196 Brooke Mathews Russia 23 MERS-COV YES 21-10-2020
+33205 Alison Perry Russia 38 H1N1 YES 28-07-2016
+86705 Amy Edwards Russia 21 SARS-COV-2 YES 12-03-2019
+68910 Amanda Parsons Russia 50 SARS-COV-2 YES 14-07-2001
+97814 Suzanne Blanchard Russia 65 COVID-2019 NO
+86040 Joy Green Russia 70 EVD NO
+37395 Jack Thompson Russia 78 SARS-COV-2 YES 25-05-2017
+55122 Frank Pittman Russia 40 H1N1 NO
+15171 Leslie Hall Russia 49 EVD YES 15-11-2011
+94704 Daniel Fisher Russia 45 SARS-COV-2 NO
+11798 Victoria Perez Russia 62 EVD YES 24-03-2017
+28340 Valerie Campbell Russia 78 FLU-2018 NO
+85690 Todd Hall Russia 21 MERS-COV NO
+83946 Brenda Perkins Russia 47 H1N1 YES 28-05-2015
+44794 Tina Baker Russia 69 SARS-COV-2 NO
+71145 Lisa Armstrong Russia 47 MERS-COV NO
+84149 Brandy Mcgee Russia 77 FLU-2018 NO
+74099 Amanda Lewis Russia 31 MERS-COV NO
+53902 Kimberly Williams Russia 46 EVD YES 30-04-2018
+59152 Andrew Parker Russia 42 MERS-COV YES 03-09-2019
+88652 Juan Jefferson Russia 26 SARS-1 NO
+95021 Richard Gonzalez Russia 73 SARS-1 YES 09-01-2012
+20550 Rebecca Anderson Russia 24 EVD NO
+60510 David Robertson Russia 56 FLU-2018 YES 02-08-2009
+80306 Louis Cook Russia 58 MERS-COV YES 26-06-2006
+66083 Michael Wells Russia 15 SARS-1 NO
+51808 Melissa Garcia Russia 64 SARS-COV-2 YES 25-08-2013
+99195 Anna Mack Russia 72 EVD NO
+64933 Carlos Gutierrez Russia 64 COVID-2019 YES 28-06-2008
+52965 Kenneth Nunez Russia 53 FLU-2018 YES 04-07-2000
+37767 Jo Jackson Russia 61 MERS-COV YES 14-03-2007
+52332 Linda Grant Russia 38 SARS-COV-2 YES 07-08-2008
+97781 Edward Daniels Russia 42 COVID-2019 YES 10-05-2017
+74706 Jonathan Bruce Russia 35 EVD NO
+39045 Jeremy Taylor Russia 71 SARS-1 NO
+30539 Gregory Banks Russia 44 H1N1 NO
+74956 Lisa Shepard Russia 44 COVID-2019 YES 16-12-2008
+76551 Christina Anthony Russia 51 SARS-COV-2 NO
+78343 Scott Chapman Russia 72 EVD YES 08-03-2006
+80268 Dylan Benson Russia 67 MERS-COV YES 28-12-2011
+7027 Heather Riddle Russia 59 SARS-COV-2 YES 14-11-2007
+21852 Amanda Park Russia 79 FLU-2018 NO
+75416 Lindsey Brown Russia 20 EVD YES 21-03-2007
+77458 Evan Jones Russia 12 SARS-COV-2 NO
+23342 Cindy Wagner Russia 15 SARS-COV-2 YES 10-11-2012
+77762 Tommy Santos Russia 55 SARS-1 NO
+35284 Catherine Smith Russia 29 EVD YES 02-04-2003
+97794 Sharon Rodriguez Russia 78 MERS-COV YES 25-07-2004
+79904 Thomas Hutchinson Russia 34 MERS-COV NO
+97360 Elizabeth Carpenter Russia 38 EVD NO
+22349 Andrew Miller Russia 24 COVID-2019 NO
+19378 Kari Pratt Russia 13 H1N1 YES 11-01-2000
+90217 Misty Adams Russia 18 MERS-COV NO
+19689 Russell Wolf Russia 37 MERS-COV NO
+8755 Kelly King Russia 14 FLU-2018 NO
+84090 Jeffrey Turner Russia 53 H1N1 YES 31-01-2014
+17758 Cynthia Fisher Russia 76 H1N1 YES 29-10-2020
+86345 Christina Donovan Russia 40 EVD NO
+27430 April Adkins Russia 17 SARS-COV-2 YES 11-11-2006
+35062 Anna Mcintosh Russia 28 MERS-COV YES 11-12-2016
+42159 Crystal Martinez Russia 41 EVD YES 08-01-2019
+69082 Pamela Delgado Russia 52 SARS-1 YES 08-11-2019
+79414 Ian Black Russia 33 COVID-2019 YES 16-04-2008
+46017 Victoria Johnson Russia 69 SARS-COV-2 NO
+41157 Charles Avila Russia 59 SARS-COV-2 YES 16-11-2008
+12248 Kristen Lopez Russia 43 MERS-COV NO
+20547 Christopher Gardner Russia 33 EVD NO
+39272 Sharon Pearson Russia 51 MERS-COV NO
+16838 James Mccullough Russia 70 COVID-2019 YES 21-01-2001
+8429 Scott Lane Russia 72 SARS-1 YES 13-09-2004
+10042 Roy Garcia Russia 42 H1N1 YES 21-05-2016
+81832 Kevin Moyer Russia 41 SARS-1 YES 29-11-2016
+38855 Gary Stevens Russia 27 SARS-1 NO
+97730 Terry Small Russia 33 SARS-COV-2 YES 30-08-2017
+14400 Alejandro Payne Russia 20 COVID-2019 YES 08-10-2017
+66678 Jessica Barnes Russia 53 COVID-2019 YES 01-02-2001
+11149 Andrea Spears Russia 50 FLU-2018 NO
+82639 Jessica Hunt Russia 75 EVD NO
+90887 Jason Ramirez Russia 60 EVD NO
+96316 Lindsey Edwards Russia 59 MERS-COV YES 18-02-2018
+39635 Sonya Preston Russia 73 SARS-COV-2 YES 30-08-2018
+24139 Louis Smith Russia 65 SARS-1 NO
+8276 Katherine Garcia Russia 57 EVD NO
+65877 Gregory Jarvis Russia 71 SARS-1 NO
+70614 Christine Wise Russia 41 SARS-COV-2 YES 08-08-2010
+8109 Shawn Shepherd Russia 21 FLU-2018 NO
+74069 Rebecca Edwards Russia 21 SARS-COV-2 YES 07-10-2009
+87411 Michelle Leblanc Russia 17 EVD YES 29-08-2008
+23914 Cindy Beck Russia 70 COVID-2019 YES 12-01-2001
+32785 Lauren Robinson Russia 26 SARS-COV-2 YES 25-01-2000
+11392 Kathy Harmon Russia 59 SARS-1 YES 09-09-2015
+93268 Melissa Boyd Russia 58 SARS-1 NO
+27264 Christine Turner Russia 39 FLU-2018 NO
+55761 Miranda Hicks Russia 12 FLU-2018 YES 13-06-2012
+70904 Ryan Strickland Russia 51 H1N1 YES 17-02-2009
+24748 Cheryl Zimmerman Russia 51 MERS-COV YES 30-08-2008
+82794 Tara Snyder Russia 13 SARS-1 NO
+12486 Alexander Hayden Russia 14 MERS-COV NO
+25658 Tonya Williams Russia 79 SARS-COV-2 NO
+56010 Deborah Garcia Russia 16 SARS-COV-2 YES 16-07-2017
+85264 Isaac Carlson Russia 16 COVID-2019 YES 26-08-2013
+81762 Kelly Ingram Russia 57 SARS-COV-2 NO
+64211 Richard Christian Russia 11 SARS-1 NO
+94857 Brandi Barron Russia 41 SARS-COV-2 YES 23-08-2018
+61498 Richard Parker Russia 75 COVID-2019 NO
+69809 Sara Ortiz Russia 55 SARS-COV-2 YES 24-03-2015
+12229 William Clark Russia 47 MERS-COV YES 26-03-2019
+33808 Andrew Porter Russia 20 COVID-2019 NO
+10795 Kathleen Park Russia 50 SARS-COV-2 NO
+22305 David Mendoza Russia 21 MERS-COV NO
+88419 Morgan Lee Russia 70 SARS-COV-2 NO
+23149 Megan Kirby Russia 52 EVD YES 19-08-2006
+65465 Trevor Nichols Russia 14 COVID-2019 YES 24-06-2019
+51762 Whitney Mercer Russia 24 EVD YES 16-12-2002
+6032 Michael Anderson Russia 70 FLU-2018 NO
+15529 Justin Freeman Russia 64 EVD NO
+71266 David Mathis Russia 54 COVID-2019 YES 18-02-2017
+30651 Anthony Caldwell Russia 42 H1N1 NO
+92647 Joseph Carey Russia 10 MERS-COV YES 28-04-2017
+69107 Virginia Boyd Russia 60 FLU-2018 YES 25-06-2015
+87149 Melanie Morales Russia 11 SARS-COV-2 YES 15-04-2009
+40785 Crystal Lopez Russia 15 FLU-2018 YES 05-01-2005
+22682 Albert Coleman Russia 39 COVID-2019 NO
+9794 Andrew Jensen Russia 30 EVD YES 14-01-2012
+57123 Joshua Miranda Russia 55 MERS-COV YES 11-09-2017
+21569 Tiffany Martinez Russia 37 SARS-1 YES 04-03-2007
+30161 Victor Brewer Russia 46 EVD YES 12-05-2016
+81214 Ryan Delgado Russia 51 SARS-1 NO
+60976 Steven Martinez Russia 61 EVD NO
+67215 Breanna Johns Russia 18 H1N1 NO
+98830 Timothy Summers Russia 27 H1N1 YES 17-05-2015
+86468 Tanner Boyd Russia 49 COVID-2019 NO
+80803 Ashley Mckenzie Russia 55 H1N1 YES 03-04-2006
+79113 Samuel Morton Russia 35 SARS-COV-2 YES 30-12-2003
+22860 Christine Padilla Russia 14 H1N1 NO
+27063 Kirsten Jimenez Russia 72 SARS-1 YES 28-04-2012
+93310 Raymond Lozano Russia 71 FLU-2018 NO
+93123 Wayne Davis Russia 53 MERS-COV NO
+59748 Tyler George Russia 54 H1N1 NO
+68584 Gregory Peters Russia 79 H1N1 NO
+49080 Lisa Mendoza Russia 62 FLU-2018 YES 09-02-2015
+39010 Eric Bass Russia 48 SARS-COV-2 NO
+42362 Nathan Williams Russia 22 MERS-COV YES 20-06-2006
+76306 Eric Wells Russia 29 EVD YES 19-08-2014
+39225 Penny Miller Russia 57 H1N1 YES 18-09-2012
+57928 Frank Rowland Russia 73 COVID-2019 YES 28-03-2010
+14273 Tina Bryant Russia 25 SARS-COV-2 YES 02-03-2008
+66991 Robert Santana Russia 74 EVD YES 16-06-2001
+50408 Joan Owens Russia 11 H1N1 YES 30-12-2012
+87202 Robert Rosales Russia 67 SARS-COV-2 NO
+50129 Debra Vega Russia 23 SARS-COV-2 YES 25-01-2001
+11004 Crystal Lucero Russia 42 FLU-2018 NO
+97703 Angela Tate Russia 67 COVID-2019 NO
+17774 Michele Anthony Russia 19 SARS-1 YES 12-05-2004
+18360 Amanda Miller Russia 35 H1N1 NO
+20827 Jessica Thompson Russia 37 SARS-COV-2 NO
+50202 Alexander Turner Russia 78 SARS-1 NO
+53125 Lynn Hartman Russia 25 H1N1 NO
+30333 Amanda Hayes Russia 71 FLU-2018 YES 02-09-2019
+8061 Samuel Parker Russia 16 SARS-COV-2 NO
+38377 Timothy Perez Russia 62 SARS-1 YES 24-02-2018
+64005 John Henson Russia 35 COVID-2019 NO
+95462 Joseph Thompson Russia 15 SARS-1 YES 05-05-2020
+20501 Melissa Blair Russia 39 SARS-COV-2 NO
+20892 Joseph Hebert Russia 11 MERS-COV NO
+89063 Christine Caldwell Russia 66 SARS-COV-2 YES 30-06-2003
+57223 John Davis Russia 19 MERS-COV YES 03-11-2012
+64041 Elizabeth Walker Russia 41 MERS-COV NO
+28162 Katelyn Barron Russia 28 FLU-2018 NO
+83060 David Alexander Russia 17 EVD NO
+89427 Jill Richardson Russia 39 MERS-COV YES 16-03-2005
+99826 Bonnie Perkins Russia 60 EVD YES 27-02-2014
+87760 Christopher Watts Russia 59 FLU-2018 NO
+89963 Alex Williams Russia 13 FLU-2018 YES 25-11-2019
+41838 Julie Barker Russia 78 COVID-2019 NO
+30680 Ashley Hunt Russia 14 FLU-2018 NO
+81531 Crystal Gonzalez Russia 15 H1N1 YES 16-01-2011
+55081 Juan Garza Russia 55 H1N1 NO
+29491 Michael Padilla Russia 68 EVD YES 09-02-2007
+57883 Kathryn Gonzalez Russia 74 H1N1 NO
+89607 Diana Berg Russia 52 FLU-2018 YES 08-02-2010
+66135 Ryan Cain Russia 13 COVID-2019 YES 29-11-2020
+18776 Emma James Russia 53 FLU-2018 YES 09-01-2012
+65215 Catherine Lowe Russia 35 SARS-1 YES 15-01-2009
+31369 Edward Smith Russia 55 EVD NO
+42594 John Burch Russia 48 H1N1 NO
+16655 Rebecca Hancock Russia 15 EVD NO
+69488 Paul Robles Russia 65 EVD YES 08-07-2017
+21347 Alexa Taylor Russia 44 SARS-1 NO
+26972 Michael Barajas Russia 50 MERS-COV NO
+59175 Ashley Sullivan Russia 50 SARS-1 NO
+20243 Walter Madden Russia 49 SARS-1 YES 11-09-2020
+63748 Deborah Armstrong Russia 75 MERS-COV NO
+29042 Brian Johnson Russia 33 FLU-2018 YES 14-04-2006
+75195 David Peterson Russia 61 FLU-2018 NO
+78562 Jessica Burns Russia 17 MERS-COV YES 27-05-2002
+32829 Brandon Lopez Russia 53 COVID-2019 NO
+5270 Jessica Bennett Russia 56 SARS-COV-2 NO
+22492 Lori Martin Russia 19 SARS-COV-2 YES 13-07-2012
+6793 Mary Blair Russia 45 FLU-2018 NO
+80209 Rose Strong Russia 20 EVD YES 13-07-2012
+37677 Donald Marshall Russia 69 FLU-2018 NO
+49452 Sarah James Russia 28 H1N1 YES 05-03-2005
+59017 Michael Dominguez Russia 71 SARS-1 NO
+40677 Jared Rich Russia 33 EVD NO
+63109 Sarah Herrera Russia 11 EVD NO
+4945 Joseph Lowe Russia 38 COVID-2019 NO
+21343 Juan Lopez Russia 13 SARS-COV-2 YES 10-05-2007
+60817 Maria Cox Russia 48 FLU-2018 NO
+80578 David Simon Russia 75 SARS-COV-2 YES 11-03-2008
+34992 Lisa Sanchez Russia 20 MERS-COV NO
+28072 Austin Bowman Russia 76 SARS-COV-2 NO
+88705 Jeff Hardy Russia 38 FLU-2018 NO
+8179 Rachel Tucker Russia 19 H1N1 YES 02-08-2012
+5465 Paul Hardin Russia 68 MERS-COV YES 08-11-2015
+53869 Elizabeth Evans Russia 42 H1N1 NO
+18117 Kenneth Salas Russia 16 SARS-COV-2 NO
+57546 Laura Morgan Russia 32 COVID-2019 YES 21-01-2020
+24408 Lisa Fuentes Russia 74 EVD NO
+79366 Jeffrey Mitchell Russia 77 SARS-COV-2 NO
+32959 Duane Conley Russia 50 H1N1 NO
+70363 Jason Patterson Russia 57 SARS-1 YES 13-09-2011
+970 Mark Odom Russia 63 SARS-COV-2 NO
+47822 Lisa Gibson Russia 63 FLU-2018 NO
+70640 Walter Wong Russia 79 EVD YES 21-03-2000
+18960 John Webb Russia 74 MERS-COV NO
+17022 Michelle Henderson Russia 35 SARS-COV-2 YES 03-08-2015
+37355 William Doyle Russia 32 EVD NO
+60816 Michael Hart Russia 67 COVID-2019 NO
+80514 Aimee Santos Russia 58 EVD NO
+39086 Joseph Collins Russia 46 MERS-COV NO
+76090 Michelle Jones Russia 57 EVD NO
+75944 Erica Warner Russia 45 H1N1 YES 15-08-2007
+18774 Chelsea Johnson Russia 36 SARS-1 YES 12-02-2018
+62110 Whitney Perez Russia 65 COVID-2019 NO
+23730 Gerald Ramos Russia 56 EVD YES 29-03-2000
+78897 Kristy Myers Russia 28 SARS-COV-2 YES 20-02-2000
+70566 Timothy Sanchez Russia 13 SARS-COV-2 NO
+37922 Isaac Wagner Russia 75 H1N1 YES 30-11-2007
+56574 Sara Lloyd Russia 54 EVD YES 29-09-2013
+8648 Paul York Russia 23 COVID-2019 YES 19-03-2011
+70001 Angela Gentry Russia 12 EVD NO
+12416 Robert Griffin Russia 47 H1N1 YES 12-08-2011
+87824 Karen Brown Russia 33 SARS-COV-2 NO
+95583 Walter Zhang Russia 69 COVID-2019 YES 02-05-2014
+36599 Adriana Hernandez Russia 20 MERS-COV NO
+35734 Cynthia Campbell Russia 45 SARS-1 NO
+90267 Ricardo Baxter Russia 33 SARS-1 NO
+85102 Stephanie Parker Russia 23 SARS-1 YES 02-08-2011
+48659 Taylor Foster Russia 63 EVD NO
+90015 Joshua Neal Russia 34 SARS-COV-2 NO
+86131 Amber Medina Russia 10 SARS-COV-2 YES 01-08-2009
+22603 Robert Butler Russia 52 COVID-2019 NO
+53358 Nicholas Vega Russia 46 SARS-COV-2 NO
+69858 Michelle Rodriguez Russia 66 SARS-COV-2 NO
+51529 Alicia Wagner Russia 67 H1N1 NO
+63843 James Parker Russia 79 MERS-COV YES 11-03-2001
+68608 Melinda Mckenzie Russia 50 FLU-2018 NO
+9957 Stephen Mack Russia 40 EVD YES 29-05-2020
+77556 Jennifer Rodriguez Russia 63 COVID-2019 NO
+64391 John Hawkins Russia 67 H1N1 YES 14-05-2016
+89544 Cynthia Warren Russia 13 MERS-COV NO
+29031 Jeffrey Vargas Russia 45 COVID-2019 NO
+3665 Heather Wilson Russia 73 MERS-COV NO
+75816 Matthew Roberts Russia 36 H1N1 YES 25-02-2016
+62015 Jeremy Hernandez Russia 15 MERS-COV YES 03-04-2003
+39278 Kayla Yang Russia 57 EVD YES 01-01-2000
+14877 Deborah Hall Russia 23 EVD NO
+42408 Jenna Estrada Russia 10 H1N1 YES 16-03-2004
+23716 David Chen Russia 43 COVID-2019 YES 07-01-2011
+67047 Jill Banks Russia 53 H1N1 YES 06-12-2007
+8035 Anne Ferrell Russia 27 MERS-COV YES 13-01-2000
+31247 Kyle Sandoval Russia 39 FLU-2018 YES 03-04-2001
+61316 John Burns Russia 18 SARS-COV-2 YES 01-09-2020
+98228 Katherine Barrett Russia 57 H1N1 YES 25-07-2015
+36134 Crystal Frost Russia 67 MERS-COV NO
+4001 Antonio Hall Russia 41 H1N1 YES 28-12-2016
+95240 Jason Johnson Russia 20 SARS-COV-2 NO
+38832 Anna Meyer Russia 48 FLU-2018 NO
+41495 Scott Jackson Russia 23 SARS-COV-2 YES 19-04-2006
+74162 Lisa Schmidt Russia 22 COVID-2019 NO
+93212 Laura Ross Russia 52 SARS-COV-2 YES 03-11-2009
+36819 Deborah Lopez Russia 30 SARS-COV-2 NO
+75926 Robert Gamble Russia 55 FLU-2018 NO
+12462 Brian Hansen Russia 46 FLU-2018 YES 25-05-2006
+15071 Joseph Gallagher Russia 73 MERS-COV YES 08-06-2011
+95964 Jacqueline Chandler Russia 42 SARS-COV-2 NO
+55001 Terri Grimes Russia 53 H1N1 YES 04-06-2011
+74298 Robert Edwards Russia 44 H1N1 YES 24-03-2008
+94510 Robert Peters Russia 33 H1N1 NO
+43214 Katelyn Krueger Russia 67 COVID-2019 NO
+67197 Sherry Perry Russia 67 COVID-2019 NO
+45979 Joanna Ingram Russia 16 COVID-2019 YES 06-09-2005
+67491 Philip Myers Russia 75 H1N1 NO
+84828 Danielle Patton Russia 71 H1N1 NO
+3913 Michele Mason Russia 57 H1N1 YES 31-08-2003
+48890 Robert Thomas Russia 64 FLU-2018 YES 13-10-2008
+46861 Danielle Kennedy Russia 13 H1N1 NO
+79707 Holly Carroll Russia 59 H1N1 NO
+38847 Michael Hansen Russia 74 SARS-COV-2 NO
+72906 Stephanie Mccullough Russia 64 COVID-2019 YES 14-10-2016
+87636 Danielle Vasquez Russia 25 H1N1 NO
+32368 Linda Brown Russia 12 MERS-COV YES 27-05-2000
+57267 Tyler Johnson Russia 69 H1N1 NO
+37990 Aimee Martin Russia 49 SARS-1 NO
+28908 Erica Brown Russia 64 SARS-1 YES 25-05-2008
+53834 Brandy Holt Russia 26 SARS-COV-2 YES 24-04-2000
+60182 Charles Gomez Russia 49 MERS-COV NO
+31964 Christopher Phillips Russia 66 COVID-2019 YES 23-08-2016
+31892 Karen Murphy Russia 32 COVID-2019 NO
+81587 Paige Johnson Russia 55 COVID-2019 YES 06-11-2004
+79863 Kimberly Newman Russia 66 SARS-1 NO
+70403 Troy Nguyen Russia 16 COVID-2019 YES 09-02-2004
+24255 James Contreras Russia 33 MERS-COV YES 04-01-2008
+54542 James Byrd Russia 33 H1N1 NO
+52757 Craig Mitchell Russia 65 H1N1 NO
+24842 Michael Smith Russia 22 COVID-2019 NO
+2540 Brian Harris Russia 66 H1N1 YES 14-10-2012
+27290 Michael Brown Russia 55 H1N1 NO
+73579 William Holloway Russia 54 COVID-2019 YES 09-02-2008
+93573 Seth Nelson Russia 67 H1N1 NO
+28289 Elizabeth Cooper Russia 30 MERS-COV NO
+13961 Julie Jackson Russia 19 COVID-2019 NO
+58641 Lawrence Rojas Russia 32 H1N1 YES 03-12-2012
+8265 Jimmy Jones Russia 69 MERS-COV NO
+84911 Eddie Reynolds Russia 23 SARS-COV-2 NO
+85851 John Villanueva Russia 75 COVID-2019 YES 18-02-2006
+86285 Edward Williams Russia 76 SARS-1 NO
+1869 Madeline Peterson Russia 14 EVD NO
+25063 Jean Allen Russia 54 FLU-2018 YES 05-11-2010
+38304 Briana Jones Russia 14 COVID-2019 YES 06-02-2000
+5433 Connie Young Russia 12 FLU-2018 NO
+18082 Sarah Barnes Russia 47 FLU-2018 YES 11-08-2002
+79283 Adam Silva Russia 79 SARS-COV-2 YES 24-02-2018
+63735 Megan Hamilton Russia 37 SARS-1 YES 25-09-2003
+10917 Mikayla Holland Russia 61 MERS-COV YES 26-05-2012
+27213 Robert Owens Russia 14 EVD NO
+22719 John Nguyen Russia 72 SARS-COV-2 YES 09-09-2003
+32145 Patricia Beasley Russia 49 H1N1 NO
+37753 Norma Mitchell Russia 53 COVID-2019 YES 02-06-2016
+15634 Donald Burgess Russia 44 H1N1 NO
+56499 Maurice Martinez Russia 64 EVD YES 11-11-2007
+89535 Joshua George Russia 29 MERS-COV YES 13-02-2019
+67830 Lauren Santiago Russia 51 SARS-COV-2 YES 12-01-2012
+19836 Robert Gonzalez Russia 59 SARS-1 YES 10-10-2000
+13171 Jennifer Lloyd Russia 17 COVID-2019 YES 15-09-2017
+26367 Steven Payne Russia 12 SARS-COV-2 YES 15-05-2011
+6922 Brad Edwards Russia 52 EVD NO
+77504 Michael Williams Russia 72 COVID-2019 NO
+89445 Blake Perez Russia 67 COVID-2019 NO
+61765 Matthew Edwards Russia 53 FLU-2018 NO
+39059 Samantha Parrish Russia 78 EVD NO
+93795 Erica Zuniga Russia 32 SARS-COV-2 YES 28-03-2016
+56130 Lisa Morgan Russia 13 FLU-2018 NO
+6095 Michael Jones Russia 65 COVID-2019 YES 20-08-2000
+11724 Christine Hernandez Russia 69 FLU-2018 YES 21-03-2012
+83201 Mary Bell Russia 50 H1N1 NO
+64628 Justin Levine Russia 41 MERS-COV YES 11-09-2003
+20962 Ian Davenport Russia 73 MERS-COV NO
+75702 Michael Bridges Russia 77 SARS-1 NO
+64359 Johnathan Stephens Russia 42 SARS-COV-2 NO
+84181 Robert Schwartz Russia 21 SARS-COV-2 NO
+12585 Dawn Scott Russia 68 SARS-1 NO
+28010 Savannah Adams Russia 41 H1N1 NO
+45677 Stacie Mathews Russia 28 COVID-2019 YES 24-02-2012
+89170 Jeffrey Newton Russia 45 SARS-1 YES 01-08-2009
+28523 Valerie Cox Russia 33 MERS-COV NO
+35696 Kimberly Sims Russia 56 MERS-COV NO
+26413 Kathryn Rodriguez Russia 45 MERS-COV YES 07-02-2003
+19650 Renee Rogers Russia 50 MERS-COV NO
+39293 Jonathan Juarez Russia 24 FLU-2018 YES 11-02-2020
+55571 Lori Page Russia 64 EVD NO
+80485 Alexis Bailey Russia 73 FLU-2018 YES 26-10-2020
+736 Rhonda Velasquez Russia 52 COVID-2019 NO
+63834 Patrick Nelson Russia 25 MERS-COV YES 05-10-2011
+77767 Charles Scott Russia 58 MERS-COV YES 05-05-2015
+37867 Kevin Burns Russia 77 FLU-2018 NO
+51615 Michelle Davis Russia 43 SARS-COV-2 YES 15-10-2011
+89163 Natalie Williams Russia 34 FLU-2018 NO
+82165 Kenneth Long Russia 56 FLU-2018 NO
+79170 George Pennington Russia 37 FLU-2018 NO
+82691 Cory Graham Russia 72 SARS-COV-2 YES 08-12-2020
+92947 Michael Johnson Russia 34 SARS-COV-2 NO
+2781 Lisa Cook Russia 71 COVID-2019 NO
+67935 Rebecca Wilson Russia 64 FLU-2018 NO
+67528 Brooke Young Russia 11 MERS-COV NO
+82914 Sheila Juarez Russia 58 MERS-COV NO
+1004 Richard Hicks Russia 39 SARS-COV-2 NO
+9778 Amanda Watson Russia 67 MERS-COV YES 26-09-2003
+96012 Calvin Melendez Russia 47 EVD NO
+92730 Zachary Tran Russia 74 COVID-2019 YES 25-01-2017
+43006 Tiffany Murray Russia 51 FLU-2018 YES 27-06-2017
+80546 Tammy George Russia 42 MERS-COV YES 14-08-2018
+52790 Nicole Evans Russia 65 H1N1 NO
+49553 Mackenzie Jones Russia 28 MERS-COV YES 24-05-2008
+44145 Linda Jones Russia 60 MERS-COV NO
+74962 Elizabeth Rich Russia 45 FLU-2018 YES 14-03-2001
+82055 Jacqueline Hernandez Russia 79 SARS-1 NO
+6889 Kimberly Richard Russia 47 EVD YES 26-07-2010
+76284 Kenneth Hernandez Russia 37 FLU-2018 NO
+92578 Matthew Coleman Russia 39 SARS-COV-2 NO
+16722 Alison Lang Russia 37 EVD NO
+22911 Cynthia Wilcox Russia 19 COVID-2019 NO
+67255 Barbara Kelly Russia 75 H1N1 YES 12-04-2010
+56440 Michael Edwards Russia 34 SARS-COV-2 NO
+47719 Dylan Medina Russia 26 MERS-COV NO
+58199 Michael Wilson Russia 65 MERS-COV NO
+72340 Rita Hall Russia 59 SARS-1 NO
+78368 Zachary Marshall Russia 34 H1N1 NO
+37219 Tiffany Davenport Russia 15 H1N1 YES 22-03-2013
+23468 John Hall Russia 79 H1N1 YES 29-08-2002
+9858 Colleen Nguyen Russia 53 FLU-2018 YES 03-11-2006
+82933 Pedro Fisher Russia 37 SARS-COV-2 NO
+25657 Don Wilson Russia 63 SARS-COV-2 NO
+62720 Melissa Hester Russia 54 SARS-1 YES 27-08-2020
+20401 Christopher Glover Russia 12 COVID-2019 NO
+34783 Steven Roberts Russia 15 COVID-2019 NO
+92267 Michelle Frazier Russia 65 MERS-COV YES 19-10-2011
+50842 Melinda Martin Russia 23 EVD YES 01-06-2019
+60268 Mark Rodriguez Russia 53 H1N1 YES 16-11-2014
+84740 Anna Lopez Russia 69 COVID-2019 NO
+60963 Kenneth Walker Russia 65 SARS-COV-2 NO
+91886 Elizabeth Young Russia 71 EVD YES 30-08-2009
+39912 Brett Bauer Russia 63 SARS-1 NO
+90602 Jenny Morales Russia 13 FLU-2018 NO
+37640 John Edwards Russia 47 COVID-2019 YES 17-10-2011
+26757 Jessica Williams Russia 32 FLU-2018 NO
+38422 Sandra Rivera Russia 49 FLU-2018 NO
+64331 Scott Solomon Russia 35 FLU-2018 NO
+51500 Jennifer Buck Russia 17 MERS-COV YES 17-06-2008
+37696 Jennifer Meyer Russia 75 MERS-COV YES 24-12-2015
+78952 Joel Chavez Russia 54 H1N1 NO
+93465 Michael King Russia 31 COVID-2019 YES 23-03-2014
+19283 Patricia Day Russia 17 MERS-COV YES 11-02-2003
+47488 William Lee Russia 41 COVID-2019 YES 15-10-2003
+29928 Michael Duncan Russia 29 MERS-COV NO
+67523 Jeffrey Anderson Russia 22 SARS-COV-2 NO
+57044 Jessica Brady Russia 53 EVD NO
+5055 Deborah Powell Russia 51 H1N1 YES 26-08-2013
+6001 Bryan Griffith Russia 77 MERS-COV NO
+63652 Lauren Lopez Russia 19 SARS-COV-2 NO
+81526 Stephanie Duncan Russia 68 SARS-1 NO
+98224 Ryan Snow Russia 41 EVD YES 07-11-2013
+45293 Lisa Grimes Russia 18 SARS-COV-2 YES 08-09-2014
+61467 Angela Jensen Russia 33 EVD NO
+7129 Richard Peterson Russia 12 COVID-2019 YES 19-03-2016
+94431 William Frazier Russia 33 MERS-COV NO
+8726 Marissa Gomez Russia 12 SARS-1 YES 02-09-2010
+7664 Kelly Moore Russia 23 FLU-2018 YES 18-11-2003
+88274 Timothy Anderson Russia 38 SARS-COV-2 NO
+40057 Lauren Adams Russia 61 FLU-2018 YES 16-10-2015
+66593 Daniel Howard Russia 21 H1N1 NO
+33182 Erica Gutierrez Russia 17 FLU-2018 YES 27-03-2000
+81383 Corey Beasley Russia 37 MERS-COV NO
+98832 Timothy Ramirez Russia 40 H1N1 NO
+69540 Paige Rowland Russia 78 H1N1 YES 12-03-2005
+62221 Gloria Eaton Russia 58 H1N1 YES 10-08-2014
+20535 Trevor Reed Russia 15 EVD NO
+67408 Eric Williams Russia 31 SARS-1 YES 05-11-2012
+47547 Jamie Adams Russia 19 COVID-2019 YES 03-02-2012
+95167 Stanley Baxter Russia 39 COVID-2019 NO
+98941 Cassandra Johnson Russia 62 H1N1 NO
+61424 Donald Hansen Russia 32 COVID-2019 YES 17-02-2004
+90000 Morgan Davis Russia 43 SARS-COV-2 NO
+83210 Benjamin Wright Russia 60 H1N1 NO
+71609 Stephanie Benson Russia 43 COVID-2019 YES 15-12-2010
+25418 Lisa Cunningham Russia 66 COVID-2019 NO
+18561 Renee Wilson Russia 49 H1N1 NO
+23532 Lisa Day Russia 68 H1N1 YES 07-10-2007
+93649 Jason Gonzalez Russia 25 COVID-2019 YES 17-07-2002
+36577 Shirley Mueller Russia 25 H1N1 NO
+61853 Phillip Olson Russia 72 EVD NO
+81370 David Mcdowell Russia 63 SARS-COV-2 YES 25-05-2018
+12954 Deborah Miller Russia 78 EVD YES 14-04-2020
+61909 Andrew Smith Russia 20 COVID-2019 NO
+36840 David Watson Russia 49 MERS-COV YES 06-05-2016
+51614 Teresa Bell Russia 71 H1N1 YES 06-08-2019
+80214 Christopher Anderson Russia 22 SARS-COV-2 YES 17-05-2001
+21662 Vickie Anderson Russia 57 SARS-1 YES 16-07-2006
+45994 Amber Fischer Russia 62 COVID-2019 YES 20-05-2014
+55261 David Sullivan Russia 66 SARS-1 YES 26-09-2015
+11094 Kathy Medina Russia 69 EVD NO
+47604 Jared Molina Russia 34 COVID-2019 YES 28-11-2013
+68068 Fernando Taylor Russia 26 SARS-COV-2 NO
+54037 Sheila Payne Russia 15 SARS-1 NO
+39963 James Hall Russia 58 SARS-COV-2 NO
+81835 Donna Dean Russia 34 FLU-2018 NO
+64981 Sandra Holland Russia 42 MERS-COV YES 12-07-2011
+26452 Diane Mejia Russia 54 SARS-1 YES 26-01-2019
+68354 Thomas Davis Russia 31 FLU-2018 YES 22-09-2019
+6732 Megan Farrell Russia 23 H1N1 YES 30-04-2010
+13069 Shirley Burns Russia 72 SARS-COV-2 NO
+12046 Barbara Thompson Russia 76 MERS-COV YES 18-08-2017
+35904 Crystal Freeman Russia 24 SARS-COV-2 NO
+99993 Damon Branch Russia 66 FLU-2018 NO
+78809 Rhonda Alexander Russia 45 MERS-COV YES 26-08-2012
+16516 Jennifer Brown Russia 57 EVD NO
+17256 Destiny Farley Russia 34 SARS-1 NO
+45848 Nancy Brown Russia 26 EVD NO
+51209 Katherine Chen Russia 79 MERS-COV NO
+24022 Joel Reed Russia 43 EVD NO
+31729 Jason Ward Russia 63 EVD NO
+65968 Bridget Barton Russia 53 EVD NO
+65200 Connor Lewis Russia 13 FLU-2018 YES 22-10-2008
+99534 Joseph Buck Russia 42 EVD YES 24-02-2005
+48971 Sydney Johnson Russia 64 COVID-2019 NO
+31088 James Nunez Russia 31 EVD NO
+64084 Jaime Johnson Russia 70 H1N1 YES 14-07-2019
+55635 Ashley Orozco Russia 63 H1N1 NO
+88879 Shane Cooper Russia 30 SARS-COV-2 NO
+70650 Steven King Russia 52 EVD NO
+81758 Brandon Ramos Russia 22 EVD NO
+4781 Gregory Graham Russia 68 MERS-COV NO
+39960 Felicia Wagner Russia 24 COVID-2019 NO
+43995 Aimee Mayo Russia 69 SARS-COV-2 NO
+87272 Matthew Gross Russia 22 SARS-COV-2 NO
+17734 Ronald Jones Russia 72 SARS-COV-2 NO
+64986 Mason Byrd Russia 41 FLU-2018 YES 23-11-2008
+47246 Amy Turner Russia 50 SARS-1 NO
+11896 Sheila Jackson Russia 35 MERS-COV NO
+7399 Timothy Moore Russia 23 SARS-COV-2 YES 29-05-2012
+26892 Brittany Garcia Russia 33 EVD YES 20-05-2001
+18454 Richard Soto Russia 32 COVID-2019 NO
+59690 Sierra Fisher Russia 48 MERS-COV YES 06-08-2020
+21332 Peggy Walker Russia 78 EVD NO
+41812 Christopher Gilbert Russia 17 H1N1 YES 07-06-2014
+50088 Kathleen Ruiz Russia 36 FLU-2018 NO
+27680 Mario Valencia Russia 11 H1N1 NO
+47183 Joshua Clark Russia 14 MERS-COV NO
+18102 John Foster Russia 13 COVID-2019 YES 31-12-2007
+37581 Dawn Nguyen Russia 74 FLU-2018 YES 05-12-2014
+35811 Christopher Smith Russia 12 SARS-1 NO
+75014 Aaron Butler Russia 28 H1N1 NO
+52855 Susan Morales Russia 25 SARS-COV-2 YES 25-02-2012
+68547 Monica Green Russia 14 COVID-2019 YES 02-10-2002
+70706 Madeline Burnett Russia 53 SARS-COV-2 NO
+22909 Cheryl Key Russia 23 FLU-2018 YES 16-12-2004
+61412 Jennifer Ford Russia 59 COVID-2019 YES 18-07-2020
+50718 Phillip White Russia 53 EVD NO
+65126 Teresa Anderson Russia 20 MERS-COV YES 17-10-2007
+4165 Michelle Sanchez Russia 77 SARS-COV-2 NO
+56670 Ann Williams Russia 77 FLU-2018 YES 07-02-2002
+52490 Adam Miller Russia 65 MERS-COV YES 25-04-2002
+17257 David King Russia 46 FLU-2018 NO
+50366 Jennifer Brown Russia 76 COVID-2019 YES 24-09-2003
+95782 Theresa Lara Russia 48 COVID-2019 NO
+61920 Kelly Hartman Russia 23 MERS-COV NO
+8099 Johnathan Anderson Russia 62 FLU-2018 NO
+46873 Debra Watson Russia 42 MERS-COV YES 14-03-2020
+95543 Mark Jackson Russia 67 H1N1 NO
+57642 Kirk Bell Russia 45 SARS-COV-2 NO
+93539 Paul Riley Russia 45 MERS-COV NO
+74550 Edwin Hernandez Russia 67 COVID-2019 NO
+51962 Michele Dunn Russia 68 FLU-2018 YES 12-07-2004
+78896 Mary Stewart Russia 61 MERS-COV NO
+82254 Jordan Roy Russia 24 COVID-2019 NO
+87880 Michael Lee Russia 77 EVD NO
+73389 Robert Landry Russia 57 H1N1 NO
+64745 Matthew Johnson Russia 62 SARS-COV-2 NO
+94060 Kelsey Torres Russia 64 SARS-1 YES 14-08-2010
+27992 Vanessa Collier Russia 54 H1N1 YES 13-01-2004
+8625 Brett Conway Russia 50 COVID-2019 YES 26-11-2020
+33039 Raymond Mcdonald Russia 52 EVD YES 13-12-2016
+69520 Sean Campos Russia 17 SARS-1 NO
+31761 William Washington Russia 56 COVID-2019 YES 22-03-2003
+84150 Sylvia Cobb Russia 11 MERS-COV NO
+40893 Heather King Russia 72 MERS-COV NO
+34842 Jenna Bush Russia 38 SARS-1 YES 22-12-2005
+98891 Amanda Brown Russia 64 MERS-COV NO
+374 Ashley Sanchez Russia 47 H1N1 NO
+76728 Claudia Dodson Russia 48 EVD YES 26-12-2004
+30208 Robert Oliver Russia 13 SARS-COV-2 YES 21-08-2016
+68452 Debra Lynch Russia 30 FLU-2018 NO
+38028 Phillip Arellano Russia 70 SARS-COV-2 YES 16-08-2001
+22635 David Robinson Russia 64 COVID-2019 YES 11-12-2020
+72849 Ryan Simmons Russia 45 FLU-2018 YES 26-06-2002
+10039 Christopher Gonzalez Russia 24 COVID-2019 YES 04-11-2014
+56391 Michelle Willis Russia 56 SARS-1 YES 01-01-2019
+95968 Angela Hebert Russia 42 SARS-1 YES 21-06-2013
+80343 Andrea Campbell Russia 69 MERS-COV YES 06-05-2016
+55052 Carol Walsh Russia 52 H1N1 YES 05-07-2007
+11402 Marco Mathis Russia 78 H1N1 YES 08-07-2007
+16282 Richard Duncan Russia 28 FLU-2018 YES 25-08-2015
+86972 Sherry Harmon Russia 15 H1N1 YES 28-05-2020
+50609 William Long Russia 72 COVID-2019 NO
+21124 Jesse Powers Russia 32 H1N1 NO
+95233 Jeffrey Klein Russia 71 MERS-COV NO
+92049 Alexa Davidson Russia 17 SARS-1 YES 16-05-2007
+32718 Ryan Barker Russia 57 SARS-COV-2 YES 09-01-2004
+31351 Wendy Williams Russia 19 FLU-2018 NO
+54300 Ryan Brown Russia 59 SARS-COV-2 YES 28-01-2011
+64556 Jose Prince Russia 69 SARS-COV-2 NO
+32378 Marcia Lopez Russia 37 SARS-COV-2 YES 30-06-2006
+13019 Stephanie Palmer Russia 55 EVD YES 22-12-2018
+96674 Jason Hutchinson Russia 75 FLU-2018 NO
+60934 Melissa Dominguez Russia 17 SARS-1 NO
+90546 Connor Matthews Russia 62 SARS-1 YES 29-01-2018
+11778 Meagan Holloway Russia 78 SARS-1 NO
+61097 Willie Mclaughlin Russia 25 SARS-COV-2 YES 25-01-2007
+53332 Cody Johnson Russia 35 MERS-COV YES 29-07-2013
+17177 Kyle Rogers Russia 10 EVD NO
+94239 Tony Crawford Russia 30 COVID-2019 NO
+37515 Caitlin Bowen Russia 64 SARS-1 YES 17-05-2006
+37265 Matthew Li Russia 62 SARS-COV-2 NO
+28014 Jesse Harper Russia 24 EVD NO
+34590 Nicole Ward Russia 10 FLU-2018 YES 06-07-2017
+67025 Joshua Rodriguez Russia 62 SARS-COV-2 YES 31-10-2002
+3077 Marissa Ryan Russia 31 EVD NO
+29513 Erik Sims Russia 18 COVID-2019 NO
+70067 Devin Copeland Russia 74 FLU-2018 NO
+67177 Lisa Hodges Russia 13 COVID-2019 NO
+15356 Zachary Ortiz Russia 66 MERS-COV YES 14-05-2009
+80575 Linda Saunders Russia 10 FLU-2018 YES 28-09-2011
+26626 Christina Buchanan Russia 23 SARS-1 YES 01-06-2006
+34661 Susan Thomas Russia 79 SARS-COV-2 NO
+93924 Barry Gonzalez Russia 50 COVID-2019 YES 27-08-2001
+21411 Thomas Kennedy Russia 34 H1N1 YES 23-11-2005
+43112 Claudia Robinson Russia 14 EVD YES 20-03-2018
+89241 Sandra Smith Russia 55 SARS-COV-2 NO
+76868 Timothy Brown Russia 78 EVD YES 26-01-2004
+21773 William Howard Russia 33 FLU-2018 NO
+54909 Jessica Rodriguez Russia 68 COVID-2019 YES 01-04-2001
+56018 Rhonda Lee Russia 22 H1N1 NO
+54761 Jerry Smith Russia 59 EVD YES 19-02-2019
+10205 Veronica Sanchez Russia 45 MERS-COV YES 11-08-2004
+5379 Jill Lawson Russia 26 H1N1 YES 13-01-2013
+40454 Ronald Haynes Russia 77 H1N1 YES 19-06-2015
+23670 Jason Green Russia 32 FLU-2018 YES 30-06-2014
+89345 Arthur Blake Russia 65 SARS-COV-2 NO
+29758 Victoria Richard Russia 25 FLU-2018 NO
+51258 Alicia Larson Russia 54 FLU-2018 YES 24-06-2001
+7763 Carlos Douglas Russia 51 H1N1 YES 19-01-2002
+77302 Lindsay Silva Russia 45 MERS-COV NO
+39303 John Watson Russia 42 H1N1 NO
+99445 Scott Swanson Russia 64 EVD NO
+68519 Philip Shaw Russia 22 MERS-COV YES 30-09-2013
+1898 Joshua Simpson Russia 19 FLU-2018 NO
+33790 Roy Fernandez Russia 34 FLU-2018 YES 28-03-2007
+41385 Aaron Moses Russia 50 H1N1 YES 25-06-2000
+61588 Jeffery Kim Russia 49 MERS-COV NO
+70619 Wyatt Parker Russia 65 SARS-1 NO
+86326 Julia Taylor Russia 49 EVD YES 14-03-2000
+94772 Gina Cruz Russia 70 EVD YES 16-01-2021
+22418 Bonnie Baker Russia 48 FLU-2018 YES 09-06-2014
+38313 Heidi Mills Russia 17 COVID-2019 YES 27-05-2000
+2075 Jonathan Villarreal Russia 72 COVID-2019 YES 29-01-2016
+9590 Shannon Lopez Russia 24 SARS-1 YES 28-04-2019
+79337 Melissa Cooper Russia 55 H1N1 YES 24-04-2015
+14643 Joel Reed Russia 76 MERS-COV YES 02-02-2005
+5284 Cheryl Morton Russia 21 SARS-1 NO
+67930 Keith Diaz Russia 13 FLU-2018 NO
+52585 Lindsay Phillips Russia 32 MERS-COV NO
+4305 Kyle Rios Russia 29 MERS-COV NO
+96922 Justin Baker Russia 39 SARS-COV-2 YES 18-09-2003
+99921 Michael Kim Russia 13 EVD NO
+16916 Jacob Bowers Russia 32 SARS-1 YES 26-05-2005
+78953 Stephanie West Russia 54 SARS-COV-2 NO
+56352 Daniel Snyder Russia 44 FLU-2018 NO
+53199 Billy Mcclure Russia 41 MERS-COV NO
+34753 Derrick Williams Russia 66 COVID-2019 NO
+25246 Jesus Olson Russia 61 SARS-COV-2 NO
+24917 Michael Murphy Russia 16 EVD YES 08-04-2018
+42649 Kristen Graham Russia 20 FLU-2018 YES 24-03-2006
+11827 Eileen Zuniga Russia 43 COVID-2019 YES 07-09-2018
+61331 Jon Blankenship Russia 21 SARS-1 YES 31-03-2004
+56481 Susan Espinoza Russia 40 MERS-COV YES 17-02-2000
+44242 Nathan Sanchez Russia 36 FLU-2018 YES 22-02-2002
+74002 Gary Griffin Russia 16 H1N1 NO
+97506 Robert Bullock Russia 17 COVID-2019 YES 19-07-2009
+94775 Jerry Dixon Russia 77 FLU-2018 NO
+52040 Kristen Ruiz Russia 44 MERS-COV YES 24-12-2010
+91868 Angela Price Russia 73 COVID-2019 NO
+66744 Wendy Elliott Russia 75 MERS-COV YES 04-06-2019
+96348 Michael Conley Russia 51 H1N1 NO
+94816 Russell Baker Russia 48 MERS-COV YES 04-04-2013
+42277 Karen Marquez Russia 51 SARS-1 NO
+41931 Michele Wells Russia 35 EVD NO
+40520 Amy Vasquez Russia 62 FLU-2018 YES 25-07-2014
+36582 Daniel Smith Russia 10 MERS-COV YES 15-11-2000
+60731 Shannon Gray Russia 63 FLU-2018 NO
+68661 James Robertson Russia 69 H1N1 NO
+57158 Erica Alexander Russia 53 SARS-1 NO
+35469 Monique King Russia 76 EVD YES 13-06-2004
+5380 William Jones Russia 56 SARS-1 YES 25-09-2000
+22973 Kathy Garcia Russia 53 FLU-2018 NO
+22308 Donna White Russia 53 H1N1 NO
+58703 Krystal Norris Russia 62 FLU-2018 YES 18-03-2008
+18170 Kathy Barnes Russia 40 FLU-2018 YES 11-12-2020
+90950 Cheryl Barnett Russia 20 EVD NO
+61817 Jason Shelton Russia 34 SARS-COV-2 NO
+28345 Kristen Owens Russia 46 SARS-COV-2 NO
+40943 Barbara Harris Russia 34 COVID-2019 NO
+96508 Derrick Lee Russia 54 EVD NO
+35042 Jason Harris Russia 43 EVD NO
+78106 James Coleman Russia 20 FLU-2018 NO
+26055 Kevin Martinez Russia 10 H1N1 NO
+33496 Brett Robbins Russia 49 SARS-COV-2 YES 29-04-2007
+74401 Carol Smith Russia 31 SARS-1 YES 23-11-2016
+40245 Charles Nelson Russia 52 H1N1 NO
+11679 Curtis Stephens Russia 74 FLU-2018 NO
+10447 Diane Thompson Russia 60 COVID-2019 NO
+70644 Brandi Brown Russia 79 SARS-COV-2 NO
+52509 David Davis Russia 63 MERS-COV NO
+26169 Steven James Russia 72 COVID-2019 NO
+44831 Joshua Banks Russia 51 COVID-2019 YES 10-01-2003
+3749 Theresa Moore Russia 65 COVID-2019 YES 31-07-2008
+54226 Rebecca Clark Russia 44 SARS-COV-2 YES 20-08-2006
+43436 Karen Martinez Russia 49 SARS-1 NO
+87399 Donald Howell Russia 69 H1N1 YES 14-05-2018
+49969 Christian Hamilton Russia 31 COVID-2019 YES 17-04-2009
+76181 Brianna Cruz Russia 28 EVD NO
+2008 Richard Diaz Russia 78 COVID-2019 YES 02-06-2003
+12437 Shawn Mcbride Russia 10 H1N1 NO
+88451 David Cooper Russia 15 MERS-COV NO
+62407 Christopher Phelps Russia 47 SARS-COV-2 NO
+24331 Rachel Baker Russia 53 SARS-1 YES 14-10-2012
+14683 Donald Thompson Russia 26 H1N1 NO
+56850 Emily Thornton Russia 16 FLU-2018 YES 26-04-2017
+18241 Michael Liu Russia 69 FLU-2018 NO
+42554 Jessica Barr Russia 38 MERS-COV YES 09-04-2008
+68665 Bryan Brown Russia 28 EVD NO
+14051 Stephen Johnson Russia 40 SARS-COV-2 NO
+72333 Michael Castillo Russia 47 FLU-2018 NO
+45447 Mark Simmons Russia 33 SARS-COV-2 YES 07-08-2005
+9752 Todd Navarro Russia 38 FLU-2018 YES 13-08-2010
+72961 Kevin Conner Russia 64 COVID-2019 NO
+81547 Justin Acosta Russia 14 SARS-COV-2 NO
+95236 Kimberly Schmidt Russia 71 FLU-2018 NO
+71528 Andrew Cooper Russia 53 H1N1 NO
+76293 Debbie Ramirez Russia 43 COVID-2019 NO
+37609 Christine Wallace Russia 27 SARS-COV-2 NO
+61146 James Miller Russia 23 FLU-2018 YES 11-07-2007
+47005 Deborah Wright Russia 78 FLU-2018 YES 01-12-2008
+73448 Joshua Lowe Russia 65 COVID-2019 NO
+43156 Cindy Gillespie Russia 51 MERS-COV NO
+5461 Jerry Ryan Russia 10 H1N1 NO
+38693 Rachel Smith Russia 19 EVD NO
+91382 Matthew Allen Russia 54 COVID-2019 NO
+49675 Kimberly James Russia 38 SARS-1 NO
+84846 Yvette Young Russia 38 H1N1 NO
+31487 Heather Brown Russia 34 H1N1 YES 11-10-2005
+96385 Scott Turner Russia 37 MERS-COV YES 03-04-2016
+56649 Glenn Tate Russia 69 COVID-2019 NO
+50025 Kathryn Rodriguez Russia 44 FLU-2018 NO
+73805 Tiffany Stone Russia 45 FLU-2018 NO
+49672 Aaron Rogers Russia 52 SARS-COV-2 NO
+2669 Erika Franklin Russia 25 COVID-2019 YES 19-03-2000
+69523 Lori Ford Russia 24 SARS-1 YES 20-06-2020
+87036 Robert Gutierrez Russia 54 COVID-2019 YES 07-04-2011
+58954 Shannon Anderson Russia 40 SARS-1 NO
+27409 Kathleen Cabrera Russia 65 COVID-2019 YES 25-05-2013
+52571 Michael Reid Russia 41 COVID-2019 NO
+24146 Ellen Roach Russia 32 H1N1 NO
+26070 Jessica Watkins Russia 39 SARS-COV-2 NO
+68373 Joseph Huff Russia 44 EVD YES 01-10-2010
+82854 Kristina Johnson Russia 34 FLU-2018 NO
+82311 Anne Coleman Russia 62 MERS-COV YES 13-04-2002
+83011 Crystal Day Russia 31 MERS-COV YES 23-10-2003
+62394 Michelle Barnett Russia 48 FLU-2018 NO
+88447 Kimberly Bailey Russia 53 FLU-2018 NO
+21096 Jacob Alvarado Russia 79 SARS-1 YES 29-10-2002
+47281 Jonathan Beck Russia 17 SARS-1 NO
+95993 Austin Lewis Russia 72 COVID-2019 NO
+86 Jason Gray Russia 29 EVD YES 23-02-2020
+74848 Alyssa Rose Russia 50 H1N1 YES 06-03-2019
+42304 William Hernandez Russia 33 COVID-2019 NO
+57213 Vanessa Wang Russia 68 SARS-1 NO
+36174 Susan Johnston Russia 79 COVID-2019 NO
+25083 Katherine Boyd Russia 21 H1N1 NO
+42953 Thomas Torres Russia 28 FLU-2018 YES 04-12-2005
+85893 Andrew Rose Russia 20 MERS-COV NO
+82090 Bruce Hill Russia 52 COVID-2019 YES 26-09-2001
+76436 Crystal Taylor Russia 64 SARS-COV-2 NO
+4608 Brandon Ruiz Russia 70 MERS-COV NO
+30439 Alicia Mcdonald Russia 71 COVID-2019 NO
+94269 Joseph Woodward Russia 66 MERS-COV NO
+53464 Debra Clark Russia 17 MERS-COV YES 28-05-2003
+23631 Michelle Perez Russia 74 FLU-2018 NO
+69310 Howard Powell Russia 57 EVD YES 13-09-2011
+97641 John Miller Russia 11 FLU-2018 YES 04-09-2005
+24717 Lisa Carey Russia 33 COVID-2019 YES 09-11-2012
+59418 Todd Bell Russia 69 SARS-COV-2 NO
+55196 David Gonzalez Russia 15 COVID-2019 YES 07-08-2009
+47852 William Tanner Russia 37 SARS-1 YES 03-03-2010
+76500 Brandon Miller Russia 77 COVID-2019 YES 02-01-2010
+35693 Bradley Guerrero Russia 79 EVD NO
+68939 Mitchell Simmons Russia 20 SARS-COV-2 NO
+88369 Mary Black Russia 16 COVID-2019 YES 12-12-2012
+3520 Amy Lewis Russia 68 COVID-2019 NO
+64209 Mike Zimmerman Russia 20 COVID-2019 YES 10-06-2008
+79558 Julie Rivera Russia 26 COVID-2019 NO
+39358 Lisa Smith Russia 61 MERS-COV YES 24-03-2017
+19084 Andrea Carter Russia 53 H1N1 YES 04-10-2018
+15750 Erika Lewis Russia 21 MERS-COV YES 29-12-2017
+92411 Pamela Johnson Russia 53 COVID-2019 YES 07-05-2015
+27191 Megan Parrish Russia 21 EVD YES 13-10-2011
+2617 Tracy Baker Russia 19 COVID-2019 NO
+57673 Jacqueline Wallace Russia 59 SARS-1 NO
+14132 John Booker Russia 36 SARS-COV-2 NO
+93445 Mark Baker Russia 24 FLU-2018 NO
+76821 Amber Haley Russia 25 H1N1 NO
+77138 Teresa Jackson Russia 49 COVID-2019 YES 23-12-2011
+82310 Rachel Cardenas Russia 63 COVID-2019 NO
+73692 Laura Willis Russia 59 FLU-2018 YES 18-06-2010
+28726 Becky Floyd Russia 61 MERS-COV NO
+436 Paul Garcia Russia 47 MERS-COV NO
+67038 Daniel Duran Russia 31 MERS-COV NO
+31333 Amanda Griffin Russia 75 MERS-COV YES 15-04-2011
+93030 Jason Orozco Russia 28 COVID-2019 YES 12-01-2005
+24557 Hunter Kane Russia 18 SARS-1 YES 04-05-2010
+84560 Sara Hahn Russia 62 MERS-COV NO
+23748 Natalie Jones Russia 36 EVD YES 06-06-2001
+78461 Stephanie Duke Russia 33 SARS-1 YES 27-06-2002
+16772 Janet Parks Russia 64 EVD NO
+51618 Rebecca Moore Russia 21 MERS-COV YES 26-04-2001
+50023 Jesse Smith Russia 44 MERS-COV YES 31-10-2004
+83953 Joshua Potter Russia 28 MERS-COV NO
+39366 Daniel Solis Russia 41 FLU-2018 YES 23-07-2019
+84012 Philip Moore Russia 29 SARS-COV-2 YES 05-07-2004
+26143 Melvin Gross Russia 72 MERS-COV YES 26-01-2009
+38232 Joseph Mclaughlin Russia 11 SARS-COV-2 NO
+32351 Jon Campbell Russia 74 COVID-2019 YES 30-05-2012
+86836 Anne Clayton Russia 42 EVD NO
+5859 Caitlin Smith Russia 41 MERS-COV YES 06-01-2020
+92585 Steven Martinez Russia 73 FLU-2018 NO
+49456 Jeffrey Mendoza Russia 15 SARS-COV-2 NO
+98188 Drew Delgado Russia 77 COVID-2019 YES 09-08-2000
+63942 Gabriela Dyer Russia 58 SARS-COV-2 NO
+85053 Cindy Rodriguez Russia 46 SARS-COV-2 YES 12-11-2013
+7825 Tonya Schultz Russia 51 FLU-2018 NO
+71681 Jerry Smith Russia 20 EVD YES 10-08-2006
+83224 Kimberly Khan Russia 23 FLU-2018 YES 17-11-2013
+8853 Joseph Bailey Russia 46 H1N1 YES 21-11-2017
+23361 Thomas White Russia 52 MERS-COV YES 21-08-2009
+72939 Rodney Morris Russia 41 COVID-2019 NO
+71087 Kristy Blake Russia 60 MERS-COV YES 03-11-2013
+37716 Melissa Green Russia 25 SARS-COV-2 YES 18-11-2015
+84959 Courtney Ortega Russia 59 FLU-2018 NO
+58326 Tammy Mcdowell Russia 38 H1N1 YES 27-12-2008
+33530 Jamie Thompson Russia 72 SARS-COV-2 YES 30-03-2014
+92840 Amanda Stanley Russia 34 H1N1 NO
+4580 Jessica Perry Russia 20 FLU-2018 NO
+73294 Cynthia Buckley Russia 27 MERS-COV NO
+85794 Erin Guerrero Russia 57 SARS-1 YES 28-01-2006
+46785 Nicole Harmon Russia 40 EVD YES 17-06-2013
+58638 Joshua Sweeney Russia 45 H1N1 NO
+23053 Sandra Wall Russia 56 EVD YES 12-01-2009
+39108 Jeffrey Jones Russia 72 FLU-2018 YES 20-04-2010
+33594 Douglas Garrison Russia 31 COVID-2019 NO
+643 Christopher Hamilton Russia 64 SARS-COV-2 NO
+69432 Jane Watson Russia 65 MERS-COV NO
+3653 Kimberly Williamson Russia 17 EVD YES 19-04-2000
+28211 Tammy Wright Russia 39 MERS-COV YES 31-05-2013
+87143 James Ponce Russia 20 FLU-2018 YES 14-03-2019
+15266 Todd Walker Russia 11 MERS-COV YES 10-08-2012
+63629 Justin Woods Russia 21 SARS-COV-2 NO
+79150 Anita Juarez Russia 42 SARS-COV-2 YES 10-03-2017
+41041 Kristopher Navarro Russia 13 SARS-1 NO
+30547 Olivia Jones Russia 55 SARS-1 NO
+5209 Donald Solis Russia 57 COVID-2019 NO
+69972 Stephanie Dalton Russia 69 MERS-COV NO
+9584 Ryan Gray Russia 63 H1N1 NO
+22507 Anthony Jones Russia 60 EVD NO
+77997 Scott Malone Russia 41 MERS-COV NO
+50259 Barbara Wallace Russia 79 SARS-1 NO
+55580 Jeffery Perry Russia 78 H1N1 YES 02-09-2001
+7630 John Ray Russia 68 SARS-COV-2 NO
+69970 Joyce Davis Russia 15 EVD NO
+92596 Daisy Wells Russia 56 EVD YES 13-02-2007
+96182 Patrick Williams Russia 76 FLU-2018 NO
+20454 Paul Smith Russia 72 COVID-2019 YES 09-08-2005
+90093 Jimmy Black Russia 20 MERS-COV YES 22-05-2017
+26141 Kelly Foley Russia 72 FLU-2018 NO
+82431 Kathleen Hines Russia 43 H1N1 NO
+9985 Samuel Fox Russia 52 FLU-2018 YES 31-08-2003
+8508 Douglas Waters Russia 12 MERS-COV NO
+77689 Kenneth Le Russia 10 MERS-COV YES 05-10-2000
+55493 Tracy Jones Russia 73 MERS-COV YES 28-02-2008
+76871 Robert Burns Russia 78 SARS-COV-2 YES 25-02-2011
+25654 Reginald Jenkins Russia 43 MERS-COV YES 04-05-2014
+85238 Michelle Bryant Russia 64 COVID-2019 YES 26-05-2005
+82242 Erin Lewis Russia 22 EVD YES 28-08-2020
+75499 Julian Welch Russia 33 MERS-COV NO
+11951 Joshua Stevens Russia 67 SARS-1 YES 04-01-2017
+76927 Alexander Murray Russia 66 SARS-1 NO
+2604 Carrie Huang Russia 23 EVD YES 19-06-2013
+77635 Matthew Trujillo Russia 48 H1N1 NO
+24495 Dillon Duncan Russia 53 SARS-COV-2 YES 01-06-2018
+52506 Nathan Jones Russia 53 MERS-COV NO
+36808 Daniel Moore Russia 72 COVID-2019 YES 04-05-2004
+18588 Shawn Daniels Russia 26 SARS-1 NO
+31135 Jacob Wilson Russia 38 MERS-COV YES 23-11-2015
+40377 Lauren Richards Russia 18 H1N1 NO
+91272 Leah Palmer Russia 64 FLU-2018 YES 04-02-2012
+8498 Diane Stokes Russia 76 SARS-COV-2 NO
+89685 David Rodriguez Russia 69 SARS-1 YES 18-05-2014
+3452 Christine Cook Russia 69 COVID-2019 NO
+4326 Ryan Rodriguez Russia 26 FLU-2018 YES 12-02-2005
+2108 Donna Newman Russia 42 SARS-1 YES 09-11-2017
+63540 Kevin Rollins Russia 64 SARS-1 NO
+49967 Natalie Jordan Russia 65 EVD NO
+20320 Nicole Harmon Russia 34 H1N1 NO
+96887 Patrick Smith Russia 15 EVD NO
+65902 Tamara Mcdonald Russia 37 COVID-2019 NO
+29978 Michelle Williams Russia 34 FLU-2018 YES 17-12-2008
+44907 David Edwards Russia 47 H1N1 YES 06-04-2004
+68614 Stacey Greene Russia 11 SARS-COV-2 YES 03-10-2016
+50290 Jennifer Kirby Russia 12 SARS-COV-2 YES 25-04-2000
+32731 Christina Arnold Russia 26 MERS-COV NO
+19094 Robert Gilbert Russia 20 COVID-2019 YES 04-07-2007
+3398 Bobby Ramos Russia 16 H1N1 YES 09-05-2017
+13502 Peggy Jackson Russia 61 COVID-2019 YES 26-02-2020
+64165 Luke Gonzalez Russia 23 MERS-COV YES 28-10-2020
+20719 Andrea Dean Russia 48 SARS-COV-2 NO
+21276 Kimberly Roth Russia 44 COVID-2019 NO
+64444 Madison Phillips Russia 76 EVD YES 01-02-2010
+50748 Mary Price Russia 79 FLU-2018 NO
+36492 Christian Curtis Russia 37 FLU-2018 NO
+74786 Joseph Duncan Russia 57 SARS-1 YES 13-04-2013
+12801 Misty Brown Russia 24 FLU-2018 NO
+71622 Michelle Skinner Russia 37 FLU-2018 NO
+21618 Carol Hoffman Russia 62 COVID-2019 YES 10-02-2014
+92211 Jacob Allen Russia 47 FLU-2018 YES 13-02-2013
+83491 Steven Elliott Russia 42 H1N1 NO
+6660 Kara James Russia 78 SARS-COV-2 YES 15-04-2017
+95011 Caitlin Cortez Russia 23 EVD NO
+58322 Patrick Bishop Russia 51 MERS-COV YES 08-11-2017
+80642 Kyle Rivera Russia 21 EVD NO
+60418 Joyce Mitchell Russia 11 MERS-COV YES 16-12-2019
+20073 Kevin Bowman Russia 29 COVID-2019 YES 10-11-2020
+9418 Monica Wright Russia 20 FLU-2018 NO
+45564 Lisa Gilbert Russia 78 SARS-1 NO
+61148 Jennifer Barnett Russia 45 MERS-COV NO
+77616 Alexis Young Russia 47 H1N1 NO
+44084 Michael Martin Russia 48 EVD NO
+30698 Amanda Wang Russia 31 FLU-2018 NO
+61880 Karen Keith Russia 16 H1N1 NO
+79456 Heather Bridges Russia 16 FLU-2018 YES 04-06-2004
+25635 Joseph Jones Russia 47 SARS-1 YES 12-02-2003
+65341 Carlos Becker Russia 28 FLU-2018 YES 06-04-2019
+55133 Austin Campbell Russia 44 MERS-COV YES 24-06-2015
+69696 Hunter Rodriguez Russia 78 FLU-2018 NO
+61885 Shelby Stone Russia 74 SARS-COV-2 NO
+840 Diana Gross Russia 72 COVID-2019 NO
+68773 Sara Riley Russia 23 EVD NO
+4766 Aimee Campbell Russia 75 SARS-COV-2 NO
+95808 Douglas Gonzales Russia 79 FLU-2018 NO
+98176 Rita Gonzalez Russia 11 SARS-1 YES 24-01-2017
+84639 Shawn Mccann Russia 16 SARS-COV-2 NO
+91108 Joel Hernandez Russia 54 SARS-1 NO
+97594 Monica Cruz Russia 65 FLU-2018 NO
+77210 Zachary Wilson Russia 24 EVD NO
+63684 Stephanie Nelson Russia 49 H1N1 NO
+14421 Anthony Johnson Russia 14 H1N1 NO
+6148 Adam Porter Russia 52 FLU-2018 YES 21-03-2015
+16214 Heather Thomas Russia 62 H1N1 NO
+41531 Kevin Cooper Russia 15 H1N1 YES 26-09-2018
+98421 Heather Rogers Russia 74 FLU-2018 NO
+19677 Marie Thompson Russia 65 FLU-2018 NO
+26555 Julie Sullivan Russia 73 EVD NO
+16009 Frederick Wilson Russia 42 EVD YES 23-06-2012
+66407 Robert Newton Russia 12 FLU-2018 YES 05-05-2001
+69518 Katrina Santos Russia 56 H1N1 YES 14-08-2005
+84617 Michael Thompson Russia 31 SARS-COV-2 NO
+54591 Connie Smith Russia 45 FLU-2018 YES 20-09-2011
+47994 Brandon Walls Russia 57 EVD NO
+88109 Richard Townsend Russia 79 SARS-COV-2 NO
+12600 Holly Hodges Russia 60 EVD YES 16-04-2013
+87685 Spencer Jones Russia 47 SARS-1 NO
+6281 Monica Garcia Russia 56 MERS-COV YES 01-10-2000
+67558 Andrew Singh Russia 58 FLU-2018 YES 24-11-2013
+41287 Andrea Garcia Russia 31 MERS-COV NO
+60122 Eric Smith Russia 27 EVD NO
+13893 Willie Bryan Russia 64 SARS-COV-2 YES 21-01-2016
+3300 Lisa Cooper Russia 63 FLU-2018 YES 20-11-2009
+35005 Danny Bailey Russia 19 MERS-COV NO
+70831 Amy Ross Russia 34 EVD NO
+94343 Ronnie Erickson Russia 78 SARS-1 NO
+30865 Erin Mendoza Russia 44 EVD YES 25-02-2021
+29045 Rodney Martinez Russia 61 MERS-COV YES 03-12-2011
+73654 Alexis Page Russia 55 SARS-1 YES 24-11-2001
+40584 Lynn Hopkins Russia 57 COVID-2019 YES 12-03-2014
+77499 Louis Perez Russia 39 FLU-2018 YES 13-06-2018
+75873 Nancy Mcpherson Russia 38 FLU-2018 NO
+92882 Jason Rios Russia 72 FLU-2018 NO
+21227 Jennifer Hall Russia 73 SARS-1 NO
+97422 Samantha Jenkins Russia 34 FLU-2018 NO
+30341 Bonnie Hall Russia 13 COVID-2019 YES 16-02-2017
+98029 Catherine Bishop Russia 76 FLU-2018 NO
+12324 Seth Harper Russia 74 H1N1 NO
+98220 Patrick Herring Russia 46 H1N1 NO
+30861 Darin Franklin Russia 50 SARS-1 YES 25-10-2018
+65632 Monica Meyer Russia 17 COVID-2019 NO
+16213 Curtis Taylor Russia 68 H1N1 NO
+73311 Tyler Andrade Russia 10 SARS-COV-2 YES 10-05-2007
+26554 Eric Crosby Russia 47 FLU-2018 YES 15-11-2005
+20945 Amanda Thomas Russia 15 FLU-2018 YES 29-01-2008
+41150 Angel Spencer Russia 49 SARS-1 NO
+37180 Edwin Hudson Russia 78 EVD YES 26-02-2006
+75997 Lori Adams Russia 45 EVD NO
+58603 Justin Soto Russia 25 MERS-COV NO
+341 Julia Pham Russia 19 SARS-1 YES 14-04-2003
+46891 Tammy Cook Russia 66 FLU-2018 YES 25-02-2009
+50118 Scott Miller Russia 43 COVID-2019 YES 12-08-2015
+71059 Ivan Cantu Russia 42 EVD NO
+57537 David Fry Russia 38 H1N1 NO
+5026 Douglas Jenkins Russia 17 COVID-2019 YES 03-04-2016
+74736 Melissa Strong Russia 57 MERS-COV NO
+84781 John Martin Russia 70 FLU-2018 NO
+5192 Joseph Wallace Russia 43 H1N1 YES 03-07-2001
+87782 Mary Olson Russia 24 EVD YES 12-01-2012
+74565 Joe Duncan Russia 40 MERS-COV YES 15-12-2002
+64246 Robert Noble Russia 32 MERS-COV NO
+94302 Kimberly Brown Russia 59 SARS-1 YES 06-11-2003
+8440 Danielle Nguyen Russia 49 FLU-2018 NO
+86869 Cynthia Buckley Russia 19 H1N1 NO
+58872 Walter Thompson Russia 14 SARS-COV-2 YES 09-10-2008
+71962 Kevin Lee Russia 74 MERS-COV NO
+75587 Jason Hawkins Russia 62 EVD NO
+73823 Duane Black Russia 27 MERS-COV YES 13-03-2020
+44928 Sara Owen Russia 20 H1N1 NO
+44113 Jeffrey Goodman Russia 47 FLU-2018 NO
+43374 Taylor Walker Russia 57 MERS-COV YES 20-06-2002
+73540 Amy Johnson Russia 44 COVID-2019 YES 04-12-2016
+71519 Julie Jacobson Russia 37 FLU-2018 NO
+57734 David Roberts Russia 65 SARS-COV-2 YES 18-01-2013
+38328 John Jimenez Russia 49 MERS-COV NO
+95265 Amy Moore Russia 64 COVID-2019 NO
+95635 Timothy White Russia 51 H1N1 NO
+5210 Raymond Wise Russia 23 SARS-COV-2 NO
+3911 Melissa Rice Russia 22 FLU-2018 YES 20-12-2018
+46863 Julie Castro Russia 54 H1N1 NO
+39377 Raymond Martinez Russia 64 COVID-2019 NO
+13038 Regina Ingram Russia 58 SARS-COV-2 NO
+50122 Jennifer Johnson Russia 32 MERS-COV YES 27-05-2011
+89440 Mary Potter Russia 38 SARS-1 NO
+13495 Sara Anderson Russia 79 SARS-1 YES 04-04-2015
+16771 Alan Brown Russia 34 H1N1 NO
+11812 Justin Ellis Russia 33 SARS-COV-2 NO
+55508 Paula Parks Russia 58 EVD YES 28-09-2002
+99522 Jennifer Moore Russia 76 MERS-COV YES 14-05-2007
+39829 Kelly Murray Russia 59 SARS-1 NO
+35467 Angela Lee Russia 56 SARS-1 NO
+90454 Jonathan Barrera Russia 11 H1N1 NO
+59154 Andrea Chapman Russia 28 H1N1 YES 17-12-2019
+3591 Samuel Berry Russia 61 EVD YES 03-12-2007
+11064 Heather Mills Russia 22 MERS-COV YES 20-10-2004
+67778 Michelle Carter Russia 74 FLU-2018 NO
+94328 Susan Wagner Russia 35 MERS-COV YES 09-11-2007
+93534 Brittany Shaffer Russia 41 MERS-COV YES 30-09-2006
+30789 Emma Hayes Russia 49 SARS-1 YES 05-08-2018
+85475 Debra Fields Russia 17 MERS-COV NO
+80558 Kimberly Edwards Russia 68 COVID-2019 NO
+60783 Megan Fitzgerald Russia 29 SARS-1 YES 15-08-2018
+67348 Zachary Frank Russia 63 SARS-1 NO
+21991 Mary Moore Russia 70 MERS-COV YES 09-07-2013
+81498 Bradley Higgins Russia 79 H1N1 YES 31-05-2002
+17974 Susan Davis Russia 32 FLU-2018 NO
+15588 Sean Campbell Russia 47 COVID-2019 YES 27-05-2013
+47806 Elizabeth Hernandez Russia 39 SARS-COV-2 YES 06-11-2011
+68132 Ricky Garner Russia 63 COVID-2019 YES 15-05-2000
+55827 Heather Pearson Russia 47 SARS-1 NO
+88784 Ashley Lee Russia 39 COVID-2019 NO
+56804 Corey Owen Russia 17 SARS-COV-2 YES 21-10-2018
+26667 David Sutton Russia 35 FLU-2018 YES 12-08-2008
+72043 Stacey Rodgers Russia 47 H1N1 YES 30-06-2020
+25342 David Hernandez Russia 60 COVID-2019 NO
+89717 Anthony Holloway Russia 41 EVD YES 18-02-2000
+46084 Brian White Russia 23 FLU-2018 YES 15-06-2020
+14077 Christina Walker Russia 65 SARS-COV-2 NO
+47022 Todd Scott Russia 43 MERS-COV YES 22-03-2012
+28889 Kimberly Fitzpatrick Russia 67 EVD YES 09-02-2010
+43267 Jamie Miller Russia 42 FLU-2018 YES 06-01-2007
+59828 Susan Norman Russia 70 SARS-COV-2 YES 21-03-2015
+19921 James Nguyen Russia 12 SARS-COV-2 YES 20-03-2006
+35393 William Myers Russia 64 SARS-COV-2 NO
+43523 John Pruitt Russia 20 SARS-1 YES 02-03-2012
+87110 Sheryl Norman Russia 45 EVD YES 10-04-2000
+97539 Eric Lee Russia 16 COVID-2019 YES 24-11-2005
+84998 Courtney Lee Russia 47 H1N1 YES 14-04-2019
+10629 Julie Morgan Russia 40 COVID-2019 YES 10-07-2019
+67232 Karen Price Russia 55 SARS-COV-2 NO
+72005 Lauren Alexander Russia 25 EVD NO
+2899 Terri Munoz Russia 76 MERS-COV YES 17-02-2008
+26632 Joshua Reynolds Russia 52 SARS-COV-2 NO
+96044 Andrew Jones Russia 18 H1N1 YES 14-05-2003
+65729 Patricia Martin Russia 38 SARS-1 NO
+83404 Christopher Miller Russia 61 SARS-COV-2 YES 17-07-2013
+53888 Cody Snow Russia 72 SARS-COV-2 NO
+44262 Brianna Cochran Russia 39 SARS-COV-2 YES 12-08-2009
+3864 Jenny Benson Russia 10 SARS-1 NO
+65019 Fred Hansen Russia 76 FLU-2018 YES 30-09-2003
+86736 Katelyn Graham Russia 63 SARS-COV-2 NO
+8123 Christina Silva Russia 23 EVD YES 19-05-2003
+70411 Marvin Harris Russia 28 SARS-COV-2 YES 04-01-2017
+66401 Diana Montes Russia 30 H1N1 NO
+22205 Kevin May Russia 63 EVD NO
+18335 Melissa Michael Russia 17 EVD YES 29-03-2014
+97886 Wendy Baker Russia 40 MERS-COV NO
+65975 Megan Porter Russia 49 SARS-1 NO
+9901 Adam Floyd Russia 75 SARS-COV-2 YES 22-03-2006
+37773 Jacqueline Lewis Russia 19 FLU-2018 NO
+832 Kristin Cannon Russia 75 SARS-COV-2 NO
+46377 Michael Carr Russia 24 FLU-2018 NO
+79088 Mary Riley Russia 26 EVD NO
+58159 Angela Mason Russia 17 SARS-COV-2 NO
+90788 Eddie Hardin Russia 74 EVD YES 07-07-2000
+42753 Robert Mcintyre Russia 52 SARS-COV-2 YES 29-12-2018
+84663 Tyler Richmond Russia 31 FLU-2018 NO
+79571 Julie Harrell Russia 19 EVD NO
+80921 Colleen Herman Russia 12 FLU-2018 NO
+87333 Andrew Gonzalez Russia 76 FLU-2018 YES 29-10-2016
+44562 Evan Freeman Russia 79 EVD NO
+18194 Jack Smith Russia 51 COVID-2019 YES 13-04-2017
+23710 Daniel Delgado Russia 14 EVD NO
+70182 Diana Hall Russia 10 SARS-COV-2 NO
+31483 Sarah Lopez Russia 69 EVD NO
+52689 Jacob Brennan Russia 59 SARS-COV-2 NO
+74512 Jamie Sanders Russia 61 H1N1 YES 08-10-2018
+1389 Valerie West Russia 14 SARS-1 NO
+19472 Taylor Rowe Russia 43 H1N1 YES 24-02-2000
+12273 Brittney Graham Russia 33 SARS-1 NO
+910 Cheryl Perry Russia 24 SARS-1 NO
+75235 Lawrence Smith Russia 64 FLU-2018 NO
+40653 Shelia Wilcox Russia 54 MERS-COV YES 26-03-2005
+19020 Megan Martin Russia 79 SARS-COV-2 YES 16-04-2006
+69100 Diana Wells Russia 13 EVD YES 04-01-2018
+26583 Sean Green Russia 32 EVD YES 26-09-2016
+35750 Derrick Young Russia 56 COVID-2019 NO
+98693 Scott Cooke Russia 62 EVD NO
+12196 Kimberly Jones Russia 76 EVD YES 25-06-2005
+98650 Andrew Davis Russia 30 COVID-2019 YES 27-12-2002
+44533 James Nelson Russia 43 FLU-2018 YES 13-12-2006
+22998 Christine Lee Russia 24 SARS-COV-2 NO
+75026 Richard Oliver Russia 56 COVID-2019 NO
+32891 Alec Roberts Russia 18 MERS-COV NO
+9890 Curtis Mccarthy Russia 27 COVID-2019 YES 09-05-2002
+43990 Crystal Smith Russia 67 COVID-2019 YES 12-02-2020
+41576 Mckenzie Carpenter Russia 32 EVD YES 30-03-2020
+55849 Richard Best Russia 24 H1N1 YES 16-10-2005
+91525 Dustin Jackson Russia 49 COVID-2019 YES 23-08-2015
+34348 Cassidy Clark Russia 46 EVD YES 29-07-2004
+25036 Denise Myers Russia 42 MERS-COV NO
+7263 Daniel Flores Russia 18 EVD YES 16-11-2009
+84318 Christine Long Russia 43 SARS-1 NO
+56026 Chad Bishop Russia 30 SARS-COV-2 YES 30-06-2020
+76443 Danielle Hartman Russia 38 FLU-2018 YES 13-08-2006
+25084 Jose Perkins Russia 73 MERS-COV YES 04-06-2020
+35299 Ryan Fitzgerald Russia 25 SARS-1 NO
+85937 Andrea Williams Russia 77 COVID-2019 YES 13-12-2001
+98210 Eric Fox Russia 48 SARS-COV-2 YES 29-08-2011
+93217 Laura Wang Russia 19 SARS-1 YES 04-11-2011
+22874 Jason Hughes Russia 43 SARS-1 NO
+63059 Kimberly White Russia 28 H1N1 YES 01-06-2013
+70143 Natalie Garcia Russia 44 COVID-2019 YES 01-02-2001
+36656 James Garcia Russia 34 SARS-COV-2 NO
+22782 Kimberly Henderson Russia 73 SARS-COV-2 NO
+76983 Daniel Lee Russia 40 MERS-COV NO
+5820 Sarah Luna Russia 63 MERS-COV YES 07-08-2019
+97497 Jennifer Holt Russia 68 SARS-COV-2 YES 07-06-2012
+9769 Douglas Higgins Russia 10 COVID-2019 YES 08-04-2010
+15965 Rose Brown Russia 49 SARS-1 YES 27-07-2013
+85387 Ashley Cox Russia 22 SARS-1 YES 09-02-2015
+66016 Susan Brown Russia 56 FLU-2018 YES 23-02-2015
+45925 Amy Fischer Russia 43 SARS-1 YES 28-03-2005
+92939 Holly Strickland Russia 77 MERS-COV NO
+7956 Angela Gill Russia 66 EVD YES 04-06-2020
+7847 William Snyder Russia 41 FLU-2018 YES 18-08-2015
+9163 Samantha Adkins Russia 70 SARS-COV-2 NO
+80402 Jenna Dorsey Russia 62 COVID-2019 YES 31-12-2006
+48271 Benjamin Reilly Russia 58 H1N1 YES 16-12-2003
+6617 Linda Phillips Russia 13 SARS-1 NO
+22478 Michael Price Russia 20 SARS-1 YES 26-10-2008
+67555 Holly Payne Russia 29 EVD YES 11-03-2020
+86732 Kathy Stanton Russia 73 SARS-1 NO
+8617 Maria Salinas Russia 38 H1N1 YES 31-05-2014
+25815 Melissa Walker Russia 65 SARS-COV-2 YES 14-05-2017
+32166 Melissa Phelps Russia 27 COVID-2019 YES 05-05-2006
+60910 Michele Hall Russia 29 SARS-1 NO
+25125 Jack Patton Russia 60 SARS-1 YES 19-10-2013
+89761 Reginald Thompson Russia 28 H1N1 NO
+52475 Willie White Russia 72 SARS-COV-2 YES 08-10-2017
+35871 Roberto Baxter Russia 69 H1N1 NO
+87941 Kim Cruz Russia 26 MERS-COV NO
+21874 John Webb Russia 60 COVID-2019 NO
+35672 Debbie Robinson Russia 26 H1N1 YES 12-09-2008
+14866 Kayla Wong Russia 22 SARS-1 NO
+38064 Brandi Smith Russia 35 EVD NO
+25468 Michael Gomez Russia 26 SARS-COV-2 YES 27-10-2004
+69724 Antonio Freeman Russia 21 FLU-2018 NO
+1668 Jennifer Cooke Russia 13 SARS-1 YES 10-03-2002
+21262 Robert Evans Russia 66 EVD NO
+65035 Jennifer Davies Russia 65 FLU-2018 NO
+7398 Tony Evans Russia 56 FLU-2018 YES 23-08-2004
+64975 Jane Olson Russia 23 MERS-COV YES 15-11-2000
+52199 Jay Meyer Russia 39 EVD NO
+64589 Ashley Sheppard Russia 51 SARS-COV-2 YES 13-04-2002
+77489 Angela Dalton Russia 35 EVD YES 15-01-2008
+31563 Richard Howard Russia 18 EVD YES 20-01-2010
+73730 Patrick Clark Russia 47 MERS-COV NO
+33645 Sara Johnston Russia 18 MERS-COV YES 06-10-2015
+90188 Chad Wells Russia 16 SARS-1 YES 07-09-2020
+58664 Kimberly White Russia 42 SARS-COV-2 YES 25-09-2006
+58108 Nancy Hall Russia 73 H1N1 YES 15-01-2011
+68711 Molly Floyd Russia 56 EVD NO
+38478 Mark Barker Russia 78 EVD YES 10-10-2015
+82365 Debra Williams Russia 14 MERS-COV NO
+1285 Mark Smith Russia 32 COVID-2019 NO
+39455 Christopher Lee Russia 32 H1N1 NO
+28636 Debbie Macias Russia 22 FLU-2018 YES 16-05-2015
+63156 Heather Jackson Russia 27 MERS-COV NO
+86503 Angela Smith Russia 70 COVID-2019 YES 29-10-2016
+26046 Steven Smith Russia 43 SARS-COV-2 NO
+41374 Alicia Webb Russia 60 EVD NO
+37719 Tiffany Palmer Russia 61 SARS-COV-2 NO
+60626 Erika Benjamin Russia 71 COVID-2019 YES 18-01-2010
+68427 Lisa Cannon Russia 11 COVID-2019 NO
+12463 Joshua Braun Russia 32 H1N1 NO
+38762 Jessica Dixon Russia 55 MERS-COV NO
+64893 Chelsea Townsend Russia 45 MERS-COV YES 19-10-2009
+7082 Jacob Smith Russia 49 H1N1 NO
+90187 Monique Payne Russia 32 MERS-COV NO
+34563 Marissa Nguyen Russia 55 EVD YES 06-02-2000
+68515 Robert Dennis Russia 59 MERS-COV NO
+42480 Erik Daniel Russia 63 H1N1 NO
+74566 Scott Howard Russia 45 H1N1 YES 29-05-2001
+20694 Michael Whitehead Russia 60 H1N1 YES 29-01-2019
+79984 James Lara Russia 66 EVD NO
+37333 Kayla Vargas Russia 71 COVID-2019 YES 01-02-2006
+68650 Denise Smith Russia 22 FLU-2018 YES 17-09-2018
+57219 Nicholas Turner Russia 66 COVID-2019 YES 09-04-2011
+47748 Kristi Norris Russia 41 SARS-COV-2 YES 13-02-2011
+19206 Carl Wilson Russia 49 H1N1 YES 23-07-2020
+89275 Alexis Lee Russia 40 H1N1 YES 23-03-2003
+56914 Matthew Johnson Russia 32 FLU-2018 NO
+72200 Christopher Smith Russia 78 FLU-2018 YES 14-10-2018
+65688 Gavin Duncan Russia 73 COVID-2019 NO
+66620 Jeffrey Gill Russia 78 EVD YES 25-05-2011
+13516 Frank Tran Russia 15 FLU-2018 NO
+81533 Susan Zamora Russia 21 COVID-2019 YES 28-10-2000
+56122 Justin Johnson Russia 42 SARS-1 NO
+84396 Laura Torres Russia 14 SARS-COV-2 NO
+2162 Tiffany Williams Russia 30 MERS-COV NO
+79147 Kevin Vega Russia 72 MERS-COV YES 04-06-2019
+97049 David Kelly Russia 69 H1N1 YES 16-05-2012
+20601 Manuel Smith Russia 51 FLU-2018 YES 20-04-2005
+97046 Joy Montgomery Russia 23 FLU-2018 YES 03-03-2009
+74593 Christopher May Russia 42 EVD YES 26-08-2015
+54615 Jodi Rowe Russia 36 COVID-2019 NO
+64868 Andrew Stephens Russia 27 EVD YES 19-11-2006
+91100 Kaitlyn Murphy Russia 42 MERS-COV YES 03-06-2016
+61017 Teresa Haney Russia 26 COVID-2019 YES 10-07-2004
+97264 James Hart Russia 28 SARS-1 NO
+39022 Lori Zuniga Russia 51 EVD YES 09-11-2009
+69610 Margaret Perry Russia 21 MERS-COV YES 25-05-2000
+4062 Richard Adkins Russia 78 H1N1 NO
+72830 Cheryl Dyer Russia 65 EVD YES 03-10-2018
+64535 Andrew Miller Russia 37 H1N1 NO
+54617 Mark Perez Russia 77 SARS-1 YES 06-01-2008
+21330 Heather Robinson Russia 64 SARS-COV-2 YES 02-05-2008
+55559 Jared Lewis Russia 42 SARS-1 YES 11-12-2014
+16734 Misty James Russia 43 SARS-COV-2 NO
+31420 Michael Hughes Russia 68 EVD NO
+49872 Katelyn Glass Russia 32 COVID-2019 NO
+52562 Tina Hayes Russia 19 MERS-COV NO
+91542 Benjamin Galvan Russia 19 COVID-2019 YES 27-07-2011
+92716 Jesse Johnson Russia 29 FLU-2018 YES 13-03-2000
+25249 Suzanne Hernandez Russia 33 MERS-COV NO
+80751 Chloe Roberts Russia 64 FLU-2018 NO
+98540 Stephanie Beltran Russia 73 SARS-1 NO
+6399 Alex Davis Russia 32 SARS-1 YES 15-03-2014
+66247 Shane Harrington Russia 46 EVD NO
+21871 Becky Phillips Russia 75 COVID-2019 NO
+20970 Daniel Long Russia 34 H1N1 YES 18-06-2012
+11765 Jesse Jackson Russia 25 COVID-2019 YES 06-03-2001
+99175 Shannon Austin Russia 30 H1N1 NO
+97279 Blake Johnson Russia 14 SARS-COV-2 NO
+75481 Ashley Johnson Russia 61 FLU-2018 NO
+74432 Kiara Robertson Russia 26 FLU-2018 YES 11-08-2020
+8406 Sandra Gallegos Russia 46 EVD YES 20-04-2005
+17376 Sara Morales Russia 49 FLU-2018 NO
+8629 Brian Kim Russia 79 SARS-1 YES 05-04-2000
+39974 Gina Lang Russia 29 FLU-2018 NO
+37248 Kristen Lopez Russia 45 FLU-2018 NO
+33179 Daniel Simmons Russia 67 SARS-1 YES 21-09-2015
+12904 Cassandra Williams Russia 66 SARS-1 YES 30-03-2002
+19102 Laura Barron Russia 56 H1N1 NO
+98337 Amber Williams Russia 25 COVID-2019 YES 23-05-2016
+4130 Russell Dillon Russia 46 FLU-2018 NO
+37908 Amy Jones Russia 58 SARS-1 NO
+28938 Michele Miller Russia 47 COVID-2019 NO
+15066 Henry Whitehead Russia 26 COVID-2019 YES 06-11-2004
+47931 James Davis Russia 36 EVD YES 29-11-2005
+8161 Martin Fernandez Russia 29 FLU-2018 YES 24-01-2018
+79340 Dominique Spencer Russia 52 H1N1 YES 03-06-2005
+86000 Blake Miller Russia 42 SARS-1 NO
+2158 Stacey Lowery Russia 34 EVD NO
+39917 Virginia Abbott Russia 62 EVD YES 22-02-2006
+21507 William Smith Russia 74 MERS-COV NO
+38330 Sara Luna Russia 44 H1N1 NO
+2995 Emily Parrish Russia 17 EVD YES 03-06-2010
+76508 Lee Cantrell Russia 45 FLU-2018 YES 30-05-2002
+13480 Zachary Hunter Russia 52 EVD NO
+10454 Priscilla Cordova Russia 10 SARS-1 YES 06-09-2000
+74972 Brandon Martin Russia 17 FLU-2018 NO
+10175 Kristina Mathews Russia 51 SARS-COV-2 YES 17-01-2006
+39020 Anne Lester Russia 65 COVID-2019 NO
+82789 Rebecca White Russia 77 COVID-2019 YES 01-11-2015
+70452 Jason Munoz Russia 13 H1N1 YES 07-05-2009
+66306 Stacey French Russia 24 COVID-2019 YES 22-03-2014
+18149 Marissa Smith Russia 69 COVID-2019 NO
+55766 Daniel Garcia Russia 14 EVD YES 11-09-2018
+69786 Mackenzie Garza Russia 65 EVD NO
+83499 Linda Morton Russia 23 MERS-COV NO
+13176 Carrie Jackson Russia 67 MERS-COV YES 15-11-2002
+25943 Andrea Day Russia 61 FLU-2018 YES 18-08-2000
+14645 Jose Taylor Russia 15 SARS-COV-2 YES 22-02-2017
+8590 Bradley Patterson Russia 68 SARS-COV-2 NO
+40319 Jesus Sullivan Russia 69 COVID-2019 YES 11-09-2020
+82786 Ashley Gillespie Russia 76 FLU-2018 YES 29-01-2013
+93255 Jennifer White Russia 17 SARS-1 YES 12-04-2013
+33311 Christine Ramirez Russia 72 SARS-COV-2 NO
+89260 Sophia Gordon Russia 50 SARS-COV-2 NO
+81651 John Smith Russia 73 SARS-COV-2 NO
+89937 Antonio Curry Russia 39 H1N1 NO
+70259 Deborah Davidson Russia 61 SARS-COV-2 NO
+12268 Melissa Jones Russia 60 MERS-COV NO
+30812 Douglas Jackson Russia 63 FLU-2018 NO
+9204 Robert Morgan Russia 69 EVD NO
+88063 Janice Frey Russia 66 MERS-COV NO
+95631 Shelley Hart Russia 67 H1N1 YES 11-05-2004
+31832 Amy Baker Russia 28 SARS-1 YES 20-10-2003
+55386 Kenneth Duncan Russia 64 MERS-COV NO
+58100 Jeffrey Page Russia 41 SARS-COV-2 NO
+49081 Jeremiah Moses Russia 16 COVID-2019 NO
+83606 Roger Vasquez Russia 31 SARS-1 YES 29-07-2019
+74345 Glenn Palmer Russia 58 FLU-2018 YES 26-06-2015
+98136 Andrew Farrell Russia 70 H1N1 NO
+47597 Jesus Gonzalez Russia 35 FLU-2018 NO
+14775 Sandra Weiss Russia 26 SARS-COV-2 NO
+23274 Kim Ryan Russia 17 MERS-COV NO
+3396 Susan Hoover Russia 44 EVD YES 21-08-2019
+6826 Annette Lee Russia 51 EVD NO
+81373 Diana Haney Russia 60 MERS-COV NO
+48632 David Mann Russia 42 SARS-COV-2 YES 30-03-2003
+33504 Anthony Brown Russia 51 SARS-1 NO
+92292 Andrea Thompson Russia 32 FLU-2018 NO
+84447 Joseph Mendez Russia 10 COVID-2019 YES 23-07-2017
+1270 Charles Henderson Russia 70 SARS-COV-2 YES 16-05-2015
+84419 Jose Navarro Russia 42 SARS-COV-2 YES 23-01-2020
+36625 Ricky Mathews Russia 79 FLU-2018 YES 07-09-2017
+18370 Diana Walker Russia 34 MERS-COV YES 25-02-2018
+76524 Aaron Chang Russia 19 H1N1 NO
+46940 Christian Collins Russia 16 MERS-COV YES 23-02-2012
+83800 April Hansen Russia 16 H1N1 YES 26-11-2012
+82153 Brooke Walker Russia 59 EVD YES 01-05-2020
+46231 Anthony Turner Russia 46 FLU-2018 NO
+227 Kerri Anderson Russia 35 FLU-2018 YES 18-04-2010
+87702 Karen Holloway Russia 75 EVD NO
+59921 Elizabeth Heath Russia 73 COVID-2019 NO
+99349 Laura Hardin Russia 42 SARS-COV-2 NO
+30776 Dawn Orr Russia 25 MERS-COV YES 17-03-2015
+93375 Patricia Booker Russia 47 EVD YES 24-02-2006
+77362 Alexandra Patel Russia 11 MERS-COV NO
+28367 Gregory Ferguson Russia 28 EVD YES 01-05-2006
+76781 Rachel Ward Russia 39 EVD NO
+41395 Emily Archer Russia 22 COVID-2019 YES 22-12-2013
+77787 Kathy Kaiser Russia 58 EVD YES 24-05-2000
+10540 Carlos Cook Russia 72 H1N1 YES 07-05-2002
+21242 Mary Proctor Russia 58 EVD NO
+57587 Stephanie Wells Russia 21 H1N1 YES 10-04-2005
+32479 Christopher Fox Russia 37 COVID-2019 NO
+59622 Cheryl Donovan Russia 62 SARS-1 NO
+29632 Ronald Gallagher Russia 61 SARS-COV-2 NO
+54153 Erica Singleton Russia 20 EVD YES 25-01-2003
+83410 Christina Leon Russia 59 SARS-COV-2 NO
+31337 Carlos Hanson Russia 69 FLU-2018 NO
+31129 Julie Buchanan Russia 69 EVD NO
+40948 Samantha Compton Russia 21 SARS-1 YES 02-10-2014
+43150 Michelle Sharp Russia 57 SARS-COV-2 YES 09-01-2006
+53113 Emily Rivera Russia 13 COVID-2019 YES 30-04-2010
+41449 Barbara Conrad Russia 68 FLU-2018 YES 02-01-2013
+97002 Ernest Miller Russia 75 FLU-2018 YES 13-08-2018
+96632 John Odonnell Russia 71 H1N1 YES 10-09-2014
+15176 Andrea Bryant Russia 52 COVID-2019 YES 04-10-2015
+34779 Morgan Silva Russia 42 EVD YES 05-10-2019
+95636 Linda Benjamin Russia 40 SARS-1 YES 03-01-2008
+71382 Theresa Mclean Russia 28 COVID-2019 NO
+24601 John Christensen Russia 15 EVD YES 14-05-2009
+89731 Ashley Durham Russia 28 COVID-2019 YES 29-07-2001
+30034 Meagan Evans Russia 65 SARS-1 NO
+64917 Mark Crawford Russia 65 FLU-2018 YES 29-11-2014
+8305 Cassandra Schultz Russia 70 SARS-1 NO
+82146 Rhonda Smith Russia 21 MERS-COV YES 05-08-2003
+77019 Stacy Miller Russia 59 EVD YES 26-10-2009
+89415 Keith Shepherd Russia 46 COVID-2019 NO
+41740 Christopher Ryan Russia 78 H1N1 YES 09-01-2019
+97864 Elizabeth Williams Russia 41 COVID-2019 NO
+16361 Matthew Mathews Russia 53 SARS-1 YES 23-06-2014
+88414 Debra Fernandez Russia 58 SARS-1 YES 25-02-2011
+42302 Jennifer Bailey Russia 26 MERS-COV YES 28-09-2005
+23377 Julie May Russia 64 SARS-1 YES 17-04-2011
+27091 Jamie Roberts Russia 53 MERS-COV YES 18-09-2002
+61994 Derek Martinez Russia 64 EVD NO
+54718 Angelica Stevenson Russia 20 EVD NO
+33869 Carla West Russia 68 MERS-COV YES 13-07-2005
+38674 Christopher Day Russia 32 COVID-2019 YES 06-10-2001
+35331 Kevin Kennedy Russia 12 MERS-COV YES 24-08-2002
+48495 Kevin Mitchell Russia 38 SARS-COV-2 YES 20-08-2003
+17667 Nicole Gilbert Russia 69 SARS-1 YES 04-04-2007
+14965 Michelle Sullivan Russia 43 FLU-2018 YES 10-06-2008
+89786 Gary Oneill Russia 43 FLU-2018 NO
+9072 Ryan Mitchell Russia 66 MERS-COV YES 05-10-2014
+89448 Robert Hansen Russia 71 SARS-1 YES 28-06-2001
+64274 Glenn Martinez Russia 66 EVD YES 22-07-2003
+51670 Joseph Olson Russia 48 SARS-1 NO
+83349 Ryan Flynn Russia 18 SARS-COV-2 NO
+74388 Steven Lopez Russia 57 FLU-2018 YES 23-02-2002
+70469 Benjamin Allen Russia 76 COVID-2019 YES 15-08-2006
+63736 Amy Pena Russia 75 MERS-COV YES 15-12-2018
+52276 Debra Johnson Russia 19 SARS-1 NO
+69452 Nathan Rodriguez Russia 79 FLU-2018 NO
+82749 Jeffery Watts Russia 36 COVID-2019 NO
+31498 Roy Rodriguez Russia 44 H1N1 YES 27-03-2017
+8172 Derrick Dean Russia 13 SARS-COV-2 YES 17-01-2004
+20000 Diane Melendez Russia 14 EVD NO
+29608 Nicole Baker Russia 50 H1N1 NO
+56160 Deborah Rogers Russia 74 SARS-COV-2 NO
+76923 Eddie Barnes Russia 30 FLU-2018 NO
+17193 Charles Valencia Russia 54 SARS-1 YES 07-06-2006
+55492 Edward Dunn Russia 67 COVID-2019 YES 15-06-2010
+77379 Jeremiah Aguilar Russia 30 COVID-2019 YES 06-02-2007
+67303 Sean Murphy Russia 11 H1N1 NO
+72862 James Richard Russia 51 FLU-2018 NO
+6168 Maureen Matthews Russia 42 MERS-COV YES 22-12-2006
+56511 Annette Cox Russia 70 COVID-2019 NO
+32554 David Ford Russia 45 H1N1 YES 23-05-2000
+66166 Laurie Wood Russia 63 SARS-1 YES 17-09-2020
+94586 Angela Petersen Russia 59 EVD NO
+62370 Nathan Cooper Russia 50 COVID-2019 YES 20-03-2007
+78879 Jennifer Torres Russia 79 SARS-COV-2 NO
+35378 Cheryl Frazier Russia 13 MERS-COV YES 29-06-2001
+58039 Kiara Hansen Russia 25 COVID-2019 YES 13-08-2019
+64028 James Watson Russia 77 EVD NO
+92566 Jaclyn Coleman Russia 52 MERS-COV NO
+73996 Albert Duke Russia 32 COVID-2019 YES 01-10-2001
+68355 Patricia Goodwin Russia 46 FLU-2018 NO
+25345 Tina Ward Russia 68 H1N1 NO
+68802 Nicholas Patton Russia 47 MERS-COV YES 22-06-2009
+61304 Deborah Rodriguez Russia 28 H1N1 YES 02-06-2010
+79943 Caitlyn Rogers Russia 58 SARS-1 NO
+38580 Valerie Lopez Russia 29 SARS-1 YES 12-10-2004
+75833 Hannah Johnson Russia 36 SARS-COV-2 YES 24-02-2012
+13622 Susan Johnson Russia 44 SARS-COV-2 YES 15-08-2016
+4450 Marc Hardin Russia 23 SARS-COV-2 YES 23-03-2013
+48579 Frederick Blake Russia 34 SARS-1 NO
+38618 Brian Cabrera Russia 73 H1N1 YES 28-11-2019
+59454 Craig Martin Russia 77 SARS-1 YES 08-10-2012
+26354 Aaron Moore Russia 33 FLU-2018 NO
+81141 Jennifer Brooks Russia 26 SARS-COV-2 YES 10-08-2010
+98722 Andrea Holland Russia 26 EVD YES 09-03-2015
+92305 Ashley Wilson Russia 25 H1N1 YES 16-07-2014
+74446 John Frye Russia 13 FLU-2018 NO
+25034 Dawn Reyes Russia 33 EVD YES 10-12-2010
+61400 Tabitha Allen Russia 64 MERS-COV NO
+49290 Louis Campbell Russia 49 MERS-COV NO
+66853 Anthony Morris Russia 64 H1N1 YES 23-10-2006
+67253 Nicole Caldwell Russia 76 SARS-1 YES 25-05-2015
+74828 Robert Bryant Russia 52 EVD YES 24-09-2017
+39291 Barry Robertson Russia 11 SARS-COV-2 NO
+98550 Laura Miller Russia 18 H1N1 YES 15-10-2008
+56950 Nicholas Mitchell Russia 18 SARS-1 YES 27-09-2016
+71074 Paul Wilson Russia 62 H1N1 NO
+58517 Miranda Simmons Russia 73 MERS-COV NO
+10822 Deborah Harris Russia 77 H1N1 YES 01-04-2018
+41877 William Parrish Russia 33 H1N1 NO
+92835 Christina Waller Russia 61 SARS-COV-2 YES 22-01-2011
+54873 Jennifer Cunningham Russia 54 COVID-2019 YES 03-10-2007
+82092 Kim Arellano Russia 74 SARS-COV-2 YES 16-12-2014
+16327 Carolyn Carter Russia 48 MERS-COV YES 27-11-2009
+93355 Debra Williams Russia 25 EVD YES 24-12-2005
+59410 Ronald Blackburn Russia 36 FLU-2018 NO
+67893 Joel Welch Russia 46 SARS-1 NO
+33988 Frederick Smith Russia 47 H1N1 NO
+71914 Tyler Small Russia 38 H1N1 NO
+96648 Brandi Lyons Russia 14 EVD YES 12-09-2006
+88838 Charlene Jarvis Russia 39 SARS-COV-2 YES 13-01-2009
+25592 Tricia Allen Russia 20 FLU-2018 YES 10-08-2019
+19324 Richard Young Russia 66 FLU-2018 YES 26-04-2015
+9259 Claudia Branch Russia 43 H1N1 NO
+516 Kevin Hall Russia 66 FLU-2018 NO
+40802 Gina Thomas Russia 32 H1N1 NO
+57135 Whitney Norman Russia 38 MERS-COV NO
+7572 Erika Martinez Russia 43 COVID-2019 NO
+84727 Julia Kennedy Russia 75 H1N1 YES 09-01-2001
+20142 Donna Berry Russia 58 H1N1 NO
+35908 Arthur Reeves Russia 52 FLU-2018 YES 15-03-2007
+38218 Mary Griffith Russia 79 SARS-1 NO
+28904 Stephanie Mcdowell Russia 22 H1N1 YES 22-03-2000
+70971 Kelsey Sanchez Russia 55 SARS-COV-2 NO
+49624 Brett Medina Russia 77 SARS-1 YES 05-07-2011
+32889 James Jackson Russia 39 EVD NO
+81831 Julie Warren Russia 36 FLU-2018 NO
+79747 Joseph Daniel Russia 55 FLU-2018 NO
+67944 Daniel Reed Russia 23 COVID-2019 YES 16-12-2010
+79292 Joshua Lynch Russia 53 MERS-COV YES 27-07-2014
+45112 Jennifer Rodriguez Russia 43 H1N1 NO
+93632 Joshua Fry Russia 25 FLU-2018 NO
+25978 Thomas Smith Russia 29 EVD NO
+31012 Latasha Petersen Russia 69 SARS-COV-2 YES 21-04-2009
+35490 Henry Ritter Russia 35 SARS-COV-2 NO
+54008 Christine Baldwin Russia 28 H1N1 NO
+39148 Stephen Huerta Russia 54 H1N1 NO
+96552 Jennifer Hendricks Russia 46 SARS-COV-2 NO
+96527 Robin Barr Russia 21 SARS-1 NO
+57139 Marcus Flores Russia 34 H1N1 NO
+40965 Mary Jackson Russia 17 SARS-1 YES 15-03-2007
+32375 Bonnie Jennings Russia 75 SARS-COV-2 NO
+69094 Gerald Jenkins Russia 55 H1N1 YES 26-04-2016
+13433 Diana King Russia 58 FLU-2018 YES 14-09-2000
+75367 Jennifer Webb Russia 30 EVD YES 16-08-2014
+7524 Derek Hayes Russia 59 COVID-2019 YES 09-06-2015
+80184 Michael Owens Russia 53 MERS-COV YES 12-10-2020
+83417 Bradley Beasley Russia 12 COVID-2019 YES 04-09-2019
+13554 Lauren Good Russia 46 COVID-2019 YES 10-09-2017
+34277 Hunter Jones Russia 22 SARS-COV-2 YES 08-01-2002
+70934 Amy Johnson Russia 46 EVD YES 28-09-2009
+45689 Walter Austin Russia 47 COVID-2019 YES 20-03-2004
+81048 James Horn Russia 27 H1N1 YES 26-07-2001
+64530 Hannah Ayers Russia 16 FLU-2018 YES 13-03-2011
+31444 Clifford Gutierrez Russia 76 FLU-2018 NO
+84326 Patricia Lopez Russia 43 MERS-COV NO
+66545 Anthony Harvey Russia 30 EVD NO
+48933 Darren Vazquez Russia 77 SARS-1 NO
+17863 Jennifer Neal Russia 13 H1N1 YES 02-09-2007
+23765 Kristine Ramirez Russia 11 FLU-2018 YES 15-10-2020
+45286 Darlene Porter Russia 67 FLU-2018 NO
+97112 Javier Bowers Russia 21 FLU-2018 NO
+3971 Steven Hale Russia 40 SARS-1 YES 22-02-2012
+70438 Scott Robinson Russia 25 EVD YES 02-02-2015
+62419 Jasmine Hunter Russia 74 SARS-COV-2 NO
+10757 William Peterson Russia 52 SARS-COV-2 YES 20-03-2000
+41214 Brenda Hubbard Russia 34 SARS-1 YES 24-06-2014
+52231 Catherine Clayton Russia 11 SARS-COV-2 YES 08-01-2014
+28782 Andrew Williams Russia 34 H1N1 NO
+40971 Charlene Adams Russia 42 COVID-2019 NO
+66375 Paul Taylor Russia 78 COVID-2019 NO
+54793 Randy Manning Russia 77 SARS-1 YES 08-06-2006
+5879 Jeffrey Howard Russia 10 SARS-1 NO
+1925 Stacy Duran Russia 21 SARS-1 NO
+26942 Mallory Nolan Russia 40 COVID-2019 NO
+23256 Rebekah Meyer Russia 75 H1N1 YES 30-12-2015
+50282 Joshua Baker Russia 77 SARS-1 YES 19-02-2007
+90626 Beth Bradley Russia 46 EVD NO
+3219 Justin Salazar Russia 15 FLU-2018 YES 02-01-2007
+61294 Marie Henderson Russia 70 MERS-COV NO
+38370 Kenneth Moore Russia 55 EVD NO
+80462 David Farrell Russia 15 SARS-1 YES 22-10-2013
+94204 Jason English Russia 58 COVID-2019 NO
+57162 Matthew Mullins Russia 46 MERS-COV NO
+83216 Julia Wood Russia 21 H1N1 YES 16-10-2012
+15410 Kathryn Bradley Russia 19 COVID-2019 YES 25-05-2017
+34107 Judith Martinez Russia 52 MERS-COV NO
+57416 Jonathon Lawson Russia 34 SARS-1 NO
+73131 Sara Roberts Russia 39 FLU-2018 NO
+39993 Natalie Stark Russia 38 H1N1 NO
+99394 Richard Richardson Russia 61 H1N1 NO
+18867 Calvin Medina Russia 23 FLU-2018 YES 16-04-2019
+9180 Donald Hendricks Russia 48 SARS-1 NO
+24164 Thomas Hernandez Russia 49 FLU-2018 NO
+72970 Jeremy Ingram Russia 37 EVD YES 21-09-2013
+20252 Sheila Brown Russia 62 MERS-COV NO
+30769 Donna Schultz Russia 64 MERS-COV YES 20-09-2013
+77424 Benjamin Lloyd Russia 35 COVID-2019 NO
+96935 Shannon Berry Russia 33 SARS-COV-2 NO
+74719 William Benjamin Russia 31 SARS-1 YES 02-12-2015
+35071 Christopher Wheeler Russia 25 H1N1 YES 10-09-2012
+30675 Sarah Klein Russia 16 MERS-COV YES 11-06-2002
+92829 Lawrence Smith Russia 29 FLU-2018 YES 09-02-2009
+47286 Richard Roberts Russia 78 COVID-2019 YES 22-12-2003
+23838 Patricia White Russia 36 FLU-2018 NO
+77207 Danielle Nunez Russia 52 COVID-2019 YES 07-02-2010
+43082 Tabitha Martinez Russia 18 EVD YES 04-01-2011
+42045 Erica Hickman Russia 37 SARS-1 YES 05-07-2020
+58811 Teresa Knight Russia 71 MERS-COV YES 03-05-2019
+90296 Micheal Williams Russia 21 EVD YES 19-02-2016
+3164 Vickie Carter Russia 19 H1N1 YES 26-05-2015
+24736 Gregory Thompson Russia 24 SARS-COV-2 YES 16-01-2020
+1906 Julie White Russia 71 EVD YES 23-01-2001
+61033 Christopher Lawrence Russia 49 SARS-COV-2 NO
+23691 Whitney Thomas Russia 26 SARS-COV-2 NO
+88507 Felicia Davis Russia 76 EVD NO
+61949 Mark Brown Russia 63 MERS-COV YES 01-07-2013
+41960 Patricia Carlson Russia 64 EVD YES 06-04-2009
+1049 Ruth Benson Russia 41 FLU-2018 NO
+91806 Reginald French Russia 59 H1N1 YES 26-07-2015
+43625 Steven Perez Russia 52 COVID-2019 YES 21-10-2014
+99766 Robert King Russia 29 MERS-COV NO
+92839 Kathryn Chung Russia 38 FLU-2018 YES 11-07-2006
+44903 Alexander Garcia Russia 31 FLU-2018 NO
+49594 Chad Smith Russia 66 FLU-2018 YES 18-09-2003
+75733 Jennifer Hudson Russia 35 H1N1 YES 14-05-2006
+7576 Gregory Bates Russia 14 FLU-2018 NO
+68837 Matthew Blake Russia 63 FLU-2018 NO
+1192 Jonathan Sullivan Russia 51 H1N1 YES 14-12-2020
+37564 Jasmine Johnson Russia 20 H1N1 YES 04-11-2010
+60246 Zachary English Russia 12 H1N1 NO
+12522 Denise Hoffman Russia 53 SARS-1 YES 26-12-2005
+21562 Michael Griffin Russia 47 H1N1 NO
+30372 Joseph Gonzales Russia 66 H1N1 YES 27-04-2002
+93852 Holly Porter Russia 34 FLU-2018 NO
+81064 Molly Murphy Russia 34 COVID-2019 YES 07-09-2018
+48739 Linda Hernandez Russia 18 FLU-2018 YES 07-12-2016
+39698 William Kelly Russia 43 COVID-2019 YES 01-01-2020
+28531 Nicole Duran Russia 79 EVD NO
+37722 Amy Sparks Russia 45 FLU-2018 YES 27-04-2003
+11394 Cassandra Mitchell Russia 46 MERS-COV NO
+27476 Erin Riley Russia 70 H1N1 YES 14-12-2005
+82918 John Hayes Russia 17 SARS-COV-2 NO
+73268 Philip Luna Russia 31 EVD NO
+83044 Mariah Lee Russia 44 SARS-1 NO
+4000 James Griffin Russia 73 H1N1 YES 17-03-2011
+11303 Zachary Griffith Russia 65 EVD YES 07-03-2004
+83518 Sean Oliver Russia 73 SARS-COV-2 NO
+50528 Michael Clayton Russia 68 COVID-2019 YES 22-07-2008
+23312 Jeffrey Ruiz Russia 67 SARS-COV-2 YES 02-02-2003
+8150 Jorge Martinez Russia 63 SARS-COV-2 YES 17-01-2014
+68672 Alyssa Williamson Russia 14 MERS-COV NO
+25228 Eric Hickman Russia 65 SARS-1 YES 01-02-2001
+61379 Mark Mendoza Russia 36 SARS-COV-2 YES 09-03-2006
+90829 Veronica Jones Russia 56 H1N1 NO
+25385 Matthew Ortiz Russia 13 EVD NO
+6985 Michael Clark Russia 30 COVID-2019 NO
+27044 Nicholas Kim Russia 79 H1N1 NO
+30831 Donald Hill Russia 24 EVD YES 15-03-2004
+19597 Beverly Ross Russia 43 SARS-COV-2 YES 21-09-2013
+13637 Lisa Aguilar Russia 39 SARS-COV-2 YES 04-12-2005
+2201 Mario Lester Russia 74 MERS-COV YES 08-06-2014
+434 Bethany Hunt Russia 68 H1N1 YES 06-03-2001
+796 James Howard Russia 67 COVID-2019 NO
+49637 Renee Mason Russia 78 FLU-2018 YES 13-04-2005
+95778 Eric Burgess Russia 33 SARS-COV-2 NO
+33702 Kathleen Dickson Russia 41 SARS-1 YES 06-03-2012
+36464 Rebecca Tran Russia 51 MERS-COV NO
+68357 Michael Lawson Russia 74 FLU-2018 YES 25-10-2012
+40860 Sheryl Jones Russia 21 SARS-COV-2 NO
+84042 Charles Lawson Russia 52 SARS-1 NO
+70372 Melissa Robinson Russia 32 COVID-2019 NO
+84839 Beth Adams Russia 51 COVID-2019 NO
+47973 Lisa Rosales Russia 37 COVID-2019 YES 14-10-2012
+83539 Brandon Reese Russia 59 SARS-COV-2 YES 14-04-2007
+45755 Mariah Lara Russia 38 EVD NO
+80772 Sharon Hughes Russia 15 MERS-COV NO
+2465 Elizabeth Harris Russia 72 EVD YES 26-03-2010
+50117 Michael Lopez Russia 21 SARS-COV-2 NO
+92261 Dawn Johnson Russia 22 SARS-1 YES 11-08-2018
+1575 Karen Simpson Russia 70 FLU-2018 YES 25-03-2011
+45753 Louis Jacobson Russia 43 SARS-1 YES 30-11-2018
+24777 Erin Hunt Russia 10 FLU-2018 NO
+12269 Bobby Hensley Russia 21 EVD YES 21-01-2011
+14017 Christine Yoder Russia 59 SARS-COV-2 YES 12-08-2020
+1703 Tamara Daniels Russia 71 EVD YES 12-05-2003
+9807 Alyssa Benson Russia 38 H1N1 NO
+88650 Shawn Brown Russia 16 MERS-COV NO
+93275 Erik Gonzalez Russia 76 FLU-2018 YES 10-10-2017
+70585 Kelly Henry Russia 69 COVID-2019 YES 07-12-2010
+14009 Kelly Ortiz Russia 31 MERS-COV YES 26-07-2019
+45270 Crystal Stewart Russia 21 COVID-2019 NO
+37501 Linda Mclean Russia 14 MERS-COV NO
+26750 Danny Diaz Russia 53 COVID-2019 NO
+22616 Erin Baker Russia 21 MERS-COV NO
+44841 Wendy Hodges Russia 58 EVD NO
+61485 Barbara Smith Russia 75 FLU-2018 YES 13-09-2019
+25401 Zachary Johnson Russia 52 FLU-2018 NO
+79661 Alison Orr Russia 40 H1N1 YES 21-08-2011
+68928 Jose Hernandez Russia 20 SARS-COV-2 YES 01-10-2003
+32956 William Black Russia 22 SARS-1 NO
+1764 Paula Williams Russia 55 SARS-COV-2 NO
+31929 Eric Adkins Russia 74 EVD YES 28-03-2003
+52397 Elizabeth Harris Russia 41 H1N1 YES 15-07-2015
+74416 Fred Smith Russia 74 FLU-2018 NO
+85704 Stephanie Cruz Russia 59 EVD YES 04-03-2020
+45245 Gregory Monroe Russia 35 MERS-COV YES 06-03-2007
+35347 Nicholas Goodwin Russia 56 SARS-1 YES 17-05-2014
+39445 Tiffany Cox Russia 38 SARS-COV-2 NO
+78365 Joanna Thomas Russia 19 SARS-1 YES 13-08-2014
+68703 Julie Vargas Russia 20 SARS-COV-2 YES 12-09-2012
+52902 Richard Olson Russia 79 SARS-1 YES 30-10-2015
+55194 Lori Huber Russia 52 EVD NO
+55370 George Henderson Russia 76 FLU-2018 YES 27-01-2005
+46032 Michelle Mack Russia 30 COVID-2019 NO
+90623 Jessica Wood Russia 34 COVID-2019 YES 18-01-2000
+7488 Dylan Johnson Russia 32 SARS-1 YES 18-06-2001
+74088 Kayla Fox Russia 71 EVD YES 01-03-2017
+74461 Amy Reilly Russia 55 FLU-2018 YES 27-10-2008
+39401 Erin Caldwell Russia 75 COVID-2019 YES 01-03-2005
+90816 Nicholas Sharp Russia 70 COVID-2019 NO
+35168 Theresa Morgan Russia 30 SARS-1 NO
+44275 Amber Bates Russia 30 MERS-COV NO
+17653 Janice Braun Russia 37 EVD NO
+52289 Samantha Blair Russia 24 COVID-2019 NO
+59235 Rachel Green Russia 44 SARS-COV-2 YES 05-03-2003
+41407 Charles Trevino Russia 43 SARS-COV-2 YES 31-12-2013
+29390 Amy Barnes Russia 43 COVID-2019 YES 02-08-2008
+24702 Dana Gutierrez Russia 42 SARS-1 NO
+38974 Ashley Hayden Russia 59 SARS-1 YES 24-10-2009
+61841 Bradley Stevens Russia 75 EVD YES 28-04-2019
+75425 Maria Trujillo Russia 12 SARS-COV-2 NO
+77460 Rebecca Martinez Russia 12 FLU-2018 YES 20-05-2014
+54084 Jason Savage Russia 29 EVD NO
+60991 Samantha Smith Russia 71 SARS-1 NO
+63912 Tasha Hoffman Russia 48 FLU-2018 NO
+57847 Tiffany Perez Russia 58 SARS-COV-2 NO
+41616 James Meyer Russia 74 EVD NO
+70943 Katherine Shaw Russia 69 SARS-COV-2 NO
+36935 Tina Barker Russia 55 EVD NO
+76517 Justin Armstrong Russia 25 COVID-2019 NO
+71298 Darlene Horn Russia 67 EVD YES 07-05-2015
+59693 Laura Steele Russia 35 EVD NO
+47073 Bryan Hickman Russia 54 SARS-1 YES 26-06-2003
+17545 Teresa Howard Russia 71 H1N1 YES 11-01-2017
+5873 Jessica Cole Russia 40 COVID-2019 YES 04-11-2011
+11178 Lisa Reeves Russia 48 EVD YES 03-05-2004
+63818 Brandy Rose Russia 69 MERS-COV YES 20-06-2005
+64538 Thomas Jones Russia 31 SARS-COV-2 YES 02-02-2016
+66995 Robert Payne Russia 61 FLU-2018 NO
+78700 Tiffany Moore Russia 75 FLU-2018 NO
+68359 Charles Johnson Russia 66 MERS-COV NO
+29066 Michael Spencer Russia 33 SARS-COV-2 NO
+76289 Joseph Williams Russia 30 MERS-COV NO
+20596 Eric Lambert Russia 49 EVD YES 07-09-2016
+92438 Austin Lamb Russia 51 H1N1 YES 22-10-2007
+92814 Kristina Wilkinson Russia 50 SARS-COV-2 YES 06-03-2005
+51526 Kimberly Anderson Russia 18 H1N1 YES 16-02-2014
+49510 John Scott Russia 33 H1N1 NO
+77987 Carl Jones Russia 70 H1N1 NO
+2420 Alexandria Armstrong Russia 48 H1N1 NO
+94262 Sonya Freeman Russia 19 MERS-COV YES 31-10-2005
+96386 Matthew Jackson Russia 35 SARS-1 NO
+21334 Tracy Cisneros Russia 71 FLU-2018 YES 22-11-2004
+54741 Paul Glenn Russia 26 SARS-COV-2 YES 06-03-2009
+93658 Brandy Garcia Russia 25 COVID-2019 NO
+31743 Shawn Phelps Russia 22 FLU-2018 NO
+28519 Gail Russo Russia 16 FLU-2018 YES 07-01-2011
+33339 Julie Fritz Russia 71 H1N1 YES 14-06-2014
+53088 Jacob Mcdaniel Russia 47 SARS-1 NO
+74919 Elizabeth Quinn Russia 38 EVD NO
+27793 Andrew Marsh Russia 79 MERS-COV NO
+29185 Michelle Collins Russia 16 H1N1 YES 10-09-2006
+67983 Monica Brown Russia 53 H1N1 NO
+80245 Andrew Drake Russia 64 COVID-2019 YES 28-09-2000
+49227 Darryl Wade Russia 49 MERS-COV YES 20-10-2008
+80955 Robert Benson Russia 63 H1N1 NO
+81432 Justin Cochran Russia 69 COVID-2019 YES 07-10-2011
+75400 Amanda Flores Russia 63 MERS-COV NO
+26243 Joshua Casey Russia 18 FLU-2018 YES 19-10-2003
+98318 Amanda Aguirre Russia 47 SARS-COV-2 YES 15-05-2018
+37251 Jeff Hernandez Russia 43 EVD NO
+50480 Lisa Oliver Russia 56 MERS-COV NO
+7300 John Lopez Russia 61 MERS-COV NO
+60251 Benjamin Hamilton Russia 46 FLU-2018 NO
+65864 Bailey Brown Russia 56 H1N1 NO
+55642 Stephanie Roberson Russia 78 EVD NO
+20317 Christina Pearson Russia 51 COVID-2019 YES 03-07-2009
+50112 Thomas Flynn Russia 39 COVID-2019 YES 30-12-2010
+69597 Shelly Warren Russia 12 H1N1 NO
+12974 Dylan Gomez Russia 38 MERS-COV NO
+29382 Leah Dougherty Russia 76 FLU-2018 NO
+7683 Heather Henderson Russia 70 COVID-2019 YES 22-08-2012
+37161 Carrie Perez Russia 70 SARS-1 NO
+58244 Christopher Vasquez Russia 17 EVD NO
+21126 Brittany Mora Russia 68 SARS-1 YES 20-05-2020
+29897 Kristin Rodriguez Russia 25 SARS-1 YES 20-09-2007
+46121 David Franklin Russia 21 COVID-2019 NO
+26740 Scott Collins Russia 70 EVD NO
+87888 Sheri Shepherd Russia 34 SARS-1 YES 29-08-2014
+4278 Dana Patel Russia 65 FLU-2018 YES 12-03-2012
+66136 Justin Anderson Russia 25 EVD YES 21-01-2001
+70014 Joshua Mcintyre Russia 30 MERS-COV NO
+90751 Stephen Meyer Russia 61 SARS-COV-2 NO
+61384 Robin Robertson Russia 51 COVID-2019 YES 31-10-2006
+23506 Kenneth Hubbard Russia 78 EVD YES 04-12-2014
+71944 Lucas Oliver Russia 66 MERS-COV NO
+49418 Veronica Lindsey Russia 78 EVD NO
+69640 Laura Jordan Russia 50 SARS-1 YES 07-02-2021
+87877 Gregory Clay Russia 53 H1N1 YES 29-05-2004
+39057 Brandy Contreras Russia 38 MERS-COV YES 09-08-2015
+17411 Sarah Rodgers Russia 16 H1N1 NO
+95482 Jason Wright Russia 73 SARS-1 NO
+70681 David Vaughan Russia 34 COVID-2019 NO
+74893 Louis Jones Russia 55 FLU-2018 NO
+17400 Wendy Johnson Russia 69 COVID-2019 NO
+8147 Jeremy Nguyen Russia 62 H1N1 NO
+39819 Chad Wong Russia 63 MERS-COV NO
+47669 Jessica Parker Russia 72 COVID-2019 YES 22-04-2012
+5607 Lee Koch Russia 44 MERS-COV YES 19-02-2013
+95420 Makayla Taylor Russia 48 SARS-1 YES 16-02-2002
+69883 Breanna Skinner Russia 12 MERS-COV NO
+8086 Adam Jackson Russia 37 COVID-2019 YES 16-07-2002
+60573 Emma Wallace Russia 18 EVD NO
+35916 Jennifer Ortiz Russia 13 MERS-COV YES 02-06-2007
+96335 Ashley Johnson Russia 49 FLU-2018 NO
+69886 Craig Hunt Russia 25 COVID-2019 YES 23-05-2007
+68492 Mary Wilson Russia 16 H1N1 YES 05-06-2007
+19503 Krystal Baker Russia 20 SARS-COV-2 NO
+9946 Paul Campos Russia 61 H1N1 YES 28-03-2001
+3085 Margaret Roman Russia 43 SARS-COV-2 YES 13-01-2016
+16377 Andres Allen Russia 56 COVID-2019 NO
+8146 Emily Buck Russia 12 COVID-2019 NO
+19569 Shawn Lynch Russia 61 MERS-COV YES 04-01-2012
+58997 Alice Riley Russia 79 COVID-2019 NO
+17066 Dylan Harmon Russia 49 COVID-2019 NO
+43720 Christopher Savage Russia 65 SARS-1 NO
+59397 Andrea Allen Russia 63 H1N1 YES 31-01-2007
+49416 Amber Johnson Russia 24 FLU-2018 NO
+87029 Timothy Avery Russia 48 SARS-COV-2 YES 03-04-2018
+48307 Danielle Steele Russia 37 MERS-COV NO
+18435 Phillip Wood Russia 28 SARS-1 NO
+62773 Angela Harper Russia 62 FLU-2018 YES 14-03-2002
+96908 Christopher Stephens Russia 25 MERS-COV YES 14-09-2018
+78008 Katherine Gillespie Russia 67 MERS-COV NO
+16529 Lee Guerrero Russia 40 SARS-1 YES 16-03-2013
+47231 Karen Hoffman Russia 59 EVD YES 28-08-2012
+94207 Patrick Wilson Russia 13 SARS-1 NO
+46717 Brenda Johnson Russia 10 EVD YES 15-04-2005
+9187 Willie Mckee Russia 14 SARS-1 YES 23-09-2020
+54833 Jessica Morris Russia 32 COVID-2019 NO
+74985 Andrew Rivera Russia 57 COVID-2019 NO
+72380 Leah Walker Russia 75 MERS-COV NO
+75798 Douglas Bryan Russia 54 MERS-COV NO
+3119 Kristi Payne Russia 61 SARS-COV-2 NO
+4616 Patricia Riley Russia 25 FLU-2018 YES 01-04-2013
+23133 Colleen Dawson Russia 53 SARS-1 YES 02-08-2000
+25601 Helen Castaneda Russia 68 COVID-2019 YES 20-10-2002
+55674 Kathleen Levine Russia 48 H1N1 YES 14-06-2017
+74182 Cody Willis Russia 45 H1N1 NO
+5871 Michael Small Russia 37 EVD NO
+14880 Alejandro Summers Russia 44 H1N1 NO
+74410 James Dodson Russia 70 COVID-2019 NO
+93203 Patricia Collier Russia 57 EVD YES 11-09-2019
+20475 David Fletcher Russia 54 EVD YES 14-10-2008
+55290 Karen Jones Russia 59 SARS-1 YES 24-04-2013
+4285 Melissa Aguirre Russia 22 EVD YES 24-09-2008
+10201 Ashley King Russia 14 SARS-1 NO
+73871 Edward Watson Russia 59 FLU-2018 NO
+10257 Paula Thompson Russia 10 FLU-2018 YES 19-02-2002
+10297 Virginia Hall Russia 72 MERS-COV YES 01-03-2012
+70598 Michael Rodriguez Russia 66 SARS-1 YES 28-10-2018
+9735 Kristen Garcia Russia 51 COVID-2019 NO
+44803 George Coleman Russia 63 FLU-2018 NO
+70087 Thomas Smith Russia 48 FLU-2018 YES 02-06-2011
+87407 Michelle Phillips Russia 37 FLU-2018 YES 30-12-2011
+61271 Jacob Mitchell Russia 16 FLU-2018 YES 26-03-2005
+26457 Jeffrey Rivas Russia 54 COVID-2019 NO
+77630 Catherine Cummings Russia 15 H1N1 NO
+61064 Jennifer Crawford Russia 11 COVID-2019 YES 09-09-2020
+14413 William Brown Russia 70 COVID-2019 NO
+27082 Joseph Hamilton Russia 37 H1N1 YES 15-06-2018
+40769 Michelle Gonzalez Russia 79 SARS-COV-2 YES 18-05-2007
+96269 Michael Giles Russia 54 MERS-COV NO
+95375 John Kennedy Russia 16 COVID-2019 YES 08-10-2002
+44668 Robin Perry Russia 46 FLU-2018 NO
+60021 Hannah Rocha Russia 30 H1N1 YES 24-11-2000
+97624 Douglas Salazar Russia 64 FLU-2018 YES 05-05-2008
+72199 Connor West Russia 21 SARS-1 NO
+11705 Suzanne Walls Russia 54 SARS-COV-2 NO
+79992 Cathy Smith Russia 23 FLU-2018 NO
+25019 William Wilson Russia 70 COVID-2019 NO
+42062 Timothy Brown Russia 34 MERS-COV NO
+69929 Daniel Wilson Russia 38 FLU-2018 YES 17-02-2008
+32036 Philip Phillips Russia 76 EVD NO
+59074 Hailey Sanchez Russia 54 H1N1 YES 02-01-2015
+10543 Matthew Matthews Russia 33 MERS-COV NO
+71324 Jamie Maldonado Russia 19 SARS-1 YES 01-04-2006
+92396 Bradley Cox Russia 46 SARS-COV-2 YES 27-07-2003
+56189 Tonya Lopez Russia 13 COVID-2019 YES 05-04-2002
+89907 Stephanie Rose Russia 56 H1N1 YES 22-01-2006
+98971 Nicole Payne Russia 42 FLU-2018 NO
+40170 Elizabeth Mendoza Russia 76 EVD NO
+68376 Meagan Haynes Russia 37 SARS-1 YES 10-11-2011
+89438 Lori Hodges Russia 58 SARS-1 YES 26-09-2004
+6136 Jennifer Sanchez Russia 71 FLU-2018 YES 07-12-2011
+95918 John Bennett Russia 52 SARS-1 YES 01-06-2009
+19641 Robert Webb Russia 62 H1N1 YES 06-10-2014
+69825 Dean Smith Russia 37 FLU-2018 NO
+25478 Douglas Padilla Russia 50 COVID-2019 YES 23-06-2008
+65708 Keith Kramer Russia 50 EVD NO
+21548 Michelle Lee Russia 44 MERS-COV YES 05-03-2001
+7107 Yesenia Miller Russia 10 H1N1 NO
+87709 Janice English Russia 35 EVD YES 14-12-2007
+96564 Christopher Rodriguez Russia 17 SARS-1 YES 20-08-2013
+85024 Jeffrey Orr Russia 72 SARS-COV-2 YES 06-01-2018
+36633 Reginald Clark Russia 16 SARS-1 YES 20-07-2002
+42630 Emily Hopkins Russia 27 FLU-2018 NO
+2094 Michael Long Russia 65 SARS-COV-2 YES 15-06-2019
+61447 Roger Castro Russia 36 SARS-1 YES 02-10-2020
+31575 Karen Harrison Russia 24 EVD NO
+33605 Shawn Phillips Russia 77 SARS-COV-2 YES 19-09-2005
+81057 Robin Mills Russia 58 SARS-1 YES 05-11-2003
+73581 Anthony Ellis Russia 77 MERS-COV YES 14-11-2020
+9048 Christopher Sullivan Russia 79 MERS-COV NO
+55191 Tracy Bates Russia 44 EVD YES 27-08-2006
+90335 Jamie Hill Russia 58 SARS-1 YES 10-09-2004
+74488 Margaret Thomas Russia 36 SARS-COV-2 YES 17-08-2018
+54437 Elijah Williams Russia 16 EVD NO
+25271 Dylan Wilson Russia 44 EVD NO
+50100 Walter Harrison Russia 59 EVD NO
+87527 William Owen Russia 24 FLU-2018 NO
+29585 Taylor Lane Russia 35 COVID-2019 NO
+41698 Denise Armstrong Russia 79 COVID-2019 NO
+38686 Keith Fields Russia 22 FLU-2018 YES 30-04-2007
+66341 Gary Gallagher Russia 45 SARS-COV-2 YES 27-07-2002
+71814 Dylan Rodriguez Russia 28 EVD YES 30-03-2001
+25295 Christina Myers Russia 53 FLU-2018 NO
+19718 Carl Ray Russia 62 SARS-COV-2 YES 06-04-2005
+54220 Robert Gardner Russia 38 SARS-COV-2 NO
+73840 Christine Lee Russia 26 H1N1 YES 07-02-2011
+14430 Hannah Johnson Russia 10 H1N1 YES 01-07-2019
+86092 Carolyn Johnson Russia 21 SARS-1 NO
+97540 Paul Ross Russia 60 SARS-1 NO
+45268 Jack Perez Russia 25 H1N1 YES 05-07-2016
+17446 Carrie Jones Russia 39 MERS-COV NO
+57256 Brianna Jenkins Russia 29 H1N1 YES 14-07-2002
+63642 Marco Morris Russia 59 H1N1 YES 26-06-2003
+20949 Jessica Marshall Russia 22 MERS-COV YES 26-08-2003
+89044 Jessica Dalton Russia 57 MERS-COV YES 22-04-2009
+5618 Michael Copeland Russia 11 EVD YES 10-02-2009
+76620 Jennifer Nelson Russia 34 COVID-2019 NO
+68901 Megan Byrd Russia 11 COVID-2019 NO
+35502 Kathy Clark Russia 78 H1N1 NO
+30170 Luis Castaneda Russia 25 EVD NO
+49726 Christopher Jones Russia 71 COVID-2019 YES 21-04-2017
+87376 Jason Wolf Russia 67 COVID-2019 YES 18-12-2003
+78484 Kevin Conway Russia 22 FLU-2018 NO
+99456 Donna Mcdonald Russia 58 SARS-1 NO
+80932 Kendra Cox Russia 42 MERS-COV NO
+68523 Robert Rangel Russia 22 SARS-COV-2 NO
+37324 Tina Powell Russia 46 FLU-2018 YES 11-07-2009
+31664 Kathryn Long Russia 51 MERS-COV NO
+64873 Alicia Hernandez Russia 54 MERS-COV NO
+63852 Amy Kirk Russia 27 COVID-2019 NO
+35489 Nathan Anderson Russia 35 COVID-2019 YES 11-10-2003
+23213 Andrew Lopez Russia 30 COVID-2019 YES 15-03-2016
+22823 Derrick Brooks Russia 10 COVID-2019 YES 14-02-2007
+72220 Gregg Martinez Russia 45 SARS-1 YES 20-06-2020
+56495 Bryan Hopkins Russia 70 MERS-COV YES 01-02-2001
+36205 Dustin Mayer Russia 72 MERS-COV YES 03-11-2007
+89492 Meghan Ball Russia 52 H1N1 YES 04-04-2003
+82551 Jasmine Sanchez Russia 26 COVID-2019 YES 14-09-2015
+94822 Jason Jackson Russia 42 SARS-1 YES 27-06-2004
+23628 Bradley Caldwell Russia 12 EVD NO
+7282 Michael Good Russia 17 SARS-COV-2 NO
+61924 Andrew Golden Russia 30 SARS-1 NO
+95267 Brandon Roberts Russia 74 SARS-COV-2 NO
+31515 Laura Scott Russia 62 EVD YES 26-12-2015
+53647 Michael Russo Russia 65 SARS-COV-2 YES 24-12-2006
+21345 Gregory Gray Russia 11 COVID-2019 NO
+2295 Jennifer Moss Russia 63 MERS-COV YES 03-08-2012
+61998 Melissa Wright Russia 78 SARS-COV-2 YES 18-02-2015
+56622 Renee Carter Russia 72 SARS-1 YES 10-07-2006
+26072 Bethany Lee Russia 70 SARS-1 YES 11-05-2000
+35232 Jeffrey Walters Russia 31 H1N1 NO
+89511 Jason Mccullough Russia 46 EVD NO
+91603 John Hamilton Russia 46 SARS-1 YES 14-12-2009
+16614 Andrew Galvan Russia 14 SARS-COV-2 NO
+51952 Tracy Pham Russia 42 COVID-2019 NO
+73846 Kimberly Hunt Russia 60 SARS-COV-2 YES 03-09-2006
+78584 Isaiah Robles Russia 45 FLU-2018 NO
+37073 Amanda Boyd Russia 15 H1N1 YES 07-04-2000
+80208 Aaron Mayer Russia 74 COVID-2019 YES 19-07-2009
+96016 Benjamin Wallace Russia 14 COVID-2019 NO
+65646 Anna Austin Russia 35 COVID-2019 NO
+76926 Keith Walker Russia 70 H1N1 NO
+28460 Rachel Moore Russia 75 EVD NO
+18817 Kristen James Russia 72 EVD YES 20-07-2001
+83076 Brenda Singh Russia 72 SARS-COV-2 YES 07-07-2020
+21851 Alejandra Gutierrez Russia 72 H1N1 YES 07-06-2015
+31332 Joseph Douglas Russia 63 COVID-2019 NO
+59627 Taylor Day Russia 79 SARS-1 NO
+10382 Katherine Weaver Russia 72 COVID-2019 NO
+58290 Jacob Yang Russia 23 SARS-COV-2 NO
+94103 Scott Walker Russia 28 SARS-1 YES 22-07-2018
+63783 Paul Maxwell Russia 34 EVD NO
+13833 Linda Brown Russia 24 SARS-1 NO
+52092 Kelly Levine Russia 57 MERS-COV YES 31-05-2006
+37639 Brittany Shepard Russia 74 MERS-COV NO
+91957 Rachel Russell Russia 21 MERS-COV YES 02-06-2003
+45420 Krista Johnson Russia 35 EVD NO
+43859 Courtney Miller Russia 59 SARS-COV-2 YES 16-03-2015
+83128 Mariah Blackwell Russia 24 MERS-COV NO
+62845 Marcus Rogers Russia 47 EVD YES 06-09-2018
+42146 Michele Brown Russia 22 EVD YES 14-06-2003
+4263 Heather Bryant Russia 70 COVID-2019 YES 19-03-2004
+54447 John Perkins Russia 13 FLU-2018 NO
+14151 Kristopher Chen Russia 16 H1N1 YES 05-02-2015
+37062 Stephanie Noble Russia 34 FLU-2018 YES 14-11-2002
+21204 Janet Watson Russia 34 FLU-2018 YES 21-02-2000
+35086 Nicole Yang Russia 37 MERS-COV NO
+86369 Daniel Graves Russia 27 FLU-2018 YES 30-12-2015
+62874 Brandon Hill Russia 35 SARS-COV-2 YES 24-11-2001
+3988 Tamara Newman Russia 21 SARS-1 YES 09-04-2005
+1866 Shannon Smith Russia 79 H1N1 YES 12-10-2010
+30317 Alexander Miller Russia 67 H1N1 YES 10-10-2014
+97400 Debbie Walters Russia 46 COVID-2019 NO
+83697 Megan Stevens Russia 72 EVD YES 15-03-2016
+31837 Brittany Brown Russia 63 COVID-2019 NO
+537 Melanie Collins Russia 62 FLU-2018 NO
+46122 Benjamin Williams Russia 69 H1N1 NO
+10373 Stephanie Johnson Russia 62 FLU-2018 YES 31-08-2020
+90215 Maria Lewis Russia 23 COVID-2019 NO
+14096 Jessica Novak Russia 15 EVD YES 30-01-2002
+12905 Roger Barnes Russia 21 MERS-COV NO
+17166 Mary Cruz Russia 79 H1N1 NO
+17907 James Richards Russia 33 SARS-COV-2 YES 27-04-2006
+70730 Eric Ruiz Russia 45 FLU-2018 YES 16-06-2008
+68035 Steven Choi Russia 42 COVID-2019 NO
+9059 Ryan Wiggins Russia 60 SARS-COV-2 YES 17-10-2007
+42789 John Walker Russia 38 H1N1 YES 04-02-2019
+13804 Benjamin Farrell Russia 48 SARS-1 NO
+40195 Terry Hooper Russia 56 FLU-2018 NO
+97150 Holly Hughes Russia 19 COVID-2019 NO
+79590 Kristen Wallace Russia 22 H1N1 YES 10-10-2006
+20224 Raymond Horn Russia 33 COVID-2019 NO
+99281 Susan Costa Russia 49 COVID-2019 NO
+41832 Leon Mitchell Russia 51 H1N1 NO
+11638 Nicole Fitzpatrick Russia 25 MERS-COV NO
+1966 Chelsea Nicholson Russia 61 SARS-COV-2 NO
+35230 Walter Oconnor Russia 15 H1N1 NO
+13003 Larry King Russia 49 SARS-COV-2 YES 23-02-2014
+57190 Courtney Frazier Russia 26 MERS-COV NO
+25168 Richard Gomez Russia 46 COVID-2019 YES 09-11-2008
+18514 Steven Todd Russia 26 EVD NO
+74156 Janet Franklin Russia 59 EVD NO
+78605 Laura Morton Russia 79 EVD NO
+47397 Stacy Paul Russia 55 EVD YES 25-04-2011
+82795 Susan Walton Russia 51 COVID-2019 NO
+3081 Laura Scott Russia 42 FLU-2018 NO
+40667 Erica Evans Russia 59 SARS-COV-2 NO
+14923 Aaron Castillo Russia 51 COVID-2019 YES 31-01-2011
+57575 Shawn Graham Russia 73 FLU-2018 YES 12-12-2015
+228 Kara Wilkinson Russia 29 FLU-2018 NO
+90453 Alexander Sims Russia 78 FLU-2018 NO
+80475 Kyle Mcclure Russia 11 EVD YES 18-11-2005
+386 Laurie Williamson Russia 24 SARS-COV-2 NO
+86816 Daniel Kelly Russia 39 FLU-2018 YES 14-10-2017
+10078 Jennifer Paul Russia 60 COVID-2019 NO
+58696 John Thompson Russia 13 FLU-2018 YES 14-06-2017
+41980 Gabrielle White Russia 72 H1N1 NO
+4347 Gabrielle Carlson Russia 73 SARS-1 NO
+33118 Victoria Campbell Russia 58 MERS-COV NO
+76260 Kevin Lopez Russia 30 H1N1 YES 17-10-2002
+38541 Steven Martinez Russia 17 SARS-COV-2 NO
+81682 William Fuller Russia 27 SARS-COV-2 YES 17-02-2009
+38274 Laura Weaver Russia 48 SARS-1 NO
+98166 Daniel Wright Russia 25 EVD YES 11-06-2014
+59307 Sean Ball Russia 41 H1N1 YES 13-12-2010
+48808 Vanessa Harris Russia 33 EVD NO
+82321 Steve Jones Russia 20 COVID-2019 YES 27-12-2012
+78618 Matthew Stone Russia 61 SARS-COV-2 NO
+16439 Todd Anderson Russia 22 SARS-1 NO
+76014 Tommy Drake Russia 38 FLU-2018 NO
+93557 Amber Ruiz Russia 56 EVD NO
+22432 Jason Estrada Russia 56 SARS-COV-2 YES 29-02-2000
+397 Emily Russo Russia 32 H1N1 YES 10-08-2011
+50303 Jennifer Gonzalez Russia 60 SARS-1 YES 08-07-2017
+6747 Amanda Phelps Russia 52 FLU-2018 NO
+10163 Madeline Paul Russia 55 H1N1 NO
+47369 Michael Pruitt Russia 58 SARS-COV-2 NO
+51054 Zachary Black Russia 71 SARS-1 YES 02-01-2017
+90779 Shawn Gardner Russia 19 COVID-2019 YES 26-05-2020
+61441 Steve Christian Russia 57 EVD YES 03-11-2011
+19977 James Shea Russia 50 SARS-1 NO
+76448 Molly Williams Russia 47 FLU-2018 YES 09-12-2006
+98834 Spencer Howard Russia 59 MERS-COV YES 09-02-2009
+82362 Francisco Rhodes Russia 52 H1N1 YES 10-05-2012
+99800 Larry Barnes Russia 27 EVD NO
+91944 James Carson Russia 13 SARS-COV-2 YES 31-08-2015
+33968 Michael Johns Russia 19 H1N1 NO
+9492 Troy Stuart Russia 56 MERS-COV YES 18-07-2006
+90292 Lynn Santana Russia 33 EVD NO
+89821 Michael Young Russia 65 FLU-2018 YES 17-10-2016
+61795 Anne Fleming Russia 39 FLU-2018 NO
+91058 Jeremy Brown Russia 73 H1N1 YES 25-02-2000
+14369 Danielle Oconnor Russia 39 COVID-2019 YES 11-11-2013
+14167 Andrew Jones Russia 49 SARS-COV-2 NO
+78095 Lisa Brown Russia 72 EVD NO
+4679 Jeffery Becker Russia 47 COVID-2019 NO
+89441 Mary Hernandez Russia 28 EVD YES 02-03-2011
+88977 Cynthia Simmons Russia 28 MERS-COV YES 08-01-2000
+88083 Sarah Cook Russia 18 COVID-2019 NO
+16426 Elizabeth Koch Russia 71 H1N1 NO
+33121 Mary Harris Russia 14 EVD NO
+17710 Sherri Maldonado Russia 25 FLU-2018 YES 23-07-2017
+1983 Yesenia Fletcher Russia 39 SARS-1 NO
+57175 Christy Hansen Russia 41 SARS-1 NO
+62493 David Soto Russia 24 MERS-COV YES 30-07-2006
+12553 Jasmine Morse Russia 23 H1N1 NO
+90735 Samantha Rodriguez Russia 50 EVD NO
+11229 Mark Holland Russia 53 COVID-2019 YES 08-12-2020
+59668 Tanya Stewart Russia 21 H1N1 YES 09-12-2006
+19489 Kelly Garrison Russia 14 COVID-2019 NO
+53769 Christie Walker Russia 60 EVD NO
+73735 Hector Johnson Russia 13 EVD YES 12-05-2002
+99987 Michelle King Russia 28 SARS-COV-2 YES 15-02-2012
+20400 Brittany Miller Russia 49 SARS-1 YES 12-07-2011
+61709 William Evans Russia 56 MERS-COV NO
+22780 Jonathan Garcia Russia 16 EVD YES 06-05-2002
+32045 Eddie Walton Russia 15 H1N1 YES 18-11-2016
+25009 Tiffany Robinson Russia 72 H1N1 YES 14-01-2014
+872 Adam Leon Russia 65 SARS-1 NO
+71490 Alexa Briggs Russia 76 H1N1 NO
+3454 John Long Russia 73 EVD NO
+9928 Samantha Gomez Russia 55 SARS-COV-2 YES 09-03-2009
+86737 Philip Dyer Russia 19 SARS-COV-2 NO
+56641 Paula Norton Russia 71 FLU-2018 NO
+13493 Bryan Campos Russia 12 FLU-2018 YES 16-05-2004
+40287 Joseph Sharp Russia 41 EVD YES 02-06-2020
+65538 Cassandra Gonzalez Russia 40 SARS-COV-2 YES 24-02-2009
+4860 Jessica Maldonado Russia 56 EVD YES 15-11-2009
+8465 Karen Flores Russia 37 H1N1 YES 20-04-2020
+60099 Julie Mccann Russia 16 FLU-2018 NO
+16337 Andrea Anderson Russia 33 FLU-2018 NO
+94686 Brooke Woods Russia 39 COVID-2019 NO
+69996 Keith Davis Russia 65 SARS-COV-2 YES 18-06-2006
+20940 Melvin Sullivan Russia 30 FLU-2018 NO
+14237 Sarah Weaver Russia 49 FLU-2018 YES 12-02-2006
+84650 Christopher Hall Russia 50 FLU-2018 NO
+29588 James Owens Russia 23 COVID-2019 NO
+48750 Jesus Jordan Russia 32 SARS-1 NO
+27939 Katrina Oliver Russia 76 EVD NO
+56575 Jamie King Russia 46 H1N1 YES 18-07-2002
+66085 Christine White Russia 73 MERS-COV NO
+61462 Christopher Carr Russia 75 H1N1 YES 20-05-2014
+30064 Christine Johnson Russia 64 H1N1 YES 14-12-2017
+76925 Noah Lewis Russia 72 EVD NO
+34255 Susan Franco Russia 47 EVD YES 16-08-2006
+8253 Deborah Salinas Russia 31 EVD NO
+26735 Chelsea Mcdowell Russia 71 H1N1 NO
+1072 Julie Jones Russia 15 COVID-2019 NO
+94414 Richard Gibson Russia 24 FLU-2018 YES 20-06-2010
+69162 Daniel Benjamin Russia 33 COVID-2019 YES 13-06-2015
+18859 Jamie Woods Russia 61 SARS-COV-2 NO
+92883 Kenneth Rivera Russia 68 EVD NO
+52114 Valerie Turner Russia 58 SARS-COV-2 YES 14-02-2021
+29271 Rhonda Robinson Russia 11 EVD NO
+96545 Kenneth Gonzalez Russia 35 COVID-2019 YES 03-07-2005
+39159 Kelly Cordova Russia 11 EVD YES 12-07-2010
+87686 Sarah Pierce Russia 76 MERS-COV YES 21-11-2017
+7913 Amy Morris Russia 26 EVD YES 01-02-2000
+42687 Charles Christensen Russia 22 MERS-COV YES 17-11-2002
+99277 Jennifer Smith Russia 33 SARS-1 YES 10-08-2020
+24425 Matthew Fowler Russia 72 SARS-1 YES 27-09-2015
+79359 Brandon Waters Russia 36 SARS-1 NO
+55277 Cameron Anderson Russia 13 SARS-COV-2 NO
+29893 Jennifer Wade Russia 72 MERS-COV NO
+11295 Theresa Davies Russia 47 COVID-2019 NO
+19365 Brittany Donovan Russia 75 COVID-2019 NO
+17175 Aaron Simon Russia 26 MERS-COV YES 10-11-2003
+10227 Kimberly Bond Russia 41 SARS-COV-2 YES 26-05-2012
+39072 Crystal Morton Russia 29 SARS-COV-2 NO
+68527 Robert Knight Russia 26 COVID-2019 NO
+64164 Richard Johnson Russia 66 SARS-1 YES 31-03-2000
+26855 Thomas Allen Russia 71 H1N1 NO
+11387 Kevin Vasquez Russia 51 SARS-1 YES 25-10-2016
+5043 Mark Smith Russia 31 EVD YES 26-01-2011
+42921 Amanda Reyes Russia 24 SARS-1 YES 09-04-2017
+43406 Christopher Adams Russia 50 COVID-2019 YES 24-12-2011
+74687 Christina Phillips Russia 51 COVID-2019 YES 30-06-2014
+63595 John Kelly Russia 39 EVD YES 18-03-2001
+47926 Sydney Tran Russia 33 MERS-COV NO
+76811 James Harris Russia 14 H1N1 NO
+69109 Kevin Bell Russia 41 FLU-2018 YES 09-04-2019
+68482 Amy Davenport Russia 11 H1N1 NO
+23306 Tyler Shepherd Russia 20 SARS-COV-2 YES 08-04-2001
+28248 Alexandra Morales Russia 22 COVID-2019 YES 05-06-2019
+19147 Alejandro Johnson Russia 36 SARS-1 YES 31-01-2007
+40863 Angela Torres Russia 27 SARS-COV-2 YES 09-02-2012
+48279 Kenneth Rodriguez Russia 23 COVID-2019 NO
+91391 Rhonda Torres Russia 50 H1N1 NO
+84583 Chad Rodriguez Russia 44 COVID-2019 YES 18-10-2007
+90974 Logan Miller Russia 61 SARS-1 YES 30-01-2004
+57307 Jasmine Brown Russia 52 MERS-COV NO
+55936 William Rodriguez Russia 57 SARS-1 YES 18-07-2003
+61671 Christopher Petty Russia 54 EVD YES 28-04-2000
+64093 Jessica Adams Russia 45 SARS-COV-2 NO
+88611 Kathryn Perry Russia 65 FLU-2018 YES 13-11-2002
+99370 Felicia Ramos Russia 39 FLU-2018 YES 16-07-2012
+85852 Evelyn Kemp Russia 74 SARS-1 YES 06-01-2010
+46799 Vicki Lewis Russia 23 COVID-2019 YES 04-05-2007
+2962 Ariana Soto Russia 74 MERS-COV NO
+87377 Colin Flores Russia 13 SARS-1 NO
+86911 Shelly Smith Russia 63 EVD YES 23-10-2019
+74060 Dennis Huff Russia 74 MERS-COV NO
+79585 Ashley Reyes Russia 47 MERS-COV YES 03-04-2004
+21704 Brian Mack Russia 48 SARS-COV-2 YES 17-12-2010
+52879 Justin Munoz Russia 79 H1N1 YES 19-08-2005
+53316 Billy Romero Russia 26 SARS-COV-2 NO
+91499 Andrew Tucker Russia 25 H1N1 NO
+13064 David Johnson Russia 62 SARS-COV-2 NO
+94453 Kevin Soto Russia 34 MERS-COV YES 21-11-2018
+38563 Samantha Hicks Russia 61 FLU-2018 NO
+59444 Mike Armstrong Russia 21 MERS-COV NO
+39845 Erika Boyd Russia 41 H1N1 NO
+95334 Andrew Brown Russia 56 SARS-1 YES 15-07-2019
+21427 Gary Brady Russia 75 EVD NO
+66966 Cody Jimenez Russia 58 FLU-2018 YES 02-05-2009
+8545 Jessica Taylor Russia 76 FLU-2018 NO
+22220 Jonathan Richardson Russia 49 SARS-COV-2 NO
+11542 Rodney Mayo Russia 78 EVD YES 19-03-2001
+16756 Erica Jones Russia 74 H1N1 NO
+5869 Jerome Joyce Russia 33 SARS-COV-2 NO
+52171 Nancy Clarke Russia 74 H1N1 NO
+26668 Robin Walker Russia 40 COVID-2019 NO
+46102 Ashley Miller Russia 37 SARS-1 NO
+20025 Susan Hughes Russia 30 SARS-COV-2 NO
+52998 Robin Mckinney Russia 45 SARS-COV-2 NO
+62225 Anthony Harris Russia 53 MERS-COV YES 05-01-2000
+81114 John Perry Russia 42 SARS-1 NO
+15539 Spencer Hampton Russia 77 SARS-COV-2 NO
+60813 Matthew Lindsey Russia 44 SARS-1 YES 13-01-2016
+44288 David Dean Russia 16 SARS-COV-2 NO
+47780 Tina Harvey Russia 15 EVD NO
+84169 Kyle Miller Russia 57 H1N1 NO
+17541 Amanda Johnson Russia 25 SARS-1 NO
+86692 John Scott Russia 31 FLU-2018 YES 28-06-2004
+94726 Caitlyn Taylor Russia 65 FLU-2018 YES 14-07-2016
+26619 Michael Barajas Russia 75 H1N1 YES 22-08-2004
+97507 Michael Flores Russia 45 SARS-COV-2 NO
+14231 Kyle Hernandez Russia 74 MERS-COV NO
+62223 Travis Gonzalez Russia 48 H1N1 NO
+75971 Gabriel Howard Russia 54 COVID-2019 YES 28-01-2002
+22264 Stephanie Conner Russia 36 MERS-COV YES 06-10-2003
+20937 Katherine Warren Russia 67 COVID-2019 NO
+57787 Francis Johnson Russia 21 EVD YES 27-12-2018
+74629 Luke Allen Russia 76 SARS-COV-2 NO
+56139 Cody Sanchez Russia 22 COVID-2019 YES 01-05-2001
+30324 Anthony Davenport Russia 39 COVID-2019 YES 10-05-2012
+51914 Martin Reynolds Russia 22 FLU-2018 NO
+62826 Stephanie Sanchez Russia 72 SARS-1 NO
+1521 Chris Gibson Russia 14 EVD YES 20-08-2017
+37410 Timothy Le Russia 21 EVD NO
+55250 Ashley Townsend Russia 78 COVID-2019 NO
+61535 Martin Lowe Russia 65 FLU-2018 NO
+84486 Gregory Mason Russia 44 SARS-1 YES 27-12-2019
+84862 Kelsey Mahoney Russia 61 COVID-2019 NO
+15027 William Munoz Russia 15 SARS-1 NO
+57148 Julie Fox Russia 62 FLU-2018 YES 03-06-2009
+50715 Susan Hawkins Russia 74 H1N1 NO
+27361 Brandon Andrews Russia 58 MERS-COV YES 28-04-2011
+56386 Barbara Santiago Russia 13 MERS-COV YES 27-11-2017
+58893 Anthony Ramirez Russia 50 SARS-1 NO
+60237 Misty Sparks Russia 31 COVID-2019 YES 06-10-2007
+68876 Stephanie Perry Russia 35 SARS-1 NO
+70557 Miranda Lee Russia 54 SARS-1 YES 18-07-2013
+31428 Erin Rios Russia 68 MERS-COV YES 25-08-2008
+76471 Brandon Lewis Russia 61 EVD YES 26-01-2018
+15570 Robert Carrillo Russia 41 SARS-COV-2 NO
+22472 Linda Robinson Russia 33 FLU-2018 NO
+5928 Jacob Bender Russia 72 H1N1 YES 27-09-2001
+78253 Aaron West Russia 21 H1N1 YES 19-12-2018
+1265 Andrew Smith Russia 42 SARS-COV-2 YES 08-02-2002
+93442 Dorothy Hoover Russia 58 SARS-COV-2 NO
+55719 Christina Jacobson Russia 15 FLU-2018 NO
+57699 Thomas Huff Russia 40 SARS-COV-2 YES 24-02-2017
+26056 Tyler Garcia Russia 15 H1N1 YES 01-08-2010
+33022 Tamara Shaw Russia 36 FLU-2018 YES 01-05-2010
+91995 Ryan Nunez Russia 23 SARS-1 YES 06-01-2017
+15281 Molly Rivera Russia 36 EVD NO
+35495 Nicole Williams Russia 52 SARS-1 NO
+97667 Dominique Patterson Russia 54 COVID-2019 YES 06-11-2017
+68337 Anthony Ward Russia 62 MERS-COV NO
+72118 Lindsey Dixon Russia 43 SARS-COV-2 NO
+11770 Erika Chang Russia 53 EVD YES 01-04-2014
+3697 Zachary Sawyer Russia 43 COVID-2019 YES 24-12-2007
+27818 Karen Wallace Russia 63 EVD NO
+59997 Keith Conner Russia 34 FLU-2018 YES 03-11-2002
+90852 Pamela Ware Russia 28 H1N1 NO
+13109 Gloria Combs Russia 41 SARS-1 YES 12-03-2002
+64636 Anthony Clark Russia 65 EVD YES 15-12-2016
+78304 Jessica Marshall Russia 35 SARS-1 NO
+9040 Christina Cochran Russia 77 EVD YES 10-03-2004
+78702 Angela Campbell Russia 44 EVD YES 11-12-2019
+99467 Cynthia Williams Russia 62 SARS-1 YES 24-01-2004
+74444 Andrew Miller Russia 68 SARS-1 YES 26-05-2017
+30972 Roy Hancock Russia 48 MERS-COV YES 25-01-2006
+32327 Sharon White Russia 33 MERS-COV NO
+81385 Christopher Mathews Russia 23 COVID-2019 NO
+60457 Brittany White Russia 52 MERS-COV YES 05-10-2004
+82439 Kelly Pacheco Russia 34 FLU-2018 YES 17-12-2010
+68754 Annette Preston Russia 14 H1N1 NO
+65113 Jenny Espinoza Russia 10 H1N1 YES 09-01-2014
+98180 Roy Ramos Russia 42 FLU-2018 NO
+17914 David Wiggins Russia 45 EVD YES 23-10-2001
+46737 Carrie Carey Russia 15 EVD NO
+82159 Mary Valdez Russia 59 COVID-2019 YES 27-03-2014
+2707 Michael Warren Russia 37 SARS-1 NO
+53871 Debbie Montgomery Russia 78 MERS-COV YES 09-12-2008
+73910 Jeffery Butler Russia 25 COVID-2019 NO
+86212 Jason Gray Russia 53 EVD YES 03-09-2019
+82570 Michael Pittman Russia 10 SARS-COV-2 YES 07-12-2001
+24970 Kimberly Mckee Russia 68 H1N1 NO
+45921 Krista Patton Russia 72 SARS-1 YES 06-05-2006
+20353 Robin Horton Russia 25 SARS-COV-2 NO
+75951 Rebecca Hill Russia 63 SARS-1 YES 23-07-2000
+75236 James Webster Russia 76 SARS-1 NO
+51698 Jennifer Dennis Russia 46 EVD YES 25-10-2018
+96176 Carl Leblanc Russia 65 FLU-2018 YES 16-12-2000
+69256 Jennifer Dunn Russia 18 MERS-COV NO
+26983 Rachel Cannon Russia 40 SARS-COV-2 NO
+54007 Eric Brown Russia 76 FLU-2018 NO
+49458 Karen Campbell Russia 33 FLU-2018 YES 22-09-2012
+40853 Greg Martinez Russia 25 FLU-2018 YES 18-02-2016
+47706 Michael Robinson Russia 46 COVID-2019 YES 28-11-2019
+74079 Carrie Walker Russia 31 SARS-1 NO
+85469 Kenneth Burton Russia 52 H1N1 NO
+78219 Johnny Williams Russia 39 EVD NO
+90554 Tammy Larson Russia 74 H1N1 YES 18-04-2010
+33184 Robert Wilson Russia 33 EVD YES 21-05-2013
+85005 Christopher Dunlap Russia 31 H1N1 YES 12-02-2015
+33945 Marcus Gonzales Russia 72 SARS-1 YES 21-11-2014
+88567 Rebecca Baker Russia 10 SARS-COV-2 YES 21-12-2008
+15125 Tonya Greene Russia 26 H1N1 YES 10-02-2009
+9425 Christine Mitchell Russia 56 COVID-2019 YES 25-03-2006
+45892 Tanya Harrington Russia 50 MERS-COV NO
+92594 Taylor Mcdonald Russia 76 EVD NO
+56035 Laura Oneal Russia 36 MERS-COV NO
+29071 Terri Noble Russia 10 FLU-2018 YES 26-09-2011
+39846 Danielle Butler Russia 63 COVID-2019 YES 17-11-2020
+20294 David Browning Russia 52 EVD YES 29-12-2001
+46410 Jason Jones Russia 21 MERS-COV YES 05-09-2016
+332 Alicia Wagner Russia 64 SARS-COV-2 YES 16-11-2010
+44122 Kim Lang Russia 62 EVD NO
+34767 Jacob Scott Russia 17 FLU-2018 YES 18-07-2008
+86564 Carl Freeman Russia 58 FLU-2018 YES 16-09-2001
+89111 Aaron Poole Russia 20 MERS-COV YES 05-06-2018
+92960 Ricardo Chaney Russia 64 EVD YES 13-10-2002
+90685 Zachary Boyd Russia 49 SARS-1 YES 26-12-2019
+20023 Jessica Carr Russia 56 SARS-COV-2 NO
+77840 Christopher Taylor Russia 14 FLU-2018 NO
+69011 Kathleen Garza Russia 43 EVD NO
+63823 Catherine Ramirez Russia 20 FLU-2018 YES 06-07-2013
+66854 Zachary Moore Russia 76 FLU-2018 YES 08-08-2020
+10246 Justin Castro Russia 13 FLU-2018 YES 27-07-2020
+60594 David Simmons Russia 20 MERS-COV NO
+53852 Brian Gomez Russia 72 EVD NO
+45498 David Graham Russia 52 MERS-COV YES 06-12-2000
+26863 Julie Nelson Russia 19 SARS-COV-2 YES 13-02-2018
+54431 Michael Howell Russia 65 SARS-COV-2 NO
+75698 Erik Duran Russia 68 EVD YES 18-07-2010
+17317 Andrea Golden Russia 18 EVD NO
+73873 Joshua Gonzales Russia 27 FLU-2018 NO
+38617 James Owen Russia 25 SARS-1 YES 29-08-2007
+15003 Linda Beasley Russia 75 FLU-2018 NO
+75649 John Levy Russia 51 H1N1 NO
+79969 Douglas Morse Russia 60 SARS-1 YES 08-04-2004
+29823 Felicia Gonzalez Russia 63 FLU-2018 NO
+30756 Michael Maxwell Russia 67 SARS-COV-2 YES 30-03-2016
+78404 Michael Williams Russia 55 EVD YES 20-04-2009
+58521 Cory Bell Russia 17 SARS-COV-2 NO
+84314 Marcus White Russia 11 EVD YES 25-09-2003
+23817 Mark Wilson Russia 63 COVID-2019 NO
+33256 Jennifer Jones Russia 20 SARS-COV-2 NO
+43927 Dawn Morrison Russia 46 MERS-COV NO
+19187 Renee Faulkner Russia 55 MERS-COV YES 11-09-2005
+32482 Aaron Dyer Russia 68 COVID-2019 NO
+82164 Alexa Berger Russia 17 MERS-COV NO
+2913 Shane Williams Russia 29 FLU-2018 NO
+68716 Brian Baker Russia 73 SARS-COV-2 YES 25-12-2006
+31205 Brittney Little Russia 53 COVID-2019 NO
+71818 Jennifer Boyer Russia 45 H1N1 NO
+86834 Daniel Morrison Russia 41 MERS-COV YES 04-04-2019
+91611 Amanda Parks Russia 73 FLU-2018 YES 01-12-2017
+50548 Jacob Evans Russia 39 EVD YES 21-07-2012
+47464 Nicole Taylor Russia 45 MERS-COV NO
+10809 Joel Watkins Russia 29 COVID-2019 YES 11-12-2008
+32236 Debbie Mcconnell Russia 42 SARS-COV-2 YES 06-03-2014
+32654 Brenda Michael Russia 67 SARS-COV-2 NO
+13794 Raymond Wood Russia 31 SARS-COV-2 YES 26-06-2007
+75320 Christopher Ayers Russia 79 EVD NO
+97000 Krista Wallace Russia 76 EVD NO
+51655 Virginia Medina Russia 52 EVD YES 11-12-2019
+83821 Donald Allen Russia 47 SARS-1 NO
+25607 Eric White Russia 22 FLU-2018 NO
+99847 Robert Griffith Russia 77 SARS-1 YES 04-01-2019
+9077 Melody Peters Russia 39 MERS-COV NO
+16008 Kimberly Williams Russia 22 EVD NO
+14583 Melissa White Russia 45 EVD YES 13-10-2016
+86036 Amanda Mcbride Russia 59 SARS-1 NO
+72503 Jason Barnes Russia 69 MERS-COV YES 27-11-2016
+37229 Christopher Henry Russia 10 SARS-COV-2 NO
+54374 Christina Gomez Russia 12 MERS-COV YES 10-01-2016
+42020 Sandra Collins Russia 48 COVID-2019 NO
+65343 Leslie White Russia 44 MERS-COV YES 08-06-2011
+64856 Breanna Osborn Russia 45 H1N1 YES 06-01-2009
+88901 Ashley Rivas Russia 56 MERS-COV NO
+57386 Gregory Williams Russia 19 MERS-COV YES 16-11-2018
+65281 Leslie Allen Russia 53 EVD NO
+34867 Dennis Durham Russia 31 H1N1 NO
+15779 Justin Schmidt Russia 52 SARS-COV-2 NO
+83552 Roger Prince Russia 17 COVID-2019 YES 26-08-2005
+11821 Jason Ewing Russia 77 MERS-COV NO
+90197 Rachel Cooper Russia 47 COVID-2019 YES 17-09-2012
+2971 Maureen Mcdonald Russia 37 MERS-COV NO
+72274 Michael Moreno Russia 11 COVID-2019 YES 08-03-2020
+65588 Samantha Valenzuela Russia 55 SARS-1 YES 17-02-2020
+85324 Katelyn Johnson Russia 41 SARS-COV-2 YES 22-08-2019
+3867 Susan Maxwell Russia 24 SARS-COV-2 NO
+46934 Jacob Smith Russia 20 COVID-2019 YES 28-07-2015
+75386 Isaac Blake Russia 23 COVID-2019 NO
+56217 David Thomas Russia 49 SARS-1 YES 19-12-2006
+74692 Sarah Garza Russia 67 H1N1 YES 22-04-2018
+25852 Robert Steele Russia 17 SARS-COV-2 YES 12-06-2020
+49491 Melinda Meyers Russia 56 SARS-1 YES 03-11-2016
+48836 Regina Patton Russia 37 SARS-1 YES 25-10-2016
+36469 Connie Morgan Russia 73 MERS-COV YES 23-04-2019
+93873 Rachel Horton Russia 71 SARS-COV-2 NO
+50981 Tammy Smith Russia 37 SARS-1 YES 13-05-2012
+64298 Adrienne Sherman Russia 60 MERS-COV YES 28-06-2010
+63269 Kathryn Callahan Russia 28 SARS-COV-2 NO
+14817 Donna Hill Russia 57 MERS-COV NO
+894 Lisa Davis Russia 29 SARS-COV-2 NO
+40721 Melissa Gomez Russia 11 SARS-COV-2 NO
+1770 John Anderson Russia 25 H1N1 NO
+34005 Todd Boyd Russia 29 H1N1 NO
+7494 Dawn Leach Russia 53 H1N1 YES 28-04-2016
+11996 Glenda Giles Russia 68 EVD YES 28-12-2012
+65272 Louis Sexton Russia 41 EVD NO
+50170 Stephen Aguilar Russia 28 EVD NO
+58032 Madeline Davis Russia 61 COVID-2019 YES 23-03-2007
+45314 Tabitha Johnson Russia 55 SARS-COV-2 YES 15-09-2005
+10696 Robert Johnson Russia 48 COVID-2019 YES 16-04-2013
+86164 Mitchell Rocha Russia 64 COVID-2019 NO
+17028 Cathy Burns Russia 18 EVD YES 25-03-2011
+46453 Stephanie Shepard Russia 23 SARS-1 NO
+20584 Melissa Bell Russia 10 H1N1 NO
+33789 Sandra Tapia Russia 18 MERS-COV NO
+58407 Alice Vazquez Russia 48 FLU-2018 NO
+69201 Hannah Rodriguez Russia 15 FLU-2018 YES 10-08-2003
+73526 Richard Harvey Russia 72 EVD NO
+60708 Gabriel Lindsey Russia 27 EVD NO
+18724 Mark Jackson Russia 17 EVD NO
+62907 Tammy Mendoza Russia 13 SARS-1 YES 16-07-2006
+95002 Jeffrey Martinez Russia 12 FLU-2018 YES 11-11-2005
+34480 Terri Swanson Russia 16 SARS-1 YES 13-09-2005
+54637 Gregory Davis Russia 52 SARS-COV-2 NO
+36044 Gina Lane Russia 38 H1N1 YES 15-08-2006
+65044 Emily Floyd Russia 13 EVD NO
+36942 Justin Thomas Russia 76 EVD NO
+4478 Jamie Sparks Russia 62 SARS-COV-2 NO
+81920 Brian Olson Russia 22 SARS-1 YES 06-11-2004
+41661 Samantha Williams Russia 75 SARS-1 NO
+25482 Julie Murray Russia 18 SARS-COV-2 YES 11-03-2001
+93610 Jennifer Martinez Russia 16 EVD NO
+70646 Joseph Austin Russia 35 MERS-COV YES 21-04-2006
+37363 Daniel Davis Russia 65 FLU-2018 NO
+71473 Douglas Bell Russia 40 FLU-2018 NO
+97141 Tracy Bird Russia 67 COVID-2019 YES 21-01-2003
+9030 Shelby Hanna Russia 22 MERS-COV NO
+57464 Paul Davenport Russia 33 SARS-1 NO
+43702 Sandra Reed Russia 53 H1N1 NO
+29120 Linda Graves Russia 40 H1N1 YES 25-05-2005
+89082 Heather Cross Russia 56 SARS-1 NO
+15470 Steven Buchanan Russia 67 MERS-COV NO
+1893 Diane Yoder Russia 56 EVD NO
+81252 Judy Gordon Russia 16 EVD YES 31-01-2007
+32869 Amy Green Russia 30 H1N1 NO
+7817 Charles Summers Russia 48 SARS-1 YES 11-10-2017
+32665 William Ramirez Russia 62 MERS-COV NO
+22745 Felicia Jackson Russia 67 SARS-COV-2 NO
+43874 Matthew Clark Russia 11 EVD NO
+23126 Amanda Gonzalez Russia 42 SARS-1 YES 30-01-2015
+4146 Kim Ball Russia 25 MERS-COV NO
+81704 Latoya Gonzalez Russia 64 MERS-COV YES 02-12-2010
+41643 Aaron Brown Russia 52 SARS-1 NO
+71621 Jennifer Willis Russia 15 COVID-2019 YES 14-08-2013
+84584 Sharon Hill Russia 37 SARS-1 YES 19-11-2009
+88226 Christina Herrera Russia 47 MERS-COV NO
+15617 Linda King Russia 28 FLU-2018 NO
+81823 Robert Hayes Russia 55 FLU-2018 YES 03-02-2003
+25549 Hunter Schmidt Russia 46 FLU-2018 YES 13-10-2002
+64436 Kayla Thomas Russia 65 SARS-1 NO
+70297 Kelly Brown Russia 54 H1N1 NO
+27222 Randy Miller Russia 30 COVID-2019 NO
+70046 Jeffrey Walker Russia 46 COVID-2019 YES 30-03-2011
+39939 Mark Stevens Russia 23 MERS-COV YES 20-06-2004
+78455 Michael Parker Russia 67 FLU-2018 YES 06-10-2003
+52057 Jerry Hamilton Russia 21 H1N1 YES 24-06-2013
+47591 James Rodriguez Russia 14 SARS-1 NO
+21980 Donna Johnson Russia 72 SARS-1 NO
+67942 Susan Manning Russia 69 EVD YES 15-02-2021
+35729 Rebecca Perez Russia 42 FLU-2018 YES 19-07-2016
+89471 Erin Miller Russia 73 SARS-COV-2 NO
+99896 Cynthia Hicks Russia 75 EVD YES 19-04-2017
+56800 Nicholas Marshall Russia 48 EVD NO
+56373 Damon Gibbs Russia 69 SARS-COV-2 NO
+28667 Amy Tanner Russia 79 SARS-COV-2 NO
+74121 Karen Wilkinson Russia 51 SARS-COV-2 YES 06-12-2001
+51608 Michael Rogers Russia 70 MERS-COV NO
+89305 Debra Smith Russia 58 MERS-COV NO
+2200 Jeffrey Williams Russia 64 SARS-COV-2 NO
+88490 Shelley Green Russia 18 SARS-1 NO
+33009 Brittany Brown Russia 40 EVD YES 15-07-2018
+47893 Melinda Blanchard Russia 35 SARS-1 NO
+68327 Jeremy Woods Russia 38 SARS-1 YES 03-06-2006
+42603 Julia Armstrong Russia 79 SARS-COV-2 YES 15-09-2002
+57095 Steven Patton Russia 37 FLU-2018 NO
+67651 Micheal Dyer Russia 70 SARS-COV-2 YES 18-12-2010
+93600 Carla Douglas Russia 42 COVID-2019 YES 09-09-2014
+70080 Anthony May Russia 14 EVD NO
+77864 Robert Roberts Russia 42 MERS-COV NO
+67420 Louis Torres Russia 73 EVD YES 26-12-2020
+6116 Yvonne Hamilton Russia 26 COVID-2019 NO
+58825 James Padilla Russia 20 EVD YES 03-05-2007
+68316 Jose Hudson Russia 61 H1N1 YES 09-07-2013
+7453 Melissa Hayden Russia 23 H1N1 NO
+17635 Courtney Bennett Russia 48 SARS-1 YES 23-08-2010
+27292 Matthew Livingston Russia 42 EVD NO
+48701 Carla Morrison Russia 39 EVD NO
+40636 Cynthia Martinez Russia 45 SARS-COV-2 YES 15-03-2021
+32501 Bradley Lawson Russia 18 FLU-2018 NO
+68717 Cheyenne Wallace Russia 53 FLU-2018 NO
+72256 Luke Mccarthy Russia 74 COVID-2019 YES 30-10-2000
+8262 Donald Mcneil Russia 13 MERS-COV NO
+67226 Nathan Mack Russia 62 FLU-2018 NO
+69352 Donald Dorsey Russia 78 SARS-COV-2 NO
+98639 Louis Rollins Russia 65 EVD NO
+22900 Rachael Thompson Russia 76 COVID-2019 NO
+98901 Larry Davis Russia 32 EVD NO
+74864 Danielle Adams Russia 40 SARS-COV-2 NO
+49439 Heather Bell Russia 61 MERS-COV NO
+83824 Anne Flores Russia 34 COVID-2019 NO
+6774 Brent Miller Russia 68 H1N1 YES 02-03-2007
+20437 David King Russia 62 FLU-2018 YES 19-05-2010
+46729 Dana Austin Russia 39 MERS-COV NO
+56642 Deborah Mueller Russia 72 FLU-2018 NO
+61133 Kimberly Perez Russia 78 H1N1 YES 21-09-2018
+12622 Steven Allen Russia 32 FLU-2018 YES 10-12-2001
+25268 Joseph Hines Russia 14 H1N1 NO
+62656 Alan Odonnell Russia 16 COVID-2019 YES 08-08-2002
+37791 Rebekah Brown Russia 71 MERS-COV NO
+78153 Charlene Roberts Russia 41 FLU-2018 NO
+45475 John Montoya Russia 44 SARS-COV-2 NO
+79909 Elizabeth Turner Russia 57 EVD YES 04-10-2007
+15572 Anthony Edwards Russia 50 MERS-COV NO
+32567 Brad Phillips Russia 20 FLU-2018 YES 10-06-2005
+76959 Corey Scott Russia 10 COVID-2019 YES 17-05-2014
+54417 Wendy Brown Russia 79 SARS-COV-2 YES 20-11-2012
+46419 Jose Obrien Russia 28 H1N1 YES 26-05-2014
+65178 Noah Cook Russia 74 SARS-COV-2 NO
+35039 Jonathan Johnston Russia 64 H1N1 YES 21-01-2008
+95316 Robert Morgan Russia 52 MERS-COV NO
+36041 James Johnson Russia 36 H1N1 NO
+2555 Robert Smith Russia 36 SARS-COV-2 NO
+3559 Tabitha Bowen Russia 55 MERS-COV YES 18-05-2001
+9252 Susan Wilson Russia 39 SARS-COV-2 YES 16-02-2016
+8272 Craig Aguilar Russia 46 COVID-2019 NO
+44648 Edgar Collins Russia 49 FLU-2018 YES 26-07-2014
+70332 Samuel Griffith Russia 61 H1N1 YES 09-01-2010
+90087 Brandon Burton Russia 76 FLU-2018 NO
+56336 Christopher Williams Russia 23 EVD NO
+1225 Daniel Anderson Russia 46 COVID-2019 YES 07-03-2020
+75285 Molly Gonzalez Russia 30 COVID-2019 NO
+48314 Dana Lynch Russia 29 EVD YES 25-01-2004
+19876 Angela Davis Russia 52 EVD YES 23-04-2016
+43206 Justin Nelson Russia 10 FLU-2018 YES 22-09-2001
+95159 Elizabeth Sanchez Russia 23 COVID-2019 YES 21-03-2011
+92709 Richard Stuart Russia 72 MERS-COV YES 29-01-2001
+39907 Anne Murphy Russia 71 MERS-COV NO
+94310 Lisa Brown Russia 14 EVD YES 07-10-2008
+33198 Kelly Kelley Russia 37 SARS-COV-2 NO
+75353 Anthony Benton Russia 22 SARS-1 NO
+66036 Vanessa Gutierrez Russia 71 EVD YES 03-04-2008
+17765 Jonathan Cameron Russia 41 SARS-1 NO
+86628 Christine Collier Russia 65 MERS-COV YES 18-03-2006
+28390 Tiffany Campbell Russia 74 EVD NO
+2146 Chelsey Marshall Russia 51 EVD YES 03-12-2018
+58585 Johnathan Walsh Russia 40 SARS-COV-2 NO
+56840 Brian Rivera Russia 55 FLU-2018 YES 28-02-2015
+35098 Brett Jordan Russia 55 FLU-2018 YES 27-11-2019
+41794 Aaron White Russia 62 SARS-COV-2 NO
+48460 Harry Mcconnell Russia 29 EVD NO
+78881 Sherri Taylor Russia 50 SARS-1 YES 09-12-2009
+66910 Ann Norton Russia 24 FLU-2018 YES 09-06-2014
+15749 Lisa Morton Russia 70 FLU-2018 NO
+36721 Michael Fuentes Russia 51 SARS-1 YES 02-10-2009
+55950 Eddie Brown Russia 62 H1N1 YES 02-11-2018
+88746 Michele Moore Russia 60 COVID-2019 YES 21-11-2011
+30466 David Black Russia 20 H1N1 NO
+52591 Sandra Paul Russia 75 COVID-2019 NO
+20897 Ryan Preston Russia 25 EVD NO
+69783 Leah Gates Russia 48 MERS-COV YES 22-07-2005
+33561 Frank Mayer Russia 63 FLU-2018 NO
+44786 Sharon Hudson Russia 39 COVID-2019 NO
+42720 James Armstrong Russia 55 EVD YES 10-02-2020
+64988 Kevin Johnson Russia 69 MERS-COV NO
+16753 Lori Murphy Russia 60 SARS-1 NO
+81093 Darryl Saunders Russia 23 H1N1 YES 20-09-2016
+57975 Phillip Hall Russia 40 SARS-1 NO
+2765 Lisa Brown Russia 30 EVD YES 22-07-2016
+4634 Catherine Mcneil Russia 76 COVID-2019 NO
+18013 Leah Cantrell Russia 79 H1N1 NO
+11407 Diane Dickson Russia 53 FLU-2018 NO
+37242 John Huffman Russia 53 MERS-COV YES 30-07-2014
+17230 Alexander Long Russia 26 SARS-COV-2 YES 27-06-2004
+69139 Christine Morgan Russia 10 SARS-COV-2 YES 26-12-2016
+59125 April Roberts Russia 60 COVID-2019 YES 09-08-2006
+54168 Christian Reid Russia 35 SARS-1 YES 01-05-2002
+6726 Ian Osborn Russia 27 H1N1 YES 04-05-2020
+2399 Madison Edwards Russia 16 EVD NO
+94806 Jessica Johnson Russia 47 EVD YES 10-03-2013
+58360 Rachel Allen Russia 36 FLU-2018 NO
+16097 Larry Thomas Russia 59 H1N1 NO
+92029 Linda Jackson Russia 22 EVD YES 18-11-2004
+58297 Bryan Thompson Russia 48 EVD YES 10-07-2010
+46423 Amanda Gonzalez Russia 61 H1N1 NO
+5028 Rebecca Glass Russia 33 H1N1 NO
+29993 Gina Malone Russia 18 H1N1 NO
+92517 Charles Quinn Russia 27 SARS-1 NO
+68805 Rebecca Bean Russia 29 EVD YES 16-12-2015
+29283 Scott Everett Russia 33 COVID-2019 YES 25-11-2011
+53774 Marcus Turner Russia 16 COVID-2019 NO
+87037 Destiny Moore Russia 43 H1N1 YES 26-12-2018
+87208 Aaron Acosta Russia 60 MERS-COV NO
+69859 Dana Stone Russia 46 H1N1 YES 01-03-2004
+25370 Brenda Turner Russia 37 SARS-COV-2 YES 05-06-2006
+92813 Jose Lee Russia 11 FLU-2018 NO
+74118 Matthew Ellis Russia 36 SARS-COV-2 YES 09-03-2002
+86417 Veronica Kerr Russia 77 MERS-COV NO
+31347 Rachel Dougherty Russia 41 COVID-2019 NO
+50766 Deborah Lloyd Russia 43 MERS-COV NO
+39538 Joseph Morales Russia 29 EVD YES 04-01-2021
+76198 John Mcdaniel Russia 56 COVID-2019 NO
+13772 Donna Davis Russia 19 EVD NO
+20035 Christina Hernandez Russia 65 FLU-2018 NO
+23309 Shelley Patel Russia 24 SARS-1 YES 17-09-2018
+6033 Michael Powell Russia 29 H1N1 NO
+16491 Ashley Hall Russia 44 EVD NO
+59936 Anthony Wright Russia 50 FLU-2018 YES 09-12-2005
+22571 Mark Crawford Russia 11 MERS-COV YES 15-04-2000
+3674 Christopher Jones Russia 56 COVID-2019 YES 04-09-2003
+50827 Bruce Key Russia 68 MERS-COV NO
+24142 Sonya Walker Russia 27 EVD YES 09-12-2012
+64393 Christy Mitchell Russia 64 FLU-2018 NO
+97917 Kelly Landry Russia 19 H1N1 YES 20-08-2020
+86232 Ronald Crawford Russia 29 MERS-COV YES 29-12-2014
+49918 Kelly Harris Russia 24 COVID-2019 NO
+66701 Summer Cruz Russia 33 SARS-COV-2 YES 27-04-2014
+5462 Robert Bird Russia 21 EVD NO
+57487 Stephen Rhodes Russia 65 FLU-2018 YES 05-04-2016
+41909 Leslie Vasquez Russia 53 EVD NO
+5932 Abigail Jackson Russia 76 COVID-2019 YES 20-08-2010
+56152 Robert Brennan Russia 66 MERS-COV YES 20-01-2000
+17577 Scott Acosta Russia 66 COVID-2019 YES 21-10-2010
+61504 Sarah Cowan Russia 41 H1N1 NO
+80638 Steven Huff Russia 72 SARS-1 YES 13-01-2011
+25000 Briana Graham Russia 40 H1N1 YES 02-09-2020
+2046 Michael Davies Russia 37 MERS-COV YES 26-03-2003
+70975 Jonathan Juarez Russia 63 COVID-2019 NO
+64140 Ryan Boyd Russia 60 MERS-COV YES 31-07-2020
+38582 Cheryl Perry Russia 18 COVID-2019 YES 27-01-2005
+73956 Michelle Phillips Russia 57 SARS-1 YES 21-12-2011
+94430 Roger Tapia Russia 31 H1N1 YES 01-05-2015
+3412 Bradley Carrillo Russia 31 EVD NO
+1555 Melissa Snow Russia 65 SARS-COV-2 NO
+29911 William Jackson Russia 21 FLU-2018 YES 30-11-2011
+37634 Keith Galvan Russia 30 SARS-COV-2 YES 15-06-2007
+17862 Brenda Odom Russia 65 H1N1 NO
+83782 Kimberly Nicholson Russia 56 FLU-2018 NO
+61766 Laura Davis Russia 50 H1N1 NO
+33905 Jose Garcia Russia 19 EVD NO
+68299 John Mooney Russia 20 MERS-COV YES 26-10-2005
+59714 Jacob Velasquez Russia 34 MERS-COV NO
+99276 Jacob Smith Russia 68 FLU-2018 YES 26-04-2011
+29790 Maria Perez Russia 64 EVD NO
+99328 Brad Barnes Russia 79 COVID-2019 YES 24-06-2016
+84410 Jeremy Larson Russia 30 FLU-2018 YES 18-12-2017
+32210 Jessica Taylor Russia 33 EVD NO
+11076 Sandra Roy Russia 73 MERS-COV NO
+89793 Michele Reid Russia 33 H1N1 NO
+89249 Zachary Mullins Russia 79 MERS-COV YES 31-05-2001
+77273 Allen Perry Russia 48 H1N1 YES 13-01-2013
+47037 Michelle Berry Russia 65 MERS-COV YES 08-09-2009
+84860 Caleb Wright Russia 66 FLU-2018 NO
+92678 Alyssa Harris Russia 47 SARS-1 YES 23-03-2001
+34959 Shannon Davis Russia 36 MERS-COV YES 02-11-2015
+19800 Chelsey Thompson Russia 18 H1N1 YES 02-04-2017
+74054 Lynn Smith Russia 40 H1N1 YES 27-12-2008
+2186 Lisa Schultz Russia 63 SARS-1 NO
+38223 Jenna Smith Russia 62 EVD NO
+80792 Tristan Williams Russia 22 SARS-1 NO
+88344 Kara Williams Russia 14 FLU-2018 YES 23-10-2018
+28950 Nicholas James Russia 15 MERS-COV YES 01-11-2017
+35303 Lisa Powell Russia 30 H1N1 NO
+84452 Jennifer Barton Russia 34 MERS-COV YES 20-12-2014
+50499 Albert Miller Russia 24 SARS-COV-2 NO
+53868 John Campos Russia 11 FLU-2018 YES 10-05-2008
+60945 Daniel Taylor Russia 74 FLU-2018 NO
+4642 Leah Tucker Russia 42 FLU-2018 NO
+95754 Raymond Medina Russia 11 COVID-2019 YES 10-11-2000
+49837 Kayla Mcbride Russia 34 FLU-2018 YES 11-11-2016
+23536 Stephen Gomez Russia 60 SARS-COV-2 YES 22-09-2003
+10914 Jason Goodwin Russia 30 EVD YES 29-03-2000
+47826 Nicholas Bailey Russia 21 COVID-2019 YES 19-02-2001
+76901 Holly Horn Russia 21 SARS-COV-2 YES 29-10-2012
+63908 John Clark Russia 24 FLU-2018 YES 05-01-2005
+73524 Daniel Mayer Russia 61 COVID-2019 YES 25-02-2006
+87421 Kenneth Brooks Russia 79 MERS-COV YES 17-08-2008
+31866 Melanie Holland Russia 78 COVID-2019 NO
+25965 Beth Perez Russia 46 COVID-2019 NO
+42867 James Velasquez Russia 27 COVID-2019 NO
+47483 Alicia Adams Russia 23 H1N1 NO
+71712 Megan Thompson Russia 10 COVID-2019 YES 21-06-2013
+16446 Christine Graham Russia 73 SARS-COV-2 YES 06-04-2006
+3636 Suzanne Phillips Russia 34 H1N1 NO
+7548 Dawn Pierce Russia 53 H1N1 NO
+69669 Casey Hughes Russia 35 SARS-1 NO
+54099 Sarah Hurley Russia 26 MERS-COV NO
+78109 Mark Jackson Russia 15 H1N1 YES 14-04-2002
+58702 Joy Skinner Russia 21 SARS-COV-2 NO
+84610 Travis Flores Russia 78 H1N1 NO
+26092 David Mitchell Russia 39 H1N1 NO
+32788 Destiny Weber Russia 59 FLU-2018 NO
+30745 Russell Ellis Russia 34 EVD YES 16-10-2009
+34513 Brandon Blankenship Russia 72 SARS-1 NO
+41258 Timothy Strong Russia 43 MERS-COV NO
+11486 Lisa Sharp Russia 56 COVID-2019 NO
+83501 Samuel Schultz Russia 32 H1N1 NO
+3544 Shannon Smith Russia 21 SARS-1 NO
+55450 Jodi Mccoy Russia 76 MERS-COV YES 01-11-2015
+46158 Steven Fuentes Russia 35 FLU-2018 NO
+93387 Amanda Johnson Russia 43 SARS-COV-2 YES 18-04-2000
+45234 Kyle Allen Russia 43 EVD YES 01-06-2012
+7402 Mary Pratt Russia 22 H1N1 NO
+72752 Tamara Pearson Russia 76 MERS-COV NO
+72110 David Mayo Russia 62 MERS-COV YES 18-08-2005
+11145 Jared King Russia 10 SARS-1 NO
+56150 Lindsay Gonzalez Russia 33 COVID-2019 YES 28-08-2013
+2373 Shelby Anderson Russia 66 H1N1 NO
+3458 Stephanie Curtis Russia 61 MERS-COV YES 22-11-2015
+81635 Benjamin Livingston Russia 58 FLU-2018 YES 20-02-2020
+89384 Zachary Jones Russia 75 EVD NO
+84044 Rhonda Smith Russia 49 SARS-COV-2 NO
+61087 Brianna Carroll Russia 58 SARS-COV-2 YES 14-10-2003
+62477 Roberto Reyes Russia 17 H1N1 NO
+74008 Laura Morgan Russia 41 MERS-COV NO
+67154 Stephen Perez Russia 40 SARS-1 YES 23-10-2007
+17649 Sarah Kelley Russia 31 H1N1 NO
+82522 Joshua Jacobs Russia 37 COVID-2019 NO
+54956 Lisa Brown Russia 54 SARS-COV-2 YES 09-09-2016
+50668 Glen Hart Russia 77 COVID-2019 YES 07-08-2008
+34249 Joseph Dean Russia 28 EVD NO
+45449 Jason Morgan Russia 61 SARS-COV-2 NO
+90501 Christopher Flores Russia 79 SARS-COV-2 NO
+49419 Laura Kelley Russia 16 SARS-COV-2 YES 20-05-2011
+2557 Krystal Gonzalez Russia 52 SARS-1 YES 29-12-2001
+42617 Deanna Jones Russia 74 SARS-COV-2 NO
+34221 Joseph Sweeney Russia 61 COVID-2019 YES 10-05-2003
+58166 Mitchell Bradford Russia 53 SARS-1 YES 08-08-2011
+74333 Marcus Jones Russia 30 H1N1 NO
+41779 Chelsea Stone Russia 64 EVD YES 12-12-2010
+27973 Christopher Mendez Russia 26 EVD NO
+99565 Samantha Wallace Russia 61 SARS-1 NO
+69481 Jimmy Robinson Russia 43 SARS-COV-2 NO
+77422 Chad Thornton Russia 40 EVD NO
+59097 Warren Mclaughlin Russia 45 MERS-COV YES 27-02-2010
+49729 Lisa Reyes Russia 68 SARS-1 YES 27-11-2013
+84861 Matthew Houston Russia 23 SARS-COV-2 YES 20-08-2020
+14734 Kevin Barry Russia 10 EVD NO
+64231 Rachel Garcia Russia 24 SARS-COV-2 YES 14-06-2018
+96103 Shannon Benton Russia 15 FLU-2018 YES 08-09-2020
+69906 Megan Griffin Russia 69 SARS-1 NO
+19924 Roger Levine Russia 51 MERS-COV NO
+46535 Russell Page Russia 33 COVID-2019 NO
+74858 Amy Richards Russia 41 SARS-COV-2 YES 25-05-2002
+51770 James Lawrence Russia 61 SARS-COV-2 YES 22-02-2015
+71633 Whitney Dawson Russia 17 FLU-2018 NO
+36270 Dawn Andrews Russia 12 MERS-COV YES 07-10-2000
+78003 Philip Ruiz Russia 48 SARS-1 NO
+40348 Jordan Thompson Russia 67 H1N1 YES 13-04-2010
+15664 Kristine Webster Russia 75 SARS-COV-2 NO
+34256 Derek Schwartz Russia 20 SARS-1 YES 02-03-2000
+2856 Natalie Romero Russia 37 COVID-2019 NO
+83994 Lisa Obrien Russia 33 EVD YES 11-10-2001
+51666 Claudia Walsh Russia 72 SARS-COV-2 NO
+24224 Jeremy Good Russia 43 FLU-2018 YES 21-12-2001
+64614 Anna Murphy Russia 74 MERS-COV YES 13-02-2018
+58806 Kenneth Williams Russia 65 MERS-COV NO
+52727 Sarah Coleman Russia 42 EVD YES 11-03-2007
+30683 Richard Owen Russia 26 MERS-COV YES 04-06-2012
+12810 Karen Gregory Russia 51 MERS-COV NO
+81728 Allison Kelly Russia 54 FLU-2018 NO
+18437 Sandra Bauer Russia 29 FLU-2018 YES 18-02-2011
+88322 Raymond Lawson Russia 76 MERS-COV YES 02-03-2003
+40496 Erica Hicks Russia 30 SARS-1 NO
+10473 Melissa Jones Russia 27 H1N1 NO
+17451 Lisa Martin Russia 43 COVID-2019 YES 22-05-2001
+86026 Claire Hutchinson Russia 30 SARS-1 YES 22-01-2004
+53894 Richard Anderson Russia 45 COVID-2019 YES 12-09-2001
+43239 Randy Martinez Russia 68 MERS-COV NO
+73344 Jeff Mills Russia 15 SARS-COV-2 YES 04-05-2015
+28311 Brian Wilson Russia 79 SARS-COV-2 NO
+18732 Barbara Velasquez Russia 48 SARS-COV-2 NO
+50739 Daniel Moore Russia 14 SARS-1 YES 02-01-2021
+73241 Dustin Henderson Russia 63 SARS-1 NO
+2543 Carla Clark Russia 32 MERS-COV NO
+21368 Jessica Scott Russia 11 SARS-COV-2 YES 12-06-2008
+76157 Katrina Mcbride Russia 50 SARS-1 YES 24-04-2000
+13922 Randy Ward Russia 29 COVID-2019 NO
+55686 Michael Sanchez Russia 62 SARS-COV-2 NO
+15211 James Atkinson Russia 33 SARS-COV-2 NO
+29511 Monique Lopez Russia 61 FLU-2018 NO
+70397 Carol Williams Russia 78 H1N1 YES 07-02-2002
+9275 Robert Douglas Russia 54 FLU-2018 YES 20-01-2018
+58227 April Simpson Russia 25 EVD YES 19-03-2013
+80053 Candice Collier Russia 73 EVD NO
+64915 Michael Perez Russia 72 SARS-COV-2 YES 11-12-2012
+25620 Kathryn Burnett Russia 45 SARS-COV-2 NO
+10880 Michael Turner Russia 14 COVID-2019 YES 04-12-2017
+91776 Ryan Velasquez Russia 24 H1N1 NO
+23171 Mary Weber Russia 26 FLU-2018 NO
+42802 Joshua Mcclain Russia 15 EVD YES 23-01-2014
+83350 Deanna Graham Russia 49 SARS-COV-2 YES 25-05-2015
+82668 Jessica Miller Russia 10 SARS-1 NO
+91512 Julie White Russia 75 FLU-2018 YES 22-01-2011
+55616 Lindsey Lucas Russia 12 COVID-2019 NO
+28848 Jennifer Hayden Russia 39 FLU-2018 YES 18-04-2002
+30143 Amanda Parks Russia 66 EVD NO
+56486 Teresa Logan Russia 53 SARS-1 YES 04-09-2009
+43495 Lauren Sherman Russia 75 FLU-2018 NO
+71392 Jennifer Parker Russia 23 EVD YES 09-05-2016
+91629 Scott Andrade Russia 37 H1N1 NO
+98174 Shelby Stevenson Russia 62 EVD YES 23-10-2020
+97111 Patricia Fields Russia 71 SARS-COV-2 NO
+17654 Jill Kelly Russia 11 EVD NO
+22577 Amanda Hensley Russia 12 SARS-1 NO
+87005 Shawn Mooney Russia 47 COVID-2019 NO
+15643 Emily Ortiz Russia 43 SARS-1 NO
+67112 James Anderson Russia 68 COVID-2019 NO
+34354 Jessica Mccann Russia 20 EVD NO
+89088 Willie Thomas Russia 18 SARS-COV-2 NO
+891 Belinda Espinoza Russia 74 SARS-1 YES 05-05-2014
+48882 Brandon Meadows Russia 36 MERS-COV YES 30-01-2017
+319 David Lopez Russia 26 FLU-2018 NO
+31994 Sherry Adkins Russia 68 FLU-2018 NO
+2205 Anthony Howard Russia 54 EVD YES 13-12-2013
+34006 Johnathan Ball Russia 31 FLU-2018 NO
+22835 John Sanchez Russia 43 MERS-COV YES 26-10-2015
+52232 Jennifer Crawford Russia 42 H1N1 YES 09-02-2013
+46951 Jasmine Johnson Russia 24 SARS-1 YES 01-06-2010
+79343 Emily Sellers Russia 57 H1N1 NO
+8724 Kevin Diaz Russia 45 SARS-COV-2 NO
+45593 Stephanie Oneal Russia 49 COVID-2019 NO
+54016 Mitchell Becker Russia 16 MERS-COV YES 02-03-2014
+58536 Mark Jackson Russia 79 EVD NO
+80681 Barbara Spears Russia 76 COVID-2019 NO
+85260 Michael Bailey Russia 13 EVD YES 14-12-2013
+74743 Anthony Romero Russia 69 MERS-COV NO
+19349 Kathy Huff Russia 15 FLU-2018 NO
+70169 Laura Clark Russia 54 SARS-COV-2 YES 14-05-2006
+93547 Mark Miller Russia 27 SARS-1 NO
+82690 Julia Chapman Russia 30 SARS-COV-2 YES 04-07-2011
+51296 Erica Carey Russia 17 SARS-COV-2 NO
+37468 Donna Williams Russia 17 MERS-COV YES 22-02-2008
+93094 James Floyd Russia 28 H1N1 YES 22-10-2002
+25774 Tammy Gilbert Russia 58 SARS-COV-2 NO
+96910 Tyler Lewis Russia 42 SARS-COV-2 YES 04-12-2009
+71790 Keith Jackson Russia 58 SARS-1 NO
+9682 Ricky Powers Russia 53 H1N1 NO
+62020 Cassandra Moore Russia 25 FLU-2018 YES 31-01-2010
+28286 Tiffany Branch Russia 16 MERS-COV NO
+45099 Sherry Hamilton Russia 43 EVD YES 31-01-2000
+79219 Monica Lynn Russia 18 SARS-COV-2 NO
+71716 Stephanie Chavez Russia 44 EVD NO
+40590 James Mcclure Russia 52 COVID-2019 YES 03-02-2015
+9360 Toni Carter Russia 10 EVD YES 04-04-2002
+96625 Mark Gomez Russia 33 FLU-2018 YES 10-01-2016
+75864 Ryan Lee Russia 33 SARS-COV-2 NO
+71856 Jennifer Wright Russia 62 MERS-COV NO
+74019 Gregory Rodriguez Russia 18 MERS-COV YES 12-12-2008
+26785 Michael Jordan Russia 61 MERS-COV YES 06-08-2009
+3858 Paige Walter Russia 10 MERS-COV NO
+77317 Jacqueline Gonzalez Russia 75 SARS-1 NO
+25176 Martin Hunter Russia 29 SARS-1 NO
+26326 Jacob Hawkins Russia 71 SARS-COV-2 YES 20-11-2002
+29956 Logan Buckley Russia 38 SARS-COV-2 NO
+4619 Randall Curtis Russia 73 COVID-2019 NO
+52386 Andrew Pope Russia 18 FLU-2018 YES 24-01-2007
+49208 Peter Espinoza Russia 49 H1N1 YES 08-01-2011
+58019 Brandon White Russia 77 COVID-2019 NO
+45648 Scott Ali Russia 61 H1N1 NO
+24814 Anne Jones Russia 24 SARS-COV-2 YES 26-08-2005
+13552 Melissa Rogers Russia 68 EVD YES 16-11-2007
+48692 Jenny Benitez Russia 66 MERS-COV YES 21-11-2001
+65577 Timothy Morales Russia 35 FLU-2018 NO
+50846 Richard Abbott Russia 16 COVID-2019 YES 06-09-2002
+42922 Andrew Dunlap Russia 61 H1N1 NO
+70322 Ashlee Jackson Russia 73 EVD YES 01-01-2017
+94173 Edward Ballard Russia 51 SARS-COV-2 NO
+61308 Michele Reyes Russia 58 EVD YES 28-07-2016
+27258 Tina Ortiz Russia 72 MERS-COV NO
+10269 Stephanie Lewis Russia 64 MERS-COV NO
+50108 Joseph Adkins Russia 32 FLU-2018 YES 29-01-2005
+69852 Tamara Madden Russia 78 MERS-COV YES 03-01-2006
+11846 Robert Martin Russia 26 SARS-COV-2 NO
+93195 Frank Woodard Russia 63 SARS-1 NO
+80584 Zachary Allen Russia 78 MERS-COV NO
+29615 Anna King Russia 13 EVD YES 23-09-2017
+96019 Jeffrey Neal Russia 50 EVD YES 02-07-2013
+84300 Evelyn Carpenter Russia 14 EVD YES 12-05-2019
+62380 Gary Wilson Russia 24 SARS-COV-2 NO
+36172 Samantha Mckinney Russia 24 MERS-COV YES 22-05-2008
+53396 Teresa Pittman Russia 55 SARS-COV-2 NO
+91311 Sarah Boyle Russia 27 EVD NO
+98711 Michelle Wilson Russia 41 COVID-2019 NO
+24030 Diane Johnson Russia 23 MERS-COV YES 10-11-2006
+7513 Anthony Evans Russia 60 SARS-1 YES 02-10-2001
+87262 Kimberly Rogers Russia 28 SARS-1 YES 06-04-2002
+62016 Katie Thomas Russia 56 SARS-COV-2 YES 06-11-2005
+73864 Michael Williams Russia 18 FLU-2018 YES 23-02-2005
+34950 Sarah Kane Russia 32 FLU-2018 YES 16-09-2001
+39779 Sarah Perez Russia 45 FLU-2018 YES 23-01-2021
+56142 Jared Thomas Russia 41 H1N1 NO
+19971 Nicholas Lane Russia 70 SARS-COV-2 YES 16-06-2020
+80901 Kaitlin Anderson Russia 43 COVID-2019 NO
+19036 Erica Ho Russia 49 COVID-2019 NO
+47553 Joseph Ingram Russia 48 H1N1 NO
+93697 Jessica Avila Russia 65 EVD NO
+16120 Patricia Clarke Russia 12 H1N1 NO
+60242 Vickie Fox Russia 25 MERS-COV NO
+32381 Sara Thomas Russia 11 H1N1 NO
+26248 Shaun Wilson Russia 75 SARS-1 NO
+27639 Jon Smith Russia 33 H1N1 YES 30-09-2011
+20118 Walter Adams Russia 33 SARS-COV-2 YES 06-08-2011
+74413 Darren Curry Russia 63 FLU-2018 NO
+8036 David Richards Russia 77 EVD YES 11-12-2014
+27562 Michael Walters Russia 61 FLU-2018 YES 23-08-2006
+84836 John Hansen Russia 62 EVD YES 14-09-2006
+16430 Richard Brown Russia 41 SARS-COV-2 YES 13-05-2003
+88843 Helen Rich Russia 55 H1N1 NO
+91322 Laurie Davidson Russia 77 H1N1 NO
+93942 Samantha Brown Russia 39 MERS-COV NO
+71532 Nancy Jackson Russia 69 FLU-2018 NO
+91070 Nichole Mcmahon Russia 42 SARS-COV-2 YES 14-06-2015
+22650 Thomas Braun Russia 35 FLU-2018 YES 09-03-2001
+23651 Emily Benson Russia 55 COVID-2019 YES 18-05-2012
+34425 Abigail Pope Russia 37 MERS-COV YES 28-01-2011
+63002 Joshua Murphy Russia 13 MERS-COV NO
+89631 Jessica Walker Russia 54 SARS-COV-2 NO
+28774 Monica Lawrence Russia 28 EVD NO
+45975 Richard Jones Russia 49 EVD NO
+93163 Anna Rosales Russia 73 MERS-COV YES 17-02-2016
+19258 Mary Knapp Russia 63 MERS-COV NO
+35967 Michele Henderson Russia 24 FLU-2018 NO
+70079 Jamie Walker Russia 67 SARS-1 YES 11-11-2006
+39239 Louis Martin Russia 66 EVD NO
+3099 Christopher Cantrell Russia 66 MERS-COV YES 18-12-2014
+60183 Mary Obrien Russia 21 SARS-1 NO
+80190 Jody Mitchell Russia 51 EVD NO
+33020 Kelly Mitchell Russia 50 COVID-2019 YES 17-09-2012
+50579 John Fox Russia 62 H1N1 YES 06-01-2020
+69600 Sabrina Martin Russia 38 SARS-COV-2 NO
+95696 David Clements Russia 59 COVID-2019 YES 29-11-2017
+68765 Michael Love Russia 38 MERS-COV YES 24-01-2007
+10900 Angel Liu Russia 61 SARS-1 YES 14-12-2019
+53276 Sarah Charles Russia 75 FLU-2018 NO
+81417 Dustin Davis Russia 38 COVID-2019 NO
+32569 Aaron Wolfe Russia 43 COVID-2019 YES 09-11-2004
+64169 Douglas Sutton Russia 67 H1N1 NO
+22003 Ethan Hayes Russia 67 EVD NO
+96624 Kayla Cortez Russia 64 MERS-COV NO
+46731 Kathryn Ellis Russia 29 COVID-2019 YES 27-12-2018
+43767 Ryan Wiggins Russia 10 SARS-COV-2 YES 11-10-2007
+87119 Robert Washington Russia 75 H1N1 YES 19-03-2016
+63479 Amanda Ramirez Russia 36 SARS-1 YES 04-10-2013
+92269 Sarah Harrison Russia 19 SARS-1 YES 14-07-2001
+49324 David Banks Russia 74 EVD YES 28-02-2017
+79011 Lee Baldwin Russia 55 SARS-COV-2 NO
+8384 Ana Powell Russia 33 SARS-1 YES 15-12-2009
+11325 David Wright Russia 58 MERS-COV YES 03-10-2016
+10571 Benjamin Roberts Russia 43 FLU-2018 YES 17-12-2015
+46163 Alan Taylor Russia 53 SARS-1 YES 22-12-2003
+90559 Roger Sosa Russia 65 SARS-COV-2 NO
+40854 Christine Washington Russia 58 COVID-2019 NO
+21926 Kevin Jimenez Russia 53 H1N1 NO
+56823 Michael Fry Russia 57 MERS-COV NO
+97097 Clayton Tate Russia 60 EVD NO
+77195 Kelly Price Russia 15 H1N1 YES 11-01-2004
+23739 Anna Scott Russia 27 EVD NO
+53296 Sergio Anderson Russia 75 FLU-2018 YES 21-12-2002
+55398 Jason Young Russia 73 MERS-COV NO
+67685 Kristine Gates Russia 51 MERS-COV YES 11-04-2007
+22508 Belinda Campos Russia 43 COVID-2019 YES 07-07-2010
+40641 Judy Wood Russia 74 COVID-2019 YES 25-09-2013
+996 Charles Reyes Russia 47 EVD NO
+29097 Gregory Perry Russia 23 COVID-2019 YES 28-06-2005
+99639 Gabriel Novak Russia 76 SARS-COV-2 NO
+27412 Felicia Mcgee Russia 32 SARS-1 NO
+16447 Jeremy Bell Russia 70 SARS-COV-2 NO
+177 Ashley Humphrey Russia 12 H1N1 YES 24-09-2017
+68040 Heather Green Russia 22 MERS-COV NO
+64753 Jonathan Hardy Russia 60 H1N1 NO
+22253 Brenda Kim Russia 12 COVID-2019 NO
+41448 Jennifer Martinez Russia 73 SARS-COV-2 NO
+4359 Matthew Miranda Russia 74 FLU-2018 YES 27-08-2015
+99725 William Weber Russia 40 EVD YES 19-06-2009
+55405 Cindy Cook Russia 62 SARS-COV-2 YES 02-11-2015
+27175 Alexander Briggs Russia 71 MERS-COV NO
+68575 Matthew Carter Russia 68 FLU-2018 NO
+89664 Debra Bullock Russia 19 EVD YES 16-03-2004
+18271 Kara Pearson Russia 16 FLU-2018 NO
+5364 Denise Ball Russia 56 SARS-COV-2 NO
+7150 Arthur Thomas Russia 20 FLU-2018 NO
+31710 Ross Morales Russia 70 SARS-1 YES 22-02-2001
+29169 Kevin Newman Russia 29 EVD YES 11-12-2001
+15841 Janet Ruiz Russia 68 H1N1 YES 26-08-2016
+40495 Eric Spencer Russia 65 EVD YES 27-08-2008
+60330 Tonya Johnson Russia 29 SARS-COV-2 YES 07-08-2020
+90848 Dan Barton Russia 43 H1N1 YES 29-12-2005
+7694 Thomas Snyder Russia 39 EVD YES 21-09-2007
+52568 Christine Garcia Russia 40 COVID-2019 NO
+14235 Steven Waller Russia 38 MERS-COV YES 11-11-2014
+15260 Robert Logan Russia 70 COVID-2019 YES 25-05-2014
+55476 Jenna Espinoza Russia 75 COVID-2019 YES 16-10-2002
+99048 Patricia Cox Russia 21 COVID-2019 YES 09-01-2001
+33032 Peggy Gibson Russia 79 SARS-COV-2 YES 03-05-2000
+46085 Michael Lucas Russia 57 H1N1 YES 27-09-2001
+86826 Destiny Chang Russia 55 H1N1 YES 22-10-2020
+28557 John Morris Russia 42 EVD NO
+63679 Keith Russell Russia 64 EVD NO
+8314 Brianna Romero Russia 59 H1N1 NO
+19004 Nicholas Jones Russia 63 SARS-1 NO
+42106 Scott Haynes Russia 38 EVD YES 22-03-2017
+98092 Jessica Sawyer Russia 53 SARS-COV-2 YES 16-10-2014
+24735 Kim Cook Russia 19 SARS-COV-2 YES 17-08-2007
+94197 Daniel Hood Russia 76 MERS-COV NO
+61622 Judith Joyce Russia 46 MERS-COV NO
+12992 Erica Winters Russia 54 FLU-2018 YES 09-07-2018
+32609 Albert Brown Russia 14 SARS-COV-2 YES 15-08-2012
+62854 Lucas Carr Russia 23 H1N1 NO
+39700 Amber Rogers Russia 51 EVD YES 15-01-2009
+64771 Robert Livingston Russia 52 H1N1 YES 19-12-2003
+20180 Rachael Roberts Russia 37 COVID-2019 NO
+12056 Thomas Lawson Russia 34 SARS-1 YES 07-04-2019
+99431 Dominique Green Russia 23 SARS-COV-2 YES 18-10-2008
+24249 Carlos Summers Russia 32 SARS-COV-2 NO
+36206 Yvonne Castro Russia 39 MERS-COV YES 18-12-2004
+61754 Heather Hodge Russia 46 SARS-COV-2 NO
+66270 Susan Fox Russia 20 SARS-1 NO
+79925 Kyle Barr Russia 63 SARS-COV-2 NO
+32823 Julian Butler Russia 44 MERS-COV YES 24-11-2020
+53543 Chelsea Howell Russia 23 SARS-COV-2 NO
+9007 Lori Nelson Russia 72 FLU-2018 YES 07-09-2002
+50706 Daniel Lucero Russia 44 MERS-COV NO
+69709 Yolanda Wilson Russia 49 SARS-1 NO
+44063 Brandi Stewart Russia 34 SARS-COV-2 NO
+22935 Shelley Yates Russia 26 FLU-2018 NO
+97089 Veronica Ferguson Russia 73 SARS-1 YES 18-07-2012
+58830 Matthew Brown Russia 28 H1N1 NO
+82183 Jennifer Curtis Russia 63 FLU-2018 NO
+81669 Michael Mullen Russia 19 FLU-2018 NO
+32317 Shawn Hoffman Russia 78 EVD NO
+27910 Dana Patterson Russia 57 SARS-COV-2 NO
+53549 Christopher Page Russia 58 H1N1 YES 23-02-2000
+37972 Christopher Molina Russia 76 H1N1 YES 10-10-2003
+64162 Brian Bradford Russia 55 SARS-1 YES 09-03-2008
+35723 Michael Schwartz Russia 68 MERS-COV NO
+7789 Jennifer Howard Russia 48 COVID-2019 NO
+7024 Mark Johnson Russia 53 H1N1 NO
+18936 Chad Rodriguez Russia 47 SARS-COV-2 YES 19-01-2007
+4835 Julie Ward Russia 77 SARS-COV-2 NO
+10112 Jacqueline Holland Russia 50 SARS-COV-2 YES 01-01-2005
+6097 Madison Andrews Russia 45 SARS-1 YES 09-06-2020
+6237 Kathryn Calhoun Russia 62 FLU-2018 YES 18-05-2017
+66521 Larry Turner Russia 60 SARS-1 NO
+78685 Joshua Wells Russia 42 SARS-COV-2 YES 16-07-2007
+22680 Cassandra Bryant Russia 26 FLU-2018 YES 03-03-2000
+73942 Phillip Brown Russia 18 MERS-COV NO
+51981 Paul Cooper Russia 26 COVID-2019 NO
+81403 Alexander Parker Russia 30 SARS-1 NO
+86771 Scott Cook Russia 34 H1N1 YES 28-06-2011
+65647 David Clark Russia 55 FLU-2018 YES 04-08-2016
+13801 Thomas Chang Russia 76 EVD NO
+48009 Steven Adams Russia 24 H1N1 NO
+28804 Jesse Hubbard Russia 34 MERS-COV YES 28-03-2013
+22414 Jordan Warren Russia 71 COVID-2019 NO
+32165 Rhonda Rose Russia 76 EVD YES 03-01-2015
+3542 Lisa Mays Russia 31 EVD YES 25-05-2004
+64554 Sarah Boyd Russia 30 SARS-COV-2 YES 09-08-2008
+8502 James Holland Russia 58 SARS-COV-2 YES 24-08-2018
+84467 Heidi Henry Russia 27 MERS-COV YES 24-04-2004
+24607 Brett Lopez Russia 14 SARS-1 YES 29-01-2001
+41810 Andrea Duncan Russia 54 FLU-2018 NO
+45561 Bruce Anderson Russia 43 COVID-2019 NO
+73857 Jeffrey Jones Russia 36 H1N1 YES 26-09-2010
+1135 Regina Richard Russia 67 SARS-1 YES 25-03-2003
+78351 Tara Kelly Russia 41 EVD NO
+49370 Craig Williams Russia 21 EVD NO
+24126 Joshua Howell Russia 15 SARS-COV-2 NO
+7525 Eric Compton Russia 66 SARS-COV-2 YES 06-04-2000
+658 Carolyn Stanton Russia 22 SARS-1 YES 20-06-2006
+27138 Victoria Hampton Russia 19 EVD YES 02-06-2011
+4769 Michael Thomas Russia 16 FLU-2018 NO

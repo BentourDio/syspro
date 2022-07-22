@@ -1,0 +1,562 @@
+31 Blake Mendoza France 37 EVD YES 06-07-2008
+4123 Steve Anderson France 51 EVD NO
+3925 Gary Pennington France 47 FLU-2018 NO
+5896 Richard Wheeler France 20 FLU-2018 NO
+4087 Veronica Jacobs France 69 MERS-COV YES 18-02-2013
+5617 Jennifer Walters France 34 EVD NO
+1356 Kathleen Gonzalez France 75 FLU-2018 NO
+8674 Joseph Adams France 37 SARS-1 YES 05-04-2006
+2863 Christopher Bauer France 24 COVID-2019 NO
+9437 Margaret Fernandez France 29 MERS-COV NO
+7624 Dennis Gallagher France 76 EVD NO
+7784 Stephen Harris France 31 FLU-2018 YES 29-10-2009
+9728 Jerry Hardy France 70 H1N1 NO
+7821 Craig Snyder France 79 COVID-2019 YES 10-11-2019
+1838 Lance Pugh France 55 MERS-COV NO
+1838 Lance Pugh France 55 H1N1 YES 12-03-2016
+8226 Gabriel Vance France 55 H1N1 YES 30-09-2000
+3812 Michael Weiss France 59 SARS-COV-2 NO
+9062 Tabitha Mcgrath France 29 SARS-1 YES 17-02-2001
+8206 John Barnes France 32 SARS-1 NO
+77 Derek Meyer France 63 H1N1 YES 28-01-2004
+9231 Joseph Greene France 14 FLU-2018 YES 15-03-2002
+2456 John Calhoun France 66 FLU-2018 YES 13-02-2017
+1053 Christopher Howell France 71 COVID-2019 NO
+6075 Deanna Carney France 68 FLU-2018 NO
+8262 Gary Young France 79 MERS-COV NO
+8386 Julie Bishop France 51 EVD NO
+8386 Julie Bishop France 51 FLU-2018 NO
+4198 Betty Wright France 33 SARS-COV-2 NO
+9260 Sydney Jones France 21 SARS-1 NO
+9883 Christopher Hoover France 62 FLU-2018 YES 29-04-2008
+6970 Monica Gross France 16 SARS-1 NO
+4569 Richard Manning France 67 H1N1 YES 18-08-2009
+1176 Kayla Romero France 23 SARS-1 NO
+1176 Kayla Romero France 23 SARS-COV-2 YES 10-11-2019
+998 Lisa Mason France 19 MERS-COV NO
+1050 Jessica Gregory France 17 H1N1 NO
+6791 Jessica Cannon France 29 SARS-COV-2 YES 28-11-2007
+1073 Jeffrey Barnes France 38 FLU-2018 YES 24-02-2002
+7244 Andrea Thompson France 44 COVID-2019 NO
+9518 Rebecca Lewis France 54 SARS-COV-2 NO
+3353 Briana Reed France 70 FLU-2018 NO
+3058 Patrick Jordan France 75 H1N1 NO
+2275 Ellen Hale France 25 H1N1 NO
+2453 Patricia Hunter France 75 COVID-2019 NO
+3488 Ian Green France 15 H1N1 YES 07-10-2008
+6551 Sara West France 12 MERS-COV YES 09-07-2014
+2565 Christina Burch France 69 COVID-2019 NO
+3938 Katie Owens France 71 SARS-COV-2 NO
+1081 Debra Johnson France 37 H1N1 NO
+2359 Howard Collins France 47 SARS-1 NO
+8669 Richard Smith France 19 EVD NO
+8669 Richard Smith France 19 SARS-1 YES 09-06-2017
+3220 Brenda Morgan France 64 EVD NO
+1879 Katie Armstrong France 12 FLU-2018 YES 23-08-2009
+1879 Katie Armstrong France 12 SARS-COV-2 YES 10-02-2011
+8454 Brandon Barker France 75 FLU-2018 YES 17-11-2018
+8257 Kristin Parker France 13 COVID-2019 NO
+8092 Lisa Smith France 13 COVID-2019 YES 03-11-2011
+868 James Davidson France 58 H1N1 NO
+868 James Davidson France 58 EVD NO
+2391 Robyn Chandler France 37 MERS-COV YES 14-02-2005
+7098 Mark Carter France 29 SARS-1 NO
+2387 Melanie Moyer France 78 SARS-1 NO
+2819 Anna Blankenship France 78 COVID-2019 NO
+6615 Robert Campbell France 36 H1N1 NO
+6615 Robert Campbell France 36 FLU-2018 NO
+8230 Jennifer Stevens France 31 COVID-2019 YES 01-02-2003
+4997 Adam Weber France 76 H1N1 NO
+7271 Leah Berg France 11 H1N1 YES 03-10-2004
+2173 Shannon Reed France 27 H1N1 YES 17-05-2018
+2139 Melissa Cunningham France 44 MERS-COV NO
+3000 Bryan Rivera France 12 COVID-2019 YES 04-03-2021
+2805 Robert Peterson France 61 MERS-COV YES 02-06-2011
+9475 Nicole Sanders France 20 SARS-COV-2 YES 21-12-2012
+9476 Tammy Williams France 22 SARS-1 NO
+579 Michael Brady France 17 H1N1 YES 14-06-2007
+4899 Rick Gomez France 60 MERS-COV YES 28-04-2012
+5425 Kevin Cisneros France 40 H1N1 NO
+5425 Kevin Cisneros France 40 SARS-1 YES 28-04-2010
+1328 Brandy Smith France 76 EVD YES 08-06-2018
+3028 Garrett Hester France 49 EVD YES 08-06-2013
+9932 Marisa Scott France 19 SARS-1 YES 28-10-2012
+7001 Martha David France 76 EVD YES 20-12-2016
+8467 Henry Patterson France 69 MERS-COV YES 30-11-2011
+7767 Juan White France 37 FLU-2018 NO
+7767 Juan White France 37 SARS-COV-2 YES 25-03-2005
+8209 Wendy Schwartz France 39 EVD YES 12-10-2002
+3437 Jonathan Burton France 60 FLU-2018 NO
+8475 Jared Miller France 21 SARS-1 YES 16-06-2003
+5426 Melanie Castro France 19 COVID-2019 YES 31-12-2011
+4591 Jeffrey French France 35 SARS-1 YES 24-07-2001
+3753 Daniel Powell France 77 EVD NO
+2968 Kellie Payne France 22 FLU-2018 YES 29-04-2008
+7818 Madison Gomez France 22 COVID-2019 YES 29-06-2014
+6121 Matthew Barker France 40 SARS-1 YES 12-10-2012
+3115 Brian Leblanc France 53 MERS-COV YES 03-01-2016
+3115 Brian Leblanc France 53 SARS-1 NO
+3841 James Martin France 43 H1N1 NO
+3959 Patricia Davis France 32 COVID-2019 NO
+4657 Dawn Davis France 73 COVID-2019 NO
+8185 Sandy Moss France 41 FLU-2018 YES 14-11-2017
+5159 Douglas Thompson France 13 SARS-1 NO
+39 Alexis Jordan France 20 COVID-2019 NO
+4277 Andrew Dunlap France 70 FLU-2018 YES 12-02-2020
+3723 Sandra Burke France 13 COVID-2019 NO
+8700 Gregory Burgess France 68 EVD YES 25-07-2013
+840 Thomas Hansen France 66 SARS-COV-2 YES 10-03-2013
+3889 Bradley Roberts France 29 SARS-1 YES 08-01-2017
+9680 Beth Williams France 74 H1N1 NO
+6890 Debra Perez France 29 EVD YES 17-05-2000
+5157 Miguel Lawrence France 39 H1N1 YES 21-10-2006
+4029 Connie Bailey France 70 COVID-2019 NO
+4463 Stacy Estes France 29 MERS-COV NO
+1538 Jennifer Griffin France 60 COVID-2019 NO
+494 Katherine Mendez France 16 FLU-2018 NO
+8192 Edward Perez France 45 FLU-2018 NO
+7551 Darren Simmons France 45 SARS-COV-2 YES 13-08-2005
+9793 Jennifer Hicks France 69 FLU-2018 YES 18-05-2000
+5783 Juan Lopez France 71 MERS-COV NO
+3285 Jonathan Silva France 78 EVD NO
+9077 Kari Hanson France 63 EVD YES 10-09-2018
+6425 Michelle Davis France 50 H1N1 NO
+3734 Kelli Bailey France 78 H1N1 NO
+7480 Mark Melton France 27 MERS-COV YES 05-09-2020
+3078 Jillian Martinez France 75 EVD YES 30-08-2018
+3690 Wayne Peterson France 42 MERS-COV NO
+4686 Kevin Castro France 16 SARS-1 YES 26-07-2011
+2370 Jennifer Meza France 23 FLU-2018 YES 16-06-2000
+1438 Bradley Page France 71 COVID-2019 NO
+4437 Jeremiah Young France 79 COVID-2019 NO
+708 Travis Jordan France 77 SARS-COV-2 NO
+1545 Olivia Morales France 62 H1N1 YES 30-01-2019
+6434 Gary Lee France 60 SARS-COV-2 NO
+9336 Jeffrey Chan France 23 SARS-1 YES 25-08-2011
+2165 Bridget Miller France 75 FLU-2018 NO
+8985 Lauren Howell France 12 FLU-2018 YES 18-02-2007
+4311 Christine Trevino France 73 SARS-COV-2 NO
+4311 Christine Trevino France 73 COVID-2019 NO
+6044 Timothy Ross France 28 FLU-2018 NO
+3161 Debra Walker France 18 SARS-COV-2 YES 08-09-2009
+6093 Judy Villegas France 12 EVD YES 20-12-2014
+6335 Mark West France 44 SARS-COV-2 YES 30-05-2019
+5379 Lisa Reyes France 75 MERS-COV NO
+5424 Amy Jacobs France 68 EVD YES 10-03-2020
+2305 Deborah Thomas France 24 H1N1 NO
+7546 Frederick George France 53 FLU-2018 YES 18-09-2002
+5023 John Smith France 19 EVD YES 12-10-2002
+8459 Randy Gonzalez France 55 H1N1 YES 11-02-2014
+8068 Nicholas Guerrero France 20 SARS-1 YES 31-01-2021
+123 Susan Frey France 69 EVD YES 26-11-2007
+4528 Michael Brown France 40 MERS-COV YES 14-12-2006
+6254 Kristina Bryant France 24 SARS-COV-2 YES 31-05-2019
+6254 Kristina Bryant France 24 MERS-COV NO
+4705 Tracy Harris France 74 SARS-COV-2 NO
+2288 Jeffery Franklin France 19 COVID-2019 NO
+5411 Krista Gomez France 52 EVD NO
+1287 Alex Alexander France 39 H1N1 NO
+6812 Jessica Lloyd France 66 COVID-2019 NO
+6358 Elizabeth Todd France 73 SARS-COV-2 NO
+8681 Thomas Brown France 64 H1N1 NO
+8681 Thomas Brown France 64 SARS-COV-2 NO
+9380 Alisha Jennings France 38 FLU-2018 NO
+4849 Jesus Kim France 47 SARS-COV-2 YES 15-09-2020
+6660 Mark Thomas France 66 EVD NO
+6395 Paige Payne France 77 COVID-2019 NO
+5483 Joseph Gordon France 43 MERS-COV YES 27-08-2016
+4820 Sarah Bullock France 21 MERS-COV NO
+1457 Amy Hancock France 50 EVD YES 16-02-2013
+7216 Christopher Warren France 19 EVD YES 26-06-2009
+2652 Shawn Williams France 48 EVD YES 04-04-2003
+4787 Sherri Bentley France 27 SARS-1 NO
+1295 Tracy Franklin France 24 FLU-2018 NO
+1295 Tracy Franklin France 24 COVID-2019 YES 17-10-2016
+549 Theresa Compton France 20 FLU-2018 NO
+8026 Kelly Bender France 15 COVID-2019 YES 05-12-2018
+3005 Richard Johnson France 18 EVD NO
+6466 Emily Rivera France 35 SARS-1 YES 01-01-2013
+6466 Emily Rivera France 35 COVID-2019 NO
+8988 Ryan Spears France 63 FLU-2018 NO
+7373 Betty Johnson France 45 EVD YES 18-02-2007
+7373 Betty Johnson France 45 FLU-2018 NO
+7002 Kevin Singleton France 61 FLU-2018 YES 17-12-2017
+7002 Kevin Singleton France 61 H1N1 YES 28-07-2001
+5063 Heather Carson France 23 SARS-COV-2 NO
+9088 Matthew Jones France 37 MERS-COV NO
+7047 Michael Sparks France 20 H1N1 NO
+2021 Timothy Scott France 79 MERS-COV YES 11-04-2020
+134 Ann Spencer France 13 SARS-1 NO
+8920 John Wilkinson France 79 MERS-COV NO
+7157 Bruce Baldwin France 78 SARS-1 YES 25-05-2016
+6443 Alyssa Cook France 64 SARS-COV-2 NO
+7009 Daniel Oconnell France 70 SARS-1 YES 20-01-2021
+2472 Brian Ramirez France 64 EVD YES 04-05-2007
+9894 Jeffrey Carney France 33 MERS-COV YES 27-05-2009
+4299 Alan Anderson France 42 EVD YES 14-12-2014
+8067 Lisa Foster France 18 COVID-2019 YES 16-07-2006
+2777 Zachary Ingram France 43 H1N1 NO
+6990 Erik Davis France 40 SARS-1 NO
+2841 Kara Dominguez France 23 FLU-2018 YES 24-02-2020
+8289 Mark Drake France 23 FLU-2018 YES 15-08-2017
+8289 Mark Drake France 23 H1N1 YES 10-06-2014
+5948 Patricia Mitchell France 76 SARS-1 YES 22-07-2003
+8452 Glenn Barnes France 45 MERS-COV YES 31-01-2004
+6318 Tom Bell France 39 MERS-COV YES 01-05-2000
+6318 Tom Bell France 39 FLU-2018 NO
+5548 Brittney Rivers France 40 H1N1 NO
+5548 Brittney Rivers France 40 FLU-2018 YES 25-08-2009
+7110 Patrick Winters France 29 H1N1 YES 15-08-2012
+6439 Joshua Williams France 72 SARS-COV-2 NO
+8188 Ashley Mann France 40 MERS-COV NO
+1422 Patrick Miller France 75 MERS-COV NO
+6495 Rachel Patterson France 75 H1N1 YES 29-04-2007
+3165 Nancy Jennings France 77 H1N1 NO
+4228 Madison Brooks France 42 COVID-2019 YES 02-04-2010
+6997 Jeremiah Williams France 22 COVID-2019 NO
+2857 Allen Weaver France 31 MERS-COV YES 20-04-2005
+1160 Michael Butler France 44 COVID-2019 NO
+50 Earl David France 13 SARS-1 YES 08-03-2014
+50 Earl David France 13 EVD NO
+3678 James Love France 36 FLU-2018 NO
+3678 James Love France 36 COVID-2019 YES 06-12-2017
+6243 Todd Reid France 67 MERS-COV NO
+5091 Brian Thomas France 13 SARS-COV-2 YES 19-07-2007
+5438 Anna Gibson France 23 H1N1 YES 17-06-2011
+5030 Joshua Evans France 55 SARS-COV-2 NO
+5030 Joshua Evans France 55 SARS-1 YES 19-07-2015
+3698 Joshua Stone France 37 SARS-1 NO
+5722 Nancy Rubio France 33 FLU-2018 YES 16-05-2016
+8095 Lee Franklin France 17 MERS-COV NO
+2374 David Ferguson France 53 EVD YES 14-07-2004
+330 James Santana France 10 SARS-COV-2 NO
+2975 Jennifer Meza France 73 SARS-1 NO
+1897 Troy Hines France 68 SARS-COV-2 YES 16-09-2019
+6392 Jessica Alexander France 49 EVD NO
+5352 Tanya Young France 30 COVID-2019 YES 03-06-2014
+9258 Kristin Rose France 54 H1N1 NO
+560 Troy Cameron France 30 SARS-COV-2 YES 19-05-2015
+2910 Nancy Nguyen France 33 COVID-2019 YES 07-08-2001
+2910 Nancy Nguyen France 33 H1N1 NO
+2355 Ryan Williams France 12 MERS-COV NO
+7088 Sarah Avila France 65 H1N1 NO
+309 April Davis France 20 SARS-1 YES 25-07-2005
+7037 Jessica Freeman France 19 MERS-COV NO
+1710 Andrew Weaver France 14 MERS-COV NO
+9611 Melinda Franklin France 72 COVID-2019 YES 27-04-2012
+8579 Denise Gonzalez France 59 SARS-1 YES 25-11-2011
+898 Karen Cruz France 44 COVID-2019 YES 14-06-2000
+898 Karen Cruz France 44 SARS-1 YES 22-06-2001
+6540 Edward Anderson France 31 MERS-COV NO
+9295 Bradley Jenkins France 13 FLU-2018 NO
+7322 Joshua Smith France 11 EVD YES 14-04-2011
+7950 Julie Kennedy France 66 H1N1 NO
+4208 Brian Ashley France 71 SARS-1 NO
+4208 Brian Ashley France 71 EVD NO
+938 David Jones France 17 COVID-2019 NO
+6375 Kathy Henderson France 46 FLU-2018 NO
+4282 Kelly Smith France 32 H1N1 NO
+4282 Kelly Smith France 32 SARS-1 NO
+8642 Cheryl Lewis France 17 FLU-2018 YES 02-06-2016
+8341 Katherine Conrad France 74 H1N1 YES 20-06-2010
+3458 Steven Lee France 63 SARS-COV-2 NO
+4457 Robin Johnson France 51 H1N1 NO
+1213 Jennifer Mckay France 17 SARS-1 NO
+8615 Robert Collins France 22 EVD NO
+145 Carlos Arroyo France 47 SARS-1 NO
+9374 Jason Wilson France 22 EVD NO
+7350 Danny Smith France 19 EVD NO
+3705 Christine Molina France 58 SARS-COV-2 NO
+1522 Zachary Edwards France 46 COVID-2019 YES 06-11-2019
+2976 Eric Gutierrez France 51 SARS-COV-2 NO
+8990 Mary Fisher France 20 SARS-COV-2 NO
+4892 Derrick Rogers France 58 MERS-COV YES 03-01-2002
+7470 Elizabeth Sherman France 77 SARS-1 NO
+7505 John King France 70 COVID-2019 YES 13-04-2009
+159 Lisa Taylor France 22 H1N1 NO
+2971 Jessica Barry France 16 H1N1 NO
+5859 Virginia Baker France 69 EVD YES 01-10-2013
+2170 Brianna Jordan France 32 EVD NO
+132 Lawrence Moreno France 18 FLU-2018 YES 22-04-2006
+1729 John Harris France 47 EVD NO
+823 Jill Johnson France 67 FLU-2018 YES 17-01-2008
+4698 Kyle Woods France 12 EVD YES 03-10-2014
+4698 Kyle Woods France 12 MERS-COV YES 18-09-2020
+7735 Christopher Smith France 65 H1N1 NO
+1905 Greg Pham France 64 COVID-2019 NO
+368 Lisa Hamilton France 59 COVID-2019 YES 16-10-2009
+795 Michael Graham France 35 H1N1 NO
+3789 Laurie Patrick France 26 H1N1 YES 22-06-2020
+2331 Alexandra Curtis France 26 MERS-COV NO
+2331 Alexandra Curtis France 26 SARS-COV-2 YES 01-09-2006
+3308 Clinton Mendoza France 59 EVD NO
+9784 Kristin Combs France 33 MERS-COV NO
+5759 Melissa Torres France 12 SARS-1 NO
+952 Timothy Lopez France 12 SARS-COV-2 NO
+1518 Kristen Goodwin France 24 EVD NO
+4428 John Taylor France 30 SARS-1 NO
+3590 Steven Jenkins France 64 COVID-2019 NO
+8314 Julie Pierce France 26 FLU-2018 NO
+8314 Julie Pierce France 26 H1N1 NO
+1671 Natasha Davis France 74 EVD YES 15-02-2006
+5865 Amanda English France 46 COVID-2019 NO
+5713 Frances Suarez France 36 H1N1 NO
+4377 Christine Simon France 54 MERS-COV YES 19-04-2000
+743 Joshua Bender France 41 FLU-2018 YES 03-10-2005
+2856 Stacy Garcia France 39 FLU-2018 YES 21-05-2007
+2582 Patrick Harrison France 21 SARS-1 YES 20-07-2007
+1122 Corey Jackson France 67 SARS-1 NO
+3871 Matthew Chang France 51 H1N1 NO
+7582 Tracey Brown France 30 SARS-COV-2 YES 21-04-2000
+1589 William Craig France 79 FLU-2018 NO
+7095 Vincent Wright France 64 H1N1 YES 24-01-2021
+7095 Vincent Wright France 64 SARS-1 YES 21-12-2017
+8486 Brandon Olsen France 49 EVD YES 30-09-2013
+5607 Jamie Patel France 67 SARS-1 YES 01-03-2009
+9686 Christopher Harris France 12 EVD YES 23-11-2013
+2452 Janice Russell France 50 SARS-COV-2 YES 12-11-2017
+8455 Ashley Collins France 34 FLU-2018 YES 16-10-2014
+8455 Ashley Collins France 34 SARS-1 YES 10-04-2008
+1003 Todd Cook France 25 EVD YES 17-12-2010
+319 Jamie Lee France 65 SARS-1 YES 26-05-2016
+2848 Dan Scott France 17 H1N1 NO
+3805 Ryan Massey France 49 MERS-COV NO
+8971 Julia Willis France 67 H1N1 YES 02-10-2014
+8971 Julia Willis France 67 MERS-COV YES 03-09-2005
+4786 Robert Price France 18 MERS-COV YES 03-01-2006
+5797 Juan Williams France 37 MERS-COV NO
+9804 Krista Davis France 39 MERS-COV NO
+9804 Krista Davis France 39 FLU-2018 YES 04-07-2014
+4093 Sara Brown France 18 H1N1 NO
+3633 Patrick Allen France 48 COVID-2019 YES 22-08-2008
+4842 Julie Richmond France 34 EVD YES 24-09-2018
+2768 Corey Riddle France 24 SARS-COV-2 YES 22-04-2000
+2196 Jose Sloan France 18 FLU-2018 YES 04-10-2003
+3379 Melissa Wong France 46 SARS-COV-2 YES 28-03-2016
+1288 Paul Garcia France 35 SARS-1 NO
+589 Scott Frank France 47 MERS-COV NO
+7461 Emma Michael France 78 SARS-1 NO
+3743 Jordan Duke France 57 H1N1 NO
+9082 Victoria Miller France 12 COVID-2019 NO
+7811 Joshua Jimenez France 20 FLU-2018 YES 12-03-2010
+3255 Richard Perkins France 56 SARS-1 NO
+3255 Richard Perkins France 56 EVD YES 12-08-2006
+7630 Randy Harris France 55 SARS-COV-2 YES 28-06-2007
+5885 Andrew Richardson France 28 SARS-1 NO
+5885 Andrew Richardson France 28 EVD YES 24-12-2020
+3322 William Luna France 76 FLU-2018 NO
+3205 Daisy Jackson France 51 COVID-2019 YES 01-05-2018
+4102 Sandra Sanders France 18 SARS-COV-2 YES 25-01-2017
+375 Anna Johnson France 40 FLU-2018 YES 19-03-2015
+5169 Jose Wright France 43 SARS-COV-2 NO
+8764 Ryan Gomez France 39 SARS-1 YES 13-05-2005
+8065 Roy Haley France 48 SARS-COV-2 YES 07-05-2017
+3475 Anthony Monroe France 49 SARS-1 NO
+3475 Anthony Monroe France 49 MERS-COV NO
+8728 Donald Horne France 10 COVID-2019 NO
+6995 Paula Warren France 74 SARS-COV-2 YES 15-02-2008
+6978 Eric Miller France 58 EVD YES 24-01-2013
+266 Bridget Moss France 71 SARS-1 NO
+9414 Larry Gibson France 29 H1N1 YES 01-01-2009
+9414 Larry Gibson France 29 SARS-COV-2 NO
+4387 Thomas Green France 34 H1N1 YES 06-04-2003
+4423 Anna Rangel France 47 SARS-COV-2 YES 20-04-2014
+900 Steven Garrett France 33 COVID-2019 NO
+7181 Renee Lee France 62 H1N1 NO
+4138 Brooke Barber France 39 MERS-COV NO
+2102 Joshua Melton France 52 SARS-1 NO
+2102 Joshua Melton France 52 COVID-2019 NO
+449 Michelle Kim France 49 SARS-COV-2 NO
+506 Julia Gonzalez France 50 SARS-1 NO
+7541 Lauren Gibson France 40 SARS-COV-2 YES 28-01-2008
+3487 Rickey Williams France 11 MERS-COV NO
+3993 Donald Moore France 12 H1N1 NO
+5297 Edward Morris France 63 MERS-COV NO
+6029 Dylan Mcintyre France 37 H1N1 YES 20-05-2010
+1776 Tyler Hubbard France 23 SARS-1 NO
+4864 Jessica Griffith France 46 EVD NO
+4864 Jessica Griffith France 46 MERS-COV NO
+9335 Jennifer Torres France 26 SARS-1 NO
+1604 Deanna Wilson France 72 H1N1 YES 07-05-2014
+376 Kevin Allen France 22 SARS-COV-2 NO
+7137 John Johnson France 75 H1N1 YES 14-07-2012
+7137 John Johnson France 75 SARS-1 YES 03-07-2018
+5810 Ashley Bridges France 13 MERS-COV NO
+5676 James Garrett France 48 COVID-2019 YES 27-08-2002
+6025 Gina Miller France 45 EVD NO
+4421 Maxwell White France 67 SARS-1 NO
+1576 Gloria Brown France 14 H1N1 NO
+1296 Larry Smith France 34 H1N1 NO
+5190 Shawn Thomas France 47 FLU-2018 YES 18-02-2000
+813 Sydney Schmitt France 21 COVID-2019 NO
+2673 Kristin Brown France 50 MERS-COV YES 20-06-2011
+2673 Kristin Brown France 50 EVD NO
+3074 Cody Fields France 13 SARS-1 YES 21-07-2012
+2254 William Anderson France 31 H1N1 YES 08-01-2003
+2735 Cristian Mckay France 52 SARS-1 NO
+7149 Ronald Stanley France 15 FLU-2018 NO
+9130 Annette Thompson France 46 FLU-2018 YES 16-11-2009
+9446 Michele Shelton France 33 EVD NO
+6499 Timothy Montgomery France 45 SARS-1 NO
+7345 Ashley Lopez France 22 SARS-COV-2 YES 21-03-2009
+510 Jeffrey Nelson France 74 FLU-2018 NO
+1665 Anthony Jones France 78 SARS-1 NO
+5919 Theresa Arnold France 69 SARS-COV-2 NO
+4052 Heather Garrison France 51 H1N1 NO
+2611 Craig Perry France 64 H1N1 NO
+2371 John Garcia France 49 EVD YES 12-12-2004
+2371 John Garcia France 49 COVID-2019 NO
+6626 Theresa Sullivan France 63 H1N1 YES 04-05-2019
+5242 Madison Christian France 37 SARS-COV-2 YES 09-02-2008
+488 William Carter France 56 COVID-2019 YES 12-06-2015
+3490 Ronald Glover France 20 COVID-2019 NO
+3490 Ronald Glover France 20 SARS-1 NO
+7907 Michael Barajas France 13 COVID-2019 NO
+2342 Robert Potter France 62 EVD NO
+2342 Robert Potter France 62 SARS-COV-2 NO
+9269 Alec Smith France 63 MERS-COV YES 16-07-2010
+334 Christopher Bowers France 39 COVID-2019 YES 15-02-2019
+7712 Rebecca Jenkins France 74 SARS-COV-2 NO
+1361 Lee Scott France 16 SARS-1 YES 12-12-2001
+2612 Jason Parker France 16 SARS-COV-2 YES 30-01-2002
+4694 Sally Potter France 64 SARS-COV-2 NO
+4694 Sally Potter France 64 H1N1 NO
+6180 Kimberly Sellers France 43 COVID-2019 YES 03-06-2007
+3309 Jimmy Gregory France 21 SARS-1 YES 10-04-2011
+7481 Lauren Nicholson France 24 EVD NO
+3974 Vincent Martinez France 51 FLU-2018 YES 24-12-2020
+6632 John Ellison France 77 SARS-COV-2 YES 27-08-2016
+424 Marcus Lee France 75 SARS-1 NO
+8551 Bryan Stone France 41 SARS-COV-2 NO
+5163 Samantha Simmons France 77 FLU-2018 YES 26-06-2008
+5989 Kaylee Martin France 68 EVD YES 04-04-2012
+5989 Kaylee Martin France 68 SARS-1 NO
+2075 Jeffrey Glass France 53 COVID-2019 NO
+9320 Bob Obrien France 74 FLU-2018 YES 02-09-2005
+1965 John Reed France 30 MERS-COV NO
+9834 Tamara Rogers France 22 FLU-2018 YES 10-04-2003
+9511 Thomas Greene France 53 COVID-2019 NO
+6169 Kevin Bruce France 34 COVID-2019 NO
+766 Susan Anderson France 14 COVID-2019 YES 04-02-2005
+5601 Kathryn Wilson France 54 COVID-2019 NO
+1961 John Johnson France 68 EVD YES 14-10-2005
+1090 Hunter Patel France 22 SARS-COV-2 YES 18-04-2001
+4854 Brianna Morgan France 12 SARS-COV-2 NO
+531 Sarah Petersen France 79 COVID-2019 YES 14-11-2003
+531 Sarah Petersen France 79 SARS-COV-2 NO
+1728 Amanda Banks France 39 EVD NO
+4025 Warren Olson France 13 H1N1 YES 08-03-2013
+4319 Adam Reyes France 50 MERS-COV NO
+9102 Kelsey Whitaker France 33 EVD NO
+3542 Madison Cole France 64 MERS-COV NO
+5507 Deborah Mann France 10 MERS-COV NO
+5288 Melanie Thompson France 36 SARS-1 NO
+5288 Melanie Thompson France 36 MERS-COV NO
+5025 James Thompson France 50 SARS-1 YES 23-12-2017
+8074 Ryan Griffin France 46 MERS-COV YES 04-05-2007
+4860 Brandon Michael France 42 COVID-2019 NO
+1766 Chelsea Richmond France 42 EVD NO
+5986 Kristin Shah France 64 H1N1 NO
+668 James Marsh France 64 COVID-2019 NO
+8104 Kelly Martinez France 71 FLU-2018 NO
+7220 Christopher Gilbert France 46 SARS-1 YES 19-02-2010
+270 Kent Johnson France 62 COVID-2019 YES 03-03-2004
+791 Robin Davis France 41 FLU-2018 NO
+5516 Susan Maynard France 51 H1N1 YES 08-10-2013
+6307 Lori Sellers France 45 H1N1 YES 18-06-2007
+4099 Jessica Cantu France 26 COVID-2019 NO
+2071 Meghan Thompson France 64 SARS-COV-2 NO
+2116 Elizabeth Mcclure France 58 EVD NO
+1789 Jillian Thompson France 75 H1N1 NO
+6529 Pamela Brown France 77 COVID-2019 NO
+1591 Andrea Jackson France 27 SARS-COV-2 NO
+1591 Andrea Jackson France 27 H1N1 NO
+5282 Kent Thornton France 23 SARS-1 NO
+5494 Jason Brown France 44 SARS-COV-2 YES 01-12-2007
+5494 Jason Brown France 44 MERS-COV NO
+7686 Deborah Osborne France 43 COVID-2019 YES 13-06-2013
+5863 Derrick Gardner France 46 COVID-2019 YES 17-09-2014
+4813 Anthony Wright France 75 H1N1 NO
+7661 Darlene Smith France 23 FLU-2018 YES 26-07-2000
+6074 Lee Payne France 66 FLU-2018 YES 27-11-2019
+6074 Lee Payne France 66 EVD NO
+1256 Karen Graves France 25 COVID-2019 YES 10-09-2001
+6340 Jose Allen France 37 H1N1 NO
+6302 Andrea Cardenas France 66 FLU-2018 YES 29-07-2000
+6302 Andrea Cardenas France 66 COVID-2019 NO
+6241 Dana Taylor France 10 SARS-COV-2 NO
+3791 Jerome Walker France 46 COVID-2019 YES 18-03-2005
+7898 Bryce Acevedo France 48 FLU-2018 YES 28-05-2003
+5985 Tommy Kerr France 12 H1N1 NO
+1425 William Fitzgerald France 60 SARS-COV-2 NO
+505 Jaclyn Walker France 43 MERS-COV NO
+7684 Joshua Sherman France 31 EVD YES 27-01-2016
+3920 Joyce Evans France 65 SARS-1 YES 05-11-2003
+5500 James Clark France 39 FLU-2018 NO
+5500 James Clark France 39 SARS-COV-2 NO
+4090 Lisa Bates France 68 FLU-2018 NO
+2766 Nicole Ferrell France 60 FLU-2018 NO
+7506 Michelle Murray France 79 EVD YES 15-01-2007
+7845 Felicia Barker France 75 SARS-1 NO
+7447 Rachel Walsh France 14 FLU-2018 NO
+5544 Robert Williams France 12 MERS-COV NO
+1537 John Palmer France 26 COVID-2019 NO
+5978 Audrey Mckinney France 39 MERS-COV YES 02-07-2011
+2054 Marcus Smith France 22 H1N1 YES 09-01-2002
+6285 Colin Edwards France 60 H1N1 NO
+6393 Danielle Nelson France 72 FLU-2018 YES 09-05-2006
+1775 Darrell Holder France 34 EVD YES 20-08-2004
+9301 Craig Cox France 76 SARS-COV-2 YES 19-06-2011
+5272 Ashley Farmer France 70 H1N1 NO
+8600 Heidi Bolton France 77 EVD NO
+2833 Aaron Wilson France 58 MERS-COV NO
+2833 Aaron Wilson France 58 COVID-2019 NO
+1233 Larry Navarro France 66 COVID-2019 YES 22-01-2004
+9901 Nathan Tucker France 17 SARS-COV-2 YES 01-05-2003
+2665 Melissa Wyatt France 49 EVD NO
+4413 Paul Castillo France 43 COVID-2019 YES 03-03-2004
+4413 Paul Castillo France 43 FLU-2018 NO
+5611 Matthew Cooper France 72 SARS-1 NO
+736 Laura Davies France 69 SARS-1 YES 15-08-2019
+4086 Brandon Tate France 78 H1N1 YES 16-04-2001
+6022 Yolanda Wagner France 38 SARS-COV-2 YES 21-05-2013
+9556 Donna Edwards France 68 EVD YES 04-03-2021
+9556 Donna Edwards France 68 COVID-2019 YES 21-11-2006
+6810 Claire Sullivan France 11 SARS-COV-2 NO
+2051 Patricia Zimmerman France 16 H1N1 NO
+3236 John Cooley France 73 H1N1 YES 17-12-2014
+9489 Brittany Hunter France 22 FLU-2018 NO
+8508 Rachel Cunningham France 25 H1N1 NO
+3070 Katherine Wilson France 52 COVID-2019 NO
+8391 Evelyn Williamson France 27 MERS-COV YES 26-03-2019
+7030 Rita Brooks France 39 COVID-2019 NO
+2427 Jane Clark France 54 FLU-2018 YES 09-10-2001
+4942 Joseph Long France 43 H1N1 NO
+6714 Steven Graham France 47 FLU-2018 YES 20-03-2017
+4709 Lawrence Love France 40 FLU-2018 NO
+6992 Edward Shaffer France 24 COVID-2019 YES 12-01-2002
+3498 James Thomas France 44 EVD YES 06-09-2011
+8823 Deanna Hahn France 40 SARS-COV-2 NO
+6288 Jerome George France 31 FLU-2018 YES 27-05-2001
+6288 Jerome George France 31 SARS-COV-2 YES 09-02-2008
+9829 Christopher Gates France 63 SARS-1 NO
+1276 Rhonda Castillo France 75 MERS-COV NO
+2711 Martin Bishop France 13 COVID-2019 YES 21-03-2015
+6110 Kyle Green France 24 EVD NO
+6110 Kyle Green France 24 SARS-1 YES 02-03-2009
+7372 David Mercado France 17 COVID-2019 YES 30-05-2002
+6232 Ashley Hunter France 22 H1N1 YES 22-02-2017
+8839 Vickie Wilson France 29 SARS-COV-2 YES 15-10-2016
+8839 Vickie Wilson France 29 MERS-COV YES 26-01-2008
+8084 Sharon Figueroa France 31 SARS-1 NO
+4470 Christopher Rosales France 64 COVID-2019 YES 04-01-2012
+8440 Joshua Cooper France 69 EVD YES 06-10-2019
+9757 James Bray France 51 COVID-2019 YES 23-08-2004
+9757 James Bray France 51 MERS-COV NO
+7224 Preston Walker France 67 MERS-COV YES 29-06-2017
+936 Janice Ford France 66 SARS-1 NO
+4362 Dwayne Hickman France 72 COVID-2019 NO
+7569 Christopher Shepard France 74 SARS-1 YES 20-05-2009
+171 Brian Durham France 71 EVD YES 20-12-2019
+3069 Amy Wilkinson France 15 H1N1 YES 10-11-2009
+2574 Christopher Miller France 65 MERS-COV YES 16-12-2020

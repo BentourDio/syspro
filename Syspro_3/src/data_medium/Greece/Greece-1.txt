@@ -1,0 +1,529 @@
+1430 Nancy Jennings Greece 13 SARS-COV-2 NO
+4671 Belinda Smith Greece 64 COVID-2019 NO
+8933 Jeremy Lee Greece 28 SARS-1 YES 13-06-2020
+7079 Mariah Dixon Greece 47 H1N1 NO
+9247 Ashley Harper Greece 49 FLU-2018 NO
+8036 Mark Smith Greece 63 H1N1 YES 17-10-2013
+1226 Danny Lang Greece 21 EVD YES 15-10-2018
+9534 John Newman Greece 44 SARS-1 YES 14-04-2003
+2496 Alexis Martinez Greece 60 MERS-COV YES 04-02-2021
+719 Brenda Collins Greece 25 EVD NO
+2285 Sue Munoz Greece 18 EVD YES 07-07-2002
+7359 Michael Chaney Greece 21 COVID-2019 YES 02-02-2010
+3463 Amanda Gibson Greece 53 SARS-COV-2 YES 22-05-2006
+8696 Scott Smith Greece 32 H1N1 YES 13-06-2019
+8726 Megan Jones Greece 28 COVID-2019 YES 18-04-2001
+5450 Chelsea Davidson Greece 13 MERS-COV YES 01-10-2010
+5118 Mark Martin Greece 21 COVID-2019 NO
+8490 Taylor Mcpherson Greece 74 FLU-2018 YES 22-01-2016
+9478 Autumn Everett Greece 11 COVID-2019 NO
+8323 Haley Gonzales Greece 79 FLU-2018 NO
+6907 Joseph Hicks Greece 77 H1N1 NO
+2761 Carla Santos Greece 50 MERS-COV NO
+2761 Carla Santos Greece 50 COVID-2019 NO
+4459 Glen Frye Greece 10 FLU-2018 YES 12-02-2009
+3435 Lori Reed Greece 11 MERS-COV YES 21-07-2006
+3113 Jeff Davidson Greece 16 SARS-1 NO
+4643 Veronica Hancock Greece 19 MERS-COV YES 01-09-2017
+1329 Zoe Edwards Greece 70 COVID-2019 NO
+3282 George Dean Greece 75 FLU-2018 YES 03-04-2016
+6771 Daniel Foster Greece 47 SARS-1 YES 25-10-2012
+2733 Harry Freeman Greece 26 H1N1 YES 14-02-2018
+1568 Nicholas Davis Greece 36 MERS-COV YES 06-12-2003
+5785 Angelica Romero Greece 66 SARS-COV-2 NO
+7705 William Stanley Greece 76 COVID-2019 NO
+7192 Jennifer Serrano Greece 13 MERS-COV YES 07-11-2002
+7522 Shawn Davis Greece 56 MERS-COV NO
+5559 Ronald Mcclain Greece 31 H1N1 YES 28-12-2009
+9472 Elizabeth Thompson Greece 55 FLU-2018 NO
+3083 Sharon Rojas Greece 33 SARS-1 YES 05-08-2011
+5950 Crystal Lewis Greece 21 SARS-1 YES 19-06-2008
+1182 Kayla Harris Greece 45 H1N1 YES 26-04-2005
+2014 John Smith Greece 51 SARS-COV-2 NO
+8228 Russell Robles Greece 69 EVD NO
+4333 James Harris Greece 50 EVD YES 02-10-2012
+4552 Stephen Stone Greece 79 EVD YES 04-04-2016
+4402 Robert Hayes Greece 16 SARS-COV-2 YES 29-09-2015
+101 Nicholas Ponce Greece 46 MERS-COV NO
+464 Jeremy Barker Greece 62 FLU-2018 YES 17-01-2018
+7927 Sara Scott Greece 65 EVD YES 12-01-2014
+3412 Thomas Meyers Greece 28 H1N1 YES 15-07-2014
+625 Thomas Wilson Greece 44 FLU-2018 YES 11-02-2012
+1494 Carol Huerta Greece 65 SARS-1 YES 25-09-2001
+3060 Devin Terrell Greece 38 H1N1 YES 12-12-2001
+2643 Chad Blake Greece 23 SARS-COV-2 YES 05-06-2015
+6101 James Bradley Greece 35 SARS-1 YES 19-03-2020
+8017 Barbara Moran Greece 37 SARS-COV-2 NO
+6706 Phillip Mason Greece 72 H1N1 NO
+8914 Matthew Olsen Greece 33 MERS-COV NO
+9338 Sherri Ayers Greece 72 FLU-2018 NO
+3821 Candace Gray Greece 39 EVD NO
+7054 Carl Silva Greece 35 H1N1 YES 07-02-2005
+6964 Brandon Cortez Greece 42 SARS-COV-2 YES 01-11-2011
+7309 Gabriel Moore Greece 67 SARS-1 YES 10-09-2002
+1861 Robert Stephens Greece 33 MERS-COV NO
+4649 George Montoya Greece 51 SARS-1 YES 01-04-2001
+5397 George Villarreal Greece 41 SARS-COV-2 YES 29-12-2016
+2060 Michael Miller Greece 74 FLU-2018 YES 01-04-2002
+1958 Dominique Coleman Greece 63 H1N1 YES 29-08-2020
+8554 Matthew Moss Greece 75 H1N1 NO
+8554 Matthew Moss Greece 75 COVID-2019 NO
+2959 Derek Moore Greece 74 SARS-1 YES 27-08-2008
+4904 Kathleen Reed Greece 72 SARS-COV-2 NO
+4728 Tyler Harrell Greece 75 SARS-COV-2 NO
+6686 Kayla Roberts Greece 12 MERS-COV NO
+939 David Marshall Greece 35 FLU-2018 NO
+4347 Alex Myers Greece 25 COVID-2019 YES 22-02-2017
+7268 Samantha Copeland Greece 59 FLU-2018 YES 23-12-2019
+7268 Samantha Copeland Greece 59 H1N1 NO
+1889 Traci Crawford Greece 19 FLU-2018 YES 21-03-2003
+8999 Christopher Morton Greece 14 MERS-COV NO
+4965 Carla Huang Greece 68 EVD YES 16-07-2017
+3121 William Buckley Greece 29 SARS-COV-2 NO
+6407 Chase Rodriguez Greece 10 SARS-1 YES 04-02-2009
+5204 Kevin Frank Greece 75 SARS-1 NO
+1448 Sarah Yu Greece 38 EVD NO
+8165 Nicole Stewart Greece 49 SARS-1 NO
+7783 Brandy Mcdowell Greece 74 SARS-COV-2 NO
+7783 Brandy Mcdowell Greece 74 EVD YES 20-01-2000
+7238 Dakota Leonard Greece 55 MERS-COV NO
+6026 Mike Warner Greece 12 SARS-1 NO
+5067 Ashley Sandoval Greece 20 EVD NO
+6777 Jessica Sanchez Greece 63 SARS-1 NO
+3512 Kenneth Myers Greece 61 SARS-COV-2 YES 10-05-2015
+3512 Kenneth Myers Greece 61 H1N1 NO
+4778 Adam Garcia Greece 59 SARS-COV-2 NO
+9963 David Santiago Greece 66 H1N1 NO
+7165 Michelle Pacheco Greece 47 H1N1 YES 07-04-2012
+4219 Michael Lara Greece 24 H1N1 YES 28-12-2002
+7475 Angela Adams Greece 25 MERS-COV YES 11-03-2003
+9148 Haley Hartman Greece 74 COVID-2019 YES 13-07-2004
+859 Holly Johnston Greece 68 SARS-1 NO
+859 Holly Johnston Greece 68 FLU-2018 YES 13-03-2010
+4685 Diane Lozano Greece 73 FLU-2018 NO
+7626 Alexis Rios Greece 37 FLU-2018 YES 20-03-2004
+850 Trevor Byrd Greece 72 COVID-2019 NO
+97 Brian Rodriguez Greece 12 SARS-1 YES 14-08-2013
+3774 Shane Haynes Greece 71 COVID-2019 NO
+3774 Shane Haynes Greece 71 SARS-1 YES 14-02-2020
+9342 Kiara Farmer Greece 19 EVD YES 23-04-2013
+2581 Trevor Baker Greece 70 FLU-2018 YES 29-01-2021
+1673 Diana Kirby Greece 59 FLU-2018 YES 05-02-2006
+1673 Diana Kirby Greece 59 H1N1 NO
+4113 Nancy Bates Greece 36 MERS-COV YES 14-04-2003
+1725 Stephen Johnson Greece 59 EVD NO
+7943 Cassandra Manning Greece 45 H1N1 YES 17-08-2013
+1631 Gregory Castillo Greece 62 MERS-COV YES 26-04-2008
+3398 Martin Simpson Greece 78 MERS-COV NO
+5508 Keith Thomas Greece 26 MERS-COV YES 01-03-2008
+8794 Willie Aguirre Greece 57 SARS-1 YES 20-05-2018
+7160 Melissa Mendez Greece 65 SARS-COV-2 YES 02-04-2020
+5875 Rachel Taylor Greece 73 SARS-COV-2 NO
+8997 Meghan Lewis Greece 70 H1N1 YES 21-10-2004
+51 Melissa Cook Greece 38 FLU-2018 NO
+7229 Eric Brooks Greece 42 COVID-2019 NO
+3985 Jill Mccullough Greece 44 H1N1 YES 14-08-2013
+5805 Jesse Thompson Greece 66 MERS-COV YES 23-08-2011
+3703 Tracy Pierce Greece 14 EVD YES 27-04-2006
+3515 Nicholas Wilson Greece 73 SARS-1 YES 30-08-2012
+2930 Darrell Tucker Greece 23 FLU-2018 YES 26-10-2002
+2930 Darrell Tucker Greece 23 SARS-COV-2 NO
+9129 Vanessa Johnson Greece 72 COVID-2019 YES 09-07-2001
+2078 Darren Gomez Greece 23 SARS-1 YES 15-08-2000
+1625 Andrew Stafford Greece 12 MERS-COV NO
+8784 Christina Hebert Greece 41 SARS-1 YES 03-01-2015
+563 Howard Stephens Greece 15 MERS-COV NO
+5062 Roberto Long Greece 43 COVID-2019 YES 04-07-2001
+3343 Amber Waller Greece 59 MERS-COV YES 08-05-2010
+5564 Kelly Barron Greece 52 FLU-2018 YES 06-05-2015
+5696 Jacob Erickson Greece 16 SARS-COV-2 NO
+2463 Nicole Scott Greece 42 COVID-2019 YES 12-08-2000
+6844 Melissa Tapia Greece 70 SARS-1 NO
+6644 Douglas Nelson Greece 15 SARS-COV-2 NO
+6644 Douglas Nelson Greece 15 FLU-2018 YES 07-08-2015
+1830 John Wilson Greece 10 H1N1 NO
+8972 Ryan Gordon Greece 15 H1N1 NO
+2689 Sara Mcdonald Greece 23 MERS-COV YES 14-06-2017
+2913 Tanya Weaver Greece 40 SARS-COV-2 NO
+2913 Tanya Weaver Greece 40 H1N1 YES 30-10-2000
+7306 Joshua Dorsey Greece 72 COVID-2019 YES 01-05-2012
+3103 Brandon Williams Greece 33 SARS-COV-2 YES 27-07-2002
+3103 Brandon Williams Greece 33 FLU-2018 NO
+2786 Maria Porter Greece 55 EVD NO
+1572 Edward Mahoney Greece 54 SARS-COV-2 NO
+8542 Barbara Norris Greece 21 MERS-COV NO
+1423 James Compton Greece 54 H1N1 NO
+378 Melissa David Greece 79 MERS-COV YES 29-06-2018
+1781 Craig Frost Greece 74 FLU-2018 YES 10-02-2011
+1781 Craig Frost Greece 74 EVD NO
+4815 Valerie Baker Greece 71 MERS-COV YES 11-11-2012
+9192 Michael Miranda Greece 77 COVID-2019 YES 31-08-2004
+6846 Brandon Mcconnell Greece 73 SARS-1 NO
+9558 Nathan Francis Greece 48 COVID-2019 YES 27-04-2019
+786 Alyssa Pennington Greece 53 MERS-COV NO
+5606 Janice Nichols Greece 10 SARS-COV-2 NO
+1236 Jennifer Adams Greece 62 H1N1 NO
+9261 Lindsey Foley Greece 46 EVD NO
+8962 Charles Moore Greece 76 MERS-COV NO
+7304 Beth Burke Greece 11 SARS-1 YES 31-07-2013
+955 Maureen Collins Greece 78 SARS-1 NO
+5702 Scott Escobar Greece 26 MERS-COV YES 22-06-2017
+806 Jeffrey Quinn Greece 24 SARS-1 YES 12-10-2017
+9587 Chelsey Ward Greece 63 H1N1 YES 01-04-2016
+9587 Chelsey Ward Greece 63 SARS-COV-2 YES 21-01-2011
+3294 Micheal Baker Greece 59 FLU-2018 NO
+2143 Thomas Howard Greece 20 COVID-2019 YES 22-06-2006
+6240 Katie Murray Greece 70 SARS-COV-2 YES 24-07-2008
+6240 Katie Murray Greece 70 MERS-COV YES 12-07-2007
+5069 Lisa Parker Greece 58 SARS-COV-2 YES 15-05-2001
+3163 Adam Arroyo Greece 55 SARS-COV-2 YES 13-03-2011
+6339 Ashley Rasmussen Greece 79 MERS-COV NO
+6339 Ashley Rasmussen Greece 79 COVID-2019 YES 16-01-2017
+5832 Michelle White Greece 61 SARS-1 YES 13-07-2012
+3756 Jacob Conway Greece 32 SARS-COV-2 NO
+7290 Ashley Jimenez Greece 75 MERS-COV NO
+9658 Emily Reynolds Greece 78 SARS-COV-2 NO
+9005 Jose Thompson Greece 25 FLU-2018 YES 07-01-2002
+9005 Jose Thompson Greece 25 SARS-1 NO
+8597 William Williams Greece 15 SARS-1 NO
+5011 John Munoz Greece 53 COVID-2019 YES 04-06-2004
+3650 Michele Morris Greece 69 MERS-COV YES 30-06-2013
+3650 Michele Morris Greece 69 FLU-2018 NO
+3405 Taylor Snyder Greece 75 MERS-COV NO
+8487 Shawn Shaw Greece 31 H1N1 YES 21-10-2018
+7568 Michael Fischer Greece 50 H1N1 YES 12-06-2010
+1248 Logan Harris Greece 37 MERS-COV YES 30-06-2007
+1248 Logan Harris Greece 37 H1N1 NO
+5092 Craig Moore Greece 66 COVID-2019 YES 15-01-2011
+2636 Nathaniel Alvarado Greece 49 EVD YES 13-12-2003
+5923 James Adams Greece 51 H1N1 NO
+4097 Samantha Yang Greece 60 H1N1 NO
+3293 Penny Foley Greece 12 MERS-COV YES 03-11-2020
+3293 Penny Foley Greece 12 SARS-COV-2 YES 01-12-2020
+9054 Jeffrey Boone Greece 34 SARS-1 NO
+9054 Jeffrey Boone Greece 34 MERS-COV NO
+5525 Angelica Armstrong Greece 60 COVID-2019 YES 01-10-2000
+9841 Nicholas Moore Greece 12 MERS-COV NO
+3627 Carrie Campbell Greece 63 COVID-2019 NO
+358 Miguel Crawford Greece 26 MERS-COV NO
+5849 Jerome Campbell Greece 72 SARS-1 NO
+2814 Heather Miller Greece 41 SARS-COV-2 NO
+6345 Mark Bass Greece 16 MERS-COV NO
+7022 Karen Hernandez Greece 21 H1N1 YES 26-04-2016
+5048 James Stewart Greece 40 SARS-1 YES 03-06-2013
+5714 Ashley Jones Greece 35 MERS-COV NO
+5714 Ashley Jones Greece 35 FLU-2018 NO
+16 Matthew Price Greece 60 H1N1 YES 01-08-2014
+9244 Jason Mcguire Greece 56 MERS-COV NO
+2110 Karen Owens Greece 56 FLU-2018 NO
+4032 Molly Holland Greece 24 EVD YES 19-06-2003
+7289 Sherry Jones Greece 25 FLU-2018 YES 30-08-2002
+6405 Jacqueline Sanders Greece 40 H1N1 NO
+8383 Andrea Kelly Greece 70 FLU-2018 YES 04-01-2006
+7274 William Hernandez Greece 70 COVID-2019 YES 01-05-2007
+7714 Robert Holmes Greece 63 SARS-COV-2 NO
+4142 Rachel Thomas Greece 62 H1N1 NO
+3431 Peter Coffey Greece 52 EVD YES 28-03-2015
+3054 April Thomas Greece 78 EVD NO
+6817 Marcus Clark Greece 57 SARS-COV-2 YES 02-05-2003
+2866 Gregory Dodson Greece 31 H1N1 YES 28-02-2012
+1368 Kimberly Austin Greece 71 SARS-1 NO
+4609 Matthew Cunningham Greece 37 SARS-1 YES 07-08-2010
+4799 Rebecca Martin Greece 44 FLU-2018 YES 23-03-2020
+5024 Curtis Moyer Greece 69 SARS-COV-2 NO
+5024 Curtis Moyer Greece 69 SARS-1 NO
+5001 David Strickland Greece 21 H1N1 NO
+5645 Ashley Cooley Greece 76 COVID-2019 NO
+5 Andrea Perkins Greece 78 EVD NO
+7482 David Snow Greece 60 H1N1 NO
+4340 Richard Ali Greece 61 SARS-1 NO
+4340 Richard Ali Greece 61 H1N1 YES 24-03-2007
+56 Lori Ayers Greece 75 COVID-2019 YES 22-11-2019
+1372 Nicholas White Greece 73 SARS-1 YES 10-04-2011
+1949 Brandon Wells Greece 58 COVID-2019 YES 09-12-2001
+1170 Shannon Garcia Greece 11 MERS-COV YES 05-08-2007
+2265 Troy Durham Greece 40 COVID-2019 NO
+15 Deborah Taylor Greece 36 EVD NO
+9960 Terry Lopez Greece 56 SARS-1 NO
+9024 Jeffrey Avila Greece 15 SARS-1 NO
+6514 Mark Henderson Greece 48 SARS-1 YES 10-04-2009
+9814 Mark Holder Greece 65 SARS-COV-2 YES 07-04-2020
+3931 Emily Martin Greece 55 SARS-1 YES 10-06-2012
+9893 Michael Robinson Greece 72 COVID-2019 YES 10-02-2005
+9893 Michael Robinson Greece 72 EVD YES 21-11-2015
+5872 Joshua Marshall Greece 51 COVID-2019 NO
+300 Sara Huerta Greece 54 SARS-COV-2 NO
+3509 Daniel Jones Greece 17 COVID-2019 YES 21-09-2008
+8056 Shelby Kelly Greece 52 MERS-COV NO
+623 April Buckley Greece 38 MERS-COV NO
+4000 Cheryl Patton Greece 46 COVID-2019 NO
+8003 Shannon Thompson Greece 13 FLU-2018 NO
+1640 Laura Garcia Greece 30 COVID-2019 NO
+921 Daniel Wagner Greece 10 EVD YES 01-11-2001
+9652 Gabriella Trevino Greece 14 SARS-COV-2 YES 19-06-2004
+7349 Terrance Nguyen Greece 42 SARS-1 NO
+1953 Michael Weber Greece 16 EVD YES 08-04-2008
+4037 Karen Mitchell Greece 64 H1N1 YES 28-03-2008
+3581 Anna Ballard Greece 71 FLU-2018 NO
+3581 Anna Ballard Greece 71 MERS-COV YES 18-04-2019
+6723 Susan Sweeney Greece 19 COVID-2019 YES 31-10-2009
+2832 Lori Johnson Greece 36 EVD YES 08-01-2014
+5689 Willie Mercado Greece 32 SARS-1 YES 08-08-2015
+5689 Willie Mercado Greece 32 SARS-COV-2 NO
+7776 Danny Romero Greece 55 SARS-COV-2 YES 02-10-2020
+3911 Jennifer Martinez Greece 73 SARS-COV-2 NO
+4486 Julia Davis Greece 64 EVD NO
+6842 Caleb Jones Greece 31 SARS-COV-2 NO
+5829 Jamie Wallace Greece 51 SARS-1 NO
+3387 Allen Benjamin Greece 79 FLU-2018 NO
+4678 Jessica Ingram Greece 37 COVID-2019 YES 20-11-2020
+3131 Joyce Shaw Greece 33 EVD YES 31-08-2007
+3131 Joyce Shaw Greece 33 MERS-COV NO
+933 Adam Ware Greece 25 MERS-COV YES 08-10-2002
+9241 Keith Harper Greece 67 EVD NO
+9714 Kara Aguirre Greece 65 H1N1 NO
+7657 Frank Clark Greece 28 FLU-2018 YES 24-04-2002
+6678 Matthew Taylor Greece 72 EVD YES 15-10-2008
+1114 Felicia Berry Greece 57 FLU-2018 NO
+7014 Katelyn Chavez Greece 35 COVID-2019 YES 12-07-2000
+731 William West Greece 26 SARS-1 YES 08-09-2016
+8676 Jennifer Castro Greece 45 MERS-COV NO
+6116 William Brown Greece 79 SARS-COV-2 NO
+389 Dustin Evans Greece 34 COVID-2019 NO
+4354 Paul Rodriguez Greece 38 COVID-2019 YES 23-07-2003
+3204 Sarah Vance Greece 75 MERS-COV YES 14-02-2017
+3204 Sarah Vance Greece 75 SARS-1 NO
+6691 Thomas Rodriguez Greece 78 MERS-COV NO
+9869 Andrew Nunez Greece 51 COVID-2019 NO
+8157 Alan Myers Greece 70 SARS-COV-2 YES 03-10-2005
+4730 Elizabeth Jones Greece 31 COVID-2019 NO
+8259 Kenneth Knapp Greece 72 SARS-COV-2 YES 29-01-2002
+8259 Kenneth Knapp Greece 72 H1N1 NO
+554 Juan Holmes Greece 28 SARS-1 YES 24-10-2013
+9352 Melissa Lutz Greece 15 SARS-1 YES 11-12-2000
+4451 Justin Hester Greece 22 H1N1 YES 04-08-2006
+126 Andrew Dixon Greece 70 FLU-2018 NO
+8833 Tyler Bond Greece 74 FLU-2018 YES 19-03-2016
+8833 Tyler Bond Greece 74 H1N1 YES 02-02-2014
+1852 Elizabeth Farmer Greece 27 SARS-1 NO
+5320 Michelle Bailey Greece 78 H1N1 NO
+6427 Joseph Hernandez Greece 68 H1N1 YES 26-03-2012
+7648 Laura Davis Greece 19 SARS-COV-2 YES 21-07-2002
+7648 Laura Davis Greece 19 COVID-2019 YES 28-10-2006
+6925 Sabrina Conway Greece 13 EVD NO
+9174 Monica Curtis Greece 51 SARS-COV-2 NO
+1323 Robin Wheeler Greece 38 SARS-1 YES 17-01-2017
+8235 Douglas Parker Greece 47 SARS-1 YES 28-06-2014
+1742 Stacy Myers Greece 22 COVID-2019 NO
+5990 Tara Hall Greece 11 COVID-2019 NO
+6389 Stacey Newton Greece 59 FLU-2018 NO
+2970 Jonathan Walter Greece 32 FLU-2018 YES 22-11-2006
+7816 David Salas Greece 31 SARS-COV-2 NO
+7816 David Salas Greece 31 EVD YES 28-12-2003
+1914 Stephanie Hughes Greece 35 COVID-2019 YES 31-10-2009
+54 Kevin Hall Greece 23 COVID-2019 NO
+2978 Lori Bond Greece 52 EVD NO
+2978 Lori Bond Greece 52 H1N1 YES 27-12-2004
+1927 Jason Bailey Greece 48 EVD YES 11-07-2019
+5232 Brent Smith Greece 22 SARS-1 YES 27-06-2019
+5232 Brent Smith Greece 22 COVID-2019 NO
+6458 Lauren Davis Greece 63 MERS-COV NO
+1035 Daniel Alvarez Greece 59 COVID-2019 YES 05-08-2012
+6881 Penny Brown Greece 13 SARS-COV-2 YES 09-03-2015
+1019 John Hernandez Greece 40 H1N1 NO
+9506 Diana Wu Greece 16 FLU-2018 NO
+1555 Leah Burnett Greece 34 MERS-COV NO
+1555 Leah Burnett Greece 34 FLU-2018 NO
+5962 Ricky Fuller Greece 26 EVD YES 11-04-2017
+9070 Colleen Stokes Greece 71 FLU-2018 YES 02-01-2001
+9070 Colleen Stokes Greece 71 H1N1 YES 16-08-2004
+1434 Kyle Gomez Greece 30 FLU-2018 YES 30-01-2016
+3207 James Petersen Greece 77 EVD NO
+5887 Jennifer Rogers Greece 29 EVD NO
+1437 Don Harris Greece 39 FLU-2018 NO
+2499 Paul Harris Greece 34 SARS-1 NO
+6794 Lauren Diaz Greece 27 MERS-COV NO
+8660 Patricia Brown Greece 23 SARS-1 YES 18-06-2019
+2177 Jason Butler Greece 26 FLU-2018 YES 15-10-2016
+2447 Andre Wu Greece 42 COVID-2019 YES 16-12-2009
+2447 Andre Wu Greece 42 FLU-2018 YES 06-08-2003
+2551 Ian Mayer Greece 33 FLU-2018 YES 29-10-2018
+4279 Michael Jones Greece 31 SARS-1 YES 19-10-2020
+9655 Tyrone Glenn Greece 42 MERS-COV NO
+7421 Jeffrey Wise Greece 33 FLU-2018 NO
+6910 Trevor Hall Greece 56 FLU-2018 NO
+9669 Chris Sosa Greece 33 FLU-2018 YES 19-09-2004
+7526 Elizabeth Mann Greece 10 FLU-2018 NO
+7526 Elizabeth Mann Greece 10 EVD YES 06-12-2019
+6501 Ruben Bruce Greece 46 COVID-2019 YES 18-01-2010
+602 Thomas Salazar Greece 47 H1N1 NO
+7187 Sydney Mccarty Greece 18 FLU-2018 YES 25-02-2003
+8317 Tyler Mitchell Greece 69 COVID-2019 NO
+8317 Tyler Mitchell Greece 69 MERS-COV YES 05-04-2012
+8856 Tamara Fernandez Greece 54 EVD NO
+8856 Tamara Fernandez Greece 54 H1N1 NO
+9238 Karen Jones Greece 38 SARS-COV-2 YES 06-06-2013
+4109 Brian Coleman Greece 71 SARS-1 NO
+1089 Jeffery Alexander Greece 23 FLU-2018 NO
+2017 James White Greece 57 COVID-2019 YES 31-10-2017
+3983 Laurie Lopez Greece 59 COVID-2019 NO
+5931 Kayla Perez Greece 57 COVID-2019 NO
+7210 Susan Thompson Greece 70 COVID-2019 NO
+9594 Scott Browning Greece 28 EVD YES 08-01-2011
+9594 Scott Browning Greece 28 H1N1 YES 22-08-2012
+4314 Daniel Brown Greece 16 SARS-COV-2 NO
+5764 Brian Small Greece 73 EVD NO
+233 Adam Booth Greece 79 SARS-COV-2 NO
+8515 Danny Mitchell Greece 35 EVD NO
+2242 Michael Park Greece 28 SARS-COV-2 NO
+5222 Michael Blackwell Greece 17 H1N1 NO
+6078 Alexandria Wilson Greece 32 EVD NO
+9911 Jeffrey Cox Greece 59 MERS-COV YES 21-07-2017
+1310 Michelle Thompson Greece 10 SARS-1 YES 01-05-2020
+6107 Cheryl Marshall Greece 55 SARS-COV-2 NO
+1246 Christine Colon Greece 53 H1N1 YES 26-12-2014
+2745 Teresa Brown Greece 33 SARS-COV-2 NO
+5055 Kevin Mann Greece 51 H1N1 NO
+2266 Lauren Smith Greece 66 COVID-2019 NO
+9123 Bruce Adams Greece 68 COVID-2019 NO
+6795 Renee White Greece 66 MERS-COV NO
+2479 Sarah Thornton Greece 50 EVD YES 28-04-2012
+9996 Ivan Terrell Greece 31 SARS-1 YES 25-03-2010
+2061 Matthew Davis Greece 57 EVD NO
+6720 Daniel Smith Greece 60 COVID-2019 NO
+6720 Daniel Smith Greece 60 FLU-2018 YES 23-11-2002
+2103 Robert Kaufman Greece 76 H1N1 YES 26-05-2006
+2125 Tamara King Greece 57 COVID-2019 NO
+2125 Tamara King Greece 57 EVD NO
+8906 John Davis Greece 29 SARS-COV-2 NO
+9763 Micheal Pena Greece 18 SARS-1 YES 07-11-2015
+9763 Micheal Pena Greece 18 MERS-COV YES 11-09-2002
+7704 Jacob Anderson Greece 55 EVD YES 18-05-2008
+8921 Bethany May Greece 27 COVID-2019 NO
+4049 Angela Coleman Greece 56 FLU-2018 YES 10-08-2019
+4045 Amanda Mason Greece 61 SARS-COV-2 NO
+5323 Zachary Herrera Greece 51 EVD YES 05-06-2005
+4833 Sheila Richard Greece 32 MERS-COV YES 05-05-2018
+3961 Patrick Mccormick Greece 60 EVD YES 17-08-2002
+3388 Noah Lamb Greece 63 H1N1 YES 26-04-2000
+5728 Melissa Snyder Greece 60 EVD YES 15-12-2005
+5690 Jose Evans Greece 41 FLU-2018 YES 05-11-2014
+5690 Jose Evans Greece 41 MERS-COV YES 10-03-2015
+1752 Donald Hill Greece 34 COVID-2019 YES 26-11-2012
+656 Erik Kerr Greece 62 FLU-2018 YES 21-09-2001
+4449 Alyssa Thompson Greece 30 COVID-2019 YES 11-03-2012
+6737 Bradley Green Greece 29 COVID-2019 NO
+747 Ronald Kirk Greece 38 FLU-2018 YES 16-02-2015
+747 Ronald Kirk Greece 38 EVD NO
+4947 Anne Tran Greece 20 EVD NO
+405 Margaret Santiago Greece 35 H1N1 NO
+1040 Stanley Larson Greece 78 SARS-1 YES 14-04-2008
+5971 Sarah James Greece 58 MERS-COV YES 17-04-2012
+3457 Tyler Pierce Greece 31 SARS-1 YES 15-01-2020
+9651 Sophia Porter Greece 56 EVD NO
+4521 Joshua Gonzalez Greece 18 H1N1 YES 11-11-2020
+4521 Joshua Gonzalez Greece 18 SARS-COV-2 YES 29-11-2000
+5834 Jonathan Williams Greece 74 COVID-2019 YES 15-10-2016
+6031 Linda Newman Greece 35 EVD NO
+6021 Karen Ruiz Greece 68 EVD NO
+822 Isabel Fisher Greece 46 SARS-1 NO
+4800 Victoria Harris Greece 54 SARS-1 NO
+469 Jonathan Solis Greece 59 FLU-2018 NO
+5093 Antonio Moore Greece 43 EVD NO
+580 Brandon Stanton Greece 17 COVID-2019 NO
+8004 Sarah Melendez Greece 58 SARS-1 YES 05-08-2003
+854 Lauren Berry Greece 79 MERS-COV NO
+4940 Jeremy Rowland Greece 43 SARS-COV-2 YES 26-07-2014
+5854 Douglas Griffith Greece 67 MERS-COV YES 26-05-2011
+6319 Cassandra Jordan Greece 57 SARS-COV-2 YES 11-01-2006
+6255 Vanessa Buchanan Greece 36 FLU-2018 NO
+1041 Michael Rosales Greece 73 COVID-2019 YES 07-04-2017
+1888 Victoria Roman Greece 58 EVD YES 27-12-2009
+5005 Jennifer Moore Greece 44 MERS-COV NO
+6198 Brianna Blackburn Greece 26 SARS-1 NO
+5816 Dana Grant Greece 34 FLU-2018 YES 16-06-2004
+4222 Stacey Nicholson Greece 31 H1N1 YES 23-10-2012
+6175 Kyle Gomez Greece 63 H1N1 NO
+6585 Anthony Cruz Greece 57 COVID-2019 NO
+6526 Raymond Ewing Greece 21 SARS-COV-2 YES 12-01-2011
+1132 Zachary Valdez Greece 37 H1N1 NO
+2917 Ryan Johnson Greece 61 EVD YES 01-06-2005
+1202 Melinda Barber Greece 45 COVID-2019 NO
+6559 Evelyn Chapman Greece 39 COVID-2019 NO
+6559 Evelyn Chapman Greece 39 FLU-2018 YES 08-06-2010
+1126 Jessica Proctor Greece 50 COVID-2019 NO
+6179 Matthew Williams Greece 68 H1N1 YES 05-01-2014
+3476 Connie Williams Greece 68 SARS-1 YES 09-08-2015
+9519 Michael Jones Greece 71 SARS-COV-2 YES 28-05-2016
+1696 Lisa Padilla Greece 21 EVD NO
+1696 Lisa Padilla Greece 21 FLU-2018 YES 06-10-2018
+4910 Andrea Olson Greece 41 SARS-COV-2 NO
+5825 Christopher Gonzalez Greece 51 MERS-COV NO
+8598 Justin Oneal Greece 40 H1N1 YES 11-01-2011
+7039 Amanda Ward Greece 70 SARS-COV-2 YES 21-02-2012
+2398 Emily Miller Greece 31 MERS-COV YES 31-01-2010
+1689 Donna Bennett Greece 24 FLU-2018 YES 08-04-2002
+8785 Joshua Potts Greece 46 SARS-1 YES 31-10-2012
+1387 Marcus Simpson Greece 39 FLU-2018 NO
+4530 Ryan Anderson Greece 30 FLU-2018 YES 31-08-2016
+4530 Ryan Anderson Greece 30 SARS-COV-2 NO
+773 Nicholas Lawson Greece 19 FLU-2018 YES 10-04-2006
+4055 Kristy Frederick Greece 26 FLU-2018 YES 12-12-2012
+8677 Mark Reid Greece 31 SARS-1 YES 05-05-2008
+9279 Eric Santos Greece 39 SARS-COV-2 NO
+552 Mitchell Lopez Greece 43 SARS-COV-2 NO
+1513 Barbara Flores Greece 37 FLU-2018 YES 05-07-2018
+208 Julia Banks Greece 69 SARS-1 NO
+3779 Rebecca Johnson Greece 48 SARS-1 NO
+7851 Wayne Garcia Greece 42 SARS-COV-2 YES 07-10-2011
+9382 Diane Robles Greece 35 MERS-COV YES 07-10-2003
+1497 Peggy Lewis Greece 71 H1N1 NO
+4695 Samantha Ferguson Greece 48 H1N1 NO
+1788 David Hill Greece 50 FLU-2018 YES 26-11-2012
+3404 Troy Diaz Greece 29 MERS-COV YES 05-11-2012
+2517 Brent Long Greece 12 COVID-2019 NO
+6351 Monique Paul Greece 21 FLU-2018 NO
+973 Timothy Perry Greece 27 SARS-1 NO
+7195 Scott Lee Greece 40 FLU-2018 YES 08-09-2010
+7195 Scott Lee Greece 40 SARS-1 NO
+4171 Manuel Thornton Greece 22 H1N1 YES 15-05-2001
+6616 Amanda Lawson Greece 29 MERS-COV NO
+6616 Amanda Lawson Greece 29 EVD NO
+8331 Raymond Lloyd Greece 54 SARS-1 NO
+1760 Carlos Duran Greece 26 MERS-COV YES 21-02-2013
+1051 Lauren Martinez Greece 51 SARS-1 NO
+4969 Wendy Smith Greece 37 FLU-2018 NO
+7038 Derrick Ramos Greece 11 SARS-COV-2 YES 27-10-2008
+9650 Angela Cook Greece 24 MERS-COV YES 03-12-2002
+810 Corey Bates Greece 52 COVID-2019 YES 16-07-2010
+2888 Paul Murphy Greece 11 SARS-1 NO
+172 Jennifer Martin Greece 17 FLU-2018 NO
+99 Anna Villarreal Greece 52 FLU-2018 NO
+99 Anna Villarreal Greece 52 MERS-COV YES 05-03-2015
+9425 Kelly Jacobs Greece 34 SARS-COV-2 YES 02-07-2014
+8969 Teresa Brady Greece 17 MERS-COV YES 23-11-2000
+8969 Teresa Brady Greece 17 H1N1 NO
+9081 Michael Rivera Greece 40 EVD YES 26-03-2017
+3098 Paula Hicks Greece 41 MERS-COV YES 26-03-2004
+3098 Paula Hicks Greece 41 FLU-2018 NO
+6534 Ryan Atkinson Greece 10 H1N1 NO
+4143 Joseph Morse Greece 30 COVID-2019 YES 24-08-2007
+5668 Amanda Jensen Greece 22 SARS-COV-2 NO
+2072 Sandy Cox Greece 63 H1N1 YES 01-04-2005
+2072 Sandy Cox Greece 63 FLU-2018 YES 25-08-2011
+7320 Ashley Hernandez Greece 54 MERS-COV YES 13-03-2002
+3564 Sean Sanchez Greece 64 FLU-2018 YES 16-05-2006
+8125 Jerry Dickerson Greece 69 MERS-COV NO
+9780 Brooke Campbell Greece 63 SARS-COV-2 YES 16-09-2017
+6419 Barbara Johnson Greece 31 SARS-1 NO
+5125 Michele Craig Greece 72 SARS-1 NO
+8205 Dylan Atkins Greece 71 H1N1 YES 11-12-2019
+538 William Morgan Greece 47 EVD YES 08-10-2018
+8178 Crystal Rogers Greece 27 COVID-2019 YES 12-11-2010
+7206 Timothy Hamilton Greece 63 SARS-COV-2 YES 02-04-2020
+6740 Austin Richards Greece 24 SARS-COV-2 NO
+3134 Shawn Scott Greece 27 FLU-2018 YES 26-04-2017
+3082 Debra Carr Greece 62 FLU-2018 YES 10-10-2005
+8016 Nicole Holland Greece 16 EVD NO
+8016 Nicole Holland Greece 16 SARS-COV-2 YES 17-04-2005
+90 Charles Lewis Greece 75 EVD NO

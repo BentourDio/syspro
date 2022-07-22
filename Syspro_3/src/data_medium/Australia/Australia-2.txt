@@ -1,0 +1,597 @@
+8709 John Arnold Australia 56 H1N1 NO
+9613 Kimberly Perez Australia 49 FLU-2018 YES 16-03-2005
+2816 John Dixon Australia 35 MERS-COV NO
+2396 Christine Johnson Australia 27 SARS-1 NO
+2396 Christine Johnson Australia 27 H1N1 NO
+1971 Cheryl Lopez Australia 39 FLU-2018 YES 20-12-2010
+6931 Daniel Watkins Australia 21 COVID-2019 NO
+4759 Donald Carr Australia 36 SARS-1 YES 14-09-2015
+7465 Gabriel Miller Australia 23 MERS-COV YES 09-04-2010
+3656 Henry Smith Australia 18 FLU-2018 YES 11-11-2012
+8298 Rebecca Keller Australia 55 H1N1 NO
+3048 Michael Jackson Australia 36 FLU-2018 YES 05-01-2004
+9637 Mark Hicks Australia 23 MERS-COV YES 24-02-2019
+8313 Julie Mayo Australia 43 SARS-1 NO
+5117 Benjamin Macias Australia 74 SARS-COV-2 YES 10-12-2007
+8923 April Allen Australia 62 FLU-2018 YES 30-12-2005
+2740 Hannah Stone Australia 51 MERS-COV YES 06-02-2008
+419 Caleb Lewis Australia 36 COVID-2019 YES 07-01-2019
+3015 Joe Wright Australia 57 COVID-2019 NO
+7797 Anne Stephenson Australia 14 MERS-COV YES 04-06-2010
+6144 Terri Davis Australia 62 COVID-2019 NO
+6053 Natalie Hall Australia 25 SARS-COV-2 YES 20-04-2011
+8325 David Wolf Australia 32 SARS-1 NO
+5748 Lisa Wade Australia 48 SARS-COV-2 YES 07-01-2002
+5782 Joseph Sanchez Australia 78 EVD NO
+8077 Sara Peterson Australia 26 COVID-2019 YES 02-07-2009
+8077 Sara Peterson Australia 26 MERS-COV YES 30-01-2016
+2430 Tammy Jones Australia 72 EVD NO
+2066 Alicia Villegas Australia 14 EVD YES 23-10-2010
+2985 Austin Dean Australia 26 SARS-1 YES 17-02-2010
+7256 James Manning Australia 34 SARS-1 NO
+3075 Ashley Bush Australia 19 SARS-1 NO
+9852 Shane Lewis Australia 41 SARS-COV-2 YES 14-09-2016
+19 Tina Thompson Australia 10 H1N1 YES 12-06-2006
+19 Tina Thompson Australia 10 SARS-1 YES 29-12-2004
+1197 Cynthia Young Australia 71 SARS-COV-2 NO
+2445 Kim Salinas Australia 37 FLU-2018 YES 24-03-2001
+2445 Kim Salinas Australia 37 COVID-2019 YES 27-10-2017
+6652 Frank Griffith Australia 14 EVD YES 15-06-2013
+8302 Judith Vazquez Australia 69 SARS-1 YES 22-09-2020
+6555 Carlos Ferguson Australia 70 COVID-2019 NO
+3428 David Stanley Australia 46 FLU-2018 YES 29-06-2019
+6903 Stacey Page Australia 40 SARS-COV-2 NO
+1392 Peter Ewing Australia 31 SARS-COV-2 YES 30-11-2008
+6206 Tammy Doyle Australia 73 FLU-2018 NO
+6206 Tammy Doyle Australia 73 COVID-2019 NO
+8714 Emily Sims Australia 17 H1N1 YES 07-09-2005
+6291 Nicole Fox Australia 64 COVID-2019 YES 25-03-2006
+4469 Jonathan Pineda Australia 57 SARS-COV-2 YES 22-07-2002
+7713 Julie Pollard Australia 27 H1N1 YES 06-01-2003
+4483 Kimberly Davis Australia 78 SARS-COV-2 NO
+359 William Cole Australia 75 SARS-1 YES 10-07-2007
+3988 Manuel Nichols Australia 42 FLU-2018 NO
+9890 Nathan Weaver Australia 76 SARS-COV-2 YES 14-09-2019
+4488 Ruth Hunt Australia 48 H1N1 NO
+6876 Adriana Clark Australia 71 H1N1 NO
+5361 Carlos Hoffman Australia 21 EVD YES 11-11-2004
+6914 Troy Carter Australia 30 MERS-COV NO
+8671 Janice Riley Australia 59 COVID-2019 YES 17-11-2003
+2562 Kyle Juarez Australia 61 EVD YES 20-11-2015
+1489 Steven Munoz Australia 30 EVD NO
+5441 Leonard Schneider Australia 15 EVD YES 05-09-2019
+9332 Ronald Martinez Australia 12 MERS-COV NO
+9169 Michael Jones Australia 15 COVID-2019 YES 23-07-2001
+6108 Zachary Fuller Australia 44 SARS-COV-2 NO
+6108 Zachary Fuller Australia 44 H1N1 YES 22-02-2004
+8350 Kellie Schmidt Australia 67 MERS-COV YES 06-04-2011
+5868 William Williams Australia 12 FLU-2018 YES 03-03-2001
+7691 Daniel Medina Australia 38 MERS-COV NO
+7691 Daniel Medina Australia 38 COVID-2019 YES 19-09-2011
+9706 Justin Esparza Australia 27 MERS-COV NO
+8274 Crystal Castillo Australia 71 MERS-COV NO
+748 Ethan Mason Australia 66 FLU-2018 YES 18-01-2015
+5586 Mitchell Jackson Australia 40 FLU-2018 YES 19-09-2019
+2944 Sarah Williams Australia 54 H1N1 YES 23-06-2008
+2147 Sandra Stewart Australia 62 MERS-COV NO
+2147 Sandra Stewart Australia 62 SARS-1 NO
+81 Debra Stevenson Australia 53 SARS-1 YES 28-01-2006
+6250 Diana Webb Australia 69 FLU-2018 NO
+9365 Jorge Potter Australia 33 COVID-2019 YES 04-07-2008
+4410 Julian Schwartz Australia 43 FLU-2018 NO
+5248 Michael Hull Australia 44 SARS-1 YES 07-02-2000
+3295 Joshua Velez Australia 64 MERS-COV YES 28-06-2014
+5071 Sandra Gonzales Australia 16 FLU-2018 YES 02-12-2003
+3724 Heather Martin Australia 29 H1N1 NO
+3724 Heather Martin Australia 29 EVD YES 20-08-2010
+9591 Kim Torres Australia 61 SARS-COV-2 NO
+9591 Kim Torres Australia 61 EVD YES 14-02-2014
+7264 Wendy Smith Australia 74 H1N1 NO
+9709 Joseph Turner Australia 36 COVID-2019 YES 28-06-2010
+1482 Lee Bradshaw Australia 58 MERS-COV NO
+1482 Lee Bradshaw Australia 58 EVD NO
+7953 Jennifer Chang Australia 73 FLU-2018 NO
+7953 Jennifer Chang Australia 73 SARS-COV-2 NO
+7947 James Gonzalez Australia 76 COVID-2019 NO
+4270 Michael Griffin Australia 23 SARS-COV-2 NO
+5517 Mike Dyer Australia 46 SARS-COV-2 NO
+2094 Deborah Mcdonald Australia 31 SARS-1 YES 12-11-2002
+4429 Kara Little Australia 72 FLU-2018 YES 03-07-2008
+8318 Laura Wilson Australia 51 MERS-COV NO
+4594 Timothy Flores Australia 17 COVID-2019 YES 31-05-2018
+361 Maria Johnson Australia 27 SARS-COV-2 YES 15-07-2009
+1077 Adam Archer Australia 68 MERS-COV YES 31-10-2020
+2541 Peter Stephens Australia 73 SARS-1 NO
+3269 Robert Lee Australia 27 COVID-2019 YES 10-12-2009
+3242 Hannah Donovan Australia 69 SARS-1 NO
+8683 Melanie Chan Australia 20 H1N1 NO
+2277 Larry Gonzalez Australia 17 SARS-1 YES 08-04-2003
+9551 Summer Roberts Australia 35 EVD YES 26-08-2007
+7957 Heather Cooper Australia 49 EVD YES 17-10-2005
+7925 William Davis Australia 19 H1N1 YES 06-03-2015
+3823 Joshua Martin Australia 67 H1N1 NO
+634 Ryan Townsend Australia 54 FLU-2018 NO
+3748 Victoria Walker Australia 34 EVD YES 03-03-2015
+2491 Donna Ferguson Australia 71 H1N1 YES 02-06-2019
+2491 Donna Ferguson Australia 71 COVID-2019 YES 28-05-2006
+3307 Richard Allen Australia 16 H1N1 YES 07-06-2013
+108 Natalie Thompson Australia 54 EVD YES 27-10-2017
+913 Lori Bailey Australia 56 SARS-1 YES 11-05-2016
+1564 Andrew Austin Australia 11 FLU-2018 NO
+888 Michael Snow Australia 52 SARS-COV-2 NO
+888 Michael Snow Australia 52 H1N1 NO
+351 Christine Sanford Australia 65 H1N1 YES 16-01-2008
+351 Christine Sanford Australia 65 SARS-COV-2 NO
+7107 Aaron Hurst Australia 25 EVD NO
+3301 Jeremy Smith Australia 47 FLU-2018 YES 20-02-2015
+1495 Charles Miller Australia 58 EVD YES 10-05-2006
+4682 Mark Oliver Australia 78 EVD YES 06-09-2011
+4654 John Davidson Australia 71 MERS-COV YES 22-03-2000
+7486 Brenda Santiago Australia 66 COVID-2019 NO
+7486 Brenda Santiago Australia 66 FLU-2018 YES 11-10-2011
+2749 William Jones Australia 46 EVD YES 19-04-2011
+2893 Todd Thompson Australia 50 FLU-2018 NO
+6047 Gabrielle Haynes Australia 63 EVD NO
+2555 Nancy Roberts Australia 66 SARS-COV-2 YES 18-11-2017
+6517 Rita Mendez Australia 48 MERS-COV YES 07-09-2019
+5335 Andrew Warner Australia 24 H1N1 NO
+5335 Andrew Warner Australia 24 SARS-1 YES 13-01-2008
+5259 Lisa Harris Australia 50 COVID-2019 YES 22-08-2003
+9065 Cory Ross Australia 22 SARS-COV-2 NO
+2252 Paul Reilly Australia 12 EVD NO
+1885 Cynthia Brown Australia 60 MERS-COV NO
+5152 Debra Mann Australia 25 COVID-2019 NO
+431 Catherine Gross Australia 49 SARS-1 YES 21-02-2019
+3215 Laura Robles Australia 65 SARS-COV-2 NO
+7512 Juan Navarro Australia 68 SARS-COV-2 YES 19-02-2015
+6388 Kathleen Fernandez Australia 60 FLU-2018 YES 04-01-2013
+1229 Jasmine Nichols Australia 69 H1N1 NO
+558 Timothy Wright Australia 41 SARS-1 NO
+558 Timothy Wright Australia 41 EVD NO
+9393 Christina Aguirre Australia 22 SARS-COV-2 YES 11-10-2000
+9393 Christina Aguirre Australia 22 FLU-2018 NO
+6946 Karen Marquez Australia 62 H1N1 NO
+6483 Scott Lopez Australia 75 H1N1 NO
+3312 Tyler Price Australia 19 FLU-2018 NO
+3062 Brandon Murillo Australia 69 EVD YES 01-02-2000
+9824 Marc Mooney Australia 15 SARS-COV-2 NO
+3764 Debra Cruz Australia 50 SARS-1 YES 07-10-2002
+3730 Jaime Cummings Australia 44 COVID-2019 NO
+785 Stephanie Baldwin Australia 22 MERS-COV YES 18-09-2018
+2952 Debra Howell Australia 62 FLU-2018 NO
+9189 Tara Petersen Australia 56 EVD YES 01-03-2004
+7545 Kimberly Phillips Australia 11 EVD YES 13-03-2005
+8161 Nicholas Patterson Australia 64 H1N1 YES 31-08-2018
+5545 Emily Mora Australia 41 H1N1 NO
+6148 Jane Turner Australia 36 EVD YES 18-01-2011
+8982 Erica Boyd Australia 61 SARS-1 NO
+1054 Brandon Beck Australia 77 H1N1 YES 07-06-2019
+9010 Jessica Arellano Australia 17 COVID-2019 NO
+8566 Robert Ramirez Australia 56 SARS-1 YES 23-09-2016
+5891 Samantha Peck Australia 46 EVD YES 28-02-2018
+5891 Samantha Peck Australia 46 MERS-COV NO
+5635 Jacob Taylor Australia 71 COVID-2019 YES 11-04-2017
+3598 Veronica Estrada Australia 22 SARS-COV-2 NO
+387 Charles York Australia 51 FLU-2018 NO
+1817 Jermaine Berry Australia 17 SARS-1 NO
+7856 Maria Murphy Australia 20 MERS-COV NO
+7103 Ronald Patterson Australia 40 EVD NO
+7103 Ronald Patterson Australia 40 MERS-COV NO
+9461 Jodi Moore Australia 26 MERS-COV YES 19-10-2017
+182 April Smith Australia 34 SARS-COV-2 YES 19-10-2004
+6614 Angela Payne Australia 69 H1N1 NO
+2770 Gina Hall Australia 48 EVD YES 14-06-2013
+4599 Travis Daniel Australia 42 SARS-1 NO
+7153 Mark Haynes Australia 48 FLU-2018 NO
+8246 Julia Smith Australia 61 H1N1 NO
+5811 Michelle Mcguire Australia 43 FLU-2018 YES 19-12-2001
+5811 Michelle Mcguire Australia 43 COVID-2019 YES 21-08-2018
+42 Melissa Harvey Australia 12 MERS-COV NO
+5214 Katherine Harrison Australia 65 COVID-2019 YES 02-04-2017
+7374 Jesse Elliott Australia 48 SARS-1 NO
+7087 Peggy Lopez Australia 69 SARS-1 NO
+4191 Jessica Gonzales Australia 69 EVD NO
+9259 Christopher Thompson Australia 78 EVD YES 17-12-2019
+9850 James Hahn Australia 28 EVD NO
+2834 Jenny George Australia 63 COVID-2019 YES 14-08-2006
+6511 Molly Price Australia 38 H1N1 NO
+93 Charles Johnson Australia 31 FLU-2018 NO
+2077 Catherine Mason Australia 34 H1N1 NO
+2077 Catherine Mason Australia 34 SARS-COV-2 NO
+5210 Jessica Holland Australia 40 SARS-1 NO
+3185 Dalton Wood Australia 43 H1N1 YES 24-12-2015
+4417 John Simmons Australia 16 FLU-2018 YES 21-03-2015
+7327 Anna Delgado Australia 79 EVD NO
+1187 Lisa Bailey Australia 38 COVID-2019 YES 17-11-2000
+2943 Anthony Walker Australia 42 SARS-COV-2 NO
+2762 Jeffrey Williams Australia 17 COVID-2019 NO
+2762 Jeffrey Williams Australia 17 H1N1 YES 18-11-2005
+9443 Jimmy Bautista Australia 11 COVID-2019 YES 10-02-2004
+4276 Michael Gutierrez Australia 78 SARS-COV-2 YES 03-05-2004
+6799 Jason Rogers Australia 15 EVD YES 23-09-2016
+9867 Peggy Hughes Australia 64 SARS-COV-2 NO
+9867 Peggy Hughes Australia 64 H1N1 NO
+2118 Kenneth Thomas Australia 39 MERS-COV YES 29-05-2019
+3434 Jennifer Salazar Australia 35 COVID-2019 NO
+4567 Debra Hardin Australia 51 FLU-2018 YES 08-07-2017
+8870 Thomas Jackson Australia 13 FLU-2018 YES 02-04-2000
+7867 Amanda Petty Australia 38 H1N1 YES 09-02-2012
+6554 Sharon Camacho Australia 40 H1N1 YES 16-11-2014
+4160 Jenna Kim Australia 76 H1N1 NO
+4160 Jenna Kim Australia 76 COVID-2019 YES 20-05-2001
+9645 Maria Barnett Australia 14 MERS-COV YES 25-12-2020
+2554 Keith Daniel Australia 65 H1N1 NO
+7591 Jeremy Roberson Australia 35 SARS-COV-2 NO
+7591 Jeremy Roberson Australia 35 SARS-1 NO
+5275 Kathy Davis Australia 69 MERS-COV NO
+5275 Kathy Davis Australia 69 COVID-2019 YES 03-08-2009
+9648 Justin Washington Australia 71 SARS-1 NO
+7387 Amy Williams Australia 22 SARS-1 NO
+5230 Frank Smith Australia 39 SARS-1 NO
+8193 Jennifer Palmer Australia 53 FLU-2018 YES 10-06-2017
+3608 Pamela Luna Australia 63 MERS-COV NO
+1904 Rodney Cox Australia 10 COVID-2019 YES 29-06-2007
+8392 Thomas Ponce Australia 28 SARS-COV-2 YES 09-11-2016
+8392 Thomas Ponce Australia 28 COVID-2019 NO
+4416 Brandy Diaz Australia 77 SARS-1 YES 02-06-2014
+8255 Carrie Christensen Australia 14 H1N1 NO
+5029 Kenneth Jordan Australia 79 EVD YES 17-02-2019
+1954 Kimberly Hester Australia 68 MERS-COV YES 07-05-2000
+9050 Olivia Richards Australia 25 FLU-2018 NO
+9050 Olivia Richards Australia 25 EVD YES 21-11-2013
+1195 Nicole Garrett Australia 51 FLU-2018 YES 13-03-2006
+6912 Anthony Thompson Australia 74 EVD YES 17-08-2020
+6068 Daniel Ray Australia 46 EVD YES 07-01-2016
+1415 Brenda Ali Australia 52 EVD YES 19-06-2008
+8558 Jack Levy Australia 62 H1N1 NO
+8558 Jack Levy Australia 62 EVD YES 13-11-2019
+9949 Barbara Perez Australia 56 EVD YES 13-10-2020
+6980 Brandon Wells Australia 14 COVID-2019 NO
+8631 Jesse Powers Australia 64 MERS-COV YES 10-04-2007
+9292 Brian Miles Australia 54 SARS-1 NO
+3497 Richard Burton Australia 44 SARS-COV-2 YES 27-08-2015
+6537 Matthew Turner Australia 72 EVD YES 07-04-2007
+408 Stephen Robinson Australia 71 EVD YES 02-10-2013
+408 Stephen Robinson Australia 71 SARS-COV-2 NO
+2892 George Duran Australia 44 SARS-COV-2 YES 24-07-2007
+3418 Marc Henderson Australia 25 MERS-COV NO
+3856 Kimberly Estrada Australia 24 SARS-COV-2 YES 02-12-2017
+2977 Debra Ali Australia 57 MERS-COV YES 07-03-2013
+6426 Bryan Owens Australia 76 EVD YES 22-04-2008
+9133 Lisa Allen Australia 70 MERS-COV YES 15-03-2012
+7588 Brent Munoz Australia 47 SARS-COV-2 YES 22-03-2001
+6675 Paula Reyes Australia 76 FLU-2018 NO
+4795 Melissa Williamson Australia 68 MERS-COV YES 29-03-2009
+4795 Melissa Williamson Australia 68 SARS-COV-2 YES 02-11-2001
+6133 Phyllis Wise Australia 28 H1N1 NO
+2846 Susan Howell Australia 49 MERS-COV YES 16-08-2004
+1811 Angela Klein Australia 66 SARS-1 YES 03-11-2016
+1155 Elizabeth Bell Australia 24 MERS-COV YES 24-03-2004
+1250 Christopher Kirk Australia 25 FLU-2018 NO
+692 Patricia Reed Australia 60 SARS-1 YES 06-09-2002
+5292 Antonio Tanner Australia 78 MERS-COV YES 13-02-2005
+6958 Elizabeth Wright Australia 36 MERS-COV YES 06-07-2013
+2662 John Becker Australia 16 SARS-COV-2 NO
+1442 Louis Perkins Australia 30 COVID-2019 YES 19-11-2010
+5777 Robert Ortiz Australia 70 FLU-2018 YES 27-05-2007
+7662 Deborah Williams Australia 67 MERS-COV NO
+7662 Deborah Williams Australia 67 SARS-COV-2 YES 21-11-2007
+6607 Steven Thomas Australia 26 SARS-1 NO
+8162 John Brown Australia 49 FLU-2018 YES 18-04-2015
+5189 Ashley Thornton Australia 35 SARS-COV-2 NO
+5189 Ashley Thornton Australia 35 H1N1 YES 06-05-2005
+5706 Tracey Bates Australia 13 H1N1 YES 22-11-2018
+5679 Cameron Jensen Australia 46 MERS-COV YES 10-12-2006
+3086 Steven Smith Australia 38 SARS-COV-2 YES 30-08-2019
+6106 Brad Parsons Australia 42 MERS-COV YES 02-12-2018
+9789 Melissa Stein Australia 52 SARS-1 YES 20-08-2011
+6226 Rebecca Cooley Australia 71 FLU-2018 YES 13-11-2010
+6200 John Vincent Australia 52 H1N1 YES 12-01-2005
+4431 James Clark Australia 37 SARS-1 NO
+2053 Richard Pineda Australia 18 FLU-2018 NO
+3146 Tammy Peterson Australia 47 MERS-COV NO
+535 Jeffrey Adams Australia 72 SARS-COV-2 NO
+9391 Shelly Smith Australia 67 EVD YES 19-11-2007
+9215 Linda Brown Australia 72 SARS-COV-2 YES 07-09-2009
+6363 Bailey Ellis Australia 37 MERS-COV NO
+5315 Joshua Meza Australia 30 EVD NO
+4100 Lydia Martinez Australia 59 FLU-2018 NO
+6252 John Holland Australia 33 H1N1 NO
+7615 Carla Conrad Australia 16 FLU-2018 YES 30-01-2001
+758 Daniel Waller Australia 24 EVD YES 01-09-2009
+8263 Christopher Gentry Australia 61 COVID-2019 NO
+8263 Christopher Gentry Australia 61 FLU-2018 NO
+6669 Katie Moore Australia 43 COVID-2019 NO
+3403 Christopher Collins Australia 12 COVID-2019 NO
+7440 Raymond Miller Australia 34 H1N1 NO
+7438 Christine Gonzalez Australia 44 EVD YES 14-09-2001
+6482 Nathan Sandoval Australia 79 COVID-2019 NO
+9343 Jennifer Strickland Australia 11 EVD NO
+5058 Jonathan Sanchez Australia 54 SARS-COV-2 YES 30-08-2010
+530 Katherine Robinson Australia 14 H1N1 NO
+2197 Susan Davis Australia 74 SARS-COV-2 YES 07-12-2011
+2197 Susan Davis Australia 74 H1N1 NO
+1137 Brandon Martin Australia 73 MERS-COV NO
+9833 Joseph Rowland Australia 10 SARS-1 YES 29-07-2013
+3975 Patrick Young Australia 41 EVD NO
+5886 Jacob Matthews Australia 61 EVD YES 27-01-2006
+2041 Jordan Lewis Australia 19 SARS-1 NO
+1967 Adam Stone Australia 28 FLU-2018 YES 29-10-2015
+5013 Troy Matthews Australia 18 H1N1 YES 19-04-2014
+9087 Christopher Kim Australia 63 SARS-1 YES 03-03-2012
+3008 Thomas Todd Australia 59 SARS-1 YES 14-07-2019
+3008 Thomas Todd Australia 59 MERS-COV NO
+1930 Elizabeth Martinez Australia 65 SARS-1 NO
+1930 Elizabeth Martinez Australia 65 EVD YES 07-06-2012
+2984 Teresa Reilly Australia 78 MERS-COV YES 17-03-2016
+540 Raymond Kelly Australia 30 MERS-COV NO
+3853 Daniel Smith Australia 70 FLU-2018 YES 14-12-2018
+8175 Anne Stevens Australia 16 COVID-2019 YES 07-11-2016
+7392 Alexandra Brown Australia 13 FLU-2018 YES 02-03-2019
+3813 Mary Sanchez Australia 19 SARS-1 NO
+4028 Nicole Munoz Australia 28 SARS-1 NO
+9267 Jessica Anderson Australia 17 COVID-2019 YES 25-01-2005
+284 Jamie Weber Australia 13 MERS-COV NO
+5264 Stephen Harrison Australia 39 MERS-COV NO
+7074 Latoya Powell Australia 53 MERS-COV NO
+3696 Sarah Goodman Australia 46 H1N1 YES 30-11-2012
+2641 Crystal Miller Australia 71 SARS-1 NO
+8777 Patrick Cunningham Australia 63 SARS-COV-2 NO
+3263 Sandra Richards Australia 45 EVD NO
+2625 Mary Mendoza Australia 38 FLU-2018 NO
+1461 George Bailey Australia 34 MERS-COV NO
+4927 Edward Martinez Australia 18 SARS-1 YES 05-03-2007
+1870 Michelle Gray Australia 11 FLU-2018 NO
+3642 Isaiah Smith Australia 76 MERS-COV NO
+4631 Charles Parker Australia 74 SARS-1 NO
+5283 Emily Curry Australia 58 COVID-2019 YES 12-10-2007
+673 Raymond Weaver Australia 59 H1N1 NO
+5996 Robert Burns Australia 10 COVID-2019 YES 24-05-2017
+7138 Christopher Brown Australia 20 MERS-COV NO
+962 Brandy Sims Australia 26 SARS-COV-2 YES 01-02-2014
+8379 Sarah Hamilton Australia 43 COVID-2019 NO
+5659 Brenda Gonzales Australia 36 COVID-2019 NO
+7550 David Morgan Australia 57 H1N1 YES 25-08-2017
+1033 John Miller Australia 66 SARS-1 NO
+4774 Craig Ayers Australia 50 EVD YES 18-08-2011
+2426 Emily Webster Australia 30 SARS-1 NO
+9892 Ronald Morrison Australia 14 FLU-2018 YES 13-06-2009
+4164 Randy Rogers Australia 69 COVID-2019 YES 23-08-2004
+4164 Randy Rogers Australia 69 FLU-2018 NO
+9450 Brenda Rodriguez Australia 36 MERS-COV NO
+7908 Kayla Edwards Australia 50 SARS-1 YES 03-07-2008
+3949 Victoria Mack Australia 15 SARS-COV-2 NO
+8311 Christina Miller Australia 11 H1N1 NO
+8311 Christina Miller Australia 11 SARS-1 YES 29-12-2009
+4884 Lauren Johnson Australia 44 H1N1 YES 06-10-2000
+7236 Nicholas Davis Australia 32 FLU-2018 YES 20-12-2018
+8251 Sandra Tapia Australia 54 SARS-COV-2 YES 15-12-2004
+2906 Corey Terrell Australia 49 H1N1 NO
+1756 Dean Martin Australia 54 MERS-COV NO
+6831 Patricia Lopez Australia 29 COVID-2019 YES 01-01-2015
+6831 Patricia Lopez Australia 29 FLU-2018 NO
+1741 Nicole Brewer Australia 17 H1N1 YES 02-02-2003
+1458 Paul Herrera Australia 40 MERS-COV NO
+3522 Sherry Nichols Australia 69 FLU-2018 YES 26-06-2000
+7667 Deborah Conner Australia 11 H1N1 NO
+9999 Timothy Ortega Australia 53 FLU-2018 NO
+8398 Deborah Lyons Australia 45 SARS-1 NO
+36 Olivia Hoffman Australia 46 SARS-COV-2 YES 31-08-2015
+3905 Kimberly Peck Australia 16 H1N1 YES 13-05-2010
+5788 Cathy Evans Australia 62 H1N1 YES 10-03-2009
+655 Angela Adams Australia 52 H1N1 NO
+2283 Heather Zavala Australia 71 MERS-COV YES 05-01-2007
+1084 David Pugh Australia 79 FLU-2018 YES 23-11-2016
+1711 Courtney Smith Australia 65 SARS-COV-2 NO
+8737 Rachel Price Australia 49 EVD NO
+8984 Tina Kelly Australia 11 SARS-COV-2 NO
+6076 Rachel Johnson Australia 73 SARS-COV-2 YES 07-01-2021
+349 Charles Williams Australia 32 COVID-2019 NO
+5647 Dennis Maxwell Australia 75 SARS-COV-2 NO
+5399 Brittney Daniels Australia 72 H1N1 NO
+9464 Roberto Browning Australia 10 SARS-COV-2 YES 24-03-2019
+3354 Jeffrey Hawkins Australia 51 FLU-2018 NO
+5276 Christopher Cole Australia 42 SARS-1 YES 22-02-2001
+6724 Christian Simpson Australia 77 EVD YES 02-12-2000
+94 Joan Kelly Australia 36 H1N1 NO
+726 Ian Turner Australia 60 H1N1 NO
+6067 Jonathan Brown Australia 16 SARS-1 NO
+1543 Ashley Miller Australia 47 SARS-COV-2 YES 15-01-2014
+1049 Amanda Wright Australia 58 COVID-2019 NO
+8504 Brittany Romero Australia 58 SARS-1 NO
+6628 Christine Olson Australia 18 COVID-2019 NO
+3456 Sarah Turner Australia 42 EVD NO
+8585 Erin Richards Australia 25 SARS-COV-2 YES 22-04-2011
+9744 Breanna Kennedy Australia 52 COVID-2019 YES 07-08-2009
+1364 Alexis Jackson Australia 15 COVID-2019 NO
+1364 Alexis Jackson Australia 15 SARS-1 YES 12-12-2013
+4458 Dylan Owens Australia 41 MERS-COV YES 17-12-2019
+1942 Antonio White Australia 25 COVID-2019 NO
+8507 Kelly Lee Australia 51 EVD NO
+8507 Kelly Lee Australia 51 MERS-COV YES 24-05-2004
+3100 Cathy Carrillo Australia 51 MERS-COV YES 21-06-2020
+4034 Lauren Caldwell Australia 72 COVID-2019 NO
+4051 Ann Williams Australia 24 SARS-1 NO
+3888 Karen Poole Australia 34 FLU-2018 NO
+5765 Andrew Malone Australia 34 MERS-COV YES 04-08-2016
+4829 Jordan Villa Australia 77 SARS-COV-2 YES 04-01-2017
+6478 Jennifer Jordan Australia 50 COVID-2019 NO
+8523 Cathy Robinson Australia 41 SARS-1 YES 19-08-2000
+138 Julia Johnson Australia 41 H1N1 YES 28-11-2005
+156 Daniel Chase Australia 66 EVD NO
+2660 Jose Armstrong Australia 12 SARS-COV-2 NO
+4963 Suzanne Bell Australia 41 MERS-COV YES 05-07-2006
+1111 Amy Hart Australia 47 COVID-2019 NO
+1517 Tyler Foster Australia 29 H1N1 NO
+1592 James Villanueva Australia 30 SARS-COV-2 YES 28-06-2007
+6445 Stephanie Mccormick Australia 34 MERS-COV NO
+5455 David Oliver Australia 10 MERS-COV NO
+8426 Megan Jones Australia 22 MERS-COV NO
+9605 Kevin Hill Australia 16 SARS-COV-2 YES 10-03-2007
+1174 Lisa Moore Australia 20 FLU-2018 NO
+2449 Tanner Johnson Australia 55 EVD NO
+9619 Chelsea Ibarra Australia 24 SARS-1 YES 03-02-2012
+7917 Jamie Carlson Australia 46 SARS-COV-2 NO
+2407 Kayla Gray Australia 18 FLU-2018 YES 24-02-2010
+2407 Kayla Gray Australia 18 EVD YES 11-02-2009
+1212 Brandon Baker Australia 49 SARS-1 NO
+5709 Derek Rodriguez Australia 16 MERS-COV YES 05-08-2018
+9277 Gregory Garcia Australia 67 H1N1 YES 29-01-2021
+9857 Crystal Wall Australia 36 H1N1 YES 10-10-2005
+9857 Crystal Wall Australia 36 EVD YES 02-01-2003
+8723 Tara Hudson Australia 49 MERS-COV YES 25-06-2002
+3250 Walter Mckay Australia 69 EVD NO
+1382 Kevin Davis Australia 76 FLU-2018 YES 18-07-2002
+7245 Brandon Perez Australia 51 SARS-1 NO
+5314 Sharon Stephens Australia 24 H1N1 YES 02-02-2016
+5314 Sharon Stephens Australia 24 SARS-COV-2 NO
+503 Alyssa Hunt Australia 47 FLU-2018 YES 14-01-2006
+5979 Teresa Jones Australia 53 EVD YES 15-08-2019
+9688 Christopher Santiago Australia 76 H1N1 YES 21-04-2005
+5936 David Hicks Australia 67 H1N1 YES 21-01-2018
+7872 Kelly Wilson Australia 65 H1N1 NO
+41 Micheal Perez Australia 56 MERS-COV YES 30-10-2005
+8015 Phillip Davis Australia 58 H1N1 NO
+5094 Stephanie Bishop Australia 49 COVID-2019 YES 23-08-2012
+3635 Nicole Lynch Australia 28 H1N1 YES 18-11-2016
+8075 Robert Webster Australia 12 EVD YES 17-10-2016
+8075 Robert Webster Australia 12 FLU-2018 YES 26-08-2015
+1499 Angela Clark Australia 21 H1N1 YES 16-12-2000
+1499 Angela Clark Australia 21 SARS-1 NO
+8664 Ricardo Brown Australia 63 MERS-COV YES 28-09-2008
+8462 Barbara Ramos Australia 77 MERS-COV NO
+371 Steven Cruz Australia 23 FLU-2018 NO
+371 Steven Cruz Australia 23 MERS-COV YES 16-02-2014
+2579 Andrew Fuentes Australia 10 EVD NO
+9203 Clayton Garcia Australia 13 SARS-COV-2 YES 19-08-2015
+9203 Clayton Garcia Australia 13 EVD NO
+6933 Kimberly Foster Australia 14 MERS-COV NO
+7452 Victoria Hernandez Australia 10 SARS-COV-2 NO
+8270 Destiny Hill Australia 44 MERS-COV YES 17-08-2001
+2291 Paul Christian Australia 60 SARS-COV-2 NO
+8666 Valerie Sanchez Australia 58 COVID-2019 YES 07-10-2012
+2358 Amy Price Australia 54 SARS-1 NO
+6498 Heather Galvan Australia 68 SARS-COV-2 YES 08-05-2008
+9677 William Lewis Australia 74 EVD YES 07-11-2017
+5616 Craig Gonzalez Australia 12 SARS-COV-2 NO
+5616 Craig Gonzalez Australia 12 H1N1 YES 27-11-2012
+504 Nina Lowe Australia 18 MERS-COV NO
+5980 Priscilla Perez Australia 23 COVID-2019 YES 09-08-2014
+9946 Laura Owens Australia 54 SARS-COV-2 YES 27-03-2012
+3662 Bonnie Wright Australia 57 SARS-1 NO
+2128 Joshua Hudson Australia 62 H1N1 NO
+931 Max Butler Australia 59 COVID-2019 YES 25-07-2016
+2327 Daniel Miller Australia 76 SARS-COV-2 NO
+7802 Anita Rodriguez Australia 55 MERS-COV YES 03-11-2007
+9493 Melissa Morrow Australia 66 FLU-2018 YES 20-11-2003
+2981 Jessica Stephens Australia 34 COVID-2019 YES 04-09-2006
+7695 Kristi Lowe Australia 20 MERS-COV NO
+5755 Jason Jones Australia 22 SARS-1 YES 14-07-2016
+8387 Rebecca Palmer Australia 33 H1N1 YES 20-07-2005
+1991 Karen Davis Australia 34 COVID-2019 YES 09-12-2011
+4839 Sonya Glass Australia 50 SARS-1 NO
+9563 Valerie Nguyen Australia 37 COVID-2019 NO
+9563 Valerie Nguyen Australia 37 MERS-COV NO
+2013 Mark Yoder Australia 14 MERS-COV YES 17-03-2013
+8849 Brittany Scott Australia 29 COVID-2019 NO
+18 Eddie Peterson Australia 43 SARS-1 YES 20-04-2011
+2441 Jennifer Callahan Australia 40 SARS-1 NO
+3556 Renee Galvan Australia 16 SARS-1 YES 09-01-2017
+7319 John Decker Australia 51 FLU-2018 YES 13-01-2020
+386 Morgan Guerrero Australia 51 SARS-1 NO
+1977 Maria Hendrix Australia 12 H1N1 YES 31-05-2003
+6249 Donald Clarke Australia 41 EVD NO
+4390 Ryan Lester Australia 40 MERS-COV YES 14-07-2002
+7537 Juan Thompson Australia 67 MERS-COV YES 15-04-2006
+7537 Juan Thompson Australia 67 SARS-1 NO
+2202 Christy Diaz Australia 40 COVID-2019 YES 11-07-2007
+7971 Mary Smith Australia 34 MERS-COV YES 07-10-2012
+454 Dalton Anderson Australia 23 SARS-COV-2 YES 19-07-2020
+4644 Melissa Williams Australia 33 EVD NO
+557 Dennis Joseph Australia 52 SARS-COV-2 YES 15-04-2016
+7473 Deanna Baker Australia 55 SARS-1 NO
+7473 Deanna Baker Australia 55 FLU-2018 YES 14-10-2015
+3865 William Murray Australia 75 EVD NO
+7061 Gregory Brown Australia 69 MERS-COV YES 06-07-2005
+6082 Ian Key Australia 22 COVID-2019 YES 25-12-2015
+3529 Zachary Diaz Australia 10 MERS-COV YES 07-12-2000
+2534 Deanna Brewer Australia 17 SARS-1 YES 14-08-2009
+1210 Leslie Jimenez Australia 78 EVD YES 27-08-2015
+1210 Leslie Jimenez Australia 78 SARS-COV-2 YES 24-10-2018
+7589 Brian Barrett Australia 31 SARS-1 NO
+4180 Richard Smith Australia 76 SARS-COV-2 NO
+7272 Oscar Novak Australia 24 COVID-2019 NO
+768 Jesse Roberts Australia 51 EVD YES 03-07-2018
+768 Jesse Roberts Australia 51 MERS-COV NO
+422 Jerome Flores Australia 27 FLU-2018 YES 02-08-2002
+5257 Susan Woodward Australia 79 FLU-2018 YES 07-06-2010
+308 Jasmine Wilson Australia 69 FLU-2018 YES 15-01-2008
+5330 Joseph Morrison Australia 47 COVID-2019 NO
+2150 Lucas Alexander Australia 57 FLU-2018 YES 07-01-2007
+9861 James Stout Australia 22 H1N1 NO
+5229 Renee Jackson Australia 63 H1N1 NO
+9162 Paul Mills Australia 13 SARS-1 NO
+7096 Charles Holmes Australia 41 H1N1 NO
+6348 Kimberly Garza Australia 44 FLU-2018 NO
+9159 Gary Patton Australia 13 SARS-1 YES 04-10-2013
+6764 William Walker Australia 38 EVD NO
+4522 Jason Crane Australia 28 SARS-COV-2 YES 17-08-2010
+7876 Evan Koch Australia 23 H1N1 NO
+616 Tammy Miller Australia 57 EVD YES 27-02-2019
+8468 Kristen Carroll Australia 75 MERS-COV YES 07-02-2000
+6182 Abigail Sanders Australia 55 MERS-COV NO
+7964 Jeffrey Guerra Australia 11 H1N1 NO
+4718 Todd Dean Australia 64 EVD NO
+4718 Todd Dean Australia 64 FLU-2018 YES 11-12-2000
+5518 Kevin Berg Australia 30 EVD NO
+7798 Jacob Robles Australia 42 COVID-2019 YES 23-04-2003
+6480 Sarah Gordon Australia 18 FLU-2018 YES 29-01-2021
+1516 Johnny Tucker Australia 21 SARS-COV-2 NO
+7441 Richard Ellis Australia 46 EVD YES 24-03-2009
+7441 Richard Ellis Australia 46 FLU-2018 NO
+1622 Amy Baker Australia 79 EVD YES 12-09-2009
+1622 Amy Baker Australia 79 FLU-2018 YES 18-09-2005
+8628 Brandy Olson Australia 33 H1N1 NO
+1000 Jeffrey Flores Australia 41 MERS-COV NO
+1189 Kyle Lyons Australia 31 MERS-COV NO
+8127 Hannah Wallace Australia 53 EVD YES 14-09-2015
+3909 Joe Sanchez Australia 30 H1N1 YES 15-12-2010
+43 Shelley Hall Australia 44 SARS-COV-2 YES 06-09-2006
+1045 Priscilla Roberts Australia 62 H1N1 YES 29-03-2017
+4287 Charles Wood Australia 11 EVD NO
+9873 Brittany Turner Australia 75 MERS-COV NO
+9581 David Brown Australia 76 H1N1 YES 13-05-2002
+2992 Steven Mcfarland Australia 77 COVID-2019 NO
+8648 Angela Sharp Australia 38 SARS-COV-2 NO
+3328 Stephanie Guerrero Australia 65 H1N1 NO
+9440 Latoya Mitchell Australia 37 EVD NO
+8141 Sheri Skinner Australia 58 FLU-2018 NO
+5322 John Shaw Australia 32 SARS-COV-2 NO
+7751 William Russell Australia 42 FLU-2018 YES 18-08-2017
+7024 Brittany Hale Australia 60 COVID-2019 YES 04-01-2013
+4114 John Brock Australia 27 SARS-1 YES 03-06-2019
+4114 John Brock Australia 27 COVID-2019 YES 10-01-2012
+5027 Danielle Dickson Australia 78 EVD YES 21-01-2002
+9601 Thomas Robinson Australia 13 COVID-2019 NO
+3939 Jennifer Palmer Australia 58 FLU-2018 NO
+7790 Paula Gonzalez Australia 77 MERS-COV YES 29-01-2010
+6895 Sarah Chandler Australia 72 MERS-COV NO
+5519 Laura Morgan Australia 67 COVID-2019 NO
+9456 Patricia Nelson Australia 41 EVD NO
+1405 Benjamin Mcfarland Australia 25 MERS-COV YES 12-04-2008
+7193 Joy Jennings Australia 12 EVD YES 15-08-2002
+6848 Cathy Carter Australia 54 H1N1 YES 26-08-2006
+6147 Jeffrey Rodriguez Australia 35 COVID-2019 YES 03-04-2006
+1804 James Martinez Australia 64 FLU-2018 NO
+7456 Mitchell Jones Australia 36 FLU-2018 NO
+7093 Ian Herrera Australia 24 H1N1 NO
+3241 Daniel King Australia 34 SARS-COV-2 NO
+3241 Daniel King Australia 34 COVID-2019 NO
+7732 Monica Wheeler Australia 72 FLU-2018 YES 05-10-2008
+3465 Thomas Blake Australia 54 SARS-COV-2 YES 01-10-2009
+6728 Matthew Singleton Australia 16 COVID-2019 NO
+4670 Jacqueline Petersen Australia 71 FLU-2018 YES 13-10-2020
+5121 Betty Lang Australia 21 FLU-2018 YES 05-11-2020
+8816 Gregory Perez Australia 17 EVD NO
+7094 Dennis Moore Australia 59 SARS-COV-2 YES 08-03-2003
+685 Jennifer Avila Australia 44 SARS-1 YES 25-07-2001

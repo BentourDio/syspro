@@ -1,0 +1,548 @@
+321 Mark Baker China 20 H1N1 NO
+8488 Deborah Gonzalez China 23 SARS-COV-2 YES 25-12-2007
+2801 Joseph Thomas China 38 H1N1 NO
+7291 William Bennett China 31 COVID-2019 YES 25-03-2009
+1793 Jessica Macdonald China 47 MERS-COV YES 04-09-2011
+6746 Sarah Thomas China 48 EVD NO
+9396 Marcia Jacobs China 11 COVID-2019 NO
+8547 Matthew Carpenter China 23 FLU-2018 NO
+5800 Rebecca Caldwell China 26 MERS-COV YES 12-02-2012
+4088 Robert Scott China 18 SARS-1 YES 08-02-2018
+8624 Matthew Jones China 72 FLU-2018 YES 01-07-2009
+1636 Christopher Gonzalez China 43 MERS-COV YES 12-06-2007
+6566 John Dillon China 24 COVID-2019 YES 30-12-2009
+7570 Sheri Stone China 30 SARS-1 NO
+5794 Erin Mitchell China 76 SARS-1 YES 01-06-2002
+7413 James Bishop China 52 EVD YES 22-05-2016
+7413 James Bishop China 52 COVID-2019 YES 01-11-2002
+1175 Robert Glenn China 26 SARS-1 YES 29-06-2000
+5079 Patricia Shepherd China 41 SARS-1 NO
+3879 Nathan Watson China 55 MERS-COV NO
+1245 Cynthia Williams China 51 SARS-1 YES 10-03-2004
+6244 Joe Wilson China 21 SARS-1 YES 29-02-2020
+7326 Jesus Henry China 67 MERS-COV NO
+8231 Laurie Marshall China 57 COVID-2019 YES 09-11-2007
+9173 Connor Edwards China 51 COVID-2019 NO
+9972 John Hawkins China 74 EVD YES 12-06-2002
+716 Eric Carter China 55 EVD YES 12-06-2014
+3331 Lisa Ho China 42 SARS-1 YES 15-04-2000
+6485 Hayley Sanchez China 40 EVD NO
+9818 Sean Mccarthy China 69 EVD YES 11-08-2014
+3466 Rebecca Stewart China 32 SARS-COV-2 YES 25-06-2004
+8014 Judy Pham China 38 SARS-COV-2 YES 16-05-2014
+7464 Tammy Day China 44 FLU-2018 YES 19-04-2016
+4134 Mallory Russo China 11 H1N1 NO
+5683 Danielle Davis China 46 FLU-2018 YES 30-12-2004
+5683 Danielle Davis China 46 H1N1 YES 22-11-2001
+229 Sonya Sanchez China 79 H1N1 YES 14-04-2009
+229 Sonya Sanchez China 79 SARS-COV-2 NO
+9025 James Holder China 17 COVID-2019 NO
+3953 Jesse Hayes China 65 SARS-1 YES 26-10-2011
+3953 Jesse Hayes China 65 H1N1 YES 07-01-2000
+3706 Karen Clark China 57 FLU-2018 NO
+1875 Suzanne Griffin China 24 SARS-1 YES 09-02-2012
+1875 Suzanne Griffin China 24 COVID-2019 YES 07-10-2013
+3067 Lindsey West China 15 H1N1 NO
+8967 Jake Boone China 44 COVID-2019 YES 05-05-2016
+7394 Jon Johnson China 48 SARS-1 NO
+6468 William Cooper China 42 FLU-2018 NO
+3501 Gregory Nelson China 46 FLU-2018 YES 09-07-2014
+7804 Darren Sanders China 14 MERS-COV NO
+4477 Yvonne York China 37 SARS-1 YES 06-12-2005
+9831 Michael Hines China 73 H1N1 NO
+5603 James Oconnor China 43 MERS-COV NO
+7923 Amanda Gonzalez China 31 EVD NO
+5166 Susan Hudson China 19 COVID-2019 YES 02-06-2014
+7051 Julie Davis China 31 SARS-COV-2 YES 14-04-2011
+2553 Jessica Davis China 38 COVID-2019 NO
+4918 Kiara Miller China 15 EVD YES 03-07-2019
+5897 Angela Walton China 35 SARS-COV-2 YES 21-12-2011
+2693 Derek Morales China 46 SARS-COV-2 YES 26-01-2004
+9984 Allison Obrien China 35 SARS-1 NO
+8759 Robin Lopez China 56 H1N1 YES 13-05-2016
+3511 Gabrielle Walker China 73 MERS-COV NO
+8787 Stacy Gould China 34 FLU-2018 YES 24-02-2007
+5684 Heidi Wheeler China 66 SARS-COV-2 NO
+5684 Heidi Wheeler China 66 FLU-2018 NO
+3006 Mathew Miller China 42 SARS-COV-2 YES 07-11-2010
+2550 Trevor Goodman China 45 MERS-COV YES 31-01-2006
+7439 Joseph Alvarez China 53 EVD NO
+7888 Kimberly Shannon China 52 COVID-2019 NO
+918 Breanna Best China 23 SARS-1 YES 08-03-2001
+7052 Sabrina Simpson China 13 SARS-COV-2 NO
+2369 William Mendoza China 23 EVD YES 09-11-2017
+9649 Tony Fletcher China 57 FLU-2018 NO
+7498 Rhonda Taylor China 17 FLU-2018 NO
+7718 Tara Moses China 32 H1N1 NO
+1070 John Bishop China 23 EVD NO
+2376 Jon Cook China 31 EVD NO
+5956 Mark Barnes China 67 SARS-1 NO
+2653 Timothy Morton China 42 H1N1 NO
+4563 Natasha Allen China 22 COVID-2019 YES 27-07-2002
+2348 Lisa Cole China 69 SARS-1 NO
+556 Jessica Horne China 48 EVD NO
+556 Jessica Horne China 48 COVID-2019 NO
+7720 Amy Fisher China 17 SARS-1 YES 30-05-2020
+2701 Sean Roman China 52 EVD YES 17-12-2019
+2826 Sarah Molina China 66 EVD YES 21-07-2015
+5170 Rodney Brown China 12 MERS-COV NO
+8053 Michael Torres China 55 EVD YES 20-04-2018
+2338 Scott Proctor China 74 SARS-COV-2 NO
+477 Debra Thomas China 29 H1N1 YES 28-02-2004
+4635 Latoya Peterson China 38 COVID-2019 YES 29-08-2008
+2966 Christina Lewis China 20 SARS-COV-2 NO
+9528 Jeremy Landry China 20 SARS-1 YES 05-10-2003
+1209 Joshua Jones China 43 EVD YES 11-04-2013
+5575 Ryan Alvarez China 31 SARS-1 YES 10-01-2001
+5796 Matthew Glass China 36 SARS-1 NO
+3013 Cindy Terry China 25 SARS-COV-2 NO
+406 William Pollard China 65 H1N1 YES 31-03-2011
+825 Craig Garcia China 25 H1N1 YES 02-07-2009
+9094 Jason Terry China 68 MERS-COV YES 12-05-2018
+4959 Anthony Farley China 71 FLU-2018 YES 03-10-2017
+7496 Sharon Stanton China 35 MERS-COV NO
+2281 Jennifer Cross China 48 FLU-2018 YES 10-12-2009
+5505 Jeremy Wells China 20 EVD YES 27-08-2020
+1815 Jermaine Sellers China 27 FLU-2018 YES 19-11-2006
+3682 Lauren Carson China 54 EVD NO
+1214 Michael Evans China 48 H1N1 NO
+9031 Michael Bryan China 37 MERS-COV YES 01-02-2015
+4827 Jonathan Douglas China 46 EVD NO
+3634 Wesley Cherry China 11 SARS-COV-2 NO
+3634 Wesley Cherry China 11 COVID-2019 NO
+5862 Amanda Garcia China 60 MERS-COV NO
+2757 Leslie Patrick China 77 FLU-2018 YES 11-03-2017
+8522 Timothy Harris China 42 EVD NO
+9693 Brenda Smith China 47 H1N1 YES 01-08-2005
+9527 Brittney Williams China 67 SARS-COV-2 NO
+7871 Kimberly Davis China 66 EVD NO
+5880 Lisa Hunt China 59 H1N1 NO
+7007 Alvin Brown China 67 MERS-COV NO
+7007 Alvin Brown China 67 SARS-COV-2 NO
+461 Jonathan Thompson China 18 FLU-2018 NO
+3382 Jorge Howard China 10 COVID-2019 YES 03-01-2006
+5681 Taylor Thompson China 38 EVD NO
+2450 Alexa Hunter China 55 EVD YES 25-03-2005
+7839 Taylor Carter China 67 H1N1 NO
+4782 Sara Guerrero China 30 FLU-2018 NO
+1757 Karen Rivas China 31 COVID-2019 NO
+1757 Karen Rivas China 31 FLU-2018 YES 23-03-2008
+3357 Andrew Bradley China 31 EVD YES 18-06-2017
+2057 Kevin Miller China 44 SARS-1 NO
+6519 Austin Quinn China 75 EVD NO
+852 Edward Oliver China 48 COVID-2019 NO
+3707 Susan Hess China 45 MERS-COV NO
+5920 Steven Weaver China 40 SARS-1 NO
+5920 Steven Weaver China 40 SARS-COV-2 YES 28-02-2010
+3168 Steven Mills China 24 MERS-COV NO
+6231 Vicki Smith China 31 MERS-COV NO
+732 Crystal Stuart China 12 SARS-COV-2 NO
+3618 Alexander Douglas China 28 EVD YES 04-09-2008
+3618 Alexander Douglas China 28 MERS-COV YES 05-02-2018
+6658 Sarah Miller China 47 FLU-2018 NO
+6877 Jacob Moreno China 68 SARS-1 YES 21-03-2017
+6877 Jacob Moreno China 68 FLU-2018 YES 04-03-2008
+3129 Alexis May China 40 MERS-COV YES 08-05-2020
+3809 Jeffrey Baird China 30 COVID-2019 YES 24-01-2007
+4735 Benjamin Murray China 28 SARS-1 YES 06-08-2017
+118 Michael Fischer China 74 EVD NO
+8552 Cynthia Callahan China 54 SARS-COV-2 YES 23-07-2000
+5967 Angela Davis China 52 MERS-COV NO
+7933 Jared Smith China 17 H1N1 NO
+7933 Jared Smith China 17 SARS-COV-2 YES 27-01-2010
+1713 William Porter China 66 SARS-COV-2 YES 09-07-2009
+2246 Barry Yang China 17 EVD NO
+9163 Anthony Kennedy China 68 SARS-1 YES 09-12-2008
+9843 Kimberly Wilson China 35 COVID-2019 NO
+226 Christina Ramirez China 31 H1N1 YES 05-02-2003
+5131 Katherine Beasley China 18 SARS-1 NO
+274 Mike Gross China 10 SARS-COV-2 NO
+2573 Katrina Nelson China 37 EVD NO
+9041 Justin Gilmore China 21 SARS-COV-2 NO
+7276 Alexander Wolfe China 75 H1N1 YES 29-10-2001
+8672 Debra Gregory China 12 FLU-2018 YES 25-01-2014
+4589 Virginia Gomez China 40 SARS-1 YES 16-08-2017
+2059 Brian Bender China 15 COVID-2019 YES 22-08-2017
+2034 Patrick Norris China 67 H1N1 NO
+1148 Lisa Mccoy China 38 EVD YES 01-08-2014
+8525 Hannah Huang China 50 SARS-COV-2 NO
+25 Justin Howard China 24 MERS-COV YES 03-12-2018
+7754 Andrea Craig China 75 SARS-COV-2 YES 23-09-2004
+7754 Andrea Craig China 75 COVID-2019 NO
+1948 Kayla Wilson China 22 FLU-2018 YES 03-08-2009
+5129 Vickie Johnson China 48 FLU-2018 YES 14-01-2010
+5129 Vickie Johnson China 48 COVID-2019 YES 22-10-2020
+7826 Heather Marshall China 36 SARS-COV-2 YES 13-12-2000
+7275 Joseph Sullivan China 69 FLU-2018 NO
+3178 Patrick Hall China 23 SARS-COV-2 NO
+8094 Kristen Parks China 44 H1N1 NO
+8094 Kristen Parks China 44 SARS-COV-2 YES 11-05-2002
+6055 Tina Dorsey China 76 MERS-COV YES 14-08-2013
+8339 Bryan Becker China 28 COVID-2019 YES 13-11-2011
+3614 Linda Mccoy China 77 SARS-COV-2 NO
+9046 Gerald Burnett China 24 EVD YES 30-08-2014
+3046 Donald Turner China 31 H1N1 YES 19-04-2018
+987 Haley Hardin China 24 COVID-2019 YES 09-02-2014
+2065 Aaron Miller China 45 SARS-COV-2 NO
+6234 Troy Jensen China 32 EVD NO
+2549 Matthew Christian China 38 FLU-2018 NO
+922 James Holmes China 30 H1N1 YES 05-10-2000
+9628 Philip Martin China 53 FLU-2018 NO
+3454 Garrett Andrews China 78 SARS-1 YES 23-10-2018
+2837 Patricia Gross China 54 EVD YES 13-01-2010
+3330 Joshua Meyer China 36 FLU-2018 NO
+7341 Angel Gonzales China 68 FLU-2018 NO
+672 Samuel Stanley China 29 H1N1 YES 08-06-2001
+7967 Matthew Coleman China 20 COVID-2019 YES 08-09-2017
+3452 Deborah Barnes China 23 MERS-COV NO
+9316 Allison Hill China 75 FLU-2018 NO
+4491 Kevin Myers China 76 COVID-2019 NO
+956 David Rodriguez China 32 SARS-COV-2 YES 07-03-2021
+956 David Rodriguez China 32 MERS-COV YES 12-12-2019
+9823 Edward Bond China 41 COVID-2019 YES 06-06-2010
+7324 Christopher Wood China 14 H1N1 NO
+727 Aaron Wilcox China 70 SARS-COV-2 NO
+89 Lynn Graves China 44 MERS-COV YES 17-07-2004
+87 Malik Ali China 62 EVD NO
+5735 Tiffany Montgomery China 17 SARS-COV-2 NO
+8088 Darryl Rodriguez China 24 SARS-1 NO
+2121 Martha Carroll China 16 MERS-COV NO
+7150 Carolyn Williams China 50 COVID-2019 YES 16-05-2012
+7882 Michael Bailey China 25 SARS-1 YES 23-09-2007
+7882 Michael Bailey China 25 SARS-COV-2 NO
+2323 Carlos Best China 74 SARS-1 YES 23-05-2013
+9153 Angelica Garcia China 34 COVID-2019 YES 29-10-2018
+9505 Nicholas Gross China 36 SARS-1 NO
+2781 Vanessa Gonzalez China 45 H1N1 YES 28-04-2001
+2781 Vanessa Gonzalez China 45 SARS-1 NO
+8616 Cheryl Palmer China 24 FLU-2018 YES 31-03-2005
+6301 Tracy Williams China 29 SARS-1 NO
+4745 James Shields China 28 FLU-2018 YES 25-11-2018
+4745 James Shields China 28 SARS-COV-2 YES 03-03-2018
+2036 Jennifer Gonzalez China 39 SARS-COV-2 NO
+6993 Andrew Lopez China 36 MERS-COV NO
+8340 Michael Garcia China 66 COVID-2019 NO
+679 Christina Richardson China 42 H1N1 NO
+9891 Brittany Lyons China 17 H1N1 NO
+2923 Jennifer Kelley China 79 COVID-2019 YES 28-03-2002
+8561 David Barber China 63 H1N1 YES 09-03-2019
+7010 Bob Pham China 23 MERS-COV YES 10-08-2017
+9105 Nicholas Johns China 16 COVID-2019 NO
+3401 Cassandra Dean China 29 SARS-1 YES 14-10-2000
+4722 Brian Rice China 39 MERS-COV YES 22-09-2001
+5393 Stephanie Reilly China 39 COVID-2019 YES 16-06-2004
+5883 Jessica Dean China 50 SARS-COV-2 NO
+6562 Joel Aguirre China 47 EVD NO
+5477 Richard Bell China 24 SARS-COV-2 YES 23-05-2009
+1459 John Browning China 38 COVID-2019 YES 09-04-2020
+6391 Scott Martin China 59 H1N1 NO
+259 Jeffrey Nelson China 23 COVID-2019 YES 28-03-2004
+3136 Joseph Garcia China 53 SARS-COV-2 NO
+4973 Tammy Wilcox China 47 FLU-2018 YES 19-04-2002
+7600 Katrina Huang China 56 COVID-2019 NO
+7600 Katrina Huang China 56 SARS-COV-2 NO
+1044 Jonathan King China 30 SARS-COV-2 NO
+1928 Christine Mack China 40 SARS-1 YES 29-06-2011
+1928 Christine Mack China 40 MERS-COV YES 14-11-2001
+2989 Olivia Parker China 26 EVD NO
+1933 April Williams China 13 EVD YES 14-05-2018
+8935 Robert Shaw China 44 EVD YES 30-04-2005
+8981 Christian Ruiz China 19 EVD NO
+1455 Virginia Hurst China 67 FLU-2018 NO
+6780 Andre Moon China 14 COVID-2019 NO
+2185 Kristina Ruiz China 29 FLU-2018 NO
+4655 Anna Barnes China 49 H1N1 YES 09-06-2002
+615 Daniel Solis China 15 SARS-COV-2 NO
+8727 Richard Graves China 56 COVID-2019 YES 05-02-2012
+665 Joshua Tran China 62 FLU-2018 YES 13-01-2021
+665 Joshua Tran China 62 SARS-1 NO
+3198 Leah Moore China 46 H1N1 YES 19-08-2009
+496 Cynthia Collins China 33 EVD NO
+4991 Billy Kidd China 39 SARS-COV-2 YES 22-10-2010
+4991 Billy Kidd China 39 FLU-2018 YES 09-06-2013
+5641 Hannah Taylor China 76 MERS-COV NO
+7548 Steven Gibson China 74 SARS-COV-2 NO
+3137 Michele Stone China 33 FLU-2018 YES 30-10-2001
+8746 Brian Roy China 38 EVD NO
+3374 Michelle Murphy China 64 COVID-2019 YES 22-08-2015
+2899 Rachel Fowler China 24 SARS-1 YES 20-03-2020
+1707 Jonathan Moss China 47 SARS-1 NO
+1846 Ashley Lewis China 79 H1N1 NO
+1596 Amanda Johnson China 49 SARS-COV-2 NO
+9055 Jonathan Parks China 13 H1N1 YES 19-05-2020
+2145 Shannon Wright China 22 EVD YES 25-11-2009
+2145 Shannon Wright China 22 FLU-2018 YES 07-02-2013
+5097 Michael Little China 19 MERS-COV NO
+9061 Natalie Andrews China 42 SARS-COV-2 NO
+316 Theresa Jackson China 28 FLU-2018 YES 27-04-2018
+4625 Pamela Waters China 11 MERS-COV YES 12-11-2009
+7666 Heather Hale China 20 EVD YES 07-08-2020
+4891 Andrew Martinez China 54 COVID-2019 YES 27-01-2006
+4317 Jennifer Mitchell China 16 EVD YES 12-12-2009
+8411 Jeffery Patton China 32 MERS-COV YES 11-11-2014
+6394 Alexa Gallagher China 71 SARS-1 NO
+6355 Elizabeth Walker China 64 H1N1 YES 13-10-2001
+8890 Dawn Kaufman China 10 SARS-1 NO
+4223 Robert Peterson China 56 SARS-1 YES 18-12-2002
+944 Ryan Hernandez China 40 SARS-1 YES 02-09-2011
+8200 Adrian Miles China 57 COVID-2019 NO
+7627 Suzanne Garcia China 11 MERS-COV NO
+3197 Arthur Cunningham China 71 MERS-COV YES 15-11-2019
+4611 Lori Brown China 67 SARS-COV-2 NO
+8966 Justin Alexander China 30 H1N1 YES 10-01-2000
+8765 Sara Gibbs China 15 H1N1 YES 28-01-2016
+8830 Garrett Morgan China 40 H1N1 YES 07-01-2001
+8830 Garrett Morgan China 40 COVID-2019 NO
+7580 Jessica Shah China 47 EVD NO
+805 Terri Frederick China 50 SARS-1 NO
+5386 Eric Simmons China 16 H1N1 NO
+307 John Neal China 22 MERS-COV YES 15-03-2015
+3351 Vanessa White China 59 MERS-COV YES 21-10-2008
+6202 Alicia Gibson China 62 SARS-COV-2 NO
+8610 Robert Wallace China 13 SARS-1 YES 16-07-2015
+4024 Denise Buckley China 55 H1N1 NO
+4024 Denise Buckley China 55 SARS-1 NO
+8987 Erica Mcdonald China 13 FLU-2018 NO
+4303 Michael Ayala China 78 FLU-2018 YES 11-06-2004
+1554 Emily Johnston China 60 EVD NO
+5547 Lacey Holt China 61 COVID-2019 NO
+5547 Lacey Holt China 61 SARS-1 NO
+6767 James Baldwin China 58 H1N1 NO
+4837 Mariah Christensen China 10 COVID-2019 NO
+3833 Aaron Long China 65 SARS-1 NO
+296 Patricia Strickland China 30 FLU-2018 NO
+5893 Preston Campbell China 72 COVID-2019 NO
+6961 Lauren Nelson China 34 SARS-COV-2 YES 01-04-2020
+3252 Brandy Gill China 68 SARS-1 YES 07-03-2004
+2162 Lance Mann China 65 H1N1 YES 07-11-2013
+2162 Lance Mann China 65 EVD YES 06-06-2008
+9524 Norma Pham China 22 H1N1 YES 24-02-2005
+6941 Robert Williams China 10 COVID-2019 NO
+6306 John Bates China 40 H1N1 YES 01-07-2010
+6306 John Bates China 40 SARS-1 NO
+2907 Keith Taylor China 42 SARS-1 NO
+5946 Kyle Golden China 77 SARS-1 NO
+5946 Kyle Golden China 77 H1N1 YES 03-05-2012
+1626 Robert Robbins China 20 EVD NO
+1626 Robert Robbins China 20 SARS-COV-2 YES 18-01-2004
+3580 Antonio Jones China 53 H1N1 YES 29-01-2019
+5531 Sharon Benson China 79 H1N1 NO
+6797 Thomas Ellis China 34 COVID-2019 YES 08-12-2012
+2961 Melissa Skinner China 28 H1N1 NO
+6415 Christopher Wood China 44 H1N1 NO
+4770 Jessica Beasley China 78 EVD NO
+3485 Kathleen Hartman China 24 MERS-COV NO
+845 Sarah Camacho China 59 H1N1 YES 25-04-2007
+3675 Amy Donaldson China 62 H1N1 NO
+3675 Amy Donaldson China 62 EVD YES 13-07-2020
+8427 Samuel Ryan China 48 COVID-2019 YES 21-12-2002
+7323 William Smith China 10 FLU-2018 NO
+3081 Brittany Rivera China 17 EVD NO
+7011 Ryan Martin China 69 COVID-2019 NO
+7011 Ryan Martin China 69 SARS-COV-2 NO
+2240 Blake Perkins China 52 FLU-2018 YES 10-06-2018
+5116 Jessica Rodriguez China 67 FLU-2018 NO
+9800 Randy Fernandez China 58 MERS-COV NO
+543 James Barry China 65 FLU-2018 YES 14-05-2002
+6163 Julia Sampson China 16 FLU-2018 YES 12-11-2019
+5848 Ryan Ramirez China 75 SARS-1 NO
+3725 Phillip Herrera China 55 COVID-2019 NO
+7979 Phillip Robinson China 37 MERS-COV NO
+1220 Mary Lynch China 24 EVD YES 29-07-2017
+1220 Mary Lynch China 24 SARS-COV-2 NO
+2090 Jeffrey Edwards China 74 MERS-COV NO
+1909 Sandra Cox China 69 FLU-2018 NO
+7403 Sarah Davis China 45 FLU-2018 NO
+9106 Teresa Blake China 13 SARS-COV-2 YES 09-10-2007
+9106 Teresa Blake China 13 MERS-COV YES 07-01-2007
+8541 Phillip Oliver China 32 FLU-2018 YES 12-12-2006
+8208 Matthew Johnston China 72 H1N1 YES 24-10-2009
+8875 Haley Smith China 19 SARS-1 NO
+465 Mitchell Kelley China 33 SARS-1 YES 22-08-2008
+1880 Grace Mccullough China 50 EVD NO
+231 Julie Moore China 32 COVID-2019 NO
+6572 Vincent Thomas China 54 H1N1 YES 03-07-2013
+3965 Mark Gonzalez China 71 SARS-1 YES 10-11-2007
+8156 Bryan Paul China 60 SARS-COV-2 YES 31-10-2007
+79 Jill Delacruz China 13 SARS-COV-2 YES 23-08-2020
+5638 Sharon Wong China 36 H1N1 YES 23-01-2005
+1095 Sarah Lawson China 56 FLU-2018 NO
+9221 Brittany Small China 12 EVD YES 17-05-2013
+6311 Angel Baker China 27 EVD YES 23-01-2015
+7852 Mark Rivera China 47 SARS-COV-2 YES 24-07-2008
+9089 Luis Beck China 24 SARS-1 NO
+2758 Natalie Cummings China 11 FLU-2018 YES 27-04-2002
+243 Pamela Wells China 69 SARS-1 YES 23-04-2009
+243 Pamela Wells China 69 EVD YES 20-01-2012
+3344 Tony Strickland China 32 SARS-1 NO
+7019 Kim Callahan China 76 FLU-2018 NO
+7019 Kim Callahan China 76 COVID-2019 YES 24-09-2020
+8692 Anthony Swanson China 56 H1N1 YES 24-02-2017
+7677 William Sanford China 10 MERS-COV YES 28-10-2009
+7677 William Sanford China 10 COVID-2019 NO
+7752 Angela Dawson China 40 SARS-1 NO
+2249 Robert Brown China 71 MERS-COV NO
+7799 Christina Cameron China 65 MERS-COV NO
+6705 Johnny Arnold China 77 FLU-2018 NO
+3579 Sydney Daniels China 29 MERS-COV YES 22-01-2013
+398 Shane Griffith China 51 FLU-2018 YES 01-07-2009
+9855 Joan Liu China 53 SARS-1 YES 30-06-2002
+6985 Jay Edwards China 14 SARS-1 NO
+5369 Michael Leblanc China 11 MERS-COV YES 05-01-2007
+7067 Anna Lane China 43 COVID-2019 NO
+1877 Desiree Watson China 23 MERS-COV YES 02-12-2014
+2950 Joseph Bass China 11 MERS-COV NO
+6609 Stephen White China 58 SARS-1 YES 28-02-2021
+6221 Barbara Mitchell China 26 SARS-COV-2 NO
+3186 Karen Dunn China 23 FLU-2018 YES 26-07-2015
+2627 Jeffrey Morrow China 49 EVD YES 30-06-2006
+2627 Jeffrey Morrow China 49 H1N1 NO
+9071 Brent Mendoza China 38 COVID-2019 YES 16-08-2017
+3712 Richard Henry China 32 SARS-COV-2 YES 28-01-2000
+8675 Steven Kline China 21 EVD NO
+4359 Jillian Sanders China 31 FLU-2018 YES 23-03-2002
+5083 William Lester China 54 H1N1 YES 27-11-2007
+8366 Amanda Shaffer China 54 FLU-2018 NO
+4292 Troy Lewis China 22 H1N1 NO
+4292 Troy Lewis China 22 COVID-2019 YES 27-11-2009
+5987 Jimmy Meyers China 42 SARS-COV-2 YES 05-03-2016
+5444 Michelle Lyons China 40 EVD NO
+7885 Tanya Tyler China 25 FLU-2018 YES 19-02-2018
+7885 Tanya Tyler China 25 COVID-2019 NO
+2646 Lee Dixon China 76 COVID-2019 YES 06-08-2010
+5877 Jonathan Schmidt China 45 SARS-1 NO
+427 Colleen Buchanan China 26 MERS-COV NO
+5958 Julia Tucker China 40 SARS-1 YES 13-07-2005
+565 Jonathan Roach China 75 COVID-2019 NO
+619 Sarah Hill China 28 MERS-COV YES 12-03-2000
+7552 Lauren Vazquez China 11 COVID-2019 YES 25-11-2017
+7552 Lauren Vazquez China 11 FLU-2018 YES 08-12-2002
+740 James Johnson China 79 H1N1 YES 06-05-2019
+4531 Henry Guerrero China 63 H1N1 YES 13-07-2015
+8821 Scott Jordan China 35 SARS-COV-2 NO
+3605 Robert Sweeney China 17 MERS-COV YES 16-02-2014
+3040 Douglas Hebert China 28 SARS-COV-2 NO
+9742 Michael Roach China 10 EVD YES 24-10-2017
+9925 Jennifer Scott China 20 MERS-COV YES 24-02-2002
+2314 Joseph Turner China 41 SARS-COV-2 NO
+5278 Julie Smith China 12 H1N1 YES 06-03-2017
+5278 Julie Smith China 12 EVD YES 25-12-2011
+4057 Jessica Gilbert China 12 EVD YES 04-06-2015
+364 Kathleen Whitaker China 43 EVD YES 29-09-2009
+2657 Joseph Murphy China 49 MERS-COV NO
+8979 Catherine Hopkins China 33 EVD NO
+3329 Brittany Grant China 15 FLU-2018 YES 11-04-2012
+3908 Christopher Carr China 69 EVD NO
+7914 Barry Lawrence China 38 SARS-COV-2 NO
+6227 Jason Russell China 21 MERS-COV YES 14-09-2009
+7331 Randy Carpenter China 78 EVD NO
+1446 Leslie Johnson China 54 FLU-2018 NO
+1433 Sheri Phillips China 29 SARS-1 YES 23-01-2021
+3174 Philip Higgins China 47 FLU-2018 YES 03-06-2012
+5480 Brandon Burnett China 21 MERS-COV NO
+4065 Hannah Alexander China 76 MERS-COV YES 24-12-2010
+4065 Hannah Alexander China 76 H1N1 YES 28-07-2013
+1006 Brian Day China 46 FLU-2018 YES 22-08-2018
+1695 Jeremiah Franklin China 39 H1N1 NO
+7918 Katelyn Walters China 16 MERS-COV YES 02-06-2008
+678 Scott Williams China 74 COVID-2019 NO
+4446 Brian Ramos China 16 MERS-COV YES 04-05-2013
+1502 Robert Miller China 51 SARS-1 NO
+3702 Erik Oliver China 37 H1N1 YES 09-12-2003
+1679 Dominic Williams China 55 H1N1 YES 12-10-2020
+1679 Dominic Williams China 55 SARS-1 YES 27-02-2016
+3245 Nathan White China 60 SARS-COV-2 NO
+4061 Darius Burnett China 42 EVD YES 22-02-2004
+8225 Christopher Glass China 56 FLU-2018 NO
+7787 Heather Martinez China 46 MERS-COV YES 03-07-2001
+6578 Wesley Hancock China 14 SARS-COV-2 NO
+7018 Christopher Harmon China 44 MERS-COV NO
+7018 Christopher Harmon China 44 H1N1 NO
+7109 Kelly Green China 21 COVID-2019 YES 18-02-2008
+268 Jason Hall China 36 FLU-2018 YES 17-10-2001
+268 Jason Hall China 36 H1N1 YES 12-03-2003
+6098 Tyler Washington China 16 SARS-1 NO
+9725 Cynthia Ramirez China 39 MERS-COV NO
+1856 Rita Sampson China 43 SARS-COV-2 YES 17-10-2005
+8828 Jennifer Burgess China 43 COVID-2019 NO
+8828 Jennifer Burgess China 43 MERS-COV YES 08-06-2010
+524 Taylor Mann China 60 SARS-COV-2 YES 03-09-2019
+7910 Margaret Davis China 60 EVD YES 26-01-2013
+4934 Dawn Monroe China 68 COVID-2019 NO
+4934 Dawn Monroe China 68 FLU-2018 YES 29-12-2015
+6959 Bethany Burns China 53 EVD YES 07-01-2011
+4968 Jennifer Bird China 47 SARS-COV-2 YES 14-02-2016
+6066 Eduardo Mitchell China 50 EVD NO
+8242 Leslie Horn China 50 FLU-2018 YES 05-09-2019
+1086 Danielle Osborn China 39 SARS-1 NO
+2925 Steven Townsend China 51 MERS-COV NO
+717 April Moreno China 79 SARS-1 NO
+3778 Brent Wong China 59 EVD NO
+4675 Spencer Williams China 11 H1N1 NO
+5429 James Cunningham China 38 MERS-COV YES 05-05-2001
+5429 James Cunningham China 38 COVID-2019 NO
+5316 Mark Cherry China 57 SARS-1 NO
+6716 Richard Hines China 15 SARS-1 YES 20-03-2019
+6716 Richard Hines China 15 MERS-COV NO
+3589 Jonathan Weber China 75 FLU-2018 YES 21-03-2001
+4771 Donald Mosley China 44 COVID-2019 NO
+1115 Victoria Santos China 70 FLU-2018 NO
+4856 Sherry Santos China 34 MERS-COV NO
+821 Cynthia Hensley China 38 H1N1 NO
+5130 Andrea Fleming China 20 FLU-2018 NO
+7625 Pamela Wiley China 33 SARS-COV-2 NO
+4156 Stephanie Patrick China 52 MERS-COV NO
+7610 Robert Robinson China 23 SARS-1 YES 14-07-2017
+4336 Bruce Webster China 76 COVID-2019 NO
+4336 Bruce Webster China 76 SARS-1 NO
+4862 Rebecca Meadows China 66 FLU-2018 NO
+4862 Rebecca Meadows China 66 EVD YES 10-10-2010
+8706 Diana Heath China 33 SARS-COV-2 NO
+4145 George Walsh China 51 H1N1 NO
+4145 George Walsh China 51 MERS-COV YES 13-03-2014
+5778 Joshua Brewer China 38 H1N1 NO
+1678 Yvette Gilmore China 11 SARS-COV-2 YES 26-01-2014
+8805 Mary Woods China 21 SARS-1 NO
+4743 Katherine Elliott China 39 H1N1 NO
+9741 Christopher Salazar China 40 SARS-1 NO
+1529 Lisa Jordan China 66 COVID-2019 YES 01-09-2006
+8389 Miguel Sanford China 51 FLU-2018 YES 17-10-2001
+9897 Angela Mendez China 49 MERS-COV YES 08-06-2015
+1030 Gregory Ellis China 22 SARS-COV-2 NO
+2683 Kristina Walker China 62 MERS-COV NO
+2683 Kristina Walker China 62 COVID-2019 YES 23-08-2009
+2166 Brett Hogan China 62 SARS-COV-2 YES 13-11-2020
+6731 Andrea Ballard China 30 COVID-2019 NO
+2361 Michael Gomez China 16 FLU-2018 NO
+6531 Brittany Alexander China 48 EVD YES 26-04-2006
+4079 Michael Powell China 61 COVID-2019 YES 29-11-2015
+548 Jerry Williams China 61 COVID-2019 NO
+4078 James Brewer China 53 FLU-2018 NO
+120 Christopher Hampton China 10 SARS-COV-2 YES 16-06-2009
+6269 James Graham China 20 H1N1 NO
+1945 Diane Ward China 23 H1N1 YES 14-07-2011
+3906 Jamie Clark China 13 EVD NO
+4308 Melissa Brown China 44 EVD NO
+82 Taylor Newton China 74 EVD YES 06-01-2018
+1447 Richard Stanton China 22 MERS-COV YES 11-07-2006
+6006 Kelly Allison China 51 FLU-2018 NO
+2687 Donna Ramsey China 68 SARS-1 NO
+2687 Donna Ramsey China 68 SARS-COV-2 YES 28-03-2001
+7483 Erin Jackson China 63 COVID-2019 NO
+5784 Bryan Johnson China 75 EVD NO
+2049 Pamela Vang China 53 COVID-2019 NO
+5799 Jeremy Atkins China 46 SARS-1 YES 25-09-2001
+6874 Joshua Jackson China 49 SARS-COV-2 YES 17-06-2019
+114 Kathryn Thompson China 34 SARS-COV-2 YES 17-11-2006
+6137 Nathan Flores China 69 SARS-1 YES 15-09-2011
+6761 Ricardo Jackson China 41 MERS-COV YES 20-04-2006
+8322 Valerie Odom China 14 SARS-COV-2 YES 17-02-2007
+8322 Valerie Odom China 14 FLU-2018 NO
+7756 Lauren Rodgers China 36 H1N1 YES 29-06-2002
+67 Ryan Murphy China 71 EVD NO
+67 Ryan Murphy China 71 SARS-COV-2 NO
+8469 Jerry Smith China 61 SARS-COV-2 NO
+7230 Patrick Holder China 16 FLU-2018 YES 08-06-2012
+724 Craig Roberts China 28 COVID-2019 NO
+1506 Robert Mcgee China 16 SARS-COV-2 NO
+1255 Matthew Wade China 66 H1N1 NO

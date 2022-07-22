@@ -1,0 +1,3283 @@
+85904 Barbara Williams Argentina 58 SARS-1 NO
+53554 Cheryl Stewart Argentina 31 MERS-COV NO
+23028 Amy Burke Argentina 33 FLU-2018 NO
+41999 Matthew Zhang Argentina 65 SARS-COV-2 YES 02-01-2001
+76518 Ricky Zamora Argentina 19 SARS-1 YES 11-06-2018
+28235 Jason Sweeney Argentina 64 SARS-COV-2 YES 06-05-2010
+56518 Brianna Brown Argentina 76 FLU-2018 YES 25-12-2008
+50662 Jennifer Lopez Argentina 70 SARS-1 NO
+40817 Alison Knight Argentina 69 SARS-1 NO
+6377 Morgan Powell Argentina 28 EVD YES 25-05-2019
+50843 Laurie Olsen Argentina 32 COVID-2019 NO
+17695 Stephen Castro Argentina 16 COVID-2019 NO
+91125 Whitney White Argentina 14 COVID-2019 NO
+92327 Tanya Reed Argentina 57 MERS-COV YES 17-02-2000
+55917 Stacie Harvey Argentina 58 MERS-COV YES 11-01-2006
+85848 Danny Garcia Argentina 42 SARS-1 NO
+80692 Theresa Austin Argentina 11 FLU-2018 YES 10-02-2019
+56355 Jennifer Smith Argentina 64 FLU-2018 YES 31-05-2005
+78757 Michelle Anderson Argentina 36 SARS-COV-2 NO
+72032 Christina Washington Argentina 78 SARS-1 NO
+82231 Ronald Bautista Argentina 20 EVD NO
+8025 Nathan Montgomery Argentina 17 EVD YES 11-07-2005
+35056 Kristopher Schultz Argentina 38 EVD YES 06-05-2005
+13584 Steve Wells Argentina 52 SARS-COV-2 YES 05-09-2007
+22094 Trevor Smith Argentina 62 FLU-2018 YES 24-01-2000
+60969 Robin Myers Argentina 22 SARS-COV-2 YES 21-08-2003
+92817 John Ruiz Argentina 21 MERS-COV NO
+25191 Kimberly Marshall Argentina 67 MERS-COV YES 19-02-2012
+55912 Evelyn Grant Argentina 67 EVD NO
+41271 Scott Wood Argentina 19 MERS-COV NO
+82989 Raymond Watson Argentina 33 FLU-2018 YES 24-04-2018
+5637 Andrea Powell Argentina 33 COVID-2019 YES 08-12-2005
+3541 Heather Orozco Argentina 10 H1N1 YES 05-05-2009
+97348 Nicholas James Argentina 65 SARS-COV-2 NO
+2501 Douglas Mccullough Argentina 50 SARS-1 YES 26-05-2015
+37491 Amanda Carson Argentina 19 SARS-1 YES 15-07-2011
+59010 Jeffrey Guzman Argentina 41 COVID-2019 NO
+31196 Justin Johnson Argentina 28 FLU-2018 NO
+76019 Lisa Salinas Argentina 16 EVD NO
+8132 Kelly Harris Argentina 55 SARS-1 NO
+98477 Lauren Kennedy Argentina 74 SARS-COV-2 NO
+54000 Michael Johnson Argentina 27 SARS-1 YES 08-03-2018
+63300 Eric Webster Argentina 45 FLU-2018 NO
+42551 Kimberly Adams Argentina 57 H1N1 NO
+59100 Matthew Heath Argentina 12 FLU-2018 NO
+83790 Benjamin Carroll Argentina 38 MERS-COV NO
+56143 Courtney Farley Argentina 62 EVD YES 25-01-2021
+82394 Brittany Pacheco Argentina 73 SARS-COV-2 NO
+3755 Kelly Hayes Argentina 62 H1N1 YES 15-08-2006
+31102 Peter Martin Argentina 25 EVD NO
+83106 Christopher Williams Argentina 36 MERS-COV YES 11-10-2009
+60964 Mark Mosley Argentina 29 FLU-2018 NO
+33849 Eric Riley Argentina 24 SARS-1 NO
+9322 Tracy Strickland Argentina 51 H1N1 YES 23-01-2006
+50026 Kyle Cooper Argentina 75 SARS-COV-2 YES 03-04-2013
+30918 James Patel Argentina 63 FLU-2018 NO
+43362 Jared Lee Argentina 70 EVD YES 30-10-2006
+33236 Jeffrey Anderson Argentina 52 SARS-COV-2 YES 30-12-2007
+20087 Matthew Daniels Argentina 70 MERS-COV YES 25-12-2016
+66019 Deborah Smith Argentina 57 MERS-COV NO
+41673 James Salazar Argentina 37 EVD YES 16-03-2002
+86465 Benjamin Henry Argentina 75 MERS-COV NO
+1332 Matthew Price Argentina 36 EVD NO
+4188 Mariah Hunt Argentina 55 EVD YES 26-11-2001
+98742 Tanya Andrews Argentina 16 FLU-2018 NO
+29337 Jesse Crosby Argentina 74 SARS-1 NO
+54474 Jeffrey Sandoval Argentina 72 MERS-COV YES 11-03-2014
+45883 Heather Gonzales Argentina 31 EVD NO
+71608 Matthew Smith Argentina 11 FLU-2018 NO
+34189 Jennifer Robles Argentina 72 EVD YES 20-06-2005
+51611 Lisa Hayden Argentina 48 FLU-2018 YES 17-03-2011
+83987 Kathleen Wiley Argentina 70 SARS-1 YES 16-07-2017
+46130 Roger Baldwin Argentina 48 MERS-COV NO
+5683 Robin Harrell Argentina 78 EVD YES 21-10-2016
+3789 Abigail Walker Argentina 63 FLU-2018 YES 05-01-2000
+82263 Lucas Berg Argentina 48 SARS-COV-2 YES 19-11-2020
+803 Larry Stanton Argentina 64 FLU-2018 YES 26-08-2018
+58210 Elizabeth Hardy Argentina 28 EVD NO
+76660 Daniel Cortez Argentina 78 FLU-2018 YES 06-10-2003
+95919 Michelle Robertson Argentina 64 EVD NO
+3596 David Lopez Argentina 47 H1N1 YES 10-06-2000
+499 Brian Patel Argentina 22 MERS-COV YES 12-07-2015
+20757 Christine Coleman Argentina 36 SARS-1 YES 27-08-2005
+10596 Jeremiah Stephens Argentina 64 SARS-COV-2 NO
+39331 Cheryl Robbins Argentina 37 SARS-1 NO
+77560 Elizabeth Brown Argentina 68 COVID-2019 NO
+79901 Richard Kirby Argentina 44 SARS-1 NO
+48089 Jerry Wise Argentina 79 EVD NO
+84506 Lauren Foley Argentina 26 SARS-COV-2 YES 03-03-2010
+66691 William Waller Argentina 70 H1N1 NO
+26187 Dennis Gomez Argentina 47 EVD YES 10-03-2019
+35190 Christy Delacruz Argentina 36 EVD NO
+51450 Stephen Blankenship Argentina 17 EVD YES 01-10-2017
+19274 James Hunt Argentina 38 EVD NO
+51734 Melissa Todd Argentina 45 SARS-COV-2 NO
+33342 Christopher Taylor Argentina 68 SARS-1 YES 21-04-2004
+90586 Javier Griffin Argentina 33 COVID-2019 YES 13-07-2009
+61742 Sydney Carr Argentina 35 SARS-1 YES 26-08-2016
+52459 Kaitlin Goodman Argentina 61 COVID-2019 NO
+55118 Leslie White Argentina 19 FLU-2018 YES 04-09-2009
+68872 Bruce Reynolds Argentina 41 FLU-2018 NO
+97805 Anthony Mills Argentina 16 H1N1 NO
+42459 Blake Thomas Argentina 22 COVID-2019 YES 09-12-2017
+31574 Edward Rivera Argentina 64 FLU-2018 YES 27-07-2009
+91521 Christopher Owens Argentina 51 EVD NO
+6134 Michael Evans Argentina 46 H1N1 YES 03-01-2012
+12392 Meghan Vasquez Argentina 43 SARS-COV-2 YES 15-09-2001
+94166 Brian Dickson Argentina 76 EVD YES 03-07-2005
+3696 Christopher Peterson Argentina 73 COVID-2019 YES 15-07-2000
+40491 Richard Walker Argentina 24 SARS-1 YES 15-05-2003
+77454 Tammy Murphy Argentina 78 H1N1 YES 19-10-2020
+67445 Benjamin Campbell Argentina 41 SARS-1 NO
+84733 Beth Raymond Argentina 34 FLU-2018 YES 10-09-2011
+61634 Joshua Gonzalez Argentina 13 H1N1 NO
+54234 Ronnie Brady Argentina 57 SARS-COV-2 NO
+94008 Tracy Williams Argentina 67 MERS-COV NO
+84130 Kevin Martin Argentina 29 H1N1 YES 16-09-2004
+31386 David York Argentina 37 H1N1 NO
+94613 Alejandro Williams Argentina 52 EVD YES 07-01-2020
+61354 Michael Welch Argentina 24 MERS-COV NO
+90754 Oscar Meza Argentina 70 MERS-COV YES 14-09-2003
+27872 Sarah Franklin Argentina 68 SARS-COV-2 NO
+89490 Clifford Padilla Argentina 48 SARS-COV-2 YES 26-11-2019
+93064 Brandon Hurst Argentina 29 MERS-COV NO
+37336 Jeffrey Willis Argentina 69 FLU-2018 NO
+6518 Anita Harris Argentina 39 EVD YES 13-10-2014
+47206 Francisco Pierce Argentina 27 H1N1 NO
+12433 Theresa Novak Argentina 56 EVD YES 06-11-2009
+74393 Breanna Sellers Argentina 52 SARS-1 NO
+57749 Johnny Tapia Argentina 63 SARS-1 YES 04-07-2003
+40859 Luke Campbell Argentina 62 COVID-2019 YES 23-08-2000
+67834 Patrick Cook Argentina 58 EVD NO
+60640 Anthony Robinson Argentina 74 H1N1 YES 07-09-2020
+24162 Carlos Krueger Argentina 14 COVID-2019 YES 24-04-2016
+29961 Thomas Kelly Argentina 65 FLU-2018 NO
+88763 Joseph Proctor Argentina 44 FLU-2018 NO
+71680 William Simon Argentina 37 SARS-1 YES 17-04-2017
+5519 Jacqueline Mills Argentina 35 SARS-1 NO
+7369 Todd Odom Argentina 26 H1N1 NO
+50101 Jorge Garcia Argentina 40 FLU-2018 NO
+12967 Diana Harrington Argentina 43 MERS-COV YES 08-05-2014
+74620 Jared Lewis Argentina 69 SARS-COV-2 YES 27-11-2012
+5945 Joseph Young Argentina 76 H1N1 NO
+37225 Brenda Baker Argentina 62 SARS-1 YES 17-01-2004
+56323 Riley Williams Argentina 21 COVID-2019 YES 26-11-2014
+47303 Karen Horton Argentina 37 EVD NO
+44377 Mckenzie Morrison Argentina 79 COVID-2019 NO
+68871 Mariah Meadows Argentina 34 COVID-2019 YES 03-09-2015
+51273 Christopher Cohen Argentina 32 MERS-COV NO
+10369 Katherine Macias Argentina 20 SARS-COV-2 YES 13-10-2020
+23569 Robert Nash Argentina 53 EVD YES 04-03-2019
+66733 Lisa Ortega Argentina 33 FLU-2018 NO
+20767 Kevin Sanders Argentina 51 SARS-1 NO
+42769 Cynthia Thompson Argentina 24 H1N1 YES 05-03-2003
+20084 Kathy Davis Argentina 20 MERS-COV YES 26-06-2020
+89028 Amy Brown Argentina 15 SARS-COV-2 YES 13-08-2017
+29378 Nicole Obrien Argentina 12 SARS-1 YES 27-04-2003
+53809 Amy Wilkerson Argentina 70 SARS-COV-2 NO
+76332 Joseph Warren Argentina 18 SARS-COV-2 YES 15-09-2016
+70526 George Wu Argentina 20 FLU-2018 NO
+62596 William Dixon Argentina 61 COVID-2019 NO
+87238 Ethan Johnson Argentina 35 COVID-2019 NO
+3799 Shannon Moore Argentina 60 MERS-COV YES 13-09-2018
+39468 Heidi Page Argentina 38 FLU-2018 YES 27-06-2012
+82720 Mary Crawford Argentina 66 SARS-COV-2 NO
+12902 Mary Myers Argentina 12 SARS-COV-2 YES 03-03-2005
+70122 Nicole Scott Argentina 79 H1N1 YES 22-09-2018
+63285 Adam Hall Argentina 33 SARS-1 NO
+65901 Michelle Keller Argentina 45 FLU-2018 NO
+6221 Michelle Jones Argentina 79 SARS-1 NO
+57404 Diana Rivera Argentina 57 COVID-2019 YES 05-06-2010
+51162 Kristin Ramos Argentina 67 MERS-COV YES 06-08-2009
+51880 Michael Juarez Argentina 11 COVID-2019 YES 08-01-2014
+10135 Kurt Smith Argentina 79 MERS-COV NO
+68305 Karen Newman Argentina 32 SARS-1 NO
+88837 William Gilmore Argentina 53 H1N1 YES 16-02-2012
+57616 Edward Christian Argentina 29 EVD NO
+40207 Todd Young Argentina 44 MERS-COV YES 25-09-2012
+11003 William Mcclain Argentina 34 SARS-1 YES 13-08-2006
+85325 Lori Crawford Argentina 27 COVID-2019 YES 09-03-2010
+95489 Andrea Hebert Argentina 64 H1N1 NO
+35288 Regina Maldonado Argentina 10 FLU-2018 YES 07-07-2001
+40980 Scott Fox Argentina 60 H1N1 YES 19-09-2015
+80677 Laura Lopez Argentina 53 H1N1 NO
+81664 Sylvia Davis Argentina 18 COVID-2019 YES 07-05-2012
+27193 Kyle Knight Argentina 60 FLU-2018 NO
+74288 Cameron Carrillo Argentina 15 FLU-2018 NO
+33156 Raymond Bass Argentina 64 COVID-2019 YES 09-08-2003
+65677 Kelly English Argentina 37 COVID-2019 NO
+66820 Anna Garcia Argentina 58 FLU-2018 YES 05-06-2018
+87829 Jennifer Flynn Argentina 14 MERS-COV YES 18-01-2012
+21016 Angela Johnson Argentina 63 FLU-2018 YES 16-02-2016
+9078 David Cole Argentina 37 COVID-2019 YES 28-11-2003
+97798 Amy Jensen Argentina 67 FLU-2018 YES 12-02-2007
+38608 Beverly Romero Argentina 69 SARS-COV-2 NO
+10149 Angela Thomas Argentina 35 COVID-2019 NO
+16635 Darlene Wells Argentina 15 MERS-COV YES 22-04-2011
+48131 Jonathan Gray Argentina 58 SARS-1 YES 22-03-2017
+22273 Andrew Myers Argentina 25 EVD NO
+14390 Tyler Harvey Argentina 23 FLU-2018 NO
+47864 Shannon Hamilton Argentina 58 MERS-COV YES 07-05-2003
+17147 Belinda Hawkins Argentina 30 EVD NO
+10411 Susan Brewer Argentina 36 FLU-2018 YES 27-07-2012
+9011 Jane Gonzalez Argentina 67 FLU-2018 NO
+80720 Jay Morrison Argentina 64 SARS-COV-2 YES 04-01-2013
+36473 Scott Mitchell Argentina 76 FLU-2018 YES 16-05-2017
+80544 Robin Deleon Argentina 32 SARS-COV-2 YES 10-03-2020
+79294 Benjamin Harris Argentina 28 SARS-COV-2 YES 03-11-2013
+4829 Lauren Williams Argentina 71 COVID-2019 NO
+42852 Vickie Carpenter Argentina 64 FLU-2018 YES 15-08-2011
+29260 James Liu Argentina 63 SARS-1 NO
+67914 Danielle Joseph Argentina 53 EVD NO
+28105 Samuel Doyle Argentina 74 EVD YES 27-09-2004
+95552 Donna Guerrero Argentina 68 SARS-COV-2 YES 18-11-2006
+76155 Jennifer Smith Argentina 52 H1N1 NO
+39522 Donald Parks Argentina 77 MERS-COV NO
+27367 Jill Richards Argentina 32 EVD NO
+51341 Catherine Burton Argentina 23 COVID-2019 YES 16-05-2008
+92703 Richard Sullivan Argentina 41 COVID-2019 NO
+37142 Jasmine Barker Argentina 24 COVID-2019 YES 03-11-2004
+26596 Kimberly Silva Argentina 66 MERS-COV NO
+93583 Thomas Allen Argentina 67 H1N1 YES 28-07-2000
+19285 Dennis Wang Argentina 44 SARS-COV-2 YES 14-05-2010
+42981 Hannah Zimmerman Argentina 48 COVID-2019 YES 23-06-2008
+10707 Susan Parker Argentina 68 H1N1 NO
+53655 Roy Hernandez Argentina 72 MERS-COV YES 17-07-2006
+49033 Veronica Merritt Argentina 54 H1N1 NO
+35532 Mario Cohen Argentina 63 FLU-2018 NO
+88675 Gregory Schneider Argentina 29 SARS-1 YES 09-12-2011
+74024 Elizabeth Rivera Argentina 34 SARS-COV-2 NO
+43398 Steven Riddle Argentina 33 EVD NO
+81564 Brian Hanna Argentina 78 SARS-COV-2 NO
+85532 Joshua Gutierrez Argentina 60 SARS-1 NO
+70432 April Brown Argentina 52 FLU-2018 NO
+76736 Robert Pearson Argentina 44 EVD YES 28-06-2017
+55134 Richard King Argentina 21 MERS-COV YES 13-10-2008
+87447 Mark Davis Argentina 43 EVD YES 24-10-2015
+72534 Ashley Lloyd Argentina 18 EVD YES 09-02-2001
+40873 Justin Robles Argentina 68 EVD YES 07-12-2002
+98543 Wendy Brock Argentina 14 FLU-2018 NO
+65128 Laurie Molina Argentina 27 MERS-COV NO
+69629 Kayla Harvey Argentina 36 SARS-1 YES 15-03-2010
+25324 Richard Brown Argentina 13 H1N1 YES 15-03-2002
+95804 Debbie Wilson Argentina 67 FLU-2018 YES 25-06-2015
+93430 Jamie Lane Argentina 51 SARS-1 NO
+39737 Darren Lee Argentina 36 H1N1 NO
+79853 David Guzman Argentina 10 H1N1 YES 15-06-2001
+70876 Brenda Mullen Argentina 20 SARS-1 NO
+57875 Brian Aguilar Argentina 43 SARS-COV-2 NO
+8097 Michael Williams Argentina 11 SARS-1 YES 22-05-2000
+17875 Marcus Vargas Argentina 67 MERS-COV YES 25-09-2017
+98504 Shannon Wilson Argentina 56 SARS-COV-2 NO
+85059 Michael Flores Argentina 40 EVD NO
+34054 Erik Wood Argentina 31 FLU-2018 YES 23-08-2002
+73523 Julie Robinson Argentina 62 FLU-2018 YES 05-03-2018
+70987 Roger Kirby Argentina 78 FLU-2018 YES 26-07-2019
+61426 Joyce Simpson Argentina 41 SARS-1 NO
+61711 Kara Jones Argentina 15 SARS-COV-2 YES 26-10-2005
+74091 Ryan Smith Argentina 46 MERS-COV YES 06-02-2011
+9938 Jonathan Morgan Argentina 73 EVD NO
+89481 Joshua Bryan Argentina 60 MERS-COV NO
+95381 Beth Russell Argentina 57 MERS-COV YES 17-08-2009
+57347 Virginia Valdez Argentina 67 COVID-2019 NO
+96782 Sara Carter Argentina 44 SARS-1 NO
+42895 Amy Haynes Argentina 45 MERS-COV YES 07-09-2008
+72213 Benjamin Hammond Argentina 10 MERS-COV YES 23-12-2020
+143 Patrick Johnson Argentina 68 COVID-2019 NO
+23949 Ronald Lopez Argentina 26 COVID-2019 NO
+92205 Wayne King Argentina 73 COVID-2019 NO
+55471 Thomas Wilson Argentina 30 FLU-2018 NO
+92620 David Velazquez Argentina 37 H1N1 YES 15-12-2014
+18346 Alicia Bates Argentina 17 MERS-COV YES 03-07-2014
+81228 Ruth Cooke Argentina 49 H1N1 NO
+54311 Robert Mercer Argentina 39 MERS-COV NO
+86632 Veronica Parker Argentina 67 H1N1 NO
+90551 Anthony Wilson Argentina 41 FLU-2018 YES 28-03-2015
+20059 Paige Snow Argentina 78 SARS-1 NO
+98509 Kelly Washington Argentina 59 SARS-COV-2 YES 02-09-2004
+14473 Edwin Morse Argentina 71 SARS-COV-2 YES 20-03-2004
+2977 Ryan Lewis Argentina 22 EVD NO
+93790 Donald Green Argentina 38 SARS-1 NO
+50175 David Thompson Argentina 62 EVD YES 16-11-2019
+59373 Alexander Pearson Argentina 61 EVD YES 14-04-2019
+88232 Courtney Bailey Argentina 52 FLU-2018 NO
+95119 Jamie Garcia Argentina 62 COVID-2019 NO
+36862 Ann Matthews Argentina 78 MERS-COV YES 09-01-2020
+14382 Julie Morris Argentina 16 FLU-2018 NO
+21680 Scott Smith Argentina 49 COVID-2019 YES 23-03-2005
+33329 Debra Zavala Argentina 41 SARS-COV-2 YES 30-08-2016
+18168 David Perry Argentina 32 SARS-1 NO
+32689 Wyatt Martin Argentina 46 SARS-1 NO
+57603 Grant Romero Argentina 30 COVID-2019 NO
+45091 Rachel Davis Argentina 18 MERS-COV YES 19-07-2020
+4530 Chris Ward Argentina 23 FLU-2018 YES 11-12-2002
+15781 David Mcdaniel Argentina 59 SARS-COV-2 YES 05-02-2012
+46414 Sheri Wiggins Argentina 21 EVD YES 29-08-2020
+89746 Jon Martin Argentina 73 COVID-2019 YES 15-08-2020
+40960 Rachel Torres Argentina 72 SARS-1 YES 02-04-2010
+66604 Jacqueline Knight Argentina 40 EVD YES 07-01-2006
+87363 Thomas Patterson Argentina 71 SARS-1 NO
+1608 Bradley Carter Argentina 75 MERS-COV YES 17-12-2020
+61938 Madison Floyd Argentina 15 COVID-2019 NO
+35678 Douglas Mitchell Argentina 41 SARS-COV-2 NO
+85860 Jamie Benson Argentina 69 EVD YES 23-06-2005
+53551 Lauren Rodriguez Argentina 57 FLU-2018 YES 04-02-2003
+62549 Sue Thompson Argentina 78 EVD NO
+56492 Tammy Jensen Argentina 30 SARS-COV-2 NO
+6219 Thomas Smith Argentina 56 COVID-2019 YES 27-07-2012
+59932 Elizabeth Valentine Argentina 74 SARS-1 YES 26-04-2011
+18054 Shannon Stewart Argentina 27 COVID-2019 NO
+87258 Richard Williams Argentina 10 SARS-COV-2 NO
+85798 Cindy Lawson Argentina 17 FLU-2018 YES 04-08-2014
+53311 Christine Stewart Argentina 46 SARS-COV-2 YES 24-09-2006
+90013 Rodney Anderson Argentina 20 SARS-1 NO
+93888 Lauren King Argentina 58 MERS-COV NO
+67590 Alexis Wu Argentina 49 SARS-1 YES 06-01-2003
+95041 Holly Pollard Argentina 61 MERS-COV YES 19-11-2011
+43609 Rachel White Argentina 69 SARS-COV-2 NO
+13585 Christopher Howe Argentina 59 COVID-2019 NO
+19276 Anthony Poole Argentina 37 EVD NO
+54362 Jeffrey Wright Argentina 18 COVID-2019 NO
+80747 Melissa Giles Argentina 52 H1N1 NO
+92356 James Hall Argentina 44 MERS-COV YES 04-09-2005
+79595 Jason Bell Argentina 12 H1N1 NO
+89882 Veronica Hill Argentina 44 SARS-COV-2 NO
+90521 Melissa Wilson Argentina 32 SARS-COV-2 NO
+75274 Tonya Burns Argentina 70 H1N1 NO
+31190 Laura Pruitt Argentina 47 MERS-COV NO
+16803 Brandon Clark Argentina 15 FLU-2018 YES 18-09-2020
+26312 Diana Neal Argentina 72 H1N1 YES 24-01-2007
+2876 Melissa Fletcher Argentina 33 MERS-COV YES 31-10-2001
+43453 Gregory Ayala Argentina 57 H1N1 NO
+41607 Meghan Meyer Argentina 79 H1N1 YES 15-09-2012
+99161 Eric Dixon Argentina 14 MERS-COV NO
+72839 Anthony Garcia Argentina 27 H1N1 NO
+4090 Ruth Fuller Argentina 37 SARS-COV-2 NO
+85553 Kimberly Olson Argentina 53 FLU-2018 YES 07-12-2000
+10038 Sabrina Steele Argentina 15 EVD YES 24-04-2009
+67376 Nicholas Gray Argentina 27 COVID-2019 YES 18-03-2013
+13281 Heather Wilson Argentina 40 MERS-COV YES 28-01-2010
+36466 Amanda Hicks Argentina 52 SARS-COV-2 NO
+14153 Regina Butler Argentina 50 SARS-COV-2 YES 10-02-2004
+79680 David Young Argentina 40 MERS-COV NO
+25285 Tanya Hawkins Argentina 30 FLU-2018 YES 14-03-2013
+77747 Jacqueline Boyd Argentina 40 COVID-2019 NO
+3332 Rachel Kirby Argentina 13 SARS-COV-2 YES 18-05-2000
+7436 Christian Love Argentina 79 H1N1 YES 22-07-2008
+40635 Alexis Wheeler Argentina 20 H1N1 YES 06-10-2005
+4978 Jessica Miller Argentina 56 EVD NO
+80229 Jerry Baker Argentina 18 FLU-2018 YES 03-12-2006
+26148 Whitney Bowen Argentina 53 EVD NO
+55490 John Rodriguez Argentina 79 MERS-COV YES 19-06-2007
+81274 Joanna Duke Argentina 19 EVD NO
+62592 John Lopez Argentina 79 SARS-COV-2 NO
+61296 John Rodriguez Argentina 35 EVD YES 01-06-2013
+3562 Anthony Snow Argentina 60 COVID-2019 YES 15-06-2019
+17865 Maureen Gomez Argentina 39 SARS-COV-2 YES 22-11-2007
+51944 Jack Bennett Argentina 75 SARS-1 NO
+55997 Meredith Hughes Argentina 40 MERS-COV NO
+90949 Bradley Estrada Argentina 11 SARS-1 NO
+32058 Blake Jensen Argentina 19 EVD NO
+62247 April Lambert Argentina 60 SARS-COV-2 YES 14-09-2010
+44406 Jenny Hines Argentina 72 SARS-COV-2 YES 15-06-2017
+57779 Corey Archer Argentina 57 EVD NO
+78701 Susan Estrada Argentina 22 COVID-2019 NO
+1193 Christina Turner Argentina 25 MERS-COV YES 18-08-2009
+85672 Stacy Contreras Argentina 33 SARS-1 YES 08-11-2016
+25597 Russell White Argentina 47 SARS-COV-2 YES 18-04-2018
+42260 Maria Hill Argentina 64 SARS-1 NO
+40551 Kathleen Wise Argentina 14 SARS-COV-2 NO
+49110 Carrie Bryant Argentina 17 FLU-2018 NO
+41343 Sean Jones Argentina 42 FLU-2018 YES 13-11-2008
+3537 Samantha Reynolds Argentina 49 SARS-COV-2 YES 18-06-2010
+28884 William Johnson Argentina 12 EVD NO
+55969 Rachel Cortez Argentina 44 H1N1 YES 30-09-2016
+47262 Alexander Hughes Argentina 23 FLU-2018 NO
+43210 Jason Garcia Argentina 11 FLU-2018 NO
+61020 David Dawson Argentina 71 SARS-1 YES 22-08-2000
+8468 Stephanie Pennington Argentina 40 EVD YES 02-08-2012
+76048 Andrew Jackson Argentina 61 SARS-COV-2 YES 01-06-2013
+79065 Christopher Hickman Argentina 41 COVID-2019 YES 29-07-2004
+44128 Michael Hoffman Argentina 31 SARS-1 NO
+84879 James Miller Argentina 12 FLU-2018 NO
+85090 Ian Garcia Argentina 67 MERS-COV NO
+72566 Taylor Abbott Argentina 50 H1N1 YES 25-06-2019
+85563 George Lopez Argentina 48 SARS-1 NO
+32630 David Harris Argentina 27 MERS-COV NO
+82282 Caitlin Mendez Argentina 39 SARS-1 NO
+21677 Carlos Miller Argentina 63 COVID-2019 NO
+90517 Robin Edwards Argentina 74 EVD YES 08-03-2017
+90355 Robert Oneill Argentina 24 COVID-2019 YES 04-01-2003
+1955 Tamara Carter Argentina 33 SARS-1 YES 13-01-2001
+12615 Heather Reyes Argentina 70 EVD NO
+50775 Stacey Hernandez Argentina 73 MERS-COV YES 21-03-2000
+52349 Michelle Acosta Argentina 26 SARS-1 NO
+44753 Lance Fletcher Argentina 69 MERS-COV NO
+11436 Erin Garza Argentina 16 COVID-2019 YES 08-09-2010
+7595 Chelsea Ray Argentina 11 SARS-1 NO
+15396 Mark Miller Argentina 45 SARS-1 YES 18-06-2013
+24001 John Greene Argentina 44 COVID-2019 YES 25-06-2008
+94720 Barbara Tapia Argentina 59 SARS-1 NO
+98127 Heather Hill Argentina 78 H1N1 NO
+11453 Beth Richardson Argentina 37 SARS-1 NO
+60957 Laura Oliver Argentina 58 MERS-COV YES 28-11-2019
+46010 Daniel Walker Argentina 62 H1N1 NO
+61425 Kurt Welch Argentina 57 EVD YES 02-11-2020
+67543 Richard Hogan Argentina 51 H1N1 NO
+25821 Tamara Harrell Argentina 25 EVD NO
+60618 Jessica Rose Argentina 23 COVID-2019 NO
+38413 Zachary Torres Argentina 43 SARS-COV-2 NO
+11519 Debbie Reynolds Argentina 36 EVD YES 21-06-2010
+81131 Jonathan Becker Argentina 40 H1N1 NO
+41084 Michael Moore Argentina 50 H1N1 NO
+60830 Harold Gonzales Argentina 50 SARS-COV-2 YES 06-11-2005
+6546 Gregory Garcia Argentina 53 SARS-COV-2 NO
+55143 Jeffrey Hood Argentina 74 COVID-2019 NO
+41228 Jason Orr Argentina 27 FLU-2018 YES 20-07-2003
+77891 Carol Velez Argentina 45 MERS-COV NO
+64150 Scott Wilson Argentina 66 H1N1 NO
+17896 Dylan Jones Argentina 10 MERS-COV YES 08-04-2002
+32497 Gregory Boone Argentina 67 COVID-2019 YES 03-05-2015
+17208 Karina Bailey Argentina 45 FLU-2018 NO
+17286 Monica Garcia Argentina 42 COVID-2019 NO
+24820 David Henderson Argentina 46 SARS-1 NO
+25177 Peter Clark Argentina 58 SARS-COV-2 YES 10-12-2018
+78904 Michelle Johnson Argentina 73 EVD NO
+45778 Heather Mercer Argentina 25 EVD NO
+22509 Christopher Montgomery Argentina 69 H1N1 NO
+7416 Amanda Lawson Argentina 57 MERS-COV YES 24-04-2008
+41217 Thomas Smith Argentina 29 EVD NO
+500 Brittany Johnson Argentina 74 SARS-1 YES 23-11-2005
+13458 Barbara Evans Argentina 23 H1N1 NO
+12822 Samantha Christian Argentina 73 H1N1 NO
+26768 Walter Meadows Argentina 44 COVID-2019 YES 13-05-2016
+7854 Joshua Blair Argentina 40 FLU-2018 NO
+13007 Angela Woods Argentina 63 SARS-COV-2 NO
+12429 Jonathan Cole Argentina 39 SARS-1 NO
+26491 Anna Daniel Argentina 71 SARS-1 YES 08-03-2016
+63348 Joshua Stone Argentina 57 SARS-1 YES 02-08-2010
+99669 Christopher Rodriguez Argentina 69 FLU-2018 NO
+74884 Donald Chavez Argentina 23 MERS-COV YES 26-04-2012
+87180 Benjamin Bush Argentina 54 H1N1 NO
+13568 Amber Gross Argentina 11 COVID-2019 YES 20-12-2011
+78806 Shane Maldonado Argentina 74 SARS-1 NO
+83479 Mark Doyle Argentina 17 H1N1 YES 11-02-2015
+31241 Donald Mcintyre Argentina 25 COVID-2019 NO
+18136 Mary Black Argentina 43 COVID-2019 NO
+11864 Julia White Argentina 20 SARS-COV-2 NO
+29236 Matthew Manning Argentina 22 COVID-2019 NO
+90682 William Phelps Argentina 49 MERS-COV YES 23-12-2011
+16087 Bobby Weber Argentina 59 FLU-2018 YES 06-05-2005
+41351 Joanne Barnes Argentina 34 H1N1 NO
+1782 Julian Rodriguez Argentina 37 SARS-COV-2 NO
+68142 Robert Rodriguez Argentina 73 SARS-COV-2 NO
+60894 Jacob Bailey Argentina 22 SARS-1 YES 03-10-2011
+92466 Sara Spencer Argentina 33 COVID-2019 YES 10-01-2002
+38936 Nathaniel Miller Argentina 18 SARS-COV-2 NO
+82553 Richard Davis Argentina 21 MERS-COV YES 29-07-2008
+71903 Sandra Olson Argentina 35 FLU-2018 YES 11-01-2004
+60261 Danielle White Argentina 19 MERS-COV NO
+75530 Carrie Hall Argentina 38 EVD YES 19-06-2014
+61334 David Johnson Argentina 31 COVID-2019 NO
+41493 Jose Jones Argentina 76 SARS-COV-2 YES 11-03-2016
+96209 Laurie Ingram Argentina 37 SARS-COV-2 YES 15-03-2005
+67584 Martin Hensley Argentina 69 SARS-1 YES 31-03-2015
+88124 Casey Williams Argentina 46 MERS-COV YES 25-02-2001
+24460 Roy White Argentina 74 COVID-2019 NO
+72614 Danielle Miller Argentina 74 COVID-2019 NO
+91182 Ann Hines Argentina 39 SARS-COV-2 NO
+20677 Joseph Boyd Argentina 55 FLU-2018 YES 16-06-2018
+90063 Tina Hodges Argentina 52 H1N1 YES 30-08-2013
+31698 Lisa Compton Argentina 77 EVD NO
+97037 Robert Farrell Argentina 72 SARS-1 YES 05-06-2018
+95239 Jason Lee Argentina 48 SARS-1 NO
+62325 Eric Cooper Argentina 35 MERS-COV NO
+5992 Ronald Lopez Argentina 78 COVID-2019 NO
+89657 Nancy Allen Argentina 18 FLU-2018 NO
+4131 Jennifer Stewart Argentina 68 H1N1 YES 14-01-2004
+5664 Shannon Caldwell Argentina 24 COVID-2019 YES 10-03-2011
+88040 Stacey Lewis Argentina 77 SARS-COV-2 NO
+83562 Alexander Webb Argentina 43 EVD NO
+4338 Linda Ross Argentina 17 SARS-COV-2 YES 24-11-2017
+54331 Brandon Jimenez Argentina 15 SARS-1 NO
+58079 Sarah Jackson Argentina 37 EVD NO
+14195 Andrew Acosta Argentina 54 EVD YES 20-09-2004
+37853 Christopher Buckley Argentina 63 H1N1 YES 29-09-2008
+69027 George Mathis Argentina 70 H1N1 NO
+75674 Sarah Zamora Argentina 37 H1N1 NO
+98611 Jasmine Frye Argentina 44 SARS-1 NO
+45944 Vincent Gonzalez Argentina 51 EVD YES 17-01-2012
+64945 Peter Thompson Argentina 79 MERS-COV NO
+34207 Tammy Valenzuela Argentina 34 FLU-2018 YES 02-09-2019
+71931 Daniel Irwin Argentina 23 SARS-1 YES 30-10-2018
+81640 Sandra Nguyen Argentina 13 EVD NO
+14072 Lawrence Hall Argentina 65 FLU-2018 NO
+90819 Shane Mathis Argentina 42 COVID-2019 NO
+25504 Tyler Watts Argentina 69 EVD NO
+88863 David Graham Argentina 37 COVID-2019 NO
+27693 Richard Neal Argentina 60 MERS-COV NO
+21452 Luis Taylor Argentina 78 SARS-1 YES 28-03-2004
+20965 Cory Sexton Argentina 34 SARS-1 YES 19-11-2004
+2763 Glen Duran Argentina 32 SARS-1 NO
+3682 Wendy Boyer Argentina 36 H1N1 NO
+68814 Kari Baker Argentina 20 SARS-COV-2 NO
+96428 Becky Martinez Argentina 49 H1N1 NO
+52558 Jody Ibarra Argentina 28 COVID-2019 NO
+30824 James Leonard Argentina 32 SARS-COV-2 YES 14-03-2019
+63209 Helen Rivera Argentina 37 EVD YES 31-08-2005
+83391 Alexis Collins Argentina 41 SARS-COV-2 YES 24-09-2018
+27241 Justin Smith Argentina 38 FLU-2018 NO
+21879 Nicole Harris Argentina 79 COVID-2019 YES 31-01-2016
+69156 Lori Martin Argentina 45 MERS-COV YES 18-09-2014
+20335 Ryan Wood Argentina 37 COVID-2019 NO
+59325 Diane Farrell Argentina 45 SARS-1 YES 05-05-2019
+78606 Brittany Sherman Argentina 60 SARS-COV-2 NO
+49536 Alexander Lewis Argentina 16 SARS-1 NO
+3266 Ethan Ball Argentina 51 MERS-COV YES 28-12-2000
+52881 Daniel Harmon Argentina 10 EVD YES 14-09-2001
+15524 Justin Murphy Argentina 62 EVD YES 03-10-2008
+92887 Amanda Rodriguez Argentina 19 FLU-2018 NO
+2239 Jeffrey Brown Argentina 68 EVD NO
+8794 Anthony Summers Argentina 43 FLU-2018 NO
+4291 Daniel Gonzalez Argentina 65 FLU-2018 NO
+43547 Benjamin Turner Argentina 29 FLU-2018 YES 17-02-2017
+57326 Jonathan Pena Argentina 34 EVD NO
+59852 Evelyn Campbell Argentina 15 COVID-2019 YES 24-09-2009
+69396 Christina Wolf Argentina 11 COVID-2019 NO
+42664 Andrew Johnson Argentina 41 EVD NO
+22345 Michael Gordon Argentina 40 COVID-2019 YES 07-03-2002
+31464 Johnny Hawkins Argentina 38 COVID-2019 NO
+71961 Brenda Patton Argentina 75 FLU-2018 NO
+59252 Amanda Lambert Argentina 53 SARS-1 YES 02-12-2016
+27694 Dennis Johnson Argentina 59 COVID-2019 NO
+94855 Dwayne Wright Argentina 72 EVD NO
+35819 Kristin Knapp Argentina 76 EVD NO
+34338 Jacob Gonzalez Argentina 17 FLU-2018 NO
+70878 Sabrina Wilkinson Argentina 78 FLU-2018 YES 18-08-2016
+66168 Juan Newman Argentina 28 MERS-COV YES 02-06-2001
+4934 David Lane Argentina 68 MERS-COV YES 28-09-2010
+46139 Levi Simpson Argentina 57 SARS-1 YES 10-08-2013
+40625 Robert Mcdonald Argentina 58 FLU-2018 YES 26-02-2002
+48679 Brandon Hall Argentina 69 MERS-COV NO
+49746 Donna Walton Argentina 46 H1N1 YES 21-11-2002
+1601 Elizabeth Allen Argentina 61 EVD YES 13-12-2020
+17895 Alexander Harrison Argentina 61 EVD NO
+27334 Jack Watson Argentina 74 SARS-COV-2 NO
+12749 Carrie Sherman Argentina 72 COVID-2019 NO
+64502 Angela Rodriguez Argentina 31 FLU-2018 NO
+19551 Edward Gilbert Argentina 51 FLU-2018 NO
+21747 Kenneth Jones Argentina 30 MERS-COV NO
+29273 Alex Boyd Argentina 12 SARS-COV-2 YES 20-05-2000
+80105 Connie Mendez Argentina 42 FLU-2018 NO
+48274 Jennifer Mueller Argentina 73 SARS-1 YES 01-10-2018
+9939 Hunter Martin Argentina 20 COVID-2019 NO
+48722 Dakota Wallace Argentina 34 COVID-2019 NO
+69305 Jasmine Russell Argentina 63 MERS-COV YES 24-03-2015
+81204 Elizabeth Morrow Argentina 57 FLU-2018 YES 03-08-2003
+56932 Michelle Le Argentina 73 EVD NO
+27831 Gregory Wright Argentina 73 COVID-2019 YES 06-10-2008
+92940 Sandra Cobb Argentina 26 SARS-1 NO
+61777 Jill Gonzalez Argentina 67 EVD NO
+43561 Jon Rodriguez Argentina 36 SARS-1 NO
+91993 Colton Copeland Argentina 33 H1N1 NO
+74326 Curtis Hudson Argentina 21 MERS-COV YES 14-02-2008
+75310 Steven Cross Argentina 48 SARS-COV-2 NO
+96052 Brandon Ali Argentina 55 SARS-COV-2 YES 04-09-2009
+21804 Jennifer Herrera Argentina 62 H1N1 YES 13-02-2013
+72400 David Sutton Argentina 48 SARS-COV-2 YES 09-09-2016
+11581 Michael Anderson Argentina 67 FLU-2018 NO
+88161 Timothy Thomas Argentina 41 SARS-COV-2 YES 25-03-2000
+47924 Heather Johnson Argentina 68 FLU-2018 YES 18-08-2016
+83639 Laura Atkins Argentina 60 FLU-2018 NO
+61487 Todd Mitchell Argentina 41 SARS-1 NO
+27239 Glenn Dunlap Argentina 32 SARS-1 NO
+74913 Eric Mills Argentina 13 MERS-COV NO
+57892 William Shannon Argentina 34 H1N1 NO
+77895 Helen Moore Argentina 61 SARS-1 YES 28-08-2014
+26370 Jennifer Carroll Argentina 25 EVD NO
+77181 Kenneth Casey Argentina 58 SARS-COV-2 NO
+43298 Bryan Jones Argentina 49 EVD YES 11-04-2011
+27601 Gabrielle Sweeney Argentina 75 FLU-2018 YES 14-07-2012
+27477 Leslie Newton Argentina 12 FLU-2018 YES 07-10-2019
+15224 Christopher Mann Argentina 12 H1N1 NO
+89242 Erik Scott Argentina 64 SARS-COV-2 NO
+39347 Ronnie Taylor Argentina 38 SARS-COV-2 YES 09-12-2006
+71001 Carla Harris Argentina 13 EVD YES 23-02-2000
+26059 Ellen Powell Argentina 54 MERS-COV YES 12-06-2018
+73726 Michael Miller Argentina 13 MERS-COV YES 06-09-2005
+72079 Jamie Landry Argentina 22 EVD YES 19-07-2016
+62078 Travis Reynolds Argentina 40 SARS-1 NO
+59119 Rodney Ford Argentina 13 FLU-2018 NO
+88702 Jared Golden Argentina 34 MERS-COV NO
+47582 Anne Wells Argentina 23 SARS-1 YES 12-02-2008
+74289 Laura Byrd Argentina 22 SARS-1 NO
+94905 Nathan Hughes Argentina 43 SARS-1 YES 29-11-2019
+42123 Marcus Evans Argentina 32 SARS-1 YES 14-04-2020
+40086 Lauren Stewart Argentina 71 EVD YES 04-08-2010
+45841 Jennifer Johnson Argentina 18 H1N1 NO
+45277 Kathryn Johnson Argentina 49 MERS-COV YES 06-03-2001
+42160 Keith Mendoza Argentina 20 COVID-2019 YES 05-08-2009
+43382 James Bennett Argentina 15 EVD NO
+32110 Amanda Malone Argentina 78 EVD NO
+52597 Michael Montoya Argentina 32 SARS-1 YES 07-12-2012
+57127 Mark Parker Argentina 47 COVID-2019 YES 02-07-2019
+90700 Brandi Wallace Argentina 72 COVID-2019 YES 27-06-2011
+47112 Ricky Jackson Argentina 51 H1N1 NO
+31495 Daniel Graves Argentina 49 COVID-2019 NO
+75128 Steven Thomas Argentina 73 FLU-2018 NO
+88379 Ronald Nelson Argentina 22 SARS-1 YES 15-09-2011
+26378 Justin Burns Argentina 52 FLU-2018 YES 07-09-2001
+50073 Tammy Hartman Argentina 63 COVID-2019 NO
+63596 Daniel Evans Argentina 41 COVID-2019 NO
+13236 Robert Knight Argentina 29 COVID-2019 YES 11-03-2014
+14745 April Ward Argentina 40 EVD NO
+42387 Karen Sullivan Argentina 15 FLU-2018 NO
+78680 Jesus Lopez Argentina 20 COVID-2019 YES 07-07-2005
+31371 Richard Knight Argentina 79 FLU-2018 YES 01-02-2011
+78948 Charles Miles Argentina 69 SARS-1 YES 26-03-2019
+23813 Molly Gutierrez Argentina 66 SARS-COV-2 YES 17-07-2003
+54501 Tiffany Delgado Argentina 15 COVID-2019 NO
+14504 Teresa Becker Argentina 27 SARS-1 NO
+69282 Allison Phillips Argentina 55 H1N1 NO
+52166 David Smith Argentina 35 EVD YES 04-01-2000
+32643 Michelle Meadows Argentina 29 COVID-2019 YES 20-10-2006
+82065 Jonathan Melton Argentina 72 EVD NO
+63218 Kevin Mccullough Argentina 50 MERS-COV NO
+67074 Thomas Webster Argentina 48 H1N1 YES 17-04-2001
+73260 Sue Peck Argentina 17 MERS-COV YES 02-12-2019
+29079 Joann Malone Argentina 35 COVID-2019 YES 19-06-2002
+85712 Kelly Lang Argentina 35 FLU-2018 YES 18-06-2017
+26037 David Massey Argentina 28 H1N1 YES 04-01-2005
+97913 James Crawford Argentina 58 COVID-2019 NO
+59572 Alex Estes Argentina 40 MERS-COV YES 12-01-2000
+62742 Sharon Gonzalez Argentina 29 MERS-COV YES 07-07-2019
+49598 Thomas Craig Argentina 68 SARS-COV-2 YES 26-07-2017
+96099 Brady Williams Argentina 50 H1N1 YES 26-02-2021
+42612 Leon Hill Argentina 77 SARS-1 YES 18-12-2004
+90897 Alicia Brown Argentina 21 H1N1 NO
+8628 Kathy Adams Argentina 68 H1N1 NO
+28304 Nicole Ramirez Argentina 17 H1N1 NO
+75785 Christian Weaver Argentina 60 MERS-COV YES 07-02-2007
+91666 Frank Ramirez Argentina 43 H1N1 NO
+60775 Daniel Williams Argentina 68 SARS-COV-2 NO
+74855 Kenneth Johnson Argentina 42 COVID-2019 NO
+93060 Katie Snyder Argentina 68 FLU-2018 YES 23-02-2017
+99593 Julie Herrera Argentina 51 SARS-COV-2 YES 20-01-2006
+68532 Jacqueline Byrd Argentina 43 COVID-2019 NO
+68059 Wendy Rodriguez Argentina 60 SARS-1 NO
+35037 Samuel Payne Argentina 25 COVID-2019 YES 22-10-2001
+96691 Brandon Landry Argentina 75 FLU-2018 YES 19-09-2011
+19976 Rebecca Peterson Argentina 16 COVID-2019 NO
+15753 Anthony Sanchez Argentina 60 SARS-1 YES 02-06-2012
+37779 Mitchell Kirby Argentina 51 H1N1 YES 11-07-2011
+7423 Tammy Ross Argentina 27 H1N1 YES 04-04-2004
+5149 Lisa Johns Argentina 71 EVD YES 23-09-2019
+36952 Michelle Mckay Argentina 31 EVD NO
+86993 Melissa Carter Argentina 27 H1N1 YES 23-10-2013
+66725 Michael Perez Argentina 18 H1N1 YES 01-06-2004
+74583 Kathleen Dennis Argentina 72 EVD YES 19-06-2008
+74894 Tina Lee Argentina 13 SARS-1 NO
+34050 William Nelson Argentina 73 EVD NO
+35862 Katie Sanchez Argentina 30 H1N1 YES 20-04-2001
+18029 Michael Montoya Argentina 33 EVD NO
+91743 Jessica Lee Argentina 51 H1N1 YES 16-04-2010
+99616 Lisa Campbell Argentina 15 COVID-2019 NO
+42347 Wanda Jackson Argentina 79 EVD YES 01-07-2015
+29076 Jorge Williams Argentina 27 H1N1 NO
+81125 Monica Cunningham Argentina 16 SARS-1 NO
+45467 Nathan Livingston Argentina 38 MERS-COV NO
+60323 Joshua White Argentina 58 SARS-1 NO
+52921 Rebecca Soto Argentina 63 MERS-COV NO
+43247 Johnathan Fleming Argentina 55 H1N1 YES 04-07-2004
+89217 Michael Stout Argentina 42 MERS-COV YES 21-03-2015
+78204 Jennifer Foster Argentina 29 SARS-COV-2 YES 18-03-2008
+61273 Ralph Ellis Argentina 60 FLU-2018 YES 08-07-2012
+27920 Randy Rodriguez Argentina 33 COVID-2019 YES 12-06-2012
+99679 Charles Guerra Argentina 52 SARS-1 NO
+5783 Robert Oneill Argentina 67 FLU-2018 YES 18-08-2003
+90963 Matthew Dominguez Argentina 40 SARS-COV-2 YES 17-11-2016
+16287 Francisco Jones Argentina 36 FLU-2018 YES 08-08-2019
+37830 Caitlin Nelson Argentina 74 H1N1 YES 22-10-2000
+48663 James Jimenez Argentina 10 H1N1 NO
+36573 Casey Lee Argentina 66 H1N1 YES 27-01-2013
+46791 Ryan Hill Argentina 54 FLU-2018 YES 30-05-2000
+650 Curtis Johnson Argentina 54 FLU-2018 YES 24-03-2017
+58995 Tammy Hamilton Argentina 38 FLU-2018 YES 11-05-2014
+68479 Anthony Brooks Argentina 17 SARS-COV-2 YES 04-08-2003
+99322 Tammy Weiss Argentina 19 MERS-COV NO
+89045 Elijah Roberts Argentina 46 FLU-2018 YES 12-02-2008
+91859 Emily Stephens Argentina 75 SARS-1 NO
+47555 Anne Young Argentina 19 FLU-2018 YES 17-01-2002
+18252 Chad Dennis Argentina 10 EVD NO
+32600 Lee Bryant Argentina 12 EVD YES 08-06-2011
+35045 Bradley Harris Argentina 77 EVD NO
+30171 Monica Wyatt Argentina 32 H1N1 NO
+58827 Nathaniel Banks Argentina 14 FLU-2018 YES 29-05-2009
+70883 Jason Orr Argentina 13 COVID-2019 NO
+98445 Sean Jones Argentina 36 SARS-1 NO
+99381 Amy Beck Argentina 23 MERS-COV YES 04-02-2009
+50850 Larry Obrien Argentina 43 MERS-COV NO
+11330 Crystal Martin Argentina 66 FLU-2018 NO
+17870 Joseph Carr Argentina 21 H1N1 NO
+58440 Daniel Ward Argentina 34 SARS-1 NO
+15703 Rachel Gill Argentina 45 SARS-COV-2 YES 03-04-2005
+17206 Raymond Thompson Argentina 64 SARS-COV-2 YES 19-02-2003
+13033 Matthew Mann Argentina 21 MERS-COV YES 19-06-2008
+89748 Cody Schultz Argentina 48 EVD NO
+93175 Cesar Martinez Argentina 43 COVID-2019 YES 22-11-2005
+45352 William Payne Argentina 17 MERS-COV YES 06-02-2008
+66784 Lindsey Garrett Argentina 12 EVD YES 13-03-2011
+76449 Madeline Rose Argentina 40 MERS-COV YES 08-08-2006
+46960 Hannah Young Argentina 23 MERS-COV NO
+65699 Nicolas Elliott Argentina 34 EVD YES 17-08-2002
+16250 William Miller Argentina 74 EVD YES 26-07-2013
+51699 Joseph Ramos Argentina 42 H1N1 YES 08-01-2018
+22219 Martin Martin Argentina 10 H1N1 YES 27-08-2010
+23227 Jason Mccoy Argentina 77 MERS-COV YES 25-11-2006
+32143 Erica Campbell Argentina 22 EVD YES 10-02-2016
+33787 Jessica Green Argentina 66 EVD YES 29-08-2003
+89779 Michele Scott Argentina 37 EVD NO
+91436 Destiny Osborne Argentina 54 EVD NO
+34933 Shannon Hudson Argentina 74 SARS-COV-2 NO
+90898 Jonathan Cline Argentina 30 MERS-COV YES 28-10-2019
+11867 Austin James Argentina 10 SARS-1 YES 01-06-2017
+39995 Peter Delacruz Argentina 48 COVID-2019 NO
+71267 Thomas Garcia Argentina 42 SARS-COV-2 YES 23-08-2005
+63502 Benjamin Parrish Argentina 78 COVID-2019 YES 07-02-2005
+11142 Sierra Walker Argentina 12 SARS-COV-2 YES 17-05-2020
+89884 Daniel Lopez Argentina 76 COVID-2019 YES 24-05-2000
+25500 Juan Nelson Argentina 13 SARS-1 NO
+35888 Ralph Odonnell Argentina 31 MERS-COV YES 24-12-2003
+3530 Cameron Rodriguez Argentina 24 SARS-1 NO
+46439 Deborah Nguyen Argentina 37 FLU-2018 YES 23-04-2011
+47508 David Jimenez Argentina 75 EVD YES 08-01-2018
+34772 Ashley Phillips Argentina 69 COVID-2019 NO
+58273 Carol Brown Argentina 30 SARS-COV-2 NO
+69138 Debbie Prince Argentina 63 MERS-COV NO
+67075 Daniel Keith Argentina 64 SARS-COV-2 NO
+42361 Melissa Roberts Argentina 74 SARS-1 YES 05-04-2004
+60671 Vincent Carey Argentina 57 H1N1 NO
+37293 Eric Cooper Argentina 28 COVID-2019 NO
+8599 Kenneth Armstrong Argentina 63 FLU-2018 NO
+70751 Taylor Houston Argentina 22 MERS-COV NO
+31128 Sheri Mitchell Argentina 25 COVID-2019 NO
+47751 Morgan Knight Argentina 42 H1N1 YES 18-05-2020
+61077 Kimberly Smith Argentina 43 COVID-2019 NO
+55611 Christie Sanchez Argentina 73 EVD YES 09-03-2001
+16399 Bobby Reynolds Argentina 25 EVD YES 26-07-2001
+70462 Mary Nguyen Argentina 25 SARS-1 YES 11-03-2005
+92086 Carolyn Rich Argentina 56 FLU-2018 YES 17-01-2005
+89121 Blake Nguyen Argentina 69 COVID-2019 NO
+28803 Wayne Yang Argentina 21 SARS-1 NO
+30847 Michelle Johnston Argentina 31 EVD NO
+64577 Megan Patterson Argentina 33 MERS-COV NO
+3465 Laura Lara Argentina 50 SARS-1 YES 18-06-2013
+35002 James Schneider Argentina 62 SARS-1 NO
+63836 Andrew Travis Argentina 42 SARS-1 NO
+62066 William Sexton Argentina 63 FLU-2018 YES 25-09-2014
+77278 Mary Smith Argentina 74 FLU-2018 NO
+66564 Jorge Dominguez Argentina 46 H1N1 NO
+5491 Ashley Rowland Argentina 36 EVD YES 23-01-2021
+90550 Tiffany Gardner Argentina 79 MERS-COV YES 30-10-2004
+7098 David Young Argentina 62 H1N1 NO
+98499 Dustin Mcconnell Argentina 20 H1N1 NO
+47282 Steven Taylor Argentina 78 MERS-COV NO
+83527 Jacob Bates Argentina 72 MERS-COV YES 12-05-2002
+3027 Christopher Cortez Argentina 69 H1N1 YES 30-09-2006
+2006 Kimberly Taylor Argentina 43 H1N1 NO
+67068 Anna Davis Argentina 57 SARS-1 YES 20-05-2014
+3715 Erica Olsen Argentina 14 FLU-2018 YES 19-04-2014
+96235 Kimberly Thomas Argentina 76 COVID-2019 NO
+77325 Jonathan Marquez Argentina 79 SARS-1 YES 25-11-2017
+49620 Ann Wood Argentina 45 MERS-COV YES 04-06-2017
+15400 Kristine Nguyen Argentina 26 FLU-2018 NO
+91138 Rebecca Williams Argentina 75 EVD YES 20-05-2010
+17366 Ryan Wilson Argentina 41 SARS-1 NO
+48470 Edward Fowler Argentina 67 FLU-2018 YES 15-04-2018
+23375 Holly Kelly Argentina 45 COVID-2019 NO
+67344 Andrea Williams Argentina 47 SARS-1 NO
+97036 Lauren Carter Argentina 27 SARS-COV-2 NO
+84957 Renee Ellison Argentina 44 EVD NO
+40915 Adam Edwards Argentina 24 SARS-1 NO
+88725 Bryan Torres Argentina 12 FLU-2018 YES 07-04-2016
+74119 Laura Powell Argentina 44 MERS-COV YES 08-02-2016
+19731 Gary Banks Argentina 33 EVD YES 28-01-2007
+73494 Erik Johnson Argentina 43 H1N1 YES 25-06-2014
+94639 Tiffany Gray Argentina 72 EVD YES 20-08-2007
+8291 Ashley Gibson Argentina 34 SARS-COV-2 NO
+56639 Christine Woodward Argentina 46 FLU-2018 YES 05-09-2004
+72756 Joshua Luna Argentina 78 COVID-2019 NO
+56201 William Baker Argentina 28 H1N1 NO
+27059 Henry Miller Argentina 26 SARS-COV-2 YES 11-01-2005
+87832 Jennifer Wood Argentina 39 EVD YES 02-01-2011
+13865 Joshua Ramirez Argentina 79 SARS-COV-2 YES 07-08-2008
+80294 Jonathan Kramer Argentina 16 SARS-COV-2 YES 07-06-2005
+76719 Eric Mcintyre Argentina 31 H1N1 NO
+29475 Brent Evans Argentina 35 EVD NO
+2619 Jenna Chan Argentina 67 H1N1 YES 27-04-2003
+16706 Betty Perry Argentina 72 SARS-1 YES 03-08-2001
+17621 Kelly Meyer Argentina 49 MERS-COV YES 17-08-2005
+272 Regina Lopez Argentina 32 SARS-1 NO
+99415 Jesus Taylor Argentina 75 COVID-2019 NO
+87384 Alexander Robbins Argentina 48 FLU-2018 YES 09-12-2017
+493 Donna Smith Argentina 78 H1N1 YES 18-08-2012
+88 Jorge York Argentina 36 EVD NO
+91917 Kelli Drake Argentina 24 H1N1 YES 15-12-2011
+87857 Tina Vasquez Argentina 21 SARS-COV-2 YES 24-01-2008
+76741 Megan Ritter Argentina 48 FLU-2018 NO
+83239 Mary Lee Argentina 30 SARS-COV-2 YES 11-09-2019
+13738 Rachel Sharp Argentina 17 EVD NO
+97107 Marcus Jimenez Argentina 20 MERS-COV NO
+91238 Sheila Byrd Argentina 26 EVD YES 09-09-2009
+29449 Johnny Robinson Argentina 39 COVID-2019 NO
+15515 Chase Carter Argentina 35 MERS-COV YES 04-06-2008
+81168 Kristin Parker Argentina 46 SARS-COV-2 YES 03-04-2011
+54028 Taylor Vargas Argentina 59 COVID-2019 YES 12-04-2005
+11695 Joshua Krause Argentina 28 H1N1 YES 15-04-2000
+62894 Danielle Reyes Argentina 35 H1N1 YES 28-01-2004
+39439 Rodney Macdonald Argentina 61 COVID-2019 YES 12-06-2012
+77070 Suzanne Miller Argentina 57 SARS-1 NO
+80398 Jason Anderson Argentina 54 COVID-2019 NO
+56815 Keith Curry Argentina 10 SARS-COV-2 YES 11-09-2008
+8170 Gregory Burton Argentina 18 MERS-COV YES 24-01-2009
+47559 Gregory Harris Argentina 16 FLU-2018 YES 12-08-2007
+59722 Jessica Howard Argentina 60 EVD YES 28-12-2005
+60644 Amanda Gordon Argentina 57 SARS-COV-2 NO
+30681 Nina Baker Argentina 14 SARS-1 NO
+33124 Vanessa Lewis Argentina 74 EVD YES 01-06-2006
+90784 Abigail Anderson Argentina 56 MERS-COV YES 04-07-2007
+90793 Tracy Ramos Argentina 30 COVID-2019 NO
+48379 Joseph Miller Argentina 55 SARS-1 YES 07-09-2007
+27067 Nancy Foster Argentina 33 EVD YES 03-05-2007
+89954 David Little Argentina 17 H1N1 NO
+20943 Anthony Garcia Argentina 39 COVID-2019 YES 24-03-2003
+9123 Dawn Williams Argentina 16 H1N1 YES 02-03-2000
+54462 Jason Myers Argentina 26 SARS-COV-2 NO
+48905 Joseph Allison Argentina 48 FLU-2018 YES 29-12-2016
+43757 Logan Fisher Argentina 64 FLU-2018 YES 29-03-2006
+89439 Latasha Jimenez Argentina 42 MERS-COV YES 19-07-2003
+96679 Jennifer Patel Argentina 63 COVID-2019 YES 29-05-2001
+1956 Brian Garcia Argentina 39 SARS-1 YES 18-09-2012
+70590 Jonathan Kelley Argentina 12 COVID-2019 NO
+16685 April Michael Argentina 12 H1N1 YES 18-03-2021
+3908 Nathaniel Price Argentina 29 SARS-COV-2 NO
+27308 Lee Campbell Argentina 13 SARS-1 NO
+59066 Michael Bennett Argentina 30 FLU-2018 YES 28-01-2001
+16690 Danielle Logan Argentina 42 MERS-COV YES 29-05-2006
+79839 Joshua Owens Argentina 50 SARS-COV-2 YES 05-05-2020
+87453 Taylor Johnson Argentina 37 COVID-2019 YES 30-11-2010
+76748 James Williams Argentina 77 EVD YES 20-08-2007
+33473 Gina Shields Argentina 18 COVID-2019 NO
+76087 Craig Watts Argentina 66 SARS-COV-2 NO
+51252 Robert Fowler Argentina 74 SARS-COV-2 NO
+69429 Kendra Garza Argentina 17 H1N1 YES 25-07-2012
+5874 Michael Keller Argentina 49 MERS-COV NO
+25060 Oscar Rogers Argentina 48 COVID-2019 YES 02-06-2020
+61172 Diana Johnson Argentina 33 MERS-COV NO
+80429 Hannah Sims Argentina 67 MERS-COV NO
+7535 Shannon Taylor Argentina 49 H1N1 YES 17-06-2011
+52854 Matthew Alvarez Argentina 74 SARS-1 YES 22-06-2002
+31946 Brandon Smith Argentina 36 SARS-1 NO
+6274 Stephen Miranda Argentina 66 COVID-2019 YES 08-06-2005
+38627 Raymond Houston Argentina 54 FLU-2018 NO
+2628 Katherine Hardy Argentina 70 FLU-2018 NO
+33051 Paula Taylor Argentina 14 MERS-COV NO
+35576 Mike Mccarthy Argentina 72 COVID-2019 YES 10-05-2019
+78821 Travis Finley Argentina 16 SARS-1 YES 12-07-2019
+17559 Christopher Frey Argentina 34 MERS-COV NO
+68115 Brian Reed Argentina 54 H1N1 NO
+50280 Morgan Williams Argentina 63 FLU-2018 NO
+42927 Alejandro Caldwell Argentina 41 SARS-1 YES 21-05-2014
+25713 Gregory Spence Argentina 70 MERS-COV YES 23-07-2017
+29401 Joshua Brooks Argentina 76 EVD NO
+84674 Scott Prince Argentina 47 MERS-COV NO
+97312 Paul Taylor Argentina 59 COVID-2019 YES 06-03-2021
+36922 Kenneth Shaffer Argentina 43 H1N1 YES 09-02-2009
+84865 Brian Cisneros Argentina 45 SARS-COV-2 YES 04-06-2006
+51096 John Reynolds Argentina 45 FLU-2018 NO
+97291 Gina Johnson Argentina 28 H1N1 YES 01-09-2018
+12180 Wayne Schultz Argentina 27 EVD YES 21-12-2011
+4869 Brittany Smith Argentina 24 SARS-COV-2 NO
+88854 Rhonda Evans Argentina 39 FLU-2018 NO
+88889 Jesus Olsen Argentina 26 COVID-2019 NO
+73637 Christina Rogers Argentina 43 H1N1 YES 02-03-2019
+68660 Steven Wall Argentina 68 SARS-COV-2 NO
+65815 Brittney Jones Argentina 68 FLU-2018 NO
+22747 Evelyn Walters Argentina 35 EVD NO
+17339 Michelle Baldwin Argentina 26 EVD YES 23-06-2003
+94174 Anthony Smith Argentina 14 SARS-COV-2 NO
+66683 Brandon Hernandez Argentina 79 COVID-2019 NO
+72764 Megan Hernandez Argentina 18 COVID-2019 NO
+57497 Michelle Vazquez Argentina 26 COVID-2019 NO
+57507 Laura Thompson Argentina 77 SARS-1 YES 24-08-2011
+49379 Stacy Woods Argentina 47 MERS-COV YES 17-02-2002
+65633 William Patterson Argentina 12 EVD YES 22-02-2019
+25433 Manuel Guzman Argentina 37 H1N1 NO
+52178 Eric Gibson Argentina 73 COVID-2019 NO
+17141 Matthew Brady Argentina 77 COVID-2019 YES 06-11-2003
+16182 Savannah White Argentina 39 SARS-COV-2 NO
+75635 Molly Wilson Argentina 11 MERS-COV NO
+38152 Amy Pena Argentina 28 EVD YES 08-06-2008
+95088 Sarah Hawkins Argentina 45 MERS-COV YES 21-10-2018
+36139 Laura Drake Argentina 55 H1N1 NO
+47695 Jesse James Argentina 63 SARS-1 YES 20-12-2007
+83729 Natalie Richard Argentina 56 SARS-COV-2 YES 06-06-2015
+60686 Anne Scott Argentina 65 SARS-1 YES 26-06-2006
+6454 Michael Hayes Argentina 16 H1N1 YES 15-07-2000
+73029 Thomas Henderson Argentina 44 H1N1 NO
+64549 Henry Garcia Argentina 69 MERS-COV YES 23-11-2013
+90581 Stephen Gonzales Argentina 76 FLU-2018 NO
+31072 John Williamson Argentina 21 SARS-COV-2 NO
+46046 Travis Murphy Argentina 17 SARS-1 NO
+77219 Gregory Hansen Argentina 43 EVD YES 22-03-2013
+12809 Christy Curtis Argentina 35 SARS-1 NO
+31916 Karen Moore Argentina 61 H1N1 NO
+12912 Tony Martin Argentina 60 H1N1 NO
+69474 Kimberly Olson Argentina 10 SARS-COV-2 YES 28-12-2004
+39632 William Charles Argentina 62 EVD NO
+55350 Terri Nelson Argentina 30 SARS-COV-2 NO
+84833 Joseph Reed Argentina 69 EVD NO
+82126 Todd Smith Argentina 18 EVD YES 16-11-2018
+25310 Brian Munoz Argentina 66 COVID-2019 YES 09-08-2001
+3667 Stephanie Caldwell Argentina 35 MERS-COV NO
+43641 Stephanie Ray Argentina 59 COVID-2019 YES 23-11-2018
+86789 Donald Hunter Argentina 40 H1N1 NO
+4438 Douglas Taylor Argentina 42 COVID-2019 YES 11-04-2003
+86891 James Taylor Argentina 75 FLU-2018 YES 17-02-2012
+32097 Kristin Casey Argentina 41 SARS-COV-2 YES 22-01-2003
+57367 Lisa Garcia Argentina 49 H1N1 YES 07-04-2009
+27105 Patricia Herrera Argentina 20 SARS-COV-2 NO
+40074 Alisha Silva Argentina 56 H1N1 NO
+45530 Patrick Henry Argentina 19 EVD YES 16-07-2014
+85424 Kaylee Pearson Argentina 78 SARS-COV-2 NO
+79591 Kenneth Long Argentina 59 EVD YES 27-12-2013
+3209 Ronald Martinez Argentina 37 SARS-COV-2 NO
+48561 Julia Robles Argentina 12 SARS-1 YES 20-04-2016
+70261 Stephen Foster Argentina 28 H1N1 NO
+56853 Julia Davis Argentina 53 SARS-COV-2 NO
+36996 Anthony Ramos Argentina 12 COVID-2019 NO
+22707 Kevin Miller Argentina 53 H1N1 NO
+40731 Erik Rocha Argentina 14 EVD NO
+33955 Shawn Richardson Argentina 54 SARS-1 YES 02-06-2017
+23474 James Allen Argentina 51 SARS-1 NO
+50457 Andrea Brown Argentina 31 COVID-2019 NO
+31586 Antonio Griffin Argentina 62 MERS-COV NO
+4824 Katherine Smith Argentina 72 MERS-COV YES 22-05-2004
+39056 Christopher Garcia Argentina 14 FLU-2018 NO
+13093 David Brown Argentina 24 FLU-2018 YES 10-11-2020
+76130 Courtney White Argentina 35 EVD YES 28-09-2020
+26730 Sharon Johnston Argentina 79 H1N1 YES 20-07-2016
+12210 Monica Taylor Argentina 15 SARS-COV-2 YES 10-01-2011
+43132 Bradley Pierce Argentina 66 COVID-2019 YES 08-09-2009
+76637 Andre Valenzuela Argentina 11 COVID-2019 YES 19-05-2011
+9660 Nicole Browning Argentina 39 FLU-2018 YES 27-08-2012
+67508 Jenny Simon Argentina 71 COVID-2019 NO
+68686 David Krueger Argentina 57 SARS-1 NO
+67147 Kimberly Wallace Argentina 42 MERS-COV NO
+98886 Dawn Bridges Argentina 62 EVD YES 16-07-2002
+3406 Theresa Vargas Argentina 72 MERS-COV NO
+24874 Samantha Fowler Argentina 56 COVID-2019 NO
+98266 Sheila Walker Argentina 29 H1N1 YES 16-02-2013
+40162 Sean Terry Argentina 15 EVD YES 22-10-2015
+78950 Donna Livingston Argentina 46 EVD YES 12-03-2011
+92183 Tyler Guzman Argentina 39 MERS-COV YES 28-09-2006
+91760 Sonya May Argentina 11 MERS-COV NO
+7457 Anthony Potts Argentina 28 MERS-COV YES 23-09-2016
+40773 Jessica Fox Argentina 69 FLU-2018 YES 21-07-2007
+91654 Matthew Jacobs Argentina 24 COVID-2019 NO
+78772 Jessica Wilson Argentina 20 MERS-COV YES 21-08-2013
+43368 Douglas Gibson Argentina 17 MERS-COV YES 20-03-2010
+42235 Brian Delacruz Argentina 73 H1N1 YES 19-07-2006
+33829 Janet Martinez Argentina 57 EVD YES 08-02-2002
+33102 Anna Parsons Argentina 64 SARS-COV-2 YES 05-06-2019
+36847 Mary Maynard Argentina 19 H1N1 YES 04-03-2010
+59646 Jamie Miller Argentina 46 H1N1 NO
+48769 Michael Hamilton Argentina 63 FLU-2018 YES 24-07-2014
+85790 Gavin Patel Argentina 41 COVID-2019 NO
+24579 Kimberly Randall Argentina 32 FLU-2018 NO
+76851 Michael Berry Argentina 25 MERS-COV YES 15-04-2014
+26697 Robert Santana Argentina 60 SARS-1 YES 23-02-2018
+74886 Kari Nguyen Argentina 16 SARS-COV-2 NO
+80235 Jeffery Smith Argentina 69 COVID-2019 NO
+13243 Thomas Allison Argentina 42 EVD YES 17-11-2009
+52181 Katie Ibarra Argentina 69 SARS-COV-2 YES 09-05-2002
+76320 Brandon Gonzalez Argentina 19 FLU-2018 YES 16-10-2003
+87846 Melissa Green Argentina 31 EVD NO
+60218 Kevin Gibson Argentina 60 EVD NO
+55960 Mark Moore Argentina 27 H1N1 YES 20-10-2016
+96401 Sheri Walker Argentina 18 H1N1 NO
+88475 Christopher Chan Argentina 34 SARS-COV-2 YES 02-10-2018
+31971 Anthony Vazquez Argentina 79 SARS-1 YES 02-03-2013
+63979 James Hughes Argentina 63 FLU-2018 NO
+42703 Peter Barnes Argentina 50 H1N1 YES 13-09-2015
+44137 Dillon Patton Argentina 15 EVD NO
+25160 Luis Bauer Argentina 73 H1N1 NO
+42660 Laura Nelson Argentina 70 H1N1 YES 07-02-2008
+37664 Brent Knight Argentina 65 COVID-2019 NO
+61309 Vanessa Chang Argentina 23 SARS-1 NO
+66645 Daniel Robinson Argentina 75 SARS-COV-2 NO
+45113 Cameron Green Argentina 59 SARS-COV-2 NO
+66932 Kyle Oconnor Argentina 38 SARS-1 NO
+60279 Christopher Bennett Argentina 55 SARS-COV-2 NO
+12711 Melissa Hernandez Argentina 57 SARS-COV-2 NO
+49005 Jeffrey Willis Argentina 26 SARS-1 YES 18-06-2009
+72456 Nathan Douglas Argentina 73 FLU-2018 NO
+68079 Rebecca Ortiz Argentina 49 EVD YES 01-03-2013
+7872 Frances Carson Argentina 20 FLU-2018 YES 24-10-2016
+3932 Carl Lee Argentina 15 SARS-COV-2 NO
+24527 Patrick Willis Argentina 53 EVD YES 15-01-2019
+43914 Gregory Brown Argentina 69 SARS-1 NO
+74818 Kevin Miller Argentina 78 SARS-1 YES 09-07-2010
+19259 Anne Phelps Argentina 39 MERS-COV NO
+60632 Krista Nguyen Argentina 44 SARS-COV-2 NO
+13871 Stephanie Wright Argentina 32 EVD NO
+4031 Mary Fitzgerald Argentina 44 FLU-2018 YES 05-07-2016
+78886 Kenneth Reynolds Argentina 30 H1N1 NO
+74927 Carolyn Strickland Argentina 63 COVID-2019 NO
+73316 Sophia Riggs Argentina 36 EVD NO
+2127 Kathryn Hughes Argentina 71 SARS-1 NO
+55868 Christopher Brown Argentina 52 MERS-COV YES 08-12-2005
+60702 Brittany Mcmillan Argentina 17 H1N1 YES 08-07-2020
+60628 Peter Villarreal Argentina 61 SARS-1 NO
+15837 Sarah Rivera Argentina 64 MERS-COV YES 20-05-2012
+93457 Laura Donovan Argentina 65 MERS-COV NO
+54972 Brittany Solomon Argentina 67 SARS-1 NO
+86555 Tammy Martinez Argentina 44 SARS-1 NO
+40392 Fernando Williams Argentina 11 H1N1 NO
+14255 Jessica Hill Argentina 15 H1N1 NO
+97194 Cheryl Williams Argentina 63 FLU-2018 YES 24-06-2001
+66666 Alan Brooks Argentina 69 SARS-COV-2 YES 03-09-2015
+98861 Meghan Ramirez Argentina 35 MERS-COV YES 15-12-2016
+19314 Debra Mcpherson Argentina 65 SARS-COV-2 NO
+96614 Lauren Murray Argentina 28 SARS-COV-2 NO
+72765 Debbie Knight Argentina 47 FLU-2018 NO
+98206 Amanda Rodriguez Argentina 34 H1N1 NO
+73420 Nicole Hatfield Argentina 51 H1N1 NO
+6417 Katherine Barrett Argentina 25 SARS-COV-2 YES 04-12-2002
+15299 James Johnson Argentina 74 FLU-2018 NO
+61326 Zachary Ramos Argentina 68 FLU-2018 NO
+72494 Alexandra Mayer Argentina 51 MERS-COV NO
+72071 Caleb Edwards Argentina 35 EVD NO
+79564 Amanda Jones Argentina 18 SARS-COV-2 YES 04-03-2012
+9655 Karen Palmer Argentina 32 SARS-COV-2 NO
+34525 Cory Ali Argentina 69 COVID-2019 YES 03-08-2013
+93143 Derrick Soto Argentina 68 SARS-1 YES 18-01-2006
+89095 Louis York Argentina 69 EVD NO
+95931 Larry Hall Argentina 54 EVD NO
+30764 Larry Murray Argentina 37 SARS-1 NO
+81848 Sandra Bell Argentina 53 COVID-2019 YES 27-03-2010
+47278 Jamie Carroll Argentina 35 SARS-1 NO
+30545 Michael Smith Argentina 75 MERS-COV YES 18-12-2000
+87492 Dustin Farley Argentina 59 H1N1 NO
+85208 Jeffrey Mercado Argentina 21 MERS-COV YES 27-02-2006
+18262 Breanna Jones Argentina 50 COVID-2019 YES 18-01-2011
+69360 Charles Little Argentina 67 SARS-1 NO
+766 Kristin Smith Argentina 63 SARS-COV-2 YES 20-07-2015
+1682 Loretta Johnson Argentina 58 COVID-2019 YES 25-11-2017
+58560 Martin Weaver Argentina 38 FLU-2018 YES 28-08-2020
+9597 Trevor Miller Argentina 18 H1N1 YES 24-05-2012
+63775 Diane Downs Argentina 27 SARS-COV-2 NO
+17348 Gabriel Brown Argentina 61 FLU-2018 NO
+99165 Michael Arnold Argentina 74 SARS-COV-2 NO
+58411 Karen Hardy Argentina 17 SARS-1 YES 02-03-2005
+83834 Martin Garza Argentina 19 COVID-2019 NO
+60111 Beth Sharp Argentina 22 FLU-2018 NO
+11982 Cole Roberts Argentina 52 MERS-COV NO
+94849 Christopher Colon Argentina 27 H1N1 YES 17-09-2010
+39162 Danny Ross Argentina 67 H1N1 NO
+95600 Victoria Miller Argentina 24 SARS-COV-2 NO
+47244 Michael Carter Argentina 69 SARS-COV-2 NO
+9757 Melissa Hernandez Argentina 59 FLU-2018 YES 12-07-2003
+20876 Christopher Strong Argentina 58 SARS-1 NO
+29013 David Osborn Argentina 74 SARS-COV-2 YES 01-08-2002
+84816 Kimberly Coffey Argentina 10 FLU-2018 YES 07-07-2012
+87673 Pamela Sawyer Argentina 28 COVID-2019 NO
+58072 Kevin Herrera Argentina 50 FLU-2018 YES 02-07-2005
+75786 Andrew Carroll Argentina 61 SARS-1 NO
+17441 Leah Graham Argentina 28 COVID-2019 NO
+81353 Thomas Smith Argentina 36 H1N1 YES 16-05-2007
+36077 Brian Sanders Argentina 39 COVID-2019 NO
+74845 Christopher Orozco Argentina 13 SARS-COV-2 YES 11-09-2001
+53128 Martin Ferrell Argentina 73 H1N1 NO
+95444 Kevin Richards Argentina 52 EVD YES 07-07-2002
+83023 Christine Jones Argentina 56 MERS-COV NO
+21763 Jasmine Hernandez Argentina 78 H1N1 YES 08-07-2001
+57150 Matthew Smith Argentina 16 SARS-1 NO
+29687 James Gutierrez Argentina 14 H1N1 NO
+17883 Adrian Griffith Argentina 63 SARS-1 NO
+9549 Amy Hayes Argentina 12 SARS-1 NO
+62865 Melissa Cantu Argentina 61 H1N1 YES 27-04-2018
+49999 Steven Guerrero Argentina 12 EVD NO
+54559 Cynthia Garrett Argentina 79 SARS-1 YES 10-10-2007
+934 Melissa Stephens Argentina 78 H1N1 YES 12-07-2004
+44909 Patrick Perez Argentina 44 SARS-COV-2 YES 10-05-2016
+36397 Teresa Mooney Argentina 16 MERS-COV YES 18-02-2002
+8929 Mary Moran Argentina 61 COVID-2019 YES 03-02-2018
+5705 Brandi Hobbs Argentina 26 H1N1 YES 25-08-2010
+60827 Amber Franco Argentina 25 COVID-2019 YES 22-04-2017
+55824 Paul Phillips Argentina 16 SARS-COV-2 NO
+37712 Kimberly Torres Argentina 68 MERS-COV NO
+81916 Jeremy Cannon Argentina 48 SARS-1 YES 19-05-2008
+6422 Kelly Mahoney Argentina 39 SARS-COV-2 NO
+61821 Jeremy Klein Argentina 47 H1N1 YES 12-04-2010
+67049 Ann Hess Argentina 52 EVD YES 30-12-2014
+31988 Roger Lynn Argentina 70 SARS-1 YES 28-07-2011
+56129 John Bradley Argentina 66 H1N1 YES 25-02-2001
+60339 Steven Cochran Argentina 67 SARS-COV-2 YES 17-06-2005
+29278 Katherine Martin Argentina 49 SARS-1 YES 22-06-2010
+32734 Michael Estrada Argentina 57 SARS-1 NO
+88582 Sarah Mcintyre Argentina 45 COVID-2019 YES 10-08-2016
+9537 Christopher Golden Argentina 65 COVID-2019 YES 06-04-2012
+18576 Brenda Cameron Argentina 66 COVID-2019 YES 16-09-2014
+7060 Cindy Jones Argentina 11 COVID-2019 YES 01-03-2020
+93730 Isaiah Hudson Argentina 69 SARS-1 YES 30-03-2007
+62959 Douglas Campbell Argentina 20 H1N1 NO
+11304 Antonio Zimmerman Argentina 40 FLU-2018 YES 30-07-2012
+65780 Richard Mueller Argentina 62 EVD NO
+72789 Tina Walker Argentina 45 COVID-2019 YES 04-06-2011
+44393 Linda Delgado Argentina 58 SARS-COV-2 NO
+38552 David Flores Argentina 23 SARS-1 YES 05-11-2016
+363 Tracy Soto Argentina 74 EVD NO
+60133 Joel Hayes Argentina 64 SARS-1 YES 25-04-2001
+94709 Maria Gonzalez Argentina 71 FLU-2018 NO
+96375 Colleen Robinson Argentina 51 COVID-2019 NO
+29753 Robert Smith Argentina 43 H1N1 YES 19-09-2006
+18248 Chris French Argentina 29 SARS-1 NO
+46607 Karen Richardson Argentina 17 EVD NO
+86741 Sandra Ponce Argentina 36 EVD NO
+35686 Felicia Benson Argentina 52 FLU-2018 NO
+98490 Jay Smith Argentina 64 SARS-1 YES 08-02-2000
+36657 Kristin Clark Argentina 11 COVID-2019 YES 21-08-2000
+69621 Kenneth Patel Argentina 68 EVD NO
+77746 Maria Perry Argentina 20 COVID-2019 NO
+14234 Patrick Hicks Argentina 26 EVD YES 06-12-2014
+51202 Ricardo Clements Argentina 79 COVID-2019 NO
+78682 Megan Morris Argentina 62 H1N1 YES 29-07-2005
+66028 Vanessa Ramos Argentina 13 COVID-2019 NO
+52871 Tracy Martin Argentina 62 SARS-1 YES 21-05-2010
+83317 Johnny Lynch Argentina 69 FLU-2018 NO
+44656 Victoria Medina Argentina 39 COVID-2019 YES 28-09-2003
+76334 Ian Jones Argentina 57 H1N1 YES 21-07-2003
+48904 Joshua Madden Argentina 34 COVID-2019 NO
+45567 Raven Francis Argentina 68 COVID-2019 NO
+4315 Taylor Berry Argentina 55 H1N1 NO
+67433 Leslie Stanley Argentina 24 EVD NO
+96689 Philip Lewis Argentina 55 MERS-COV NO
+9292 Melanie Mills Argentina 64 H1N1 YES 13-10-2011
+54165 Paula Lee Argentina 20 SARS-1 NO
+75757 Stephen Johnson Argentina 29 SARS-COV-2 NO
+98927 Jackson Ellis Argentina 55 SARS-COV-2 NO
+61189 Marcus Porter Argentina 22 EVD NO
+32892 Catherine Avery Argentina 38 COVID-2019 NO
+80757 James Collier Argentina 40 SARS-COV-2 NO
+6805 Dawn Booker Argentina 57 EVD NO
+85765 Ryan Martin Argentina 32 COVID-2019 YES 24-10-2020
+76481 John Palmer Argentina 12 EVD NO
+45052 Michael Garza Argentina 47 MERS-COV NO
+75373 Austin Vega Argentina 37 FLU-2018 YES 15-03-2016
+70932 David Simpson Argentina 76 FLU-2018 YES 25-09-2016
+11244 Jeffrey Henderson Argentina 45 H1N1 NO
+24775 Justin Carter Argentina 53 FLU-2018 YES 06-01-2018
+71920 Roger Vargas Argentina 48 MERS-COV YES 27-03-2014
+91032 Alexandra Miller Argentina 10 EVD NO
+6681 Denise Bates Argentina 18 MERS-COV YES 22-12-2015
+91535 Brandon Norton Argentina 68 SARS-1 YES 07-01-2013
+88758 Jared Rivera Argentina 55 COVID-2019 YES 18-08-2020
+85223 Tyler Lynn Argentina 15 COVID-2019 NO
+77963 Richard Williams Argentina 44 MERS-COV YES 27-08-2006
+81676 Dylan Marshall Argentina 71 SARS-1 YES 28-02-2007
+63191 Melanie Vasquez Argentina 14 MERS-COV NO
+38732 Juan Cox Argentina 58 SARS-1 YES 20-10-2004
+81258 Teresa Jenkins Argentina 29 COVID-2019 NO
+66195 Matthew Williams Argentina 40 MERS-COV NO
+98050 Michael Caldwell Argentina 39 EVD NO
+26090 Sara Martinez Argentina 33 MERS-COV YES 22-01-2012
+11269 Joan Jones Argentina 36 EVD NO
+1343 Karen Johnson Argentina 50 H1N1 YES 25-06-2009
+82870 Edward Bennett Argentina 66 MERS-COV NO
+38461 Cody Vasquez Argentina 60 SARS-COV-2 NO
+25002 Juan Flores Argentina 28 SARS-1 YES 15-06-2012
+94620 Laura Rhodes Argentina 65 FLU-2018 YES 21-04-2017
+6820 Thomas Lee Argentina 18 COVID-2019 YES 20-11-2012
+7829 Patricia Nicholson Argentina 31 SARS-COV-2 NO
+63460 Melissa Heath Argentina 35 SARS-1 NO
+42094 Michael Mitchell Argentina 50 H1N1 NO
+81231 Hannah Rich Argentina 29 COVID-2019 YES 18-07-2012
+15261 Dakota Rowe Argentina 14 COVID-2019 YES 10-10-2010
+48588 Elizabeth Johnson Argentina 53 FLU-2018 NO
+26122 Bruce Allen Argentina 73 SARS-1 YES 04-10-2000
+80013 Elizabeth Guerrero Argentina 48 H1N1 YES 24-12-2006
+9266 Vickie Holden Argentina 24 SARS-1 NO
+7177 Anthony Elliott Argentina 37 COVID-2019 YES 08-09-2008
+46151 Matthew Kim Argentina 35 H1N1 NO
+119 Megan Porter Argentina 22 FLU-2018 NO
+26984 Olivia Curtis Argentina 16 COVID-2019 NO
+1310 Sheryl White Argentina 26 COVID-2019 NO
+91875 Bradley Smith Argentina 27 H1N1 NO
+36160 Karl Molina Argentina 45 MERS-COV YES 11-01-2000
+84344 Robert Flores Argentina 62 SARS-1 YES 05-12-2007
+25575 Christine Huynh Argentina 34 MERS-COV YES 21-08-2010
+12343 Jennifer Humphrey Argentina 72 FLU-2018 NO
+2450 Cindy White Argentina 46 H1N1 NO
+60154 Dale Craig Argentina 37 FLU-2018 NO
+30238 Marcus Taylor Argentina 66 FLU-2018 NO
+23544 Ryan Smith Argentina 46 MERS-COV NO
+24240 Andrew Vaughn Argentina 10 H1N1 YES 02-11-2000
+22514 Beth Bishop Argentina 22 SARS-COV-2 YES 13-01-2003
+68886 Brooke Sanford Argentina 68 H1N1 NO
+7254 Amanda Allen Argentina 43 H1N1 NO
+71380 Patricia Lee Argentina 79 COVID-2019 NO
+25126 Mandy Hensley Argentina 43 COVID-2019 YES 03-01-2016
+91575 Paul Norris Argentina 73 COVID-2019 NO
+97196 Jesse Williams Argentina 69 H1N1 NO
+33678 Chelsea Zimmerman Argentina 29 COVID-2019 YES 04-08-2017
+48546 Melissa Saunders Argentina 49 EVD YES 05-12-2002
+51899 Stephen Perry Argentina 23 SARS-COV-2 NO
+10220 Courtney Torres Argentina 57 H1N1 YES 05-09-2017
+54164 Joseph Richardson Argentina 42 SARS-COV-2 YES 02-10-2006
+56733 Kimberly Cole Argentina 11 MERS-COV YES 05-08-2012
+58992 Nicole Johnson Argentina 28 FLU-2018 YES 29-01-2001
+52915 Ashley Mercado Argentina 71 SARS-1 YES 26-04-2001
+60577 Samantha Berg Argentina 66 SARS-1 YES 13-04-2007
+35648 Vincent Li Argentina 51 SARS-1 NO
+8812 Hannah Wilkerson Argentina 21 H1N1 YES 28-01-2005
+51455 Cynthia Carter Argentina 23 MERS-COV YES 04-02-2003
+98141 Pamela Nelson Argentina 67 H1N1 NO
+73900 William Thomas Argentina 41 SARS-COV-2 NO
+58033 Susan Pollard Argentina 14 H1N1 NO
+22606 Katherine Brown Argentina 42 COVID-2019 NO
+71462 Bradley Hill Argentina 21 COVID-2019 NO
+99763 Daniel Meyer Argentina 28 MERS-COV YES 10-11-2011
+60677 Lisa Rivas Argentina 35 SARS-COV-2 YES 10-03-2001
+18032 Sharon Rogers Argentina 66 MERS-COV NO
+96344 Michael Bell Argentina 35 COVID-2019 NO
+35273 Melissa Meyers Argentina 45 COVID-2019 YES 11-04-2006
+52213 Donna Johnson Argentina 19 SARS-1 YES 07-06-2005
+74039 Sarah Hall Argentina 36 EVD NO
+28668 Julie Ritter Argentina 11 MERS-COV YES 22-10-2003
+289 Tammie Kelly Argentina 27 H1N1 YES 23-08-2002
+82460 Heather Jacobs Argentina 63 SARS-1 YES 06-02-2001
+54757 Raymond Dalton Argentina 24 FLU-2018 NO
+25472 George Mitchell Argentina 29 SARS-1 YES 10-12-2017
+74885 Rachel Nelson Argentina 30 MERS-COV YES 09-06-2004
+93066 Daniel Bell Argentina 79 EVD NO
+66387 Terri Diaz Argentina 16 SARS-COV-2 YES 26-06-2016
+12083 Alicia Page Argentina 71 EVD NO
+7327 Cheyenne Summers Argentina 48 SARS-COV-2 YES 21-09-2015
+90658 Chase Alvarez Argentina 15 SARS-1 NO
+30400 Stefanie Hudson Argentina 10 SARS-1 NO
+5041 Cynthia Pham Argentina 26 SARS-1 NO
+57974 Diana Johnson Argentina 39 COVID-2019 YES 22-12-2001
+35346 Sarah Williams Argentina 50 FLU-2018 YES 26-01-2004
+80950 Mark Duncan Argentina 32 SARS-1 YES 22-06-2010
+22329 Melissa Davis Argentina 26 SARS-1 NO
+63800 Jeff Davis Argentina 65 SARS-1 NO
+7456 Heather Brooks Argentina 15 MERS-COV YES 01-02-2008
+49325 Phillip Hamilton Argentina 19 SARS-1 NO
+56399 Danielle Garcia Argentina 68 COVID-2019 YES 15-01-2020
+58579 Leslie Hughes Argentina 76 COVID-2019 NO
+85439 Alexandra Jones Argentina 77 SARS-1 YES 15-08-2011
+74561 Christopher Lee Argentina 69 MERS-COV YES 12-08-2019
+35472 Tammy Thompson Argentina 76 SARS-COV-2 YES 22-05-2002
+95766 John Nunez Argentina 66 SARS-COV-2 YES 07-06-2016
+45049 Kelly Benitez Argentina 59 MERS-COV YES 24-11-2020
+63366 Kaitlyn Barnes Argentina 31 EVD NO
+72437 Sean Griffin Argentina 75 H1N1 NO
+23635 Erin Sparks Argentina 67 COVID-2019 YES 13-04-2003
+46244 Brian Higgins Argentina 60 H1N1 NO
+52750 Shannon Perkins Argentina 34 SARS-1 YES 29-01-2004
+21357 Jeffrey Washington Argentina 53 MERS-COV NO
+38668 Tracy Weaver Argentina 19 MERS-COV YES 17-02-2007
+58460 Emily Miller Argentina 20 MERS-COV NO
+68798 Victoria Wheeler Argentina 62 SARS-COV-2 YES 16-09-2009
+14784 Frank Thompson Argentina 16 COVID-2019 NO
+94163 Lisa Wilson Argentina 40 COVID-2019 YES 10-08-2004
+49311 Ariel Barr Argentina 28 SARS-COV-2 YES 15-06-2000
+66044 Nicole Hays Argentina 58 FLU-2018 YES 28-10-2004
+56930 Matthew Kent Argentina 47 SARS-1 NO
+50830 Gary Graham Argentina 76 COVID-2019 NO
+91809 Megan Holt Argentina 74 SARS-1 NO
+88215 Cody Luna Argentina 75 SARS-1 YES 20-01-2016
+42826 William Bonilla Argentina 49 FLU-2018 NO
+89185 Michele Howard Argentina 27 MERS-COV NO
+53083 John Velasquez Argentina 14 COVID-2019 YES 19-07-2006
+40022 Kevin Wilson Argentina 60 SARS-1 YES 31-03-2004
+11461 Paul Patterson Argentina 52 SARS-1 YES 12-11-2016
+83959 Mary Williams Argentina 16 H1N1 NO
+43760 Richard Perez Argentina 76 COVID-2019 NO
+27169 Damon Reyes Argentina 21 FLU-2018 YES 27-07-2001
+83485 Julie Wright Argentina 41 FLU-2018 YES 20-01-2005
+16492 Katie Smith Argentina 39 H1N1 YES 10-06-2008
+31414 Bobby Brown Argentina 74 H1N1 YES 13-04-2002
+60404 Brittany Brown Argentina 77 H1N1 YES 28-06-2007
+73650 Maurice Lawrence Argentina 68 FLU-2018 NO
+92507 Michelle Rogers Argentina 18 SARS-1 YES 12-03-2004
+32786 Brian Mcknight Argentina 22 EVD YES 14-12-2007
+96328 James Richards Argentina 49 EVD YES 26-12-2000
+56338 Emily Mann Argentina 14 H1N1 YES 26-12-2013
+9836 Victoria Sullivan Argentina 36 SARS-COV-2 NO
+62333 Judith Martinez Argentina 56 H1N1 NO
+11091 Tyler Roberson Argentina 15 EVD NO
+65158 Gary Hale Argentina 34 SARS-COV-2 NO
+99596 Emily Mccarthy Argentina 54 H1N1 NO
+70422 Tracy Mcintyre Argentina 76 SARS-COV-2 YES 17-08-2015
+88264 Tammy Martinez Argentina 43 FLU-2018 YES 27-06-2019
+44666 Brian Cain Argentina 56 SARS-COV-2 NO
+31111 Andrew Shaffer Argentina 13 MERS-COV YES 03-02-2001
+70509 Frank Blair Argentina 55 SARS-COV-2 YES 25-03-2020
+12344 Devin Hernandez Argentina 40 FLU-2018 NO
+89087 Jessica Graham Argentina 63 H1N1 NO
+10887 Christopher Nixon Argentina 25 SARS-COV-2 YES 19-08-2018
+44514 Samantha Beard Argentina 16 FLU-2018 NO
+17719 Teresa Vasquez Argentina 21 H1N1 NO
+38129 Matthew Campbell Argentina 78 MERS-COV NO
+86998 Carolyn Patrick Argentina 31 MERS-COV NO
+96223 Maria Wood Argentina 40 SARS-1 YES 26-02-2020
+30314 Scott Hunter Argentina 72 SARS-COV-2 YES 14-12-2014
+60747 Richard Small Argentina 25 EVD YES 16-11-2008
+6736 Aaron Thompson Argentina 62 H1N1 NO
+43945 Morgan Lewis Argentina 73 H1N1 YES 17-07-2016
+160 Tristan Park Argentina 57 SARS-COV-2 NO
+72352 Maria Daniel Argentina 15 FLU-2018 YES 29-03-2017
+45127 Amber Holder Argentina 29 FLU-2018 YES 19-09-2016
+71453 Nicholas Wilkinson Argentina 17 SARS-1 NO
+44968 Diana Rivera Argentina 12 SARS-COV-2 YES 29-03-2009
+26249 Deborah Clark Argentina 74 EVD YES 11-02-2012
+59893 Jennifer Johnson Argentina 78 EVD NO
+42042 David Sharp Argentina 24 FLU-2018 NO
+29709 Alexandra Young Argentina 51 FLU-2018 YES 20-10-2014
+50398 Harry Weber Argentina 28 FLU-2018 YES 04-01-2015
+20347 Victoria Fisher Argentina 67 SARS-1 YES 22-11-2003
+90518 Martha Hill Argentina 64 FLU-2018 YES 26-04-2018
+50141 Michael Carpenter Argentina 56 FLU-2018 NO
+3254 Phyllis Boone Argentina 42 H1N1 NO
+12238 Andrew Randolph Argentina 12 MERS-COV YES 21-11-2019
+43277 Megan Rice Argentina 18 MERS-COV NO
+45005 Nancy Martin Argentina 27 SARS-1 YES 22-01-2019
+55507 Kathleen Whitaker Argentina 23 EVD YES 13-02-2009
+84122 Dana Moran Argentina 76 SARS-COV-2 NO
+32066 Ann Williams Argentina 34 FLU-2018 NO
+96051 Brenda Russo Argentina 15 EVD NO
+86549 Karen Case Argentina 44 FLU-2018 YES 01-11-2003
+12438 Christina Davis Argentina 10 COVID-2019 NO
+20352 Heather King Argentina 27 SARS-COV-2 NO
+92952 Alexander Ramos Argentina 25 MERS-COV YES 16-01-2002
+94111 Katherine Johnson Argentina 64 FLU-2018 NO
+96226 Rachel Brown Argentina 24 SARS-1 NO
+56538 Samuel Garcia Argentina 56 EVD YES 30-01-2010
+90408 Mariah Johnson Argentina 73 H1N1 NO
+63405 Randy Nguyen Argentina 70 H1N1 YES 29-08-2012
+17031 Jeffrey Henry Argentina 64 MERS-COV NO
+60216 Caitlin Reynolds Argentina 32 COVID-2019 NO
+22310 Dawn Santos Argentina 45 H1N1 NO
+70379 Rodney White Argentina 66 MERS-COV YES 08-01-2021
+48158 Andre Chapman Argentina 77 SARS-1 NO
+67045 Theodore Harper Argentina 55 COVID-2019 NO
+41498 Monica West Argentina 58 EVD YES 04-10-2006
+66930 Wanda Clements Argentina 43 COVID-2019 YES 28-11-2014
+10509 Joseph Vargas Argentina 36 FLU-2018 YES 21-07-2006
+63702 Jessica Gillespie Argentina 14 MERS-COV YES 07-09-2004
+556 Shane Salinas Argentina 57 EVD YES 14-03-2008
+96732 Lisa Thompson Argentina 68 MERS-COV YES 06-05-2012
+18725 Gary Sanchez Argentina 14 SARS-1 YES 03-06-2010
+93872 Christian Baker Argentina 69 FLU-2018 NO
+78866 Jill Castro Argentina 51 SARS-COV-2 YES 08-03-2011
+19475 Shelly Salinas Argentina 31 H1N1 YES 24-02-2004
+9378 Cory Miller Argentina 24 H1N1 YES 24-07-2018
+60053 Ariana King Argentina 61 SARS-1 YES 03-06-2016
+42294 Scott Winters Argentina 12 H1N1 NO
+10685 Amy Knight Argentina 49 FLU-2018 YES 31-03-2000
+63519 Carlos Murphy Argentina 66 EVD YES 26-11-2010
+81309 Amber Boyle Argentina 58 FLU-2018 YES 16-07-2008
+5401 Chad Casey Argentina 78 SARS-COV-2 YES 27-03-2006
+39748 Laurie Lang Argentina 29 COVID-2019 YES 12-01-2000
+52160 Cynthia Knox Argentina 58 MERS-COV YES 19-08-2012
+77037 Alex Blake Argentina 63 MERS-COV YES 07-09-2001
+58791 Jason Weiss Argentina 10 EVD YES 05-12-2005
+17656 Erica Copeland Argentina 73 FLU-2018 NO
+38912 Michael Holmes Argentina 42 EVD YES 10-01-2020
+20218 Nina Jarvis Argentina 15 FLU-2018 NO
+72617 John Mcclure Argentina 12 SARS-COV-2 NO
+15374 Ronald Miller Argentina 35 EVD YES 09-09-2017
+14269 Antonio Shaw Argentina 45 SARS-1 NO
+91394 Nicole Conway Argentina 33 EVD NO
+55894 Victoria Glenn Argentina 11 H1N1 NO
+37249 Peter Kidd Argentina 38 MERS-COV YES 11-12-2003
+17450 Aaron Glover Argentina 48 H1N1 YES 07-10-2001
+96234 Kathy Ingram Argentina 26 SARS-COV-2 NO
+77708 Cameron Dean Argentina 27 EVD NO
+22283 Todd Daniels Argentina 13 SARS-1 NO
+19817 Jennifer Davis Argentina 51 MERS-COV NO
+39633 Mary Thomas Argentina 27 EVD YES 13-03-2007
+60357 Jennifer Williams Argentina 68 SARS-1 YES 19-06-2019
+56906 Katrina Vasquez Argentina 77 MERS-COV NO
+41012 Kenneth Bennett Argentina 19 MERS-COV YES 07-11-2009
+58267 Dylan Johnson Argentina 54 SARS-COV-2 NO
+22963 Shaun Peterson Argentina 52 SARS-1 NO
+23429 Mason Rush Argentina 19 SARS-COV-2 YES 01-01-2005
+37484 Patricia Hayes Argentina 70 SARS-1 NO
+89632 Jacob Thomas Argentina 27 MERS-COV NO
+76564 Tom Meyer Argentina 23 MERS-COV NO
+1257 Cole Snyder Argentina 19 SARS-1 NO
+44295 Matthew Contreras Argentina 77 MERS-COV YES 31-10-2000
+21993 Michelle Campbell Argentina 37 SARS-1 YES 02-11-2011
+80416 Joseph Mullins Argentina 59 MERS-COV NO
+50461 Jessica Wall Argentina 67 FLU-2018 YES 24-11-2012
+12439 Samantha Jones Argentina 12 SARS-COV-2 YES 18-05-2005
+72405 Michael James Argentina 19 MERS-COV YES 04-05-2013
+62199 Jerry Garza Argentina 45 EVD NO
+53386 Mary Valdez Argentina 75 COVID-2019 NO
+4260 Mackenzie Conway Argentina 48 SARS-1 YES 15-01-2000
+3899 Katherine Wolf Argentina 25 SARS-COV-2 NO
+59617 Stacie Mueller Argentina 10 EVD YES 09-07-2014
+40418 Holly Hicks Argentina 37 SARS-COV-2 NO
+25505 Kayla Cross Argentina 43 SARS-1 NO
+86838 Jared Stevenson Argentina 15 MERS-COV NO
+86624 Carl Wright Argentina 75 SARS-COV-2 YES 09-01-2002
+40331 Calvin Frost Argentina 33 SARS-COV-2 NO
+89770 Andrea Myers Argentina 28 FLU-2018 YES 20-04-2012
+54701 Jason Mccullough Argentina 62 COVID-2019 NO
+6147 Barbara Johnson Argentina 21 FLU-2018 YES 27-12-2005
+86702 Lisa Buchanan Argentina 55 MERS-COV YES 27-08-2004
+99635 Vanessa Benjamin Argentina 38 SARS-1 YES 27-08-2009
+62175 Ian Fischer Argentina 77 SARS-COV-2 YES 23-04-2018
+66433 Jill Allison Argentina 43 SARS-1 YES 10-07-2012
+22489 Diana Hatfield Argentina 29 FLU-2018 YES 31-10-2014
+38127 Christopher Randall Argentina 79 FLU-2018 NO
+39951 Marc Smith Argentina 53 EVD NO
+51709 Philip Garcia Argentina 68 MERS-COV YES 24-09-2001
+66639 Kathy Strong Argentina 50 SARS-1 NO
+30992 Russell Lawrence Argentina 71 FLU-2018 NO
+87210 Kristine Johnson Argentina 13 EVD YES 10-08-2018
+55540 Melissa Hall Argentina 38 SARS-1 YES 05-12-2012
+83445 Laurie Roberts Argentina 75 MERS-COV YES 21-12-2016
+72247 Shannon Hickman Argentina 19 SARS-COV-2 YES 16-10-2005
+20057 Tanner Garza Argentina 30 H1N1 YES 29-09-2001
+67671 Bobby Rios Argentina 66 SARS-COV-2 NO
+14045 Kayla Nguyen Argentina 47 FLU-2018 YES 21-05-2020
+84908 Anne Blackwell Argentina 11 SARS-1 YES 15-03-2019
+36055 Kelly Miller Argentina 39 FLU-2018 YES 04-04-2003
+91256 Ryan Lowe Argentina 51 MERS-COV NO
+2800 Andrea Terry Argentina 56 FLU-2018 NO
+85035 Deanna Cochran Argentina 10 SARS-1 YES 05-02-2016
+21342 Larry Middleton Argentina 51 FLU-2018 NO
+55075 Heidi Mora Argentina 18 FLU-2018 NO
+12910 Andrew Thompson Argentina 62 SARS-1 YES 06-02-2010
+94333 Amanda Kelly Argentina 44 H1N1 YES 25-10-2012
+76764 Kevin Sanders Argentina 30 MERS-COV NO
+94023 David Hoffman Argentina 77 MERS-COV NO
+94497 Philip Price Argentina 24 COVID-2019 YES 20-01-2017
+13858 Scott Guerrero Argentina 59 SARS-COV-2 YES 26-01-2009
+35064 Kristin Davis Argentina 61 EVD NO
+19669 Gerald Wilkins Argentina 66 MERS-COV NO
+41677 Thomas Hunter Argentina 31 H1N1 NO
+52932 Zachary Ramirez Argentina 68 H1N1 YES 28-05-2020
+83618 John Smith Argentina 70 EVD YES 03-03-2019
+7091 Robin Duncan Argentina 68 COVID-2019 NO
+17706 Alexandra Mitchell Argentina 35 EVD NO
+4059 Anne Clark Argentina 39 EVD NO
+43086 Juan Smith Argentina 11 SARS-1 NO
+61442 Austin Burton Argentina 63 EVD YES 29-06-2011
+45806 Jennifer Walter Argentina 13 FLU-2018 NO
+31359 Rebecca Miller Argentina 68 MERS-COV YES 23-12-2004
+36440 John Murillo Argentina 17 EVD YES 31-03-2014
+76911 Jennifer Wilson Argentina 16 FLU-2018 NO
+92911 Patrick Harris Argentina 65 COVID-2019 YES 24-05-2015
+45820 Brenda Fernandez Argentina 74 FLU-2018 YES 20-06-2003
+1402 Keith Smith Argentina 69 MERS-COV YES 27-09-2003
+82435 Valerie Smith Argentina 40 SARS-1 NO
+63613 Melanie Boyer Argentina 12 FLU-2018 NO
+42011 Travis Jackson Argentina 28 SARS-COV-2 YES 24-03-2002
+13844 Brenda Johnson Argentina 70 MERS-COV NO
+25547 Lauren Gomez Argentina 50 H1N1 NO
+77512 Jasmine Massey Argentina 13 SARS-COV-2 YES 21-08-2019
+74349 Joseph Myers Argentina 77 SARS-COV-2 YES 17-06-2015
+50320 Kristopher Williams Argentina 34 SARS-COV-2 YES 27-08-2007
+7529 Lisa Downs Argentina 29 H1N1 NO
+74230 Nicole Miles Argentina 15 EVD NO
+61071 Joyce Webb Argentina 21 SARS-COV-2 YES 01-03-2002
+78847 Stephanie Henry Argentina 28 FLU-2018 NO
+27460 Anthony Griffin Argentina 47 H1N1 YES 22-03-2005
+26860 Ashley Howell Argentina 14 MERS-COV NO
+78335 Melissa Davis Argentina 20 H1N1 YES 25-03-2020
+79103 Joshua Ware Argentina 66 MERS-COV YES 13-08-2020
+86854 Andrew Brown Argentina 79 FLU-2018 YES 04-12-2015
+88691 Billy Taylor Argentina 62 FLU-2018 NO
+96331 Charles Mejia Argentina 52 EVD YES 16-03-2003
+52129 Michael Moore Argentina 65 MERS-COV YES 22-11-2006
+86695 Alice Garcia Argentina 50 COVID-2019 YES 05-07-2019
+74777 Sarah Rodriguez Argentina 16 FLU-2018 YES 26-10-2013
+87071 Kathy Larson Argentina 16 SARS-1 NO
+49236 Timothy Johnson Argentina 20 COVID-2019 NO
+54087 Ann Wright Argentina 18 MERS-COV NO
+84880 Joshua Curry Argentina 52 SARS-1 YES 01-02-2007
+77396 Patricia Walker Argentina 54 SARS-COV-2 NO
+64622 Matthew Young Argentina 23 SARS-COV-2 YES 24-01-2014
+15996 Mindy Johnson Argentina 73 SARS-COV-2 YES 11-07-2009
+29264 Christopher Fisher Argentina 75 H1N1 YES 12-06-2014
+52611 Charles Phelps Argentina 36 COVID-2019 NO
+19985 Kathy Jones Argentina 35 FLU-2018 YES 30-11-2019
+57996 Natalie Reynolds Argentina 35 SARS-1 YES 25-04-2003
+21657 Mary Meyer Argentina 47 EVD NO
+12107 Dana Allen Argentina 23 EVD NO
+60585 Caleb Sanders Argentina 42 EVD NO
+72655 Michele Robinson Argentina 45 SARS-1 NO
+38155 Edward Davis Argentina 14 MERS-COV YES 19-08-2013
+97446 Rhonda Hughes Argentina 72 MERS-COV NO
+64442 Emily Dixon Argentina 63 H1N1 YES 20-08-2018
+67996 Brandon Hunter Argentina 53 MERS-COV YES 20-02-2005
+10266 Richard Cox Argentina 10 EVD YES 09-03-2004
+16844 Michael Salazar Argentina 69 MERS-COV YES 20-01-2005
+94762 Kevin Huynh Argentina 34 COVID-2019 YES 28-12-2009
+35791 Kristy Perez Argentina 40 COVID-2019 YES 31-10-2015
+1697 Jessica Mcguire Argentina 70 H1N1 NO
+15872 Michael Caldwell Argentina 21 COVID-2019 NO
+67766 Lisa Gonzalez Argentina 48 FLU-2018 NO
+57707 Juan Burch Argentina 67 MERS-COV YES 25-09-2003
+97542 Kenneth Woodard Argentina 70 MERS-COV NO
+30656 Valerie Summers Argentina 45 SARS-COV-2 NO
+2165 Matthew Sullivan Argentina 27 H1N1 YES 24-11-2013
+79527 Jay Gonzalez Argentina 34 FLU-2018 YES 05-02-2010
+12529 Cody Palmer Argentina 79 H1N1 NO
+76505 Tiffany Sanchez Argentina 18 SARS-COV-2 NO
+10544 Gregory Doyle Argentina 21 H1N1 NO
+46128 Joshua Anderson Argentina 60 COVID-2019 YES 09-10-2001
+70146 Sylvia Caldwell Argentina 60 MERS-COV NO
+74522 Cory Gibson Argentina 39 FLU-2018 NO
+34395 Ann Summers Argentina 11 SARS-COV-2 NO
+51190 Margaret Becker Argentina 44 EVD YES 07-01-2010
+88078 Andrew Johnston Argentina 72 SARS-1 YES 09-11-2011
+79730 Sherry Lester Argentina 15 SARS-COV-2 NO
+53065 Karen Greene Argentina 71 EVD NO
+25279 Leslie Anthony Argentina 60 H1N1 YES 21-12-2003
+2933 Robert Cruz Argentina 46 SARS-COV-2 YES 21-03-2014
+38773 Tracey Leonard Argentina 46 FLU-2018 NO
+6772 William Chang Argentina 38 MERS-COV NO
+62812 Matthew Hebert Argentina 40 SARS-COV-2 NO
+21009 David Anderson Argentina 64 SARS-1 YES 19-12-2009
+49921 Elizabeth Wu Argentina 50 FLU-2018 NO
+43590 Randall Yang Argentina 55 EVD NO
+62816 Melissa Bradley Argentina 76 EVD NO
+85498 Daniel Guerrero Argentina 60 COVID-2019 NO
+77391 Joseph Johnson Argentina 65 EVD NO
+54080 Nathan Wilson Argentina 68 SARS-1 YES 21-03-2020
+96424 Cynthia Perry Argentina 41 COVID-2019 YES 06-07-2008
+60581 John Thomas Argentina 57 COVID-2019 NO
+5218 Marcus Francis Argentina 43 COVID-2019 NO
+72860 Timothy Smith Argentina 67 COVID-2019 YES 24-08-2013
+61814 Shannon Henderson Argentina 64 SARS-COV-2 YES 21-01-2011
+88028 Rodney Fischer Argentina 60 MERS-COV NO
+54650 Austin Bennett Argentina 12 SARS-COV-2 YES 23-01-2013
+70441 James Flores Argentina 41 MERS-COV NO
+21232 Victoria Castillo Argentina 49 FLU-2018 NO
+61378 Kyle Young Argentina 23 COVID-2019 NO
+30747 Stephanie Arnold Argentina 26 FLU-2018 NO
+96510 Matthew Cox Argentina 11 FLU-2018 YES 21-03-2011
+27261 Brian Carrillo Argentina 16 SARS-COV-2 NO
+99531 Robert Ellis Argentina 43 SARS-COV-2 YES 26-04-2020
+94503 Chase Hernandez Argentina 22 H1N1 NO
+4912 Ernest Santana Argentina 65 EVD YES 08-07-2009
+36274 Michael Jones Argentina 52 COVID-2019 NO
+20426 Stephanie Jones Argentina 20 H1N1 NO
+38191 Mark Robinson Argentina 33 EVD YES 08-03-2012
+20737 Suzanne Henderson Argentina 14 MERS-COV NO
+91878 Scott Burke Argentina 27 MERS-COV NO
+34716 Julie Cox Argentina 76 FLU-2018 YES 16-05-2012
+52660 Diana Wiggins Argentina 45 SARS-COV-2 YES 04-03-2008
+40539 William Rose Argentina 22 MERS-COV NO
+28861 Emma Kirk Argentina 16 SARS-COV-2 NO
+27824 Timothy Vargas Argentina 54 SARS-1 YES 27-09-2014
+76586 Mary Buckley Argentina 13 MERS-COV NO
+73100 Melissa Garcia Argentina 19 MERS-COV NO
+32824 Deborah Dodson Argentina 45 FLU-2018 YES 08-08-2015
+67360 Sarah Jones Argentina 74 COVID-2019 YES 29-05-2007
+25293 Julian Green Argentina 15 SARS-1 NO
+97056 Stephanie Mitchell Argentina 12 MERS-COV NO
+14313 Jacob Rivas Argentina 48 SARS-COV-2 YES 26-10-2004
+93454 Felicia Porter Argentina 26 SARS-COV-2 NO
+76516 David Robertson Argentina 65 SARS-1 NO
+38519 Craig King Argentina 19 FLU-2018 NO
+48576 Tony Alexander Argentina 15 SARS-1 NO
+52635 Justin Rice Argentina 42 SARS-1 YES 17-08-2011
+46893 Michael Ramirez Argentina 41 H1N1 YES 20-07-2016
+88571 Emily James Argentina 23 EVD NO
+10464 Robin Price Argentina 33 COVID-2019 NO
+69898 Dave Mann Argentina 31 EVD YES 17-01-2000
+88522 Kimberly Williamson Argentina 68 SARS-COV-2 NO
+7121 Brian Jarvis Argentina 48 SARS-COV-2 NO
+81948 Jennifer Medina Argentina 14 SARS-1 NO
+45489 Benjamin Davidson Argentina 28 MERS-COV YES 08-04-2003
+70902 Joshua Thompson Argentina 76 SARS-COV-2 NO
+8194 Anthony Bonilla Argentina 79 SARS-1 YES 25-03-2013
+504 Daniel Daniel Argentina 43 EVD YES 27-02-2010
+68256 Sharon Watson Argentina 27 FLU-2018 NO
+33083 Keith Murphy Argentina 55 MERS-COV YES 08-05-2002
+7338 Heather Morris Argentina 25 SARS-COV-2 YES 10-08-2009
+77921 Phillip King Argentina 37 EVD NO
+74335 Regina Smith Argentina 39 FLU-2018 NO
+30802 Shaun Moore Argentina 31 SARS-COV-2 NO
+95710 Karen Wolfe Argentina 49 MERS-COV NO
+72583 Laura Waters Argentina 45 H1N1 NO
+58996 Amanda Gonzalez Argentina 64 H1N1 NO
+22785 Julia Patrick Argentina 69 H1N1 YES 10-04-2000
+39128 Lance Hamilton Argentina 65 FLU-2018 YES 11-11-2010
+82013 Diane Smith Argentina 33 H1N1 NO
+97871 April Harper Argentina 19 H1N1 NO
+30390 Sean Foster Argentina 11 SARS-COV-2 NO
+60650 Brandy Thomas Argentina 49 SARS-COV-2 YES 21-09-2016
+35551 Norman Mcintyre Argentina 65 H1N1 NO
+19426 Patrick Arnold Argentina 22 SARS-1 YES 07-10-2019
+44924 Allen Best Argentina 22 FLU-2018 YES 28-08-2001
+75909 Anthony Cooper Argentina 73 SARS-1 NO
+87135 Joshua Little Argentina 48 COVID-2019 YES 02-02-2005
+9835 Nicole Thomas Argentina 76 MERS-COV NO
+31558 Nicholas Walker Argentina 55 MERS-COV YES 26-02-2001
+68024 Joshua Marks Argentina 55 MERS-COV YES 27-06-2010
+66713 James Gill Argentina 17 SARS-1 NO
+36630 Jeremy Robinson Argentina 27 SARS-COV-2 NO
+30879 Anna Marshall Argentina 76 H1N1 NO
+55022 Sarah Campbell Argentina 46 SARS-1 YES 01-04-2013
+7915 Jennifer Stafford Argentina 60 EVD YES 01-08-2006
+62571 Abigail Baker Argentina 59 H1N1 YES 06-09-2014
+25091 Brian Woods Argentina 12 COVID-2019 NO
+23249 Cristian Guerrero Argentina 19 MERS-COV NO
+10972 Christopher Atkins Argentina 34 COVID-2019 NO
+4180 Darrell Rice Argentina 45 EVD NO
+67609 Michelle Johnson Argentina 15 SARS-1 NO
+9685 Jessica Nelson Argentina 62 SARS-COV-2 YES 05-04-2009
+29934 Daniel Thomas Argentina 17 H1N1 NO
+28163 Michael Hawkins Argentina 44 COVID-2019 YES 25-02-2019
+71761 Jamie Levine Argentina 33 EVD NO
+92807 Linda Garcia Argentina 55 SARS-1 NO
+6806 Kimberly Nichols Argentina 70 MERS-COV YES 30-07-2019
+43614 Tammy Monroe Argentina 46 COVID-2019 NO
+64711 Todd Wallace Argentina 45 FLU-2018 NO
+81208 Ralph Baldwin Argentina 64 FLU-2018 NO
+38026 Dawn Cochran Argentina 61 MERS-COV YES 23-02-2016
+3314 Marie Gallegos Argentina 32 COVID-2019 YES 07-03-2012
+59353 Joshua Bradley Argentina 30 H1N1 YES 30-09-2011
+66582 Kelly Edwards Argentina 44 H1N1 NO
+27898 Loretta Taylor Argentina 79 COVID-2019 NO
+54248 Robin Price Argentina 15 H1N1 YES 11-02-2014
+9184 Mary Herrera Argentina 61 EVD NO
+18504 Sarah King Argentina 76 SARS-1 NO
+78986 Lisa Butler Argentina 60 MERS-COV YES 01-12-2006
+21447 Lisa Perkins Argentina 14 EVD YES 29-04-2020
+90237 Elizabeth Holden Argentina 62 COVID-2019 NO
+5848 Timothy Griffin Argentina 78 SARS-COV-2 YES 25-07-2001
+38558 Megan Copeland Argentina 34 FLU-2018 YES 29-05-2001
+10787 Julia Johnson Argentina 27 MERS-COV YES 07-09-2012
+43138 Misty Hensley Argentina 19 SARS-1 NO
+24401 John Smith Argentina 77 H1N1 YES 12-06-2003
+70868 Kayla Bishop Argentina 49 H1N1 YES 31-12-2014
+75979 Shannon Shaw Argentina 41 SARS-COV-2 YES 19-07-2005
+20297 John Gutierrez Argentina 12 SARS-1 YES 29-03-2006
+55504 Curtis Powell Argentina 32 SARS-1 NO
+72681 Juan Cross Argentina 33 EVD YES 02-01-2012
+60641 Donna Richardson Argentina 50 FLU-2018 YES 15-11-2009
+67295 Cindy Mayo Argentina 74 SARS-1 YES 02-08-2016
+57808 Anne Keller Argentina 55 MERS-COV NO
+67469 Jeffrey Collins Argentina 25 MERS-COV YES 22-02-2017
+23781 Michael Blake Argentina 57 H1N1 NO
+152 John Pitts Argentina 23 COVID-2019 YES 11-06-2014
+82113 Alexandria Jackson Argentina 51 FLU-2018 NO
+43930 Robert Haney Argentina 11 H1N1 YES 27-03-2012
+52151 Connie Burns Argentina 43 SARS-COV-2 YES 02-08-2008
+28220 David Martin Argentina 34 EVD NO
+32673 Randy Reese Argentina 63 MERS-COV NO
+7126 Chelsea Martin Argentina 39 MERS-COV YES 13-12-2019
+56835 Philip Perry Argentina 21 FLU-2018 YES 19-05-2011
+48728 Vanessa Franco Argentina 18 MERS-COV YES 28-04-2009
+53522 Kenneth Roberson Argentina 35 SARS-COV-2 YES 09-05-2017
+23652 Michael Hammond Argentina 72 SARS-COV-2 NO
+48386 Samuel Cordova Argentina 71 EVD YES 31-03-2017
+71997 Amanda Wells Argentina 33 SARS-COV-2 YES 05-08-2011
+86718 Randy Nguyen Argentina 72 SARS-COV-2 NO
+22232 Tommy Villegas Argentina 55 SARS-1 YES 01-02-2003
+14416 David Mathews Argentina 19 EVD YES 13-08-2008
+13432 Amy Johnson Argentina 39 SARS-1 NO
+7414 Jason Yates Argentina 23 SARS-COV-2 NO
+69459 Gary Walsh Argentina 41 COVID-2019 NO
+57722 Carolyn Sandoval Argentina 13 SARS-1 YES 24-06-2003
+48655 Jennifer Stewart Argentina 68 SARS-COV-2 NO
+19054 Steven Contreras Argentina 46 H1N1 NO
+21802 Earl Ortega Argentina 70 H1N1 NO
+53287 Laura Cooper Argentina 60 FLU-2018 NO
+10421 Jacob Mcdowell Argentina 10 EVD YES 18-03-2005
+88368 Jenna Huynh Argentina 48 H1N1 NO
+88366 Robin Grant Argentina 34 H1N1 NO
+46776 Sabrina Bates Argentina 79 EVD YES 06-03-2007
+2197 Antonio Page Argentina 68 H1N1 NO
+37174 Kathleen Duran Argentina 19 FLU-2018 NO
+90374 Mary Ford Argentina 71 FLU-2018 NO
+99167 Charles Cummings Argentina 54 MERS-COV YES 12-04-2000
+35151 Mary Russo Argentina 31 EVD YES 11-06-2018
+75246 Steven Bush Argentina 19 FLU-2018 NO
+24279 Melissa Rivers Argentina 52 EVD YES 16-04-2015
+60883 Shane Jordan Argentina 36 FLU-2018 YES 05-05-2014
+87979 Ralph Palmer Argentina 39 SARS-1 NO
+41431 Katherine Summers Argentina 50 SARS-COV-2 YES 06-11-2004
+42550 Dana Hill Argentina 74 COVID-2019 NO
+70170 Bruce Sanchez Argentina 22 SARS-COV-2 YES 28-07-2011
+6038 Bobby Atkins Argentina 17 SARS-COV-2 YES 13-08-2007
+60470 John Haynes Argentina 36 H1N1 NO
+55408 Kimberly Frazier Argentina 28 SARS-1 NO
+10424 Brianna Adams Argentina 31 COVID-2019 NO
+40230 William Bailey Argentina 13 SARS-COV-2 YES 31-05-2004
+33224 Daniel Martinez Argentina 64 SARS-COV-2 NO
+8938 Mary Cowan Argentina 68 SARS-COV-2 NO
+13229 Shannon Hall Argentina 49 SARS-1 NO
+95921 Deborah Avery Argentina 57 FLU-2018 NO
+862 Roger Davis Argentina 17 FLU-2018 YES 22-08-2017
+82475 David Jenkins Argentina 22 FLU-2018 YES 22-10-2002
+22202 Mary Bell Argentina 12 SARS-1 NO
+90515 Jennifer Clark Argentina 17 MERS-COV YES 21-06-2020
+71307 Glen Mitchell Argentina 43 MERS-COV YES 14-12-2014
+15702 Tony Haynes Argentina 58 FLU-2018 NO
+87316 Christina Reyes Argentina 48 H1N1 NO
+78169 Curtis Le Argentina 25 MERS-COV YES 09-06-2005
+41103 Rebecca Brown Argentina 33 COVID-2019 YES 18-10-2004
+42237 Jason White Argentina 79 MERS-COV NO
+71419 Rebecca Rivera Argentina 69 H1N1 NO
+53165 Bonnie Vincent Argentina 15 FLU-2018 NO
+62276 Amber Davis Argentina 56 SARS-COV-2 YES 03-08-2011
+42627 Elizabeth Johnson Argentina 24 MERS-COV NO
+62722 Andrew Garcia Argentina 61 FLU-2018 YES 29-03-2011
+22955 Amanda Hood Argentina 28 SARS-1 NO
+39871 Melissa Woods Argentina 57 COVID-2019 YES 26-05-2016
+55152 Heather Harrison Argentina 79 COVID-2019 YES 13-02-2019
+39257 George Woods Argentina 29 COVID-2019 YES 03-07-2005
+3482 Anthony Peterson Argentina 52 EVD NO
+23624 Rebecca Smith Argentina 75 FLU-2018 YES 09-06-2010
+23553 Cynthia Burns Argentina 33 FLU-2018 NO
+44440 Michael Davis Argentina 31 COVID-2019 YES 23-10-2015
+34293 Donna Walton Argentina 71 SARS-1 NO
+30355 Wayne Williams Argentina 35 COVID-2019 NO
+98165 Connie Reynolds Argentina 13 H1N1 YES 13-07-2001
+55466 Heather Evans Argentina 14 EVD YES 08-07-2012
+74271 Cassandra Duffy Argentina 40 MERS-COV NO
+59338 Raymond Bush Argentina 77 COVID-2019 NO
+38622 Anthony Graham Argentina 27 MERS-COV YES 24-01-2008
+4030 Joseph Cooper Argentina 66 MERS-COV YES 02-01-2006
+89347 Ian Jones Argentina 58 EVD NO
+16070 Marcus Stevens Argentina 42 H1N1 YES 28-02-2014
+57083 Bethany Mclaughlin Argentina 15 SARS-COV-2 YES 27-01-2012
+98415 Brianna Barnes Argentina 62 MERS-COV YES 11-02-2016
+20158 Alexandra Alexander Argentina 27 SARS-COV-2 YES 28-12-2020
+19077 Chad Coleman Argentina 42 SARS-COV-2 YES 04-10-2007
+67036 William Stewart Argentina 26 FLU-2018 NO
+20604 Rachel Brandt Argentina 59 FLU-2018 NO
+50991 Jennifer Wade Argentina 33 SARS-1 NO
+29286 Ryan Gregory Argentina 11 COVID-2019 NO
+32361 Sarah Barber Argentina 32 SARS-COV-2 NO
+42982 Pamela Rodriguez Argentina 28 FLU-2018 NO
+78053 Timothy Barker Argentina 71 H1N1 YES 13-07-2003
+78658 Amanda Walker Argentina 28 SARS-COV-2 NO
+71243 Justin Lynch Argentina 70 SARS-1 NO
+74150 Luke Freeman Argentina 73 MERS-COV NO
+45966 Elizabeth Dixon Argentina 14 EVD NO
+62675 Michele Young Argentina 15 H1N1 YES 28-04-2018
+26853 Brittany Sherman Argentina 72 SARS-1 YES 14-08-2011
+36939 Catherine Johnston Argentina 72 FLU-2018 YES 28-04-2007
+6494 Bryan Wilson Argentina 64 SARS-COV-2 YES 26-05-2004
+18715 Marcus Campbell Argentina 49 SARS-COV-2 YES 16-04-2001
+10669 Louis Richardson Argentina 72 H1N1 NO
+76437 Maxwell Adams Argentina 68 EVD YES 17-08-2009
+37620 Joshua Brown Argentina 68 H1N1 NO
+11451 Angel Jones Argentina 70 COVID-2019 NO
+18443 Brian Hurley Argentina 53 SARS-COV-2 NO
+91956 Jacob Green Argentina 32 H1N1 YES 14-03-2019
+95332 Heidi Peters Argentina 70 SARS-COV-2 YES 27-10-2016
+5518 Darryl Dean Argentina 20 COVID-2019 YES 30-07-2011
+81854 Jamie Lloyd Argentina 35 SARS-COV-2 YES 21-05-2017
+47341 Shane Moore Argentina 73 COVID-2019 YES 15-02-2017
+79652 Crystal Johnson Argentina 73 EVD YES 19-08-2020
+50753 Travis Owens Argentina 51 SARS-COV-2 NO
+12756 Shane Schaefer Argentina 36 SARS-COV-2 YES 05-11-2011
+78699 David Dean Argentina 31 FLU-2018 NO
+86099 Jeffery Montgomery Argentina 41 COVID-2019 NO
+17482 Jamie Phillips Argentina 32 MERS-COV YES 11-08-2011
+86013 Brandon Salinas Argentina 41 FLU-2018 YES 08-08-2014
+57063 Christine Patterson Argentina 69 H1N1 NO
+67018 Cassandra Zamora Argentina 58 EVD YES 02-06-2002
+26506 Wendy Scott Argentina 59 FLU-2018 NO
+15029 Jennifer Costa Argentina 67 FLU-2018 NO
+71239 Robin Caldwell Argentina 35 COVID-2019 YES 20-05-2006
+70931 Logan Porter Argentina 71 SARS-1 NO
+46683 Mitchell Herrera Argentina 64 SARS-1 NO
+87806 Michael Huang Argentina 15 COVID-2019 YES 30-06-2013
+66557 Debbie Smith Argentina 62 SARS-COV-2 YES 02-02-2018
+98972 Hannah Gates Argentina 12 EVD NO
+51927 Holly Richardson Argentina 37 H1N1 YES 13-10-2001
+41425 Kimberly Smith Argentina 18 COVID-2019 NO
+59842 Vanessa Simmons Argentina 45 FLU-2018 YES 16-10-2004
+20140 Angelica Lyons Argentina 43 COVID-2019 NO
+91787 James Benton Argentina 63 SARS-COV-2 YES 18-01-2013
+78141 James Jensen Argentina 53 SARS-1 NO
+87842 Brittany Church Argentina 67 COVID-2019 YES 03-03-2009
+29875 Mark Webster Argentina 69 FLU-2018 YES 17-04-2017
+23259 Alicia Perkins Argentina 75 H1N1 YES 07-08-2017
+61636 Gabrielle Stewart Argentina 74 MERS-COV NO
+87774 Matthew King Argentina 47 SARS-1 YES 19-10-2016
+11567 David Zimmerman Argentina 34 MERS-COV YES 15-11-2010
+65544 Christina Schwartz Argentina 66 SARS-1 YES 07-02-2019
+88916 Alexandria Porter Argentina 28 SARS-1 NO
+15984 Vanessa Thompson Argentina 71 FLU-2018 NO
+81091 Wendy Simmons Argentina 52 FLU-2018 YES 08-10-2016
+22462 Gregory White Argentina 21 EVD NO
+73545 Sara Gilbert Argentina 41 SARS-1 NO
+58569 Benjamin Ward Argentina 74 EVD YES 21-03-2016
+66601 Annette Ochoa Argentina 43 SARS-COV-2 NO
+8879 Neil Sharp Argentina 74 FLU-2018 YES 24-11-2002
+65766 Derek Smith Argentina 51 SARS-1 YES 17-11-2014
+7390 Tanya Robinson Argentina 29 FLU-2018 YES 23-04-2013
+58794 Christopher Mathis Argentina 62 EVD NO
+44492 Randall Wood Argentina 24 H1N1 YES 16-02-2004
+31186 Xavier Lloyd Argentina 63 SARS-1 YES 19-12-2015
+5454 James Banks Argentina 77 SARS-1 NO
+94009 Lee Moore Argentina 53 EVD NO
+69666 Susan Chang Argentina 37 H1N1 YES 13-08-2000
+66133 Regina Martinez Argentina 29 COVID-2019 NO
+77370 Keith Patterson Argentina 14 COVID-2019 YES 14-04-2007
+77036 Brooke Douglas Argentina 44 COVID-2019 YES 15-06-2011
+85257 Evan Thornton Argentina 14 SARS-COV-2 NO
+16220 Adrian Freeman Argentina 47 H1N1 YES 08-01-2012
+83721 Stephanie Martinez Argentina 37 FLU-2018 NO
+6787 Julie Patterson Argentina 54 EVD NO
+6967 Thomas Flores Argentina 70 EVD YES 18-06-2014
+93519 Matthew Lewis Argentina 17 H1N1 NO
+26371 Richard Moses Argentina 22 SARS-COV-2 NO
+73286 Steven Bryant Argentina 78 SARS-COV-2 YES 17-09-2020
+69243 Michael Taylor Argentina 73 EVD NO
+57090 Michael Schmidt Argentina 76 FLU-2018 NO
+71959 Carol Patterson Argentina 79 EVD NO
+94227 Craig Robertson Argentina 71 SARS-1 NO
+70844 Jason Strickland Argentina 16 EVD YES 25-03-2001
+45146 Shelby Wolf Argentina 79 SARS-COV-2 YES 27-10-2018
+96072 Mark Jones Argentina 21 EVD YES 04-01-2020
+14294 Brooke Davis Argentina 55 COVID-2019 NO
+27149 Brian Hansen Argentina 52 SARS-COV-2 YES 25-08-2010
+26711 Troy Howell Argentina 77 SARS-COV-2 NO
+27377 Gabriel Ruiz Argentina 44 MERS-COV YES 12-02-2011
+69354 Oscar Nguyen Argentina 48 H1N1 NO
+33472 Stephen Olson Argentina 10 SARS-COV-2 NO
+88530 Christopher Rodriguez Argentina 16 SARS-COV-2 YES 06-11-2009
+53956 Grace Martin Argentina 34 EVD NO
+34640 Brenda Alexander Argentina 46 SARS-1 YES 28-10-2016
+57195 Julie White Argentina 72 COVID-2019 YES 06-08-2008
+94331 Ryan Robinson Argentina 78 EVD NO
+92307 Karen Case Argentina 24 EVD YES 16-08-2006
+50455 Heidi Bonilla Argentina 69 MERS-COV YES 06-03-2011
+73633 Sarah Bradley Argentina 33 FLU-2018 NO
+42064 Richard Jackson Argentina 74 COVID-2019 NO
+84890 Carla Stephens Argentina 63 FLU-2018 YES 03-04-2000
+33410 Charles Adams Argentina 35 SARS-COV-2 YES 03-05-2008
+2000 Amanda Greene Argentina 76 COVID-2019 NO
+89578 Brenda Davis Argentina 46 COVID-2019 YES 09-03-2012
+40602 Marilyn Williams Argentina 42 SARS-1 YES 12-10-2016
+95837 Tiffany Wilcox Argentina 36 COVID-2019 NO
+79810 David Lopez Argentina 66 COVID-2019 YES 02-04-2017
+30490 Philip Young Argentina 72 MERS-COV NO
+9006 Anita Watts Argentina 36 COVID-2019 NO
+84395 Kyle Bryan Argentina 57 MERS-COV YES 26-04-2003
+27179 Molly Reyes Argentina 64 SARS-COV-2 YES 25-02-2018
+28186 Mark Benton Argentina 43 H1N1 NO
+71094 Adam Gomez Argentina 25 FLU-2018 YES 21-06-2004
+60103 Kimberly Jackson Argentina 30 H1N1 YES 20-02-2001
+49582 Nicholas Martinez Argentina 67 SARS-COV-2 YES 21-10-2011
+43695 Jonathan Crawford Argentina 39 SARS-COV-2 YES 06-01-2018
+98330 Vicki Hardy Argentina 44 FLU-2018 NO
+87541 James Avila Argentina 46 COVID-2019 NO
+7663 Joseph Stone Argentina 64 EVD YES 10-02-2020
+26438 Kevin Martinez Argentina 61 MERS-COV NO
+37181 Melanie Thomas Argentina 73 FLU-2018 YES 30-10-2011
+34554 Christine Dean Argentina 39 MERS-COV NO
+81896 Elizabeth Wright Argentina 56 MERS-COV YES 22-04-2005
+65234 Kelly Wallace Argentina 34 COVID-2019 NO
+36439 Cindy Martinez Argentina 67 SARS-1 NO
+30723 Phillip Smith Argentina 51 SARS-COV-2 YES 09-08-2016
+215 Jeffrey Smith Argentina 25 FLU-2018 NO
+69720 Barbara Davis Argentina 66 FLU-2018 NO
+19905 Chad Lopez Argentina 21 H1N1 NO
+52461 Melissa Long Argentina 16 H1N1 YES 23-02-2008
+13244 Felicia Davila Argentina 14 FLU-2018 YES 25-10-2010
+99504 John Davis Argentina 60 FLU-2018 NO
+9219 Samantha Lane Argentina 60 EVD NO
+8405 Charles Richardson Argentina 49 H1N1 YES 25-04-2013
+94441 Jessica Cummings Argentina 73 MERS-COV NO
+41469 Patricia Hess Argentina 62 EVD NO
+26494 Mark Gordon Argentina 37 COVID-2019 YES 30-12-2019
+55267 Michelle Salazar Argentina 74 FLU-2018 NO
+44337 Christine Rios Argentina 26 H1N1 YES 03-08-2003
+76619 Sandra Diaz Argentina 18 MERS-COV NO
+6476 Aaron Scott Argentina 26 MERS-COV NO
+16367 Andrew Obrien Argentina 34 SARS-COV-2 NO
+30416 Megan Hansen Argentina 15 EVD YES 10-07-2002
+43957 Joseph Vincent Argentina 31 SARS-COV-2 NO
+57052 Alejandro Zimmerman Argentina 52 EVD YES 15-02-2013
+53953 Matthew York Argentina 15 SARS-1 YES 04-09-2017
+8414 Lindsey Johnson Argentina 56 COVID-2019 NO
+98280 Dorothy Edwards Argentina 37 H1N1 NO
+27863 Laura Porter Argentina 58 MERS-COV NO
+21172 Laura Doyle Argentina 73 EVD NO
+55749 Linda Poole Argentina 14 COVID-2019 YES 06-11-2007
+77603 Elizabeth Rivera Argentina 62 SARS-1 YES 08-10-2001
+38694 Julie Perez Argentina 24 SARS-COV-2 NO
+93250 Caleb West Argentina 12 SARS-1 YES 28-02-2018
+70551 Kathleen Baker Argentina 63 H1N1 NO
+95262 William Johnson Argentina 32 EVD NO
+14836 Carl Wood Argentina 31 H1N1 NO
+86716 Jennifer Conrad Argentina 24 SARS-COV-2 NO
+43296 David Mcclain Argentina 18 SARS-COV-2 YES 09-09-2013
+73696 Ricky Shannon Argentina 24 EVD YES 03-02-2003
+75450 Jade Gonzalez Argentina 53 SARS-COV-2 YES 12-01-2013
+71350 Teresa Francis Argentina 77 COVID-2019 YES 15-08-2000
+60776 Dana Black Argentina 56 SARS-COV-2 NO
+93759 Alyssa Russell Argentina 12 EVD YES 19-07-2008
+31076 Jessica Thomas Argentina 32 MERS-COV NO
+51058 Nathan Rice Argentina 11 COVID-2019 YES 30-12-2016
+57588 Roger George Argentina 71 SARS-COV-2 NO
+29127 Kerri Hampton Argentina 57 COVID-2019 NO
+40578 Nathan Johnson Argentina 74 EVD NO
+2332 Brent Mullen Argentina 27 SARS-1 NO
+50406 Emma Mcmillan Argentina 46 SARS-COV-2 YES 02-04-2013
+51622 Lisa Cherry Argentina 60 COVID-2019 NO
+95028 Margaret Perry Argentina 69 MERS-COV NO
+94247 Rachel Salazar Argentina 61 FLU-2018 YES 04-03-2020
+98440 Tina Mcpherson Argentina 47 SARS-COV-2 NO
+26444 Mary Brown Argentina 64 COVID-2019 NO
+10047 Jennifer White Argentina 13 SARS-COV-2 NO
+62918 Kyle Anderson Argentina 63 SARS-COV-2 YES 09-12-2011
+92436 Heather Rogers Argentina 31 H1N1 YES 08-01-2008
+80913 Michael Smith Argentina 25 FLU-2018 YES 30-05-2016
+93109 Evan Palmer Argentina 70 FLU-2018 YES 28-03-2001
+97338 Brian Oconnor Argentina 26 SARS-COV-2 YES 06-06-2002
+51085 Samuel Fernandez Argentina 62 EVD NO
+4659 Michael Ferguson Argentina 65 EVD YES 24-09-2006
+69489 Shelia Molina Argentina 35 COVID-2019 YES 04-05-2017
+96924 Carmen Schultz Argentina 47 FLU-2018 YES 07-10-2010
+72419 Heather Chavez Argentina 20 SARS-COV-2 YES 17-03-2008
+78168 Nathaniel Stevens Argentina 41 MERS-COV YES 23-09-2001
+38342 Rachel Obrien Argentina 56 SARS-COV-2 YES 24-04-2020
+29582 Dana Griffin Argentina 20 SARS-COV-2 NO
+55224 Nancy Klein Argentina 36 SARS-1 YES 27-06-2003
+37361 Candace Green Argentina 64 H1N1 YES 02-02-2012
+31099 Kelli Robbins Argentina 59 EVD NO
+5344 Jose Jacobs Argentina 40 SARS-COV-2 YES 25-02-2020
+79774 Nicole Brown Argentina 61 SARS-1 NO
+44581 Sylvia Daniels Argentina 38 EVD YES 06-12-2004
+26373 Jonathan White Argentina 66 SARS-COV-2 YES 01-08-2020
+792 Perry Rowe Argentina 66 H1N1 NO
+48521 Jamie Hanson Argentina 41 SARS-1 NO
+16090 Kimberly Boyle Argentina 75 EVD NO
+76146 Derrick Mitchell Argentina 30 MERS-COV YES 18-01-2006
+47699 Bryan Hill Argentina 20 COVID-2019 NO
+96503 Donna Pearson Argentina 42 SARS-COV-2 NO
+19092 Frank Palmer Argentina 66 SARS-COV-2 NO
+27087 Nichole Koch Argentina 62 SARS-1 YES 16-01-2010
+5392 Deborah Jones Argentina 61 SARS-1 YES 26-01-2004
+44716 Courtney Hunter Argentina 12 COVID-2019 YES 23-03-2003
+98981 Allen Webb Argentina 25 FLU-2018 NO
+53368 Nicole Foley Argentina 66 COVID-2019 NO
+46789 Elizabeth Espinoza Argentina 19 SARS-COV-2 NO
+70874 Natalie Duke Argentina 60 SARS-COV-2 YES 24-04-2014
+87944 Debra Harris Argentina 36 COVID-2019 NO
+21995 Justin Hicks Argentina 22 EVD NO
+41892 Jake Brown Argentina 17 SARS-COV-2 NO
+6720 Robert Rice Argentina 54 H1N1 YES 21-12-2013
+97324 Joshua Hernandez Argentina 43 MERS-COV YES 09-03-2004
+30907 Mary Jones Argentina 40 SARS-1 YES 16-11-2015
+84638 John Davis Argentina 46 SARS-1 NO
+82893 Travis Brown Argentina 14 SARS-COV-2 NO
+66186 Eric Tran Argentina 26 EVD NO
+94206 Natalie Meyers Argentina 54 MERS-COV NO
+87625 Rhonda Cunningham Argentina 24 FLU-2018 YES 23-06-2017
+45233 Lisa Nunez Argentina 36 COVID-2019 YES 11-11-2017
+71017 John Graham Argentina 22 SARS-1 YES 06-06-2017
+30448 Felicia Johnson Argentina 49 FLU-2018 NO
+92230 Kristy Allen Argentina 32 SARS-COV-2 NO
+99131 Zachary Harris Argentina 45 MERS-COV YES 27-02-2000
+4251 William Combs Argentina 51 FLU-2018 YES 27-01-2002
+25594 Brooke Jones Argentina 60 H1N1 YES 01-06-2018
+77772 Richard Lynch Argentina 50 MERS-COV NO
+80936 Zachary Miller Argentina 53 MERS-COV YES 17-12-2007
+86948 Benjamin Gordon Argentina 35 H1N1 YES 16-04-2007
+4324 Angela Patrick Argentina 44 SARS-1 NO
+29652 Jason Jones Argentina 15 SARS-1 NO
+97629 Terri Martinez Argentina 16 SARS-1 NO
+86357 Teresa Powell Argentina 11 MERS-COV NO
+69371 Thomas Thomas Argentina 32 COVID-2019 NO
+20015 Whitney Holder Argentina 16 SARS-1 YES 24-08-2005
+55717 John Abbott Argentina 32 EVD NO
+43144 Jessica Hickman Argentina 18 COVID-2019 NO
+313 Sandra Morgan Argentina 29 SARS-COV-2 NO
+41334 Drew Oconnell Argentina 64 SARS-COV-2 YES 06-03-2009
+3922 Jerry Rios Argentina 14 SARS-COV-2 YES 28-12-2016
+30240 Angie Hill Argentina 20 EVD YES 20-05-2007
+84972 Benjamin Smith Argentina 79 MERS-COV YES 20-04-2019
+51306 Natalie Campos Argentina 52 EVD NO
+66809 Erin Kim Argentina 29 SARS-1 NO
+41307 Lisa Newman Argentina 26 COVID-2019 YES 20-07-2002
+26216 Sharon Browning Argentina 24 H1N1 NO
+22512 Amanda Eaton Argentina 77 COVID-2019 NO
+59557 Sarah Powers Argentina 19 H1N1 NO
+68995 Rhonda Carr Argentina 56 MERS-COV YES 18-03-2006
+17542 Tyler Gordon Argentina 54 COVID-2019 NO
+23877 David Henderson Argentina 43 FLU-2018 NO
+92935 Rebecca Williams Argentina 24 FLU-2018 YES 10-03-2014
+66543 Mark Coleman Argentina 71 FLU-2018 YES 26-08-2009
+80223 Lawrence Lee Argentina 57 SARS-1 YES 05-10-2020
+34230 Chad Lewis Argentina 37 FLU-2018 YES 10-08-2013
+12243 Courtney Mendoza Argentina 12 COVID-2019 NO
+28955 Stephen Ray Argentina 21 SARS-1 NO
+87070 Megan Cisneros Argentina 25 SARS-1 NO
+8872 Michael Soto Argentina 21 EVD NO
+35577 Mary Mccormick Argentina 47 FLU-2018 NO
+9820 Gordon Martinez Argentina 13 EVD NO
+2580 Scott Ramirez Argentina 13 COVID-2019 NO
+54900 Aaron Frazier Argentina 75 COVID-2019 NO
+64730 Gina Williams Argentina 47 SARS-1 YES 08-09-2017
+66082 Emily Sanders Argentina 58 H1N1 YES 04-11-2016
+57343 Diana Gonzalez Argentina 33 SARS-COV-2 NO
+7063 John Alvarado Argentina 62 SARS-1 NO
+44071 Lisa Ellison Argentina 78 EVD YES 11-01-2006
+92110 Kevin Hopkins Argentina 20 SARS-COV-2 YES 22-02-2003
+13681 Eric Church Argentina 32 EVD YES 03-03-2011
+76533 Elizabeth Allen Argentina 35 SARS-COV-2 YES 08-07-2005
+97292 Christine Mitchell Argentina 32 COVID-2019 NO
+16318 Jennifer Mccann Argentina 12 EVD YES 18-04-2002
+6371 Stanley Newman Argentina 13 MERS-COV YES 04-09-2018
+21418 Faith Wallace Argentina 73 H1N1 YES 27-04-2009
+3850 Heather Garza Argentina 59 FLU-2018 NO
+20217 Susan Vega Argentina 37 EVD YES 11-11-2004
+35812 Troy Hartman Argentina 20 SARS-COV-2 YES 21-04-2001
+94556 Michael Odom Argentina 63 COVID-2019 YES 25-05-2004
+2779 Heather Ramsey Argentina 55 FLU-2018 YES 08-09-2005
+70977 Rachel Smith Argentina 57 SARS-COV-2 NO
+77920 Edward Mendoza Argentina 69 MERS-COV NO
+95065 Cheryl Bailey Argentina 31 MERS-COV YES 04-08-2019
+65759 James Price Argentina 54 MERS-COV NO
+39686 Jennifer Harris Argentina 69 COVID-2019 YES 30-09-2001
+28589 Tiffany Benjamin Argentina 32 FLU-2018 YES 22-07-2019
+75993 Stephanie Robinson Argentina 78 SARS-COV-2 YES 05-01-2005
+65549 Nathan Gregory Argentina 62 FLU-2018 YES 30-07-2018
+2919 Whitney Mendez Argentina 62 EVD NO
+75018 Lindsey Davis Argentina 26 EVD YES 10-10-2018
+24459 Nicholas Frank Argentina 77 FLU-2018 YES 10-11-2003
+52056 Christopher Hoffman Argentina 70 MERS-COV NO
+6248 David Webb Argentina 19 EVD NO
+60266 Kylie Wu Argentina 34 SARS-COV-2 NO
+98608 Ruben Golden Argentina 20 FLU-2018 YES 27-04-2003
+90493 Michelle Fernandez Argentina 16 COVID-2019 YES 14-03-2015
+8421 Timothy Woodard Argentina 79 H1N1 NO
+78803 Amber Chen Argentina 53 MERS-COV NO
+32417 Joseph Mitchell Argentina 54 COVID-2019 YES 26-11-2014
+18869 Lisa Curtis Argentina 45 MERS-COV NO
+75553 Lisa Lee Argentina 33 FLU-2018 YES 26-03-2019
+29644 Tara Chavez Argentina 64 SARS-1 NO
+42076 Rebecca Stanley Argentina 13 EVD YES 26-02-2010
+566 Andrea Berry Argentina 42 SARS-1 NO
+50534 Scott Lester Argentina 47 MERS-COV NO
+92200 Susan Barr Argentina 61 H1N1 YES 02-01-2013
+53757 Mathew Tyler Argentina 31 SARS-1 YES 27-03-2018
+58583 Rodney Villegas Argentina 73 FLU-2018 YES 23-04-2017
+49885 Patricia Lawson Argentina 33 MERS-COV YES 21-01-2015
+39471 James Mason Argentina 59 SARS-1 NO
+38141 Patricia Braun Argentina 26 FLU-2018 YES 11-11-2006
+33577 Angela Burton Argentina 20 FLU-2018 YES 03-07-2003
+59675 Melissa Price Argentina 43 EVD YES 08-03-2006
+80790 Cody Benson Argentina 34 MERS-COV YES 06-10-2015
+30262 Sandra Parker Argentina 18 SARS-1 NO
+79142 Jacob Cochran Argentina 52 EVD NO
+55586 James Roach Argentina 26 EVD NO
+1507 Jordan Klein Argentina 53 FLU-2018 YES 22-01-2016
+79454 Amy Kelly Argentina 78 EVD YES 10-01-2007
+72813 Kathryn Richards Argentina 77 SARS-COV-2 NO
+30203 Michael Stevens Argentina 34 FLU-2018 YES 08-10-2001
+88059 Michelle Cardenas Argentina 24 H1N1 NO
+2840 Douglas Walter Argentina 43 SARS-COV-2 NO
+18458 Timothy Long Argentina 63 COVID-2019 YES 11-08-2007
+60888 Kevin Gallagher Argentina 28 EVD NO
+71447 Thomas Greene Argentina 33 EVD NO
+96760 Joshua Ellis Argentina 20 FLU-2018 YES 15-02-2012
+92537 Amy Beck Argentina 15 COVID-2019 YES 11-01-2013
+84274 Amanda Moody Argentina 22 H1N1 NO
+97848 Kari Thomas Argentina 10 COVID-2019 YES 30-12-2019
+8234 Heather Mendoza Argentina 18 H1N1 YES 19-03-2019
+17158 Jennifer Jones Argentina 26 FLU-2018 NO
+68120 Russell Tyler Argentina 72 COVID-2019 YES 08-06-2019
+9504 Rachel Jones Argentina 21 EVD NO
+19356 Amanda Sullivan Argentina 17 EVD YES 22-01-2011
+99961 Brian Mills Argentina 35 SARS-COV-2 NO
+93249 Timothy Alvarez Argentina 60 MERS-COV NO
+37182 Ashley Johnson Argentina 67 SARS-1 NO
+45037 David Price Argentina 19 H1N1 NO
+36042 Maria Wiggins Argentina 16 SARS-1 NO
+77841 Diane Aguilar Argentina 21 SARS-COV-2 YES 26-12-2020
+33440 Denise Yang Argentina 29 H1N1 YES 21-07-2010
+88533 Tammy Cantrell Argentina 13 MERS-COV NO
+46572 Rachel Collins Argentina 20 H1N1 NO
+93300 Javier Hayes Argentina 74 SARS-COV-2 YES 09-09-2006
+12148 Haley Miller Argentina 21 EVD YES 22-01-2005
+43692 Joe Ochoa Argentina 32 FLU-2018 NO
+32435 Lori Zimmerman Argentina 14 EVD YES 15-09-2017
+90862 Carrie Mills Argentina 43 SARS-1 YES 06-12-2010
+869 Devin Henson Argentina 39 SARS-1 YES 25-07-2009
+62501 Christopher Harding Argentina 15 SARS-1 NO
+86601 Jasmine Norman Argentina 32 EVD YES 04-05-2020
+71884 Drew Gonzales Argentina 39 EVD YES 10-07-2017
+54131 Lauren Vasquez Argentina 68 H1N1 YES 03-10-2004
+21778 Krystal Herring Argentina 30 MERS-COV YES 19-05-2007
+50982 David Mcdowell Argentina 26 H1N1 NO
+96485 Alicia George Argentina 24 COVID-2019 NO
+65990 Cheryl Young Argentina 78 FLU-2018 NO
+78761 Joseph Smith Argentina 37 MERS-COV NO
+36291 Laura Schneider Argentina 14 FLU-2018 NO
+26272 Daniel Vasquez Argentina 53 FLU-2018 NO
+24422 Heather Davenport Argentina 41 H1N1 NO
+95566 Jonathan Greer Argentina 63 SARS-1 YES 28-02-2002
+93052 Joshua Scott Argentina 40 COVID-2019 YES 18-04-2014
+1308 John Gardner Argentina 54 H1N1 NO
+19627 Michael Griffin Argentina 67 MERS-COV NO
+96377 Jeffrey Navarro Argentina 21 COVID-2019 NO
+39388 Darrell James Argentina 34 FLU-2018 NO
+64235 Maria Freeman Argentina 74 SARS-1 NO
+47493 Danielle Smith Argentina 15 FLU-2018 YES 23-11-2010
+8841 Amanda Booker Argentina 42 SARS-COV-2 YES 04-09-2011
+76962 Johnathan Rivera Argentina 70 SARS-COV-2 NO
+19518 Amanda Martinez Argentina 15 FLU-2018 NO
+17326 Rebecca Jackson Argentina 11 EVD YES 04-03-2006
+48108 Paige Fernandez Argentina 44 COVID-2019 NO
+99217 Alex Martin Argentina 74 EVD YES 23-03-2012
+36590 Alex Mcgrath Argentina 33 SARS-1 NO
+57843 Randall Brooks Argentina 59 COVID-2019 YES 01-12-2011
+1533 Carrie Gordon Argentina 66 SARS-COV-2 YES 08-01-2013
+87958 Wanda Gilbert Argentina 37 SARS-1 NO
+51872 Jason Shaw Argentina 39 COVID-2019 NO
+82367 Aaron Mccoy Argentina 54 EVD YES 09-03-2020
+72168 John Lowe Argentina 47 EVD NO
+84407 Patricia Taylor Argentina 33 SARS-1 NO
+50763 Crystal Watson Argentina 75 COVID-2019 NO
+58064 Timothy Ho Argentina 29 SARS-1 YES 28-11-2016
+58857 Shawn Salas Argentina 18 MERS-COV YES 07-10-2011
+88267 Jeremy Fernandez Argentina 13 H1N1 YES 09-10-2004
+85691 Mary Mason Argentina 42 FLU-2018 NO
+13818 David Harris Argentina 36 H1N1 NO
+27756 Samantha Spence Argentina 42 SARS-1 NO
+70948 Dominic Carson Argentina 46 SARS-1 YES 10-01-2008
+76034 Stephen Aguilar Argentina 78 EVD YES 01-05-2017
+45271 Karen Lopez Argentina 65 SARS-COV-2 NO
+46659 Michelle Clayton Argentina 76 COVID-2019 YES 28-04-2015
+89603 Thomas Moore Argentina 54 H1N1 NO
+80985 Karen Mendez Argentina 41 COVID-2019 YES 11-08-2001
+76655 Brian Johnson Argentina 34 COVID-2019 YES 13-08-2020
+74427 Erica Moss Argentina 48 MERS-COV NO
+95055 Donald Murray Argentina 70 EVD NO
+3014 Jeffrey Barron Argentina 69 SARS-COV-2 NO
+86492 Donna Delgado Argentina 37 SARS-COV-2 YES 27-04-2017
+4056 Tamara Williams Argentina 71 SARS-1 NO
+47363 Amy Foley Argentina 47 EVD NO
+5191 John Thomas Argentina 61 SARS-1 NO
+22997 Priscilla Brown Argentina 63 MERS-COV NO
+1330 Tonya Pennington Argentina 11 COVID-2019 YES 08-12-2008
+98191 Ruth Mahoney Argentina 56 H1N1 NO
+23048 Rachael Diaz Argentina 46 SARS-1 NO
+90275 Justin Franklin Argentina 18 SARS-1 YES 06-08-2016
+49718 Frank White Argentina 38 EVD NO
+74073 Shelley Wood Argentina 59 COVID-2019 NO
+28994 Matthew Peters Argentina 73 SARS-COV-2 NO
+7571 Heather Adams Argentina 33 MERS-COV YES 20-01-2002
+68817 Mary Mack Argentina 30 MERS-COV YES 24-12-2020
+96252 Michelle Medina Argentina 23 FLU-2018 YES 27-04-2014
+82732 Dorothy Michael Argentina 42 EVD NO
+20206 Jeanne Brown Argentina 28 COVID-2019 NO
+75287 Ryan Simmons Argentina 32 SARS-COV-2 YES 24-12-2007
+78581 Debbie Powers Argentina 21 COVID-2019 YES 19-05-2000
+98721 Brittany Wilson Argentina 77 COVID-2019 NO
+63411 Eric Mcintyre Argentina 76 EVD YES 30-09-2015
+13947 Dawn Peck Argentina 10 SARS-1 NO
+76707 Stephanie King Argentina 12 MERS-COV YES 12-12-2012
+42973 Bruce Cohen Argentina 68 SARS-1 YES 04-02-2012
+55281 Amber Miller Argentina 11 COVID-2019 YES 16-06-2017
+95368 Roger Snyder Argentina 39 SARS-COV-2 YES 06-07-2004
+24183 Tyler Knapp Argentina 19 SARS-COV-2 NO
+63438 Anthony Miller Argentina 39 SARS-COV-2 NO
+76108 Randall Welch Argentina 24 MERS-COV NO
+12574 Tina Le Argentina 51 COVID-2019 NO
+85487 Lauren Carter Argentina 50 COVID-2019 YES 17-02-2006
+83155 Jeffery Armstrong Argentina 77 SARS-1 NO
+17469 Lisa Lawson Argentina 55 H1N1 NO
+68537 Paul Wise Argentina 63 MERS-COV NO
+72211 Ashley Kelly Argentina 47 SARS-1 NO
+54931 John Hart Argentina 50 MERS-COV YES 27-10-2020
+9987 Jonathan Hurst Argentina 37 H1N1 NO
+26744 Deborah Drake Argentina 32 EVD NO
+52754 Linda Mueller Argentina 71 SARS-1 NO
+83685 Jon Manning Argentina 49 EVD YES 29-11-2013
+93055 Kyle Johnson Argentina 39 SARS-1 NO
+33779 Brian Frye Argentina 57 EVD NO
+31028 Mark Mcmillan Argentina 14 SARS-COV-2 NO
+29527 David Soto Argentina 54 COVID-2019 NO
+26652 Reginald Rangel Argentina 78 EVD YES 21-05-2017
+49376 Katie Jones Argentina 33 FLU-2018 NO
+55362 Paul Ray Argentina 50 MERS-COV YES 26-06-2001
+44351 Katherine Peterson Argentina 72 EVD NO
+5103 Daniel James Argentina 51 FLU-2018 YES 29-06-2013
+60844 Timothy Ross Argentina 74 FLU-2018 NO
+62593 Luke Mcguire Argentina 44 COVID-2019 YES 25-06-2008
+20987 Todd Humphrey Argentina 72 MERS-COV YES 02-12-2008
+93266 William Dawson Argentina 67 COVID-2019 NO
+93517 Zachary Foster Argentina 54 FLU-2018 NO
+63485 Manuel Davenport Argentina 57 EVD NO
+58725 Justin Watkins Argentina 19 MERS-COV YES 28-03-2015
+4196 Charles Adams Argentina 47 H1N1 NO
+35824 Holly Elliott Argentina 43 H1N1 YES 08-03-2004
+37865 Karen Clark Argentina 51 COVID-2019 NO
+25970 Kim Martin Argentina 39 COVID-2019 NO
+74278 Timothy Alexander Argentina 37 H1N1 NO
+70854 Jessica Bender Argentina 79 EVD NO
+45804 Bruce Smith Argentina 49 SARS-COV-2 NO
+34245 Cynthia Haynes Argentina 43 SARS-COV-2 NO
+25696 Kimberly Nicholson Argentina 77 SARS-COV-2 NO
+46142 Tonya Rodriguez Argentina 62 EVD YES 29-08-2001
+83885 Derek Ortiz Argentina 35 FLU-2018 NO
+49116 Erica Vargas Argentina 49 SARS-COV-2 YES 19-03-2017
+539 Raymond Manning Argentina 28 MERS-COV NO
+18684 Brooke Lambert Argentina 49 COVID-2019 NO
+35040 Carolyn Johnson Argentina 79 H1N1 NO
+42733 Daniel Morgan Argentina 57 EVD YES 09-10-2011
+24239 Laura Castillo Argentina 54 SARS-1 YES 18-08-2001
+4789 George Hawkins Argentina 28 SARS-COV-2 NO
+35177 Carol Wilson Argentina 16 FLU-2018 YES 19-08-2020
+76493 Thomas Shelton Argentina 27 H1N1 YES 13-01-2006
+9129 Tina Stevens Argentina 21 SARS-COV-2 YES 24-05-2016
+25209 Mark Murphy Argentina 25 SARS-1 NO
+45774 Carl Bennett Argentina 14 FLU-2018 YES 08-06-2002
+96455 Shelly Hubbard Argentina 13 SARS-COV-2 YES 13-02-2005
+42352 George Vega Argentina 15 SARS-COV-2 NO
+81493 Bryan Rodriguez Argentina 25 SARS-COV-2 YES 14-12-2009
+79697 William Shelton Argentina 62 SARS-COV-2 YES 19-11-2013
+51065 Jonathan Mckee Argentina 32 COVID-2019 NO
+96509 Amanda Adams Argentina 41 SARS-COV-2 NO
+28813 Elizabeth Martin Argentina 59 SARS-1 NO
+22438 Peggy Koch Argentina 74 H1N1 NO
+98289 Robert Carrillo Argentina 69 MERS-COV NO
+97580 Susan Smith Argentina 13 EVD NO
+7784 Kenneth Berry Argentina 79 FLU-2018 NO
+61482 Katie Watson Argentina 29 COVID-2019 NO
+25664 Eric Johnson Argentina 41 MERS-COV YES 20-10-2008
+27188 Ronnie Thompson Argentina 47 MERS-COV NO
+66364 James Hawkins Argentina 76 EVD YES 26-02-2007
+24754 Laura Krueger Argentina 64 EVD NO
+93345 Austin Frost Argentina 77 H1N1 YES 16-09-2000
+74675 Thomas Farmer Argentina 19 FLU-2018 YES 27-03-2011
+47954 David Lopez Argentina 31 MERS-COV YES 29-05-2015
+24831 Emily Rowland Argentina 31 H1N1 YES 22-05-2018
+20752 Ronald Mcconnell Argentina 48 EVD NO
+62850 Molly Robinson Argentina 17 SARS-1 YES 13-03-2021
+70100 Scott Garcia Argentina 67 FLU-2018 YES 08-12-2001
+26151 Laura Stone Argentina 46 EVD YES 22-11-2000
+51813 Thomas Jacobs Argentina 28 EVD NO
+11258 Theresa Parrish Argentina 40 MERS-COV YES 02-04-2019
+11054 Kevin Andrews Argentina 45 EVD NO
+60740 Johnny Massey Argentina 71 FLU-2018 YES 08-10-2007
+28553 Tonya Oconnell Argentina 43 H1N1 YES 27-02-2020
+97139 Diane Wilcox Argentina 43 FLU-2018 YES 21-04-2000
+774 Rebecca Wise Argentina 75 EVD NO
+91936 Debra Nguyen Argentina 67 SARS-1 NO
+22372 Michael Mcintyre Argentina 50 COVID-2019 NO
+65840 Karen Powell Argentina 62 EVD NO
+70587 Tammy Morrow Argentina 79 EVD NO
+67283 Benjamin Reeves Argentina 42 MERS-COV YES 19-03-2017
+23543 Anthony Ortiz Argentina 51 H1N1 YES 06-05-2018
+99063 Daniel Jenkins Argentina 77 H1N1 NO
+95892 Tiffany Jackson Argentina 56 EVD YES 10-11-2016
+14689 Victoria Navarro Argentina 58 SARS-COV-2 YES 16-10-2016
+90657 Shelby Moreno Argentina 19 SARS-COV-2 NO
+48111 Timothy Ruiz Argentina 64 COVID-2019 YES 23-12-2013
+15626 Amber Hester Argentina 35 MERS-COV YES 21-04-2002
+95629 William Nicholson Argentina 63 H1N1 NO
+85194 Julia Moore Argentina 38 H1N1 YES 14-08-2013
+76856 Robert Taylor Argentina 48 EVD NO
+16964 Michael Andrews Argentina 32 MERS-COV NO
+32286 Alexandria Williams Argentina 32 MERS-COV YES 16-08-2004
+51630 John Allen Argentina 23 COVID-2019 YES 09-08-2011
+33405 Abigail Gonzalez Argentina 72 MERS-COV NO
+99231 William Houston Argentina 25 SARS-COV-2 YES 01-12-2006
+90234 Elizabeth Soto Argentina 63 EVD NO
+52095 Timothy Flores Argentina 66 COVID-2019 NO
+67280 Brooke Cordova Argentina 21 FLU-2018 YES 26-05-2010
+10267 Kelly Norris Argentina 10 FLU-2018 YES 09-08-2018
+28767 Margaret Harrison Argentina 31 SARS-1 NO
+1226 Robert Ramsey Argentina 72 FLU-2018 NO
+41824 Diana Lee Argentina 12 SARS-COV-2 NO
+67481 Daniel Ramos Argentina 64 SARS-COV-2 NO
+47797 Scott Bridges Argentina 60 EVD NO
+62218 Jeffery Dawson Argentina 54 MERS-COV YES 28-04-2019
+64688 Karen Hale Argentina 16 EVD NO
+22326 Kristy Shepherd Argentina 45 SARS-COV-2 NO
+64583 Melinda Thomas Argentina 79 COVID-2019 YES 15-03-2008
+41592 Mary Barton Argentina 79 MERS-COV YES 30-07-2019
+11678 Jocelyn Acosta Argentina 21 SARS-COV-2 YES 27-09-2011
+94705 Maureen Williams Argentina 28 SARS-COV-2 NO
+48375 Dennis Conley Argentina 32 EVD YES 12-01-2008
+11346 Kimberly Allen Argentina 58 EVD YES 09-08-2000
+31982 April Meyer Argentina 23 SARS-COV-2 YES 08-02-2020
+98697 Cheryl Walls Argentina 16 MERS-COV YES 07-10-2003
+62043 Brandi Rich Argentina 41 SARS-COV-2 YES 13-10-2009
+10858 Michael Holt Argentina 60 COVID-2019 NO
+76580 Maria Vance Argentina 72 SARS-1 NO
+57009 Robert Harris Argentina 65 MERS-COV NO
+3992 Sherry Carpenter Argentina 36 COVID-2019 YES 31-03-2015
+85044 Joshua Gomez Argentina 46 EVD YES 04-06-2019
+14495 Alyssa Miller Argentina 37 FLU-2018 NO
+6709 Sally Brennan Argentina 49 SARS-1 NO
+63556 William Smith Argentina 36 COVID-2019 YES 30-04-2010
+56405 Ethan Morris Argentina 32 FLU-2018 YES 16-10-2016
+54392 Katrina Perkins Argentina 58 COVID-2019 YES 01-01-2011
+27868 Bailey Oneal Argentina 44 SARS-1 NO
+703 Brandon Colon Argentina 57 COVID-2019 NO
+85552 Shelby Anderson Argentina 38 COVID-2019 NO
+29048 Anthony Simpson Argentina 51 COVID-2019 NO
+37428 Samantha Klein Argentina 54 COVID-2019 YES 02-07-2009
+21422 Brandon Nguyen Argentina 12 SARS-1 NO
+98810 Charles Johnson Argentina 23 H1N1 YES 03-04-2005
+28819 Anthony Warren Argentina 69 COVID-2019 YES 24-12-2003
+37715 Matthew Hall Argentina 74 MERS-COV YES 03-06-2002
+75104 Bridget Coleman Argentina 18 H1N1 YES 30-09-2020
+73125 Kevin Jones Argentina 59 SARS-1 YES 01-11-2013
+58821 Maria Powell Argentina 14 EVD NO
+99432 Linda Carter Argentina 56 MERS-COV YES 01-03-2021
+32563 Maria Douglas Argentina 14 SARS-1 NO
+32528 Jessica Johnston Argentina 20 EVD NO
+16095 Alexis Carr Argentina 44 COVID-2019 YES 21-04-2003
+45600 Kayla Fields Argentina 75 H1N1 YES 19-07-2015
+6396 David Thomas Argentina 53 H1N1 YES 19-03-2015
+41786 Jodi Kelly Argentina 46 FLU-2018 YES 08-09-2003
+25954 Elizabeth Torres Argentina 61 SARS-1 NO
+35135 Rachel Davis Argentina 13 EVD NO
+37808 Christopher Sanchez Argentina 75 FLU-2018 YES 11-10-2014
+53941 David Kelly Argentina 19 SARS-1 NO
+71096 Lindsay Gray Argentina 43 COVID-2019 NO
+24278 Joshua Silva Argentina 25 EVD YES 06-12-2008
+76387 John Wade Argentina 60 SARS-1 NO
+85795 Kathryn Davis Argentina 75 H1N1 YES 29-11-2001
+1602 Dana Sparks Argentina 53 EVD NO
+36613 Jack Thompson Argentina 28 COVID-2019 YES 14-11-2010
+28922 Thomas Lee Argentina 73 H1N1 NO
+19313 Brianna Monroe Argentina 33 COVID-2019 YES 24-01-2010
+9326 Cynthia Ray Argentina 49 SARS-1 YES 18-09-2000
+5033 Alexander Tapia Argentina 61 SARS-1 YES 07-04-2016
+96748 Bryan Ward Argentina 66 EVD NO
+61137 Katherine Howard Argentina 35 FLU-2018 NO
+61960 Jordan Thompson Argentina 78 SARS-1 NO
+81906 Cristina Quinn Argentina 16 H1N1 YES 22-02-2021
+15043 Julian Dudley Argentina 75 SARS-COV-2 YES 05-03-2017
+63534 Kelli Burke Argentina 29 SARS-COV-2 NO
+97490 Rebecca Norton Argentina 39 EVD YES 18-04-2000
+45913 Christina Larsen Argentina 50 COVID-2019 NO
+64789 Mary Lambert Argentina 66 MERS-COV YES 17-02-2004
+44665 Tiffany Proctor Argentina 65 SARS-COV-2 NO
+92028 Yvonne Wagner Argentina 26 EVD YES 19-03-2020
+20269 Holly Johnson Argentina 40 COVID-2019 YES 11-02-2019
+87367 Amber Miller Argentina 35 SARS-COV-2 YES 04-10-2016
+50800 Alison Ingram Argentina 78 COVID-2019 YES 02-07-2001
+74463 Christian Gonzalez Argentina 65 H1N1 YES 15-02-2014
+98691 Nicholas Cobb Argentina 51 SARS-COV-2 YES 01-09-2013
+32004 Cassie Bryant Argentina 40 COVID-2019 NO
+88390 Elizabeth Stokes Argentina 78 COVID-2019 NO
+7262 Brian Lewis Argentina 69 COVID-2019 YES 02-11-2016
+23744 Martin Hart Argentina 67 SARS-COV-2 NO
+39511 Ronald Howard Argentina 59 H1N1 YES 13-05-2003
+93677 Tiffany Guerrero Argentina 64 SARS-1 YES 02-09-2004
+86545 Michael Jordan Argentina 47 SARS-COV-2 YES 29-05-2018
+19613 Holly Bartlett Argentina 74 MERS-COV YES 08-05-2014
+10896 Amanda Summers Argentina 59 MERS-COV YES 01-02-2019
+38324 Jacob Huber Argentina 79 SARS-COV-2 NO
+53218 Yvonne Williams Argentina 59 SARS-COV-2 YES 02-12-2005
+28779 Carolyn Graham Argentina 12 FLU-2018 YES 09-02-2003
+55660 Sharon Franco Argentina 69 COVID-2019 YES 20-05-2004
+48639 Angela Wilson Argentina 37 FLU-2018 YES 21-02-2001
+37750 Michael Goodwin Argentina 15 SARS-COV-2 YES 01-08-2004
+22818 Jennifer Riggs Argentina 60 SARS-COV-2 YES 25-02-2006
+77620 Gregory Lopez Argentina 73 FLU-2018 YES 22-10-2014
+94464 Kenneth Flores Argentina 16 EVD NO
+80965 Kristen Black Argentina 62 SARS-COV-2 YES 06-06-2007
+78728 Michael Cox Argentina 47 COVID-2019 YES 29-11-2000
+31839 Monica Dickson Argentina 45 COVID-2019 YES 22-09-2009
+51999 Robert Hutchinson Argentina 41 COVID-2019 YES 01-07-2011
+95839 Mary Phillips Argentina 73 MERS-COV NO
+90131 James Young Argentina 73 H1N1 YES 21-09-2010
+58697 Tara Parker Argentina 67 H1N1 YES 11-03-2005
+97708 Rebecca Black Argentina 44 EVD NO
+44379 Joel Nelson Argentina 14 COVID-2019 YES 09-01-2008
+2045 Jason Davis Argentina 48 SARS-1 YES 02-09-2012
+84789 Lisa Manning Argentina 28 FLU-2018 YES 18-03-2011
+21407 Kimberly Curtis Argentina 16 MERS-COV NO
+31934 John Brown Argentina 74 H1N1 YES 15-08-2018
+57783 Robert Jones Argentina 59 COVID-2019 NO
+23599 Christopher Norris Argentina 29 SARS-COV-2 YES 06-12-2001
+97999 Cristina Anderson Argentina 37 SARS-1 NO
+87206 Jacob Nichols Argentina 64 H1N1 YES 19-03-2006
+79315 Christopher Parker Argentina 76 EVD YES 14-02-2000
+43941 Alexander Chambers Argentina 61 COVID-2019 YES 06-11-2004
+42088 Jessica Williams Argentina 71 EVD YES 25-08-2001
+33408 Nicole Foster Argentina 34 SARS-COV-2 NO
+31137 Heather Paul Argentina 31 SARS-COV-2 NO
+96790 Edward Robinson Argentina 79 COVID-2019 NO
+49551 Charles Leach Argentina 70 FLU-2018 YES 14-07-2016
+43182 Brooke Allen Argentina 37 MERS-COV NO
+2904 Joseph Ruiz Argentina 39 SARS-1 NO
+9191 Steven Jones Argentina 15 FLU-2018 NO
+75933 Kevin Farley Argentina 55 SARS-COV-2 YES 20-07-2003
+11170 Daniel Gordon Argentina 42 FLU-2018 YES 13-11-2009
+81335 David Bailey Argentina 23 COVID-2019 NO
+82264 Adam Fox Argentina 42 SARS-COV-2 YES 17-12-2019
+90146 Chad Estrada Argentina 54 EVD NO
+19936 Debra Kane Argentina 66 FLU-2018 NO
+51676 Thomas Hancock Argentina 53 FLU-2018 NO
+18911 John Wright Argentina 37 EVD NO
+57638 Jason Johnson Argentina 30 COVID-2019 NO
+16673 Ashlee Lewis Argentina 22 FLU-2018 YES 17-11-2008
+99630 Deanna Macias Argentina 55 FLU-2018 YES 12-10-2018
+85903 Billy Henderson Argentina 38 H1N1 NO
+97115 Karen Barrera Argentina 17 SARS-COV-2 NO
+71919 Mary Cannon Argentina 29 COVID-2019 NO
+21524 Scott Williamson Argentina 72 SARS-1 YES 23-10-2017
+17112 Diane Collins Argentina 37 MERS-COV NO
+90224 Ashley Berry Argentina 20 MERS-COV NO
+1281 Sheila Myers Argentina 18 SARS-1 YES 28-12-2009
+61160 Jade Cobb Argentina 49 MERS-COV NO
+62524 Claire Cannon Argentina 38 COVID-2019 NO
+62183 Frank Stevenson Argentina 56 EVD NO
+27539 Julia Ellis Argentina 17 SARS-COV-2 YES 20-08-2001
+31755 James Taylor Argentina 57 COVID-2019 YES 22-04-2006
+88670 Michael Young Argentina 78 COVID-2019 NO
+85998 Justin Peterson Argentina 50 MERS-COV YES 09-04-2015
+51362 Nancy Schultz Argentina 32 EVD YES 16-04-2018
+48824 Michael Patel Argentina 15 COVID-2019 NO
+45770 Julie Parrish Argentina 77 SARS-1 YES 13-04-2018
+82265 Cheryl Campbell Argentina 13 H1N1 YES 19-05-2001
+92924 Tara Hawkins Argentina 12 EVD NO
+91587 Lisa Gonzales Argentina 21 MERS-COV NO
+94537 Donald Simpson Argentina 17 FLU-2018 NO
+89724 Alicia Fitzgerald Argentina 53 EVD YES 28-05-2015
+7994 Christopher Perez Argentina 31 SARS-COV-2 NO
+35968 Kerri Carroll Argentina 23 SARS-1 YES 30-11-2012
+83706 Kimberly Gonzalez Argentina 32 COVID-2019 YES 02-09-2018
+70899 Wendy Rivera Argentina 29 COVID-2019 YES 31-08-2001
+57383 Bradley Abbott Argentina 19 MERS-COV NO
+31817 Cody Good Argentina 22 MERS-COV YES 19-05-2012
+39353 Thomas Ashley Argentina 15 H1N1 NO
+92717 Sheila Leonard Argentina 12 SARS-COV-2 NO
+97207 Robert Olson Argentina 50 MERS-COV YES 13-05-2003
+95147 Andrew Phelps Argentina 79 FLU-2018 YES 08-12-2001
+64806 Gregory Harmon Argentina 15 COVID-2019 YES 24-02-2014
+18243 Gregory Navarro Argentina 67 COVID-2019 NO
+95025 Jose Gutierrez Argentina 78 MERS-COV YES 19-09-2017
+98669 Megan Rhodes Argentina 39 H1N1 NO
+83658 William Wood Argentina 17 H1N1 NO
+39417 Stephanie Rodriguez Argentina 30 SARS-1 NO
+34203 Veronica Warren Argentina 29 COVID-2019 NO
+98754 Grant Castaneda Argentina 39 H1N1 YES 01-07-2002
+86094 Jennifer Klein Argentina 27 EVD NO
+15760 Grace Lara Argentina 59 MERS-COV YES 30-05-2002
+99506 Rebecca Roth Argentina 21 H1N1 NO
+95295 Teresa Cook Argentina 64 EVD YES 17-11-2015
+64992 Aaron Nolan Argentina 24 H1N1 NO
+59479 Jeffery Williamson Argentina 44 COVID-2019 YES 09-07-2020
+9285 Brittany Daniel Argentina 66 COVID-2019 YES 25-11-2001
+5074 Samuel Thomas Argentina 31 MERS-COV YES 01-03-2000
+97997 Regina York Argentina 43 FLU-2018 NO
+32894 Michael Austin Argentina 68 MERS-COV YES 10-08-2011
+53619 Nathan Bailey Argentina 28 SARS-1 YES 23-08-2019
+96973 Rachel Beasley Argentina 32 COVID-2019 NO
+39392 Raymond Johnson Argentina 31 FLU-2018 NO
+67678 Robert Gordon Argentina 48 MERS-COV YES 19-02-2020
+76480 Cassie Joseph Argentina 75 MERS-COV NO
+55560 Jessica Collins Argentina 33 SARS-1 YES 30-06-2002
+12764 Curtis Mckay Argentina 33 SARS-COV-2 YES 05-05-2005
+66014 James Duarte Argentina 77 SARS-COV-2 NO
+67472 Todd Castro Argentina 48 H1N1 NO
+4762 Victoria Rivera Argentina 17 H1N1 NO
+33034 Elizabeth Jones Argentina 56 SARS-COV-2 NO
+43699 Andrew Garcia Argentina 16 MERS-COV YES 04-09-2004
+1920 Chad Davis Argentina 67 H1N1 NO
+12660 David Richardson Argentina 70 SARS-COV-2 YES 12-05-2011
+1218 Miranda Garza Argentina 73 MERS-COV YES 05-10-2016
+66502 Joshua Suarez Argentina 57 EVD NO
+7395 Joshua Blair Argentina 14 MERS-COV YES 11-08-2020
+30450 Denise Ayala Argentina 71 MERS-COV NO
+66939 Meredith Spears Argentina 66 H1N1 NO
+48927 Ann Hall Argentina 53 SARS-1 NO
+86648 Ryan Sullivan Argentina 63 SARS-1 NO
+28710 Stanley Thompson Argentina 25 H1N1 NO
+41125 Dawn Thomas Argentina 54 COVID-2019 NO
+87692 Erika Garrett Argentina 32 SARS-COV-2 YES 05-08-2020
+68234 Christopher York Argentina 29 SARS-1 NO
+80740 Cole Mccarthy Argentina 50 SARS-COV-2 NO
+13415 Daniel Shepherd Argentina 62 FLU-2018 YES 21-09-2004
+59449 Laura Deleon Argentina 23 MERS-COV YES 28-01-2021
+2260 Cynthia Conrad Argentina 27 MERS-COV NO
+37303 Hunter Ellis Argentina 50 EVD YES 01-08-2001
+77294 Brian Johnson Argentina 17 EVD YES 05-08-2007
+87779 Lance Odom Argentina 37 EVD YES 25-11-2006
+19199 Amanda Booker Argentina 74 SARS-1 NO
+97803 Madison Brewer Argentina 40 MERS-COV NO
+83659 Mary Davila Argentina 70 SARS-COV-2 YES 24-05-2020
+19268 Samantha Hurley Argentina 31 SARS-1 NO
+32955 Jennifer Vaughan Argentina 37 MERS-COV YES 05-11-2009
+84802 Janice Pittman Argentina 21 MERS-COV YES 11-11-2002
+17295 Amber Butler Argentina 24 SARS-1 NO
+28738 Amy Kelly Argentina 50 EVD NO
+58403 Nathan Parker Argentina 67 SARS-COV-2 YES 16-07-2016
+77276 Barbara Smith Argentina 20 FLU-2018 YES 04-05-2006
+77756 Dana Morgan Argentina 19 COVID-2019 NO
+19539 Dylan Garcia Argentina 14 SARS-1 NO
+9620 Steven Cunningham Argentina 47 EVD YES 06-06-2014
+99756 Amy Gray Argentina 45 MERS-COV NO
+90946 Jerry Sullivan Argentina 53 H1N1 NO
+16758 Matthew Castillo Argentina 55 EVD YES 20-03-2009
+85293 Carrie Joseph Argentina 67 SARS-COV-2 YES 23-05-2012
+97345 Richard Wong Argentina 79 COVID-2019 NO
+57747 Robert Dodson Argentina 71 EVD YES 11-07-2013
+47795 Andre Jenkins Argentina 79 COVID-2019 YES 16-10-2001
+29330 Chase Wilkerson Argentina 51 MERS-COV NO
+48919 Donald Sparks Argentina 27 MERS-COV NO
+21652 Joshua Baker Argentina 24 EVD NO
+41119 Christopher Hughes Argentina 59 EVD YES 03-04-2006
+83505 Brian Lam Argentina 38 MERS-COV NO
+80353 Karen Martin Argentina 76 MERS-COV NO
+34449 Melissa Kelly Argentina 75 COVID-2019 YES 09-09-2011
+48184 Cody Marshall Argentina 45 COVID-2019 NO
+61968 Matthew Klein Argentina 40 EVD NO
+91960 Katie Reynolds Argentina 12 MERS-COV YES 06-05-2019
+30461 Leslie Harvey Argentina 17 EVD YES 14-12-2004
+23596 Joshua Collins Argentina 21 SARS-COV-2 NO
+37615 Laura Hansen Argentina 65 H1N1 YES 28-02-2018
+42086 Justin Miles Argentina 33 FLU-2018 YES 27-07-2013
+23798 Thomas Atkins Argentina 76 H1N1 YES 09-09-2017
+88080 Sarah Mooney Argentina 77 FLU-2018 YES 30-03-2014
+19410 Mary Lewis Argentina 34 COVID-2019 NO
+97713 Adam Buck Argentina 63 EVD YES 29-11-2003
+82142 Heather Morales Argentina 51 H1N1 YES 21-10-2012
+80470 Amy Burns Argentina 69 SARS-COV-2 NO
+27561 Daniel Graham Argentina 23 H1N1 YES 21-08-2013
+81729 Shelly Miller Argentina 57 MERS-COV NO
+20679 Andrew Anderson Argentina 50 MERS-COV NO
+81164 Michael Pugh Argentina 68 SARS-1 YES 21-03-2009
+49034 Nancy Rubio Argentina 78 H1N1 YES 26-01-2015
+8787 James Campbell Argentina 13 FLU-2018 NO
+39965 Tina Morris Argentina 18 COVID-2019 YES 22-11-2004
+82163 Kenneth Bullock Argentina 54 MERS-COV YES 01-08-2018
+49609 Ronald Cox Argentina 48 FLU-2018 NO
+33423 William Castro Argentina 46 H1N1 YES 06-12-2010
+33529 Megan Valdez Argentina 75 H1N1 YES 18-01-2004
+88818 Joanna Sutton Argentina 77 H1N1 NO
+78786 Kathleen Osborne Argentina 75 SARS-COV-2 YES 21-04-2004
+85239 Brad Boyd Argentina 12 COVID-2019 NO
+39190 Justin Carrillo Argentina 49 COVID-2019 YES 12-01-2011
+22291 Steven Cardenas Argentina 71 H1N1 YES 15-04-2002
+68913 Andrew Rodriguez Argentina 39 MERS-COV YES 14-06-2004
+71930 Jeremy Blake Argentina 27 COVID-2019 NO
+1190 Craig Watson Argentina 41 SARS-1 NO
+25995 Christian Russell Argentina 29 EVD YES 07-05-2006
+58891 Richard Jimenez Argentina 26 FLU-2018 NO
+13763 Samantha Barnes Argentina 18 SARS-COV-2 NO
+50937 Jeffery Wood Argentina 58 SARS-1 NO
+22670 Jessica Mendez Argentina 36 EVD NO
+89333 Carl Anderson Argentina 26 SARS-COV-2 NO
+91979 Pamela Morris Argentina 49 EVD NO
+20089 Melissa Gould Argentina 11 SARS-COV-2 YES 23-03-2010
+53989 Joseph Kelley Argentina 48 MERS-COV YES 19-01-2015
+5135 Todd Smith Argentina 49 H1N1 YES 13-06-2012
+45351 Breanna Tyler Argentina 18 EVD NO
+15957 Edward Thompson Argentina 20 SARS-1 YES 25-03-2006
+78081 Victoria Wade Argentina 11 H1N1 NO
+79950 Karl Mitchell Argentina 24 COVID-2019 NO
+16612 Rita Johnson Argentina 51 SARS-1 NO
+2857 Eric Singleton Argentina 41 H1N1 YES 11-04-2011
+48121 Benjamin Santiago Argentina 25 SARS-1 YES 09-08-2012
+23069 Olivia Schneider Argentina 61 FLU-2018 YES 26-01-2003
+52945 Jacqueline Fowler Argentina 65 FLU-2018 NO
+46801 Willie Hart Argentina 61 EVD NO
+75151 Patrick Hawkins Argentina 43 SARS-1 NO
+77242 Mario Frye Argentina 46 EVD YES 26-07-2007
+51548 Jennifer Kelly Argentina 60 SARS-COV-2 NO
+53587 Adam Morales Argentina 56 COVID-2019 NO
+58555 David Young Argentina 25 MERS-COV YES 11-09-2004
+9319 Crystal Blair Argentina 52 SARS-1 NO
+64968 Nicolas Mcfarland Argentina 47 EVD NO
+26996 John Martinez Argentina 64 COVID-2019 YES 22-02-2001
+75022 Susan Davila Argentina 63 SARS-1 YES 15-12-2000
+80884 Julia Lopez Argentina 64 SARS-1 YES 17-08-2000
+63746 Brittany Fernandez Argentina 13 FLU-2018 NO
+99184 Alexandra Bolton Argentina 25 MERS-COV NO
+72718 Jason Long Argentina 36 SARS-COV-2 NO
+15160 Jason Smith Argentina 19 SARS-1 YES 27-06-2009
+91168 Michael Miller Argentina 36 SARS-COV-2 YES 16-12-2016
+6175 Robert Mills Argentina 18 FLU-2018 YES 29-09-2013
+57994 Jared Martin Argentina 21 H1N1 YES 14-10-2016
+21629 Julie Brock Argentina 23 FLU-2018 YES 07-10-2010
+76860 Javier Pierce Argentina 38 COVID-2019 NO
+55268 Paul Morris Argentina 19 EVD YES 30-12-2008
+19137 Kelsey Johnson Argentina 20 FLU-2018 YES 12-11-2016
+6982 Raymond Hale Argentina 71 MERS-COV NO
+78944 Yesenia Hernandez Argentina 56 EVD YES 15-09-2006
+71803 Michael Fisher Argentina 10 MERS-COV YES 15-04-2020
+4224 Brian Hampton Argentina 39 SARS-1 YES 18-01-2010
+96613 Joseph Foster Argentina 64 EVD YES 20-02-2004
+55248 Katie Le Argentina 26 COVID-2019 YES 13-05-2002
+32314 Emma Lopez Argentina 73 SARS-COV-2 YES 02-12-2012
+96769 Jose Foster Argentina 45 MERS-COV YES 04-01-2011
+97019 Jonathan Knox Argentina 17 COVID-2019 NO
+53327 Laura Brewer Argentina 73 EVD NO
+28898 Katie Bowman Argentina 47 H1N1 NO
+48723 Greg Howard Argentina 60 FLU-2018 NO
+84503 Tyler Vazquez Argentina 41 SARS-COV-2 YES 06-07-2020
+59238 Kimberly Grant Argentina 48 COVID-2019 YES 12-10-2016
+3166 Tammy Jones Argentina 13 H1N1 YES 10-06-2000
+43693 John Mcgrath Argentina 27 MERS-COV YES 24-03-2005
+61231 Alex Anderson Argentina 68 EVD YES 16-02-2010
+5155 John Jenkins Argentina 19 EVD YES 04-08-2004
+51955 Kayla Perez Argentina 68 SARS-COV-2 YES 31-03-2009
+67570 Shannon Moore Argentina 30 H1N1 YES 02-07-2003
+45750 Carmen Moreno Argentina 20 SARS-1 YES 06-01-2012
+86086 Wendy Brown Argentina 20 COVID-2019 YES 23-08-2010
+86686 Samantha Chang Argentina 13 H1N1 YES 20-07-2001
+73431 William Cook Argentina 66 EVD NO
+88941 Kathleen Russell Argentina 50 MERS-COV NO
+30921 Amy Anderson Argentina 76 SARS-COV-2 YES 31-08-2009
+97505 Jennifer Turner Argentina 15 FLU-2018 NO
+24076 Jonathan Perez Argentina 41 FLU-2018 NO
+23732 Anna Cross Argentina 13 SARS-1 YES 16-10-2014
+66494 Cheryl Kramer Argentina 77 EVD NO
+92370 Stephen Garcia Argentina 25 FLU-2018 NO
+44413 Amanda Hurst Argentina 52 COVID-2019 NO
+81572 Debra Davis Argentina 44 SARS-COV-2 NO
+29010 Matthew Martin Argentina 62 SARS-COV-2 NO
+50368 Veronica Smith Argentina 60 FLU-2018 YES 05-10-2008
+29344 Samantha Wallace Argentina 25 FLU-2018 YES 28-02-2012
+14695 Linda Gutierrez Argentina 63 EVD NO
+91652 Jeffrey Mcdaniel Argentina 62 FLU-2018 YES 26-09-2013
+96999 Emily Peters Argentina 78 FLU-2018 NO
+3190 Danielle Johnson Argentina 39 FLU-2018 NO
+54627 Matthew Harper Argentina 14 COVID-2019 YES 28-08-2008
+92946 Angela Barnes Argentina 58 EVD YES 02-03-2011
+92965 Lawrence Sherman Argentina 45 SARS-1 YES 04-10-2005
+63136 Tara Adams Argentina 21 COVID-2019 YES 18-09-2006
+93458 Pamela Villa Argentina 71 H1N1 NO
+5281 Bradley Smith Argentina 10 COVID-2019 NO
+62266 Justin Oneill Argentina 51 SARS-1 NO
+43405 Amber Welch Argentina 26 MERS-COV NO
+50131 Crystal Ruiz Argentina 22 SARS-1 NO
+54399 Kim Morris Argentina 40 H1N1 NO
+14587 Denise Yates Argentina 25 SARS-1 YES 17-12-2000
+9480 Shirley House Argentina 67 COVID-2019 YES 11-12-2006
+5582 Paul Simon Argentina 72 SARS-COV-2 YES 24-07-2016
+26698 Robert Ward Argentina 62 SARS-COV-2 YES 21-03-2003
+88915 Marcus Wilson Argentina 26 SARS-COV-2 YES 29-11-2014
+93495 Juan Duran Argentina 48 COVID-2019 NO
+19479 Lori Thornton Argentina 20 FLU-2018 YES 28-07-2015
+83253 Kathy Smith Argentina 22 MERS-COV YES 24-05-2006
+62726 Angel Evans Argentina 14 EVD NO
+89991 Charles Freeman Argentina 44 FLU-2018 YES 09-09-2002
+35276 Sandra Arias Argentina 30 H1N1 NO
+45666 Catherine Gillespie Argentina 11 COVID-2019 YES 02-03-2016
+95987 Lee Mueller Argentina 48 SARS-COV-2 NO
+47958 James Young Argentina 17 SARS-COV-2 NO
+35741 Daisy Chambers Argentina 23 FLU-2018 YES 03-05-2000
+34870 Patricia Taylor Argentina 79 MERS-COV YES 08-11-2007
+78853 Jorge Austin Argentina 53 MERS-COV NO
+41653 Denise Oneal Argentina 69 FLU-2018 YES 17-05-2012
+54879 Mercedes King Argentina 58 SARS-COV-2 NO
+76681 Latoya Martinez Argentina 37 EVD YES 14-10-2005
+22282 Erik Valenzuela Argentina 38 FLU-2018 NO
+19213 Stefanie Suarez Argentina 52 COVID-2019 YES 20-09-2000
+58222 Andrea Rodriguez Argentina 56 SARS-1 NO
+32451 Samantha Johnson Argentina 41 SARS-1 NO
+53379 Aaron Stuart Argentina 67 MERS-COV NO
+67 Jonathan Davis Argentina 31 COVID-2019 YES 04-02-2019
+39077 Danielle Wilson Argentina 61 FLU-2018 YES 28-10-2005
+37578 Elijah Jackson Argentina 23 FLU-2018 NO
+37084 Diana York Argentina 15 FLU-2018 YES 25-01-2019
+41201 Scott Cunningham Argentina 14 FLU-2018 YES 18-09-2015
+80179 Lisa Randolph Argentina 59 MERS-COV NO
+48952 Susan Bennett Argentina 63 EVD YES 09-05-2002
+99117 Daniel Stewart Argentina 46 EVD NO
+80019 Miguel Phillips Argentina 49 MERS-COV YES 20-07-2014
+76228 Vanessa Ross Argentina 43 H1N1 YES 13-06-2017
+82988 Mary Daniels Argentina 58 H1N1 YES 24-06-2015
+77251 Scott Malone Argentina 76 H1N1 YES 22-10-2015
+83988 Laura Murphy Argentina 49 SARS-1 NO
+17084 Brenda Hayes Argentina 52 EVD NO
+75585 Scott Ewing Argentina 63 EVD YES 07-09-2006
+39784 Keith Shaw Argentina 64 COVID-2019 NO
+77917 Robert Vaughan Argentina 33 FLU-2018 YES 25-01-2017
+13695 Manuel Miller Argentina 31 COVID-2019 YES 05-10-2013
+68292 Alicia Burgess Argentina 52 FLU-2018 YES 20-07-2018
+23167 Eric Parrish Argentina 58 COVID-2019 NO
+2787 Elizabeth King Argentina 51 SARS-1 NO
+24927 Andrew Schaefer Argentina 49 COVID-2019 NO
+98288 Denise Blevins Argentina 75 H1N1 NO
+45880 Lisa Davis Argentina 19 SARS-COV-2 NO
+95575 Hunter Rice Argentina 17 COVID-2019 YES 09-02-2018
+64936 Mackenzie Boyd Argentina 29 SARS-COV-2 YES 27-11-2008
+34935 James Deleon Argentina 22 SARS-1 YES 05-06-2012
+39513 Erin Weaver Argentina 26 EVD YES 16-03-2011
+54543 Patricia Griffith Argentina 41 SARS-1 YES 04-12-2005
+73493 Amanda Montoya Argentina 71 SARS-COV-2 NO
+86542 Peter Trujillo Argentina 65 COVID-2019 NO
+63972 Luke Perez Argentina 29 SARS-1 NO
+36579 Raven Davenport Argentina 36 EVD YES 15-10-2015
+51272 Victor Monroe Argentina 15 H1N1 NO
+93761 David Williams Argentina 14 EVD YES 25-07-2017
+48474 Michele Gonzales Argentina 42 EVD YES 02-02-2002
+10923 Rebecca Daniels Argentina 67 FLU-2018 YES 27-08-2005
+71437 Adam Johnson Argentina 43 MERS-COV YES 27-08-2006
+19212 Heather Salas Argentina 77 EVD YES 16-01-2019
+81240 Robert Robinson Argentina 49 FLU-2018 NO
+14699 Gregory Cox Argentina 17 EVD NO
+18218 Thomas Bautista Argentina 34 SARS-COV-2 YES 09-10-2003
+65338 Kayla Myers Argentina 56 FLU-2018 YES 28-06-2001
+83902 Nicholas Dominguez Argentina 21 SARS-COV-2 YES 13-10-2019
+21061 Roy Rose Argentina 77 EVD NO
+21475 Steven Frazier Argentina 43 H1N1 NO
+71808 Joshua Luna Argentina 41 EVD NO
+85822 Scott Calhoun Argentina 18 SARS-1 NO
+93579 Michele Reese Argentina 69 COVID-2019 NO
+8118 Melissa Murphy Argentina 55 COVID-2019 YES 17-03-2007
+43867 Sarah Stevens Argentina 48 MERS-COV NO
+59777 Christopher Moore Argentina 35 MERS-COV YES 13-05-2011
+95309 Mary Stewart Argentina 35 MERS-COV NO
+7953 Cameron Moore Argentina 75 SARS-COV-2 NO
+55974 John Jones Argentina 22 EVD NO
+26007 Richard Hood Argentina 22 MERS-COV NO
+14048 Courtney Garcia Argentina 50 SARS-1 NO
+64802 Amy Martinez Argentina 46 H1N1 YES 14-02-2001
+98437 Krista Reyes Argentina 20 FLU-2018 NO
+40137 Amber Wallace Argentina 21 SARS-COV-2 YES 13-05-2019
+3013 David Sanchez Argentina 64 MERS-COV YES 20-12-2002
+65382 Leonard Baird Argentina 52 FLU-2018 YES 03-06-2007
+90021 Nathan Moreno Argentina 12 SARS-COV-2 YES 09-07-2004
+2437 Eric Ferguson Argentina 34 COVID-2019 NO
+52215 Jeffrey Medina Argentina 33 MERS-COV NO
+21115 William Nelson Argentina 66 MERS-COV NO
+45706 Amy Simmons Argentina 40 SARS-COV-2 NO
+45058 Bradley Brooks Argentina 47 SARS-COV-2 YES 17-11-2006
+25369 Jeremiah Drake Argentina 46 FLU-2018 NO
+16601 Jessica Frazier Argentina 67 FLU-2018 NO
+79222 Mark Kelley Argentina 47 MERS-COV NO
+29302 Kimberly Jackson Argentina 78 FLU-2018 YES 06-05-2019
+69146 Daniel Flores Argentina 51 EVD NO
+36708 Kathy Terrell Argentina 36 EVD NO
+64405 Jessica Jenkins Argentina 26 FLU-2018 YES 16-02-2010
+1479 Daniel Jenkins Argentina 57 MERS-COV YES 07-11-2015
+84697 Heather Garcia Argentina 70 SARS-COV-2 NO
+7299 Ronnie Jones Argentina 54 H1N1 NO
+52263 Lawrence Carey Argentina 70 SARS-1 YES 10-05-2017
+31159 Brad Williams Argentina 77 EVD YES 20-05-2018
+18793 Steven Gregory Argentina 32 H1N1 NO
+56704 Shelby Schultz Argentina 18 SARS-COV-2 NO
+68274 Corey King Argentina 15 H1N1 NO
+42154 Edward Cervantes Argentina 68 SARS-COV-2 YES 19-08-2012
+52779 Molly Moyer Argentina 34 EVD YES 24-08-2001
+69802 Virginia Heath Argentina 57 H1N1 YES 01-06-2018
+54526 Kristi Stevens Argentina 55 H1N1 YES 02-09-2002
+89308 Elizabeth Cooper Argentina 37 H1N1 YES 05-03-2015
+35809 Dwayne Mcpherson Argentina 45 SARS-1 NO
+58685 Eric Jordan Argentina 49 SARS-COV-2 NO
+6650 Samantha Olson Argentina 57 EVD NO
+41065 Patrick Cole Argentina 48 SARS-COV-2 NO
+11187 Victoria Evans Argentina 29 SARS-COV-2 YES 22-12-2015
+4779 Theresa Arias Argentina 19 MERS-COV YES 10-04-2004
+89194 Sarah Garcia Argentina 77 H1N1 YES 17-03-2000
+4702 Glenn Ortiz Argentina 32 MERS-COV YES 09-06-2004
+15670 Deanna Landry Argentina 56 COVID-2019 NO
+2348 Robert Neal Argentina 46 H1N1 YES 24-03-2013
+15378 Victoria Carter Argentina 35 MERS-COV NO
+85020 Alexis Guzman Argentina 22 FLU-2018 NO
+71237 Holly Lee Argentina 69 SARS-COV-2 YES 15-08-2015
+40064 Samantha Rodriguez Argentina 13 H1N1 YES 12-12-2001
+29746 Laurie Adams Argentina 30 MERS-COV YES 27-10-2013
+57382 Anna Marsh Argentina 47 SARS-1 NO
+55384 Martha Young Argentina 39 SARS-1 NO
+9194 Richard Holmes Argentina 60 MERS-COV YES 20-02-2010
+90612 Crystal Thompson Argentina 20 MERS-COV YES 16-02-2000
+76752 Bradley Campbell Argentina 75 SARS-COV-2 YES 27-12-2010
+69438 Tammie Rogers Argentina 71 H1N1 NO
+65225 Kyle Mathis Argentina 52 FLU-2018 YES 29-12-2017
+62511 Amy Phillips Argentina 44 FLU-2018 NO
+9674 Stacey Moore Argentina 70 COVID-2019 YES 15-09-2019
+97858 Kristin Washington Argentina 16 SARS-1 YES 23-09-2005
+80801 Diana Jones Argentina 43 H1N1 NO
+1390 Patricia Ross Argentina 62 COVID-2019 YES 27-11-2018
+75024 Emily Wells Argentina 36 SARS-1 YES 20-01-2012
+14547 Alexandra Harrell Argentina 61 FLU-2018 NO
+46033 Tammy Smith Argentina 19 MERS-COV NO
+4453 Jennifer Lee Argentina 17 COVID-2019 NO
+8970 David Rodriguez Argentina 61 COVID-2019 YES 17-01-2012
+39805 Melissa Randolph Argentina 64 MERS-COV NO
+14986 Hunter Orr Argentina 10 EVD YES 19-09-2001
+33559 Gilbert Nicholson Argentina 14 H1N1 YES 15-11-2003
+28102 Seth Nelson Argentina 55 SARS-1 YES 06-01-2020
+23753 Lacey Hernandez Argentina 40 FLU-2018 NO
+13524 Eric Martinez Argentina 51 SARS-COV-2 YES 15-04-2015
+14888 Maria Vega Argentina 56 SARS-1 NO
+96727 John Holt Argentina 49 H1N1 YES 18-03-2019
+31059 Richard Gonzalez Argentina 20 FLU-2018 NO
+55068 Jennifer Miranda Argentina 21 EVD YES 14-03-2008
+76194 Jonathan Todd Argentina 46 EVD YES 02-05-2004
+44642 Erica Mendoza Argentina 79 SARS-1 YES 10-12-2008
+6950 Tammy Rosales Argentina 56 COVID-2019 YES 27-07-2001
+67419 Michael Smith Argentina 15 FLU-2018 YES 09-02-2017
+56106 Kelly Pearson Argentina 50 EVD YES 11-09-2009
+90530 Jennifer Sanchez Argentina 44 H1N1 NO
+12487 Savannah Campbell Argentina 67 SARS-COV-2 NO
+49683 Patricia Thomas Argentina 46 COVID-2019 NO
+8538 Danielle Anderson Argentina 48 EVD NO
+68498 Rachel Harris Argentina 15 H1N1 YES 29-08-2014
+33132 Spencer Frank Argentina 17 H1N1 YES 11-02-2013
+46039 Alejandro Smith Argentina 20 EVD YES 03-11-2002
+78085 Ellen Lara Argentina 60 H1N1 NO
+71802 Steven Lutz Argentina 22 H1N1 NO
+38470 Natalie Peters Argentina 27 H1N1 YES 07-07-2003
+36704 Gail Butler Argentina 47 FLU-2018 NO
+51821 Brandon Melton Argentina 57 H1N1 YES 12-03-2019
+85716 Andrew Roach Argentina 23 SARS-1 NO
+46429 Valerie Davis Argentina 31 COVID-2019 NO
+49831 Patrick Mills Argentina 48 SARS-1 NO
+78844 Mary Jackson Argentina 26 SARS-1 NO
+26957 David Martinez Argentina 25 H1N1 YES 07-04-2018
+37187 Michelle Cooper Argentina 34 FLU-2018 YES 04-12-2011
+44356 Timothy Williams Argentina 50 COVID-2019 YES 02-09-2008
+93545 Melissa Todd Argentina 17 COVID-2019 YES 16-06-2010
+61811 Heather Chapman Argentina 53 FLU-2018 NO
+36054 Cameron Medina Argentina 40 MERS-COV YES 03-10-2004
+3479 Holly Parrish Argentina 67 H1N1 NO
+24463 Tony Black Argentina 31 COVID-2019 NO
+13437 Karen Donaldson Argentina 12 MERS-COV NO
+68117 Jeffery Hogan Argentina 58 EVD YES 04-05-2007
+17448 Michael Mcdonald Argentina 29 H1N1 NO
+39394 Samantha Church Argentina 16 SARS-COV-2 YES 17-06-2000
+39268 Christine Butler Argentina 18 EVD YES 20-11-2009
+82604 Mary Lee Argentina 70 EVD YES 17-06-2008
+21881 Jonathan Brown Argentina 15 H1N1 NO
+55128 Elizabeth Farley Argentina 40 SARS-COV-2 YES 31-08-2002
+26168 Daniel Thornton Argentina 52 EVD YES 22-01-2010
+58025 Melissa Davis Argentina 51 MERS-COV NO
+25748 Sean House Argentina 34 COVID-2019 YES 20-11-2013
+24353 Cheryl Lee Argentina 33 COVID-2019 NO
+93208 Kathleen Weaver Argentina 20 SARS-COV-2 YES 21-01-2021
+58966 Theresa Jones Argentina 44 SARS-1 YES 09-09-2002
+63744 Danny Owen Argentina 10 H1N1 YES 11-08-2014
+7274 Kelsey Anderson Argentina 36 SARS-1 NO
+82466 Curtis Bowman Argentina 41 COVID-2019 NO
+12782 Paula Dillon Argentina 27 H1N1 NO
+93296 John Montoya Argentina 39 SARS-COV-2 YES 30-03-2011
+61122 Kayla Swanson Argentina 34 FLU-2018 YES 13-04-2011
+28547 Jordan Austin Argentina 79 SARS-1 YES 06-02-2002
+69578 Larry Robbins Argentina 36 FLU-2018 NO
+70892 Beth Morris Argentina 67 FLU-2018 YES 21-05-2016
+85149 Ariel Taylor Argentina 30 EVD YES 26-08-2016
+68544 Ana Adams Argentina 12 FLU-2018 YES 26-08-2019
+69791 Melissa Cooke Argentina 19 COVID-2019 NO
+76621 Tami Lawson Argentina 63 SARS-1 NO
+66548 Brian Johnson Argentina 21 SARS-COV-2 NO
+58277 Trevor Andrews Argentina 50 SARS-1 NO
+21048 Jacqueline Lewis Argentina 65 COVID-2019 NO
+2546 Lindsay Curry Argentina 54 COVID-2019 NO
+66532 Lisa Franklin Argentina 35 H1N1 NO
+63700 Cynthia Lewis Argentina 68 SARS-1 YES 05-02-2001
+76600 Grace Adams Argentina 64 MERS-COV YES 06-12-2009
+60365 Lisa Scott Argentina 14 MERS-COV NO
+81120 Kaitlyn Jones Argentina 62 SARS-COV-2 YES 22-11-2015
+28313 Christy Booth Argentina 76 SARS-COV-2 NO
+87292 Larry Jordan Argentina 27 MERS-COV NO
+19895 Christine Fritz Argentina 70 EVD NO
+49707 Andrea Patel Argentina 16 SARS-1 YES 16-03-2000
+19583 Molly Ferguson Argentina 73 SARS-COV-2 YES 06-11-2013
+34042 Jennifer Myers Argentina 77 H1N1 NO
+39396 Heidi Webb Argentina 53 SARS-1 NO
+38014 Alicia Sanchez Argentina 52 SARS-COV-2 YES 04-01-2020
+67298 Ryan Rangel Argentina 40 SARS-1 NO
+71644 Joshua Morgan Argentina 35 SARS-COV-2 NO
+87785 Christopher Hughes Argentina 73 FLU-2018 YES 14-07-2014
+48027 Amber Bailey Argentina 66 COVID-2019 NO
+81331 Mark Hines Argentina 44 COVID-2019 YES 19-02-2004
+37876 Nathan Bowen Argentina 64 SARS-COV-2 YES 01-08-2019
+66428 Jamie Gonzalez Argentina 65 H1N1 NO
+14453 Brett Miller Argentina 54 COVID-2019 NO
+86011 Zachary Diaz Argentina 34 SARS-COV-2 NO
+57402 Timothy Doyle Argentina 15 COVID-2019 YES 12-03-2001
+59277 Bradley Ellis Argentina 55 FLU-2018 NO
+91518 Dawn Jones Argentina 74 SARS-COV-2 NO
+3435 Gabrielle Anderson Argentina 74 COVID-2019 NO
+2918 Daniel Johnson Argentina 47 COVID-2019 NO
+34157 Jay Hudson Argentina 34 MERS-COV YES 18-05-2004
+88684 Sean Gross Argentina 52 SARS-COV-2 YES 18-10-2007
+67759 Megan Myers Argentina 37 H1N1 YES 08-10-2009
+6008 Theresa Griffin Argentina 17 MERS-COV YES 09-09-2017
+7041 Patrick Blevins Argentina 18 FLU-2018 NO
+86502 Sonya Morales Argentina 34 H1N1 YES 20-02-2014
+40966 Diana Wong Argentina 53 SARS-COV-2 NO
+92897 Kristi Hood Argentina 58 FLU-2018 NO
+43090 Edwin Mills Argentina 50 SARS-COV-2 YES 08-09-2018
+86620 Amanda Navarro Argentina 73 FLU-2018 YES 23-05-2019
+56849 Margaret Hooper Argentina 16 FLU-2018 YES 22-02-2018
+18331 Natalie Anderson Argentina 60 SARS-COV-2 NO
+72314 Joseph Hinton Argentina 40 MERS-COV YES 12-05-2015
+23220 Brian Adams Argentina 38 H1N1 NO
+77176 Mitchell Dixon Argentina 47 H1N1 NO
+47819 Frances Wade Argentina 36 EVD YES 01-11-2011
+28395 Emily Cole Argentina 41 H1N1 NO
+61965 Elizabeth Clark Argentina 13 SARS-1 YES 09-02-2016
+67968 Tracy Gutierrez Argentina 59 EVD YES 29-04-2002
+50743 Gavin Smith Argentina 55 SARS-1 YES 03-04-2006
+65450 Kimberly Hart Argentina 15 FLU-2018 YES 29-11-2010
+13878 Emily Buchanan Argentina 38 SARS-1 NO
+79535 Amy Howe Argentina 23 COVID-2019 NO
+67261 Catherine Miller Argentina 45 H1N1 NO
+89834 David Perez Argentina 11 SARS-1 NO
+68671 Robert Manning Argentina 23 FLU-2018 NO
+88283 Ryan Brown Argentina 32 MERS-COV NO
+82942 Stephanie Roach Argentina 77 EVD YES 04-09-2003
+11329 Stacy Bradley Argentina 38 COVID-2019 NO
+95371 Richard Watkins Argentina 64 H1N1 NO
+25672 Autumn Mayer Argentina 39 SARS-COV-2 NO
+20776 Charles Weeks Argentina 44 H1N1 YES 06-04-2004
+31653 Charles Oneill Argentina 72 MERS-COV NO
+94083 Steven Ellis Argentina 14 FLU-2018 YES 17-01-2008
+78199 Grant Brooks Argentina 77 COVID-2019 NO
+42299 Nicole Brady Argentina 75 SARS-COV-2 NO
+17647 Alex Moreno Argentina 67 SARS-COV-2 NO
+21220 Wendy Robinson Argentina 70 EVD NO
+32396 Joshua Mitchell Argentina 27 MERS-COV YES 03-07-2010
+33655 Thomas Gibson Argentina 10 H1N1 YES 26-03-2004
+68697 Rhonda Benson Argentina 47 EVD NO
+25751 Cameron Shaw Argentina 61 EVD NO
+49509 Mary Taylor Argentina 22 MERS-COV YES 24-10-2007
+81319 Jodi Jackson Argentina 40 H1N1 NO
+69978 Douglas Glass Argentina 49 FLU-2018 YES 12-11-2001
+68043 Frank Holland Argentina 50 FLU-2018 YES 03-11-2014
+32773 Denise Vang Argentina 24 MERS-COV NO
+85752 Melinda Rice Argentina 23 COVID-2019 YES 23-01-2018
+51941 James Garcia Argentina 13 SARS-1 YES 08-03-2005
+57296 Paula Adkins Argentina 28 H1N1 YES 25-07-2007
+62550 Ashley Byrd Argentina 63 COVID-2019 YES 22-08-2004
+6907 Maurice Rodriguez Argentina 64 COVID-2019 NO
+50537 Lauren Washington Argentina 17 H1N1 YES 14-02-2020
+85159 Michael Peters Argentina 29 MERS-COV NO
+87283 Richard Mason Argentina 68 COVID-2019 YES 03-05-2014
+59571 Jeffrey Hayes Argentina 78 MERS-COV YES 20-05-2008
+73018 Kaitlyn Martinez Argentina 46 EVD NO
+14087 Natalie Taylor Argentina 24 SARS-COV-2 YES 22-10-2007
+78086 Eileen Gates Argentina 13 SARS-1 NO
+94506 Kevin Bennett Argentina 25 SARS-1 NO
+10052 Sarah Zimmerman Argentina 52 MERS-COV NO
+42340 Erik Lewis Argentina 28 SARS-COV-2 YES 18-02-2021
+87753 David Gibson Argentina 66 EVD YES 16-12-2014
+49708 Sandra Mitchell Argentina 49 COVID-2019 YES 10-05-2005
+30660 Meagan Montoya Argentina 38 SARS-COV-2 NO
+88372 Daniel Henry Argentina 58 SARS-1 YES 19-04-2001
+90174 Michael Spencer Argentina 12 COVID-2019 NO
+86626 Jessica Kane Argentina 11 SARS-1 NO
+13120 Sheila Lewis Argentina 18 MERS-COV NO
+48037 Timothy Meyers Argentina 26 COVID-2019 YES 10-05-2006
+81196 Veronica Harris Argentina 50 SARS-1 YES 01-01-2007
+95354 Katherine Foley Argentina 55 SARS-1 NO
+17803 Eric Miller Argentina 42 FLU-2018 YES 04-04-2011
+46277 Kristin Morris Argentina 62 MERS-COV YES 02-10-2005
+846 James Goodman Argentina 23 H1N1 YES 14-07-2014
+88358 Brooke Holland Argentina 22 H1N1 YES 18-11-2009
+40747 Susan Joseph Argentina 25 SARS-1 YES 03-02-2017
+73359 Laurie Lloyd Argentina 73 COVID-2019 YES 09-05-2012
+47870 Roy Holt Argentina 53 MERS-COV NO
+31746 Kathleen Henson Argentina 73 SARS-1 YES 16-09-2006
+14330 Cynthia Cameron Argentina 27 H1N1 YES 12-10-2018
+41131 Sandra Olsen Argentina 30 COVID-2019 NO
+59713 Lee Pennington Argentina 16 SARS-1 YES 20-07-2014
+26431 Shannon Smith Argentina 56 COVID-2019 YES 08-05-2007
+14924 Brooke Burnett Argentina 65 H1N1 NO
+35013 Eric Mccullough Argentina 67 EVD YES 30-11-2010
+78917 Jennifer White Argentina 36 FLU-2018 NO
+52379 Elizabeth Downs Argentina 40 EVD YES 18-10-2004
+53078 David Bell Argentina 74 FLU-2018 YES 26-07-2018
+71953 Mercedes Nelson Argentina 28 SARS-COV-2 NO
+57422 Steven Sullivan Argentina 49 H1N1 YES 15-02-2012
+87105 Hannah Conner Argentina 28 H1N1 YES 27-08-2003
+82281 Janet Williams Argentina 28 SARS-1 NO
+36098 Dylan Pearson Argentina 28 FLU-2018 YES 20-01-2015
+91227 Peter George Argentina 42 COVID-2019 YES 03-05-2019
+61274 John Ross Argentina 35 SARS-COV-2 YES 31-12-2014
+59433 Jamie Nichols Argentina 32 EVD YES 03-03-2005
+2433 Katherine Figueroa Argentina 40 COVID-2019 YES 07-09-2011
+47771 Amy Frazier Argentina 46 H1N1 NO
+40306 Amy Haynes Argentina 79 SARS-COV-2 NO
+1335 Selena Singleton Argentina 56 EVD YES 02-08-2006
+15924 Shane Perry Argentina 40 H1N1 YES 27-02-2007
+7583 Erica Spencer Argentina 62 H1N1 YES 09-11-2001
+28545 Stephanie Mcgee Argentina 26 MERS-COV YES 23-11-2007
+50262 Christopher Duran Argentina 49 SARS-1 YES 15-01-2011
+13768 Denise Robbins Argentina 70 FLU-2018 NO
+94519 Kelly Orr Argentina 58 SARS-COV-2 YES 19-08-2004
+32315 Paul White Argentina 43 SARS-1 YES 07-09-2014
+61215 Amy Lambert Argentina 16 MERS-COV YES 07-06-2012
+45371 Victoria Miles Argentina 31 SARS-COV-2 YES 26-12-2020
+86927 Sandra Barrett Argentina 22 SARS-COV-2 NO
+68774 Jennifer Boyd Argentina 59 SARS-COV-2 YES 26-09-2012
+56475 Anthony Wagner Argentina 77 H1N1 NO
+64939 Marie Wheeler Argentina 71 MERS-COV YES 28-01-2017
+90590 David Campos Argentina 32 EVD YES 01-02-2017
+31910 Penny Hooper Argentina 33 H1N1 NO
+53184 James Johnson Argentina 52 EVD NO
+75885 Daniel Carpenter Argentina 68 H1N1 YES 22-02-2011
+43017 Samuel Chung Argentina 78 SARS-COV-2 YES 21-07-2005
+55941 Justin Scott Argentina 38 SARS-COV-2 NO
+71160 Lisa Olson Argentina 46 H1N1 YES 28-06-2000
+13461 Jessica Brown Argentina 66 FLU-2018 YES 26-01-2020
+74374 Kylie Downs Argentina 68 MERS-COV NO
+20411 Jason Spencer Argentina 30 MERS-COV YES 07-10-2000
+58081 Johnathan King Argentina 54 H1N1 NO
+16044 James Scott Argentina 30 H1N1 YES 19-12-2003
+27784 Bobby Long Argentina 55 FLU-2018 NO
+99406 Barbara Todd Argentina 37 SARS-COV-2 NO
+30150 Austin Olson Argentina 39 COVID-2019 NO
+6128 Amber Mahoney Argentina 10 FLU-2018 NO
+57444 Rebecca Yang Argentina 61 FLU-2018 NO
+81296 Angela Chavez Argentina 72 MERS-COV NO
+83108 Robin Johnson Argentina 61 H1N1 NO
+18362 Glenn Bradley Argentina 14 COVID-2019 YES 16-03-2010
+25170 Danielle Logan Argentina 32 COVID-2019 YES 06-02-2009
+36593 Patricia Yoder Argentina 76 MERS-COV NO
+90539 David Thompson Argentina 52 EVD YES 29-12-2018
+20311 Morgan Boyd Argentina 16 COVID-2019 YES 15-12-2008
+73582 Rebecca Cuevas Argentina 72 SARS-COV-2 YES 05-11-2009
+46448 Dale Burke Argentina 23 FLU-2018 NO
+42773 Teresa Ware Argentina 65 COVID-2019 YES 07-05-2016
+89647 Brandon Walker Argentina 28 SARS-COV-2 NO
+41069 Dennis Morgan Argentina 50 MERS-COV NO
+96838 Kimberly Williams Argentina 43 EVD NO
+79445 Donna Middleton Argentina 24 COVID-2019 YES 12-01-2010
+14706 Scott Mcdonald Argentina 60 COVID-2019 NO
+99212 Joshua Adams Argentina 60 FLU-2018 NO
+30113 Michael Brown Argentina 63 SARS-COV-2 NO
+33234 Elizabeth Moore Argentina 47 H1N1 YES 12-11-2010
+14409 Amy Lopez Argentina 77 SARS-COV-2 YES 20-11-2016
+51475 Derrick Barry Argentina 53 COVID-2019 YES 27-04-2003
+33476 Steven Clark Argentina 20 MERS-COV NO
+36159 Pamela Hendrix Argentina 74 EVD YES 30-11-2000
+53109 Jessica Sutton Argentina 74 H1N1 YES 25-09-2010
+685 Nicole Smith Argentina 77 MERS-COV YES 20-04-2001
+23223 Krista West Argentina 21 FLU-2018 YES 23-02-2005
+40409 Mandy Wang Argentina 69 SARS-1 YES 15-07-2014
+69221 Robert Reed Argentina 35 H1N1 NO
+3312 John Dougherty Argentina 53 MERS-COV YES 07-11-2011
+23617 Stephanie Smith Argentina 25 FLU-2018 NO
+4254 Michael Freeman Argentina 37 SARS-COV-2 YES 01-12-2008
+74822 Jennifer Mccann Argentina 14 H1N1 NO
+50053 John Casey Argentina 36 MERS-COV YES 05-11-2002
+2280 Christopher Lynch Argentina 39 MERS-COV YES 20-06-2000
+55700 Cheryl Alexander Argentina 68 MERS-COV YES 28-06-2000
+8458 Frederick Mercado Argentina 67 SARS-1 NO
+93110 Rebecca Sellers Argentina 63 EVD NO
+87428 Ronald Smith Argentina 15 COVID-2019 NO
+7775 Michele Luna Argentina 13 MERS-COV NO
+4758 Charles Hall Argentina 27 SARS-1 NO
+68663 David Warner Argentina 70 SARS-COV-2 YES 01-06-2014
+71376 David Newman Argentina 19 EVD NO
+21052 Wendy Hansen Argentina 70 SARS-1 YES 18-09-2015
+67484 Francisco Peterson Argentina 56 MERS-COV NO
+12384 Patricia Schwartz Argentina 70 COVID-2019 YES 26-03-2002
+14099 John Brown Argentina 60 FLU-2018 NO
+77182 Mike Wagner Argentina 21 EVD YES 21-04-2015
+92119 Daniel Moss Argentina 73 H1N1 NO
+94547 Melanie Stevens Argentina 24 MERS-COV YES 12-06-2013
+42793 Christopher Chandler Argentina 60 COVID-2019 YES 11-01-2006
+37297 James Daniels Argentina 59 H1N1 NO
+51616 Diane Ray Argentina 20 H1N1 YES 11-03-2004
+69553 Jake Simon Argentina 59 COVID-2019 NO
+8304 William Conrad Argentina 16 COVID-2019 NO
+54896 Amber Gross Argentina 31 COVID-2019 YES 03-05-2014
+71970 Ricky Welch Argentina 49 EVD NO
+57703 Matthew Stewart Argentina 23 FLU-2018 NO
+47745 Jason Torres Argentina 12 SARS-1 YES 23-06-2020
+11948 Craig Novak Argentina 48 MERS-COV NO
+90728 Suzanne Ortega Argentina 46 EVD YES 02-03-2016
+3444 Curtis Villa Argentina 33 H1N1 NO
+40471 Thomas Davis Argentina 40 EVD NO
+68177 Barry Norris Argentina 24 SARS-1 NO
+78500 Derek Riley Argentina 48 SARS-COV-2 NO
+45309 Robert Oconnor Argentina 65 MERS-COV NO
+81909 Lindsey Kim Argentina 71 EVD NO
+53755 Dorothy Golden Argentina 65 SARS-1 NO
+3829 Omar Campbell Argentina 53 MERS-COV YES 09-11-2011
+81902 Stacy Cox Argentina 57 MERS-COV YES 03-12-2012
+93699 Dennis Adams Argentina 49 EVD YES 14-06-2000
+23669 Kirsten Stevenson Argentina 19 SARS-COV-2 NO
+28582 Joshua Diaz Argentina 16 MERS-COV NO
+70473 Anne Nichols Argentina 17 SARS-1 NO
+62438 Lisa Dixon Argentina 14 COVID-2019 YES 04-08-2000
+2834 Patrick Evans Argentina 34 MERS-COV YES 17-02-2002
+48669 Brian Smith Argentina 12 COVID-2019 YES 27-07-2000
+49814 Michael Lee Argentina 15 COVID-2019 NO
+26703 Jade Barajas Argentina 18 H1N1 NO
+86340 Daniel Hudson Argentina 69 MERS-COV YES 22-06-2020
+49920 Jennifer Campos Argentina 77 EVD YES 14-08-2007
+98982 Jennifer Lewis Argentina 57 COVID-2019 NO
+61012 Melinda Edwards Argentina 67 COVID-2019 NO
+27164 Emily Gilbert Argentina 48 MERS-COV NO
+37660 Stephen Vasquez Argentina 73 H1N1 YES 06-10-2020
+77628 Perry Parker Argentina 18 COVID-2019 NO
+99383 Levi Nguyen Argentina 40 H1N1 NO
+67673 Michelle Andrews Argentina 54 SARS-1 YES 13-04-2000
+48584 Tara Durham Argentina 58 H1N1 YES 07-10-2006
+22856 Matthew Hernandez Argentina 69 H1N1 NO
+76884 Jennifer Sanchez Argentina 34 SARS-1 YES 14-01-2013
+21739 Christina Ford Argentina 38 MERS-COV YES 21-09-2000
+9675 Timothy Wilson Argentina 42 SARS-COV-2 NO
+95518 Diane Ward Argentina 31 COVID-2019 NO
+33731 Christina Figueroa Argentina 61 FLU-2018 YES 08-06-2012
+34844 Lisa Henry Argentina 37 FLU-2018 NO
+87909 Daisy Brennan Argentina 26 EVD NO
+77419 Rebecca Carlson Argentina 45 FLU-2018 YES 21-07-2015
+26512 Alexander Murphy Argentina 72 FLU-2018 YES 02-02-2013
+80101 Julie Stevens Argentina 18 FLU-2018 NO
+29802 Margaret Murphy Argentina 39 EVD NO
+97204 Brittany Lopez Argentina 30 MERS-COV YES 28-04-2019
+26211 Kevin Neal Argentina 54 SARS-1 NO
+25226 Christina Rogers Argentina 78 SARS-1 YES 29-01-2005
+78154 Mary Davis Argentina 33 EVD NO
+89513 Ian Ramirez Argentina 58 COVID-2019 NO
+76424 Craig Gonzalez Argentina 23 SARS-COV-2 NO
+63403 Susan Fleming Argentina 59 EVD NO
+98857 Maria Ellis Argentina 63 MERS-COV YES 18-07-2014
+36085 Jessica Combs Argentina 20 MERS-COV YES 14-11-2020
+51143 Lynn James Argentina 17 EVD NO
+88733 Edward Martin Argentina 28 COVID-2019 YES 21-03-2012
+47376 Curtis Gross Argentina 71 SARS-COV-2 YES 15-07-2019
+29784 Steven Price Argentina 28 FLU-2018 YES 27-03-2009
+9134 Kristi Mcclain Argentina 25 FLU-2018 YES 09-06-2020
+84618 Heather Lin Argentina 52 COVID-2019 YES 22-12-2012
+23045 Tom Knight Argentina 68 SARS-COV-2 NO
+55865 David Nichols Argentina 64 SARS-1 YES 16-08-2001
+96349 Barbara Salas Argentina 60 SARS-COV-2 NO
+9069 Jacob Perez Argentina 44 EVD YES 20-06-2000
+52812 Sarah Turner Argentina 76 SARS-COV-2 YES 17-11-2006
+21523 Michael Townsend Argentina 10 SARS-COV-2 NO
+10995 Sean Brown Argentina 36 H1N1 YES 31-03-2008
+35639 Brenda Collins Argentina 40 H1N1 NO
+11842 Samuel Wilson Argentina 19 SARS-COV-2 NO
+43103 Christine Chambers Argentina 45 H1N1 NO
+55961 Lauren Newman Argentina 23 COVID-2019 YES 10-11-2001
+4255 Sarah Griffin Argentina 23 MERS-COV NO
+72932 Michele Haynes Argentina 13 H1N1 NO
+28759 Jessica Gibson Argentina 63 EVD YES 29-06-2008
+52394 Kristina Welch Argentina 75 FLU-2018 NO
+86521 Diane Mcbride Argentina 12 COVID-2019 YES 11-08-2018
+8213 Mary Howard Argentina 16 EVD NO
+21668 Carrie Espinoza Argentina 19 FLU-2018 NO
+34441 James Black Argentina 17 SARS-COV-2 NO
+69509 Tiffany Guzman Argentina 60 EVD YES 02-04-2011
+61548 Daniel Brown Argentina 51 MERS-COV NO
+39675 Sandra Soto Argentina 21 SARS-1 YES 28-09-2009
+5496 Gabriel Bullock Argentina 28 SARS-1 NO
+6887 Danielle Palmer Argentina 72 EVD YES 16-07-2001
+51242 Albert Coffey Argentina 55 SARS-1 NO
+69884 Anna Thomas Argentina 73 FLU-2018 NO
+46008 Jason Baker Argentina 30 SARS-COV-2 YES 04-02-2018
+37648 Shawn Butler Argentina 16 COVID-2019 YES 13-10-2013
+999 Heather Williams Argentina 39 EVD NO
+98007 Evan Hardy Argentina 26 FLU-2018 YES 13-10-2020
+71521 Charles Bailey Argentina 60 SARS-1 NO
+52000 Courtney Brown Argentina 60 SARS-1 NO
+67178 Frank Mccoy Argentina 67 H1N1 NO
+1948 Stephen Skinner Argentina 59 EVD YES 04-05-2010
+82939 Elizabeth Grant Argentina 44 SARS-COV-2 YES 07-06-2004
+23448 Marissa Faulkner Argentina 24 COVID-2019 YES 06-05-2020
+26355 Robin Jackson Argentina 38 COVID-2019 NO
+37665 Sarah Moore Argentina 57 SARS-1 NO
+49358 Paul Drake Argentina 66 SARS-COV-2 YES 07-04-2005
+13394 Katherine Nelson Argentina 59 FLU-2018 NO
+3547 Suzanne James Argentina 76 SARS-COV-2 YES 09-05-2011
+48949 Erin Cobb Argentina 48 H1N1 NO
+78270 Ashley Hernandez Argentina 48 SARS-COV-2 NO
+16851 Trevor Burton Argentina 12 SARS-COV-2 YES 02-05-2009
+92003 Brandon Hicks Argentina 30 COVID-2019 YES 12-11-2002
+11787 Sheri Castro Argentina 72 EVD NO
+31758 Bryan Marshall Argentina 45 SARS-1 YES 24-12-2002
+24440 Tony Murray Argentina 74 H1N1 YES 08-11-2012
+14685 Holly Suarez Argentina 55 COVID-2019 NO
+13088 Dustin Rhodes Argentina 19 H1N1 YES 07-10-2015
+16906 Gary Greer Argentina 11 SARS-COV-2 YES 05-06-2013
+80352 Matthew Turner Argentina 57 FLU-2018 NO
+70885 Haley Levine Argentina 77 SARS-1 YES 29-06-2003
+85606 Brian Welch Argentina 72 SARS-1 NO
+40837 Kristy Anderson Argentina 65 SARS-COV-2 YES 16-07-2008
+12081 Amy Warner Argentina 68 FLU-2018 YES 02-03-2019
+40081 Kayla Beck Argentina 47 COVID-2019 YES 10-05-2017
+15053 Brett Scott Argentina 17 SARS-COV-2 NO
+46323 Justin Jones Argentina 14 SARS-1 YES 27-01-2005
+69889 Taylor Neal Argentina 20 H1N1 NO
+31998 Diana Snow Argentina 42 SARS-COV-2 NO
+23252 Nancy Ross Argentina 74 SARS-COV-2 NO
+42066 Mark Poole Argentina 40 SARS-COV-2 NO
+14633 Eric Moore Argentina 41 FLU-2018 NO
+69752 Paula Whitney Argentina 54 COVID-2019 YES 14-12-2000
+50813 Nicholas Jones Argentina 78 MERS-COV NO
+27697 Nicholas Anderson Argentina 17 COVID-2019 YES 04-09-2010
+16040 Phyllis Smith Argentina 16 H1N1 YES 22-10-2018
+17119 James Rogers Argentina 58 H1N1 YES 21-08-2008
+54977 Barry Ruiz Argentina 64 SARS-1 YES 03-09-2003
+2507 Kayla Hall Argentina 55 H1N1 NO
+53478 Nicholas Young Argentina 39 EVD YES 18-07-2000
+62474 Sandra Park Argentina 60 EVD NO
+31260 Cynthia Terrell Argentina 11 COVID-2019 NO
+88760 David Cook Argentina 59 EVD YES 23-02-2020
+21420 Debra Jackson Argentina 12 SARS-COV-2 NO
+36860 Charles Brooks Argentina 19 MERS-COV NO
+20255 Felicia Young Argentina 29 MERS-COV YES 10-04-2001
+12754 Miranda Harrison Argentina 34 SARS-1 NO
+47865 Savannah May Argentina 19 MERS-COV YES 20-02-2016
+11205 Linda Hicks Argentina 34 FLU-2018 NO
+69527 Brad Garcia Argentina 73 SARS-COV-2 NO
+97647 Claudia Ramsey Argentina 77 H1N1 YES 28-12-2013
+22046 Kevin Bryant Argentina 78 FLU-2018 NO
+46180 Melanie Miller Argentina 64 SARS-1 NO
+1284 Heather Nixon Argentina 60 MERS-COV NO
+98270 Christine Johnson Argentina 16 COVID-2019 YES 08-02-2014
+50155 Mark Butler Argentina 38 SARS-COV-2 YES 17-01-2003
+61911 Jennifer Moore Argentina 26 SARS-COV-2 NO
+49935 Katrina Day Argentina 73 EVD NO
+841 Gina Stewart Argentina 42 SARS-1 NO
+82970 Jill Buck Argentina 45 H1N1 NO
+53676 Jesse Perry Argentina 49 EVD NO
+99952 Warren Hardin Argentina 19 SARS-COV-2 NO
+3598 Sarah Jefferson Argentina 35 COVID-2019 NO
+929 Glenn Miller Argentina 17 SARS-COV-2 NO
+9993 Cynthia Lambert Argentina 19 COVID-2019 NO
+20822 Jeffrey Rodriguez Argentina 40 H1N1 NO
+5104 Taylor Shaw Argentina 30 COVID-2019 NO
+60060 Marilyn Adams Argentina 20 FLU-2018 YES 12-08-2016
+83217 Michael Martinez Argentina 43 COVID-2019 YES 17-12-2013
+80175 Jeffery Kennedy Argentina 29 H1N1 YES 21-12-2015
+57643 Angela Roman Argentina 69 COVID-2019 NO
+44170 Patricia Parsons Argentina 70 FLU-2018 NO
+84933 Lee Mcdonald Argentina 64 SARS-COV-2 NO
+32395 Adriana Torres Argentina 72 COVID-2019 NO
+36063 Jeffery Ochoa Argentina 13 H1N1 NO
+78907 Christopher Lee Argentina 42 MERS-COV NO
+4166 Allen Dickson Argentina 74 MERS-COV YES 14-12-2009
+54330 Valerie Taylor Argentina 61 SARS-1 NO
+25496 Brandon Burnett Argentina 70 COVID-2019 YES 27-03-2017
+53746 Traci Allen Argentina 41 COVID-2019 NO
+88492 Stephen Solomon Argentina 78 SARS-1 NO
+88956 Deborah Cook Argentina 44 H1N1 YES 19-01-2009
+80721 Curtis May Argentina 41 EVD YES 17-03-2005
+38579 Ryan Romero Argentina 22 SARS-COV-2 YES 30-03-2004
+95927 Brittany Sutton Argentina 10 SARS-COV-2 YES 24-01-2011
+78049 Renee Roberts Argentina 47 H1N1 YES 18-08-2006
+97849 Lance Lee Argentina 50 EVD NO
+30353 Theresa Rogers Argentina 24 COVID-2019 YES 09-09-2003
+96027 Troy Pierce Argentina 20 EVD YES 14-09-2009
+44306 Rebecca Salas Argentina 41 MERS-COV YES 19-12-2003
+64686 Mark Acevedo Argentina 31 COVID-2019 YES 18-07-2006
+17058 Kimberly Pope Argentina 44 SARS-COV-2 YES 10-04-2016
+38913 Peter Cameron Argentina 57 MERS-COV NO
+5239 Shawn Wright Argentina 28 MERS-COV YES 22-01-2020
+72556 Keith Anderson Argentina 35 COVID-2019 NO
+81055 James Miles Argentina 46 FLU-2018 NO
+63395 Valerie Gibbs Argentina 60 MERS-COV NO
+97339 Kelly Anderson Argentina 17 SARS-COV-2 NO
+6716 Margaret Horne Argentina 45 SARS-1 NO
+76042 Brian Hendrix Argentina 37 H1N1 NO
+32343 Wendy Pollard Argentina 34 SARS-1 NO
+52495 Steven Pacheco Argentina 41 SARS-1 YES 31-01-2004
+26389 Andrea West Argentina 35 FLU-2018 NO
+37349 Charles Reed Argentina 37 COVID-2019 NO
+5069 Dwayne Thomas Argentina 39 SARS-COV-2 YES 25-11-2014
+87667 Cody Jackson Argentina 55 FLU-2018 NO
+96981 Lisa Martinez Argentina 63 SARS-COV-2 YES 15-03-2011
+58052 Mercedes Bridges Argentina 33 EVD YES 12-10-2007
+50619 Phillip Dunn Argentina 22 SARS-COV-2 YES 10-06-2006

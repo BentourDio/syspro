@@ -1,0 +1,537 @@
+117 Amber Chase Egypt 37 SARS-1 NO
+440 Angela Jones Egypt 17 FLU-2018 YES 27-09-2012
+1057 Amanda Moss Egypt 23 FLU-2018 NO
+1057 Amanda Moss Egypt 23 SARS-COV-2 YES 19-03-2004
+1173 Deborah Patton Egypt 79 H1N1 YES 16-08-2001
+1215 Lauren Sheppard Egypt 13 H1N1 YES 02-11-2006
+7305 Blake Kelly Egypt 68 COVID-2019 YES 04-05-2009
+5590 Alexis Garcia Egypt 67 FLU-2018 YES 13-02-2009
+5301 Mike Horne Egypt 70 EVD NO
+7598 Deanna Golden Egypt 15 SARS-COV-2 YES 22-01-2021
+347 Christopher Horton Egypt 20 H1N1 YES 20-07-2000
+4710 Jennifer Malone Egypt 36 FLU-2018 YES 11-09-2006
+1146 Colton Wu Egypt 41 FLU-2018 YES 21-03-2019
+1146 Colton Wu Egypt 41 SARS-COV-2 NO
+6333 James Zuniga Egypt 17 H1N1 YES 26-11-2009
+2988 Jeffrey Johnson Egypt 33 COVID-2019 NO
+4529 George Sanchez Egypt 77 EVD NO
+8117 Alejandro Hart Egypt 26 SARS-1 YES 27-08-2019
+982 Danielle Pacheco Egypt 25 FLU-2018 NO
+6565 Connie Carr Egypt 56 FLU-2018 NO
+2460 Charles Collins Egypt 68 FLU-2018 YES 05-07-2018
+3885 Rhonda Wells Egypt 37 H1N1 YES 20-08-2016
+8012 Eric Weaver Egypt 13 FLU-2018 NO
+9417 Michael Hood Egypt 50 H1N1 NO
+7801 Lauren Crawford Egypt 68 SARS-COV-2 NO
+8066 Joseph Rasmussen Egypt 38 COVID-2019 YES 04-06-2002
+8022 Ricky Bowman Egypt 17 SARS-COV-2 YES 07-05-2010
+5560 Jose Scott Egypt 61 MERS-COV NO
+9385 James Frazier Egypt 68 SARS-1 YES 07-08-2008
+9948 Alex Smith Egypt 12 COVID-2019 YES 01-04-2017
+176 Tony Sims Egypt 44 EVD YES 28-03-2020
+6126 Allison Howard Egypt 22 MERS-COV NO
+4650 Jennifer Anderson Egypt 76 COVID-2019 YES 15-06-2009
+7824 Heather Trevino Egypt 71 COVID-2019 NO
+6354 Matthew Davis Egypt 23 SARS-1 YES 10-03-2010
+2381 Bryan Heath Egypt 31 FLU-2018 YES 31-05-2015
+8951 Kenneth James Egypt 46 SARS-1 YES 01-01-2006
+1161 Gordon Gonzalez Egypt 18 SARS-COV-2 YES 13-06-2000
+5951 Jesse Garcia Egypt 14 EVD YES 30-06-2004
+2423 Matthew Gonzales Egypt 74 SARS-1 NO
+2827 Tracy Richards Egypt 37 EVD NO
+2928 Vanessa Paul Egypt 22 EVD NO
+6809 Benjamin Hicks Egypt 26 FLU-2018 YES 06-10-2007
+3962 Alexandra Lewis Egypt 68 H1N1 NO
+9480 Mario Farley Egypt 13 H1N1 NO
+4855 Scott Gregory Egypt 78 EVD YES 30-05-2020
+1092 Adam Clark Egypt 68 MERS-COV NO
+4767 Richard Taylor Egypt 45 COVID-2019 NO
+7828 James Thomas Egypt 19 H1N1 YES 22-11-2009
+7828 James Thomas Egypt 19 COVID-2019 NO
+1922 Shannon Farrell Egypt 77 SARS-1 NO
+6867 Misty Myers Egypt 32 MERS-COV YES 21-01-2005
+5212 Jessica Beasley Egypt 60 SARS-COV-2 YES 07-08-2018
+8693 Dana Turner Egypt 60 EVD NO
+8154 Louis Chandler Egypt 58 H1N1 NO
+2113 Christopher Murphy Egypt 60 SARS-COV-2 NO
+4157 Richard Johnson Egypt 40 EVD NO
+9856 Marissa Sanchez Egypt 40 SARS-1 YES 07-03-2000
+2048 Mary Smith Egypt 42 COVID-2019 NO
+1755 Tommy Fisher Egypt 38 H1N1 NO
+1755 Tommy Fisher Egypt 38 MERS-COV NO
+8029 Jason Ramos Egypt 68 SARS-COV-2 NO
+4264 Curtis Welch Egypt 34 SARS-1 YES 23-06-2011
+4475 Alexa Holmes Egypt 15 SARS-COV-2 YES 12-12-2013
+2158 Carly Schmidt Egypt 22 MERS-COV NO
+5941 Mckenzie Chavez Egypt 33 FLU-2018 YES 10-11-2001
+2921 Kathy Taylor Egypt 34 COVID-2019 NO
+1391 Timothy Kelly Egypt 22 H1N1 NO
+2828 Erin Cox Egypt 55 SARS-1 YES 30-01-2011
+2029 Brittany Frey Egypt 54 EVD NO
+7521 Heather Young Egypt 61 EVD YES 19-10-2005
+7223 Eric Suarez Egypt 32 MERS-COV YES 30-09-2019
+7223 Eric Suarez Egypt 32 H1N1 YES 19-01-2008
+6273 Valerie Roth Egypt 63 EVD YES 09-10-2018
+5619 Julie Collins Egypt 31 SARS-1 NO
+8925 Yolanda Ramsey Egypt 49 SARS-COV-2 NO
+6601 Bryan Smith Egypt 25 SARS-COV-2 YES 10-04-2001
+1038 Amy Marshall Egypt 23 COVID-2019 NO
+49 Joshua Watts Egypt 46 COVID-2019 NO
+6743 Mary Lambert Egypt 54 FLU-2018 YES 21-02-2019
+4434 James Ryan Egypt 22 SARS-COV-2 NO
+9206 Erik Rogers Egypt 24 H1N1 NO
+5840 Steven Kline Egypt 37 MERS-COV YES 20-07-2008
+1825 Alyssa Benson Egypt 76 MERS-COV YES 08-01-2020
+1590 Jose Cabrera Egypt 63 H1N1 YES 19-02-2017
+8509 Steven Henry Egypt 41 SARS-COV-2 YES 29-08-2005
+8509 Steven Henry Egypt 41 H1N1 NO
+6528 Holly Hartman Egypt 45 EVD NO
+2704 William Tran Egypt 11 SARS-COV-2 NO
+2704 William Tran Egypt 11 MERS-COV NO
+8207 Melanie Patel Egypt 38 SARS-COV-2 NO
+2104 Ryan Graham Egypt 24 EVD YES 13-09-2002
+9205 Diana Mckenzie Egypt 61 COVID-2019 YES 31-03-2008
+5175 Sherry Mason Egypt 53 SARS-1 NO
+1906 John Peterson Egypt 47 FLU-2018 YES 12-01-2011
+4289 Paula Cooper Egypt 23 SARS-COV-2 NO
+2741 Marc Miranda Egypt 52 EVD YES 10-12-2011
+57 Olivia Flores Egypt 17 MERS-COV NO
+6402 Kaitlyn Ross Egypt 53 SARS-COV-2 YES 09-07-2017
+5439 Matthew Campbell Egypt 41 MERS-COV NO
+8191 Kelly Nielsen Egypt 46 EVD YES 19-12-2015
+125 Caleb Harris Egypt 32 FLU-2018 NO
+8793 Nichole Mcgrath Egypt 29 SARS-1 YES 30-08-2000
+3323 Frances Jenkins Egypt 54 FLU-2018 YES 28-03-2008
+8720 Debra Fisher Egypt 55 SARS-1 YES 14-05-2019
+707 Dean Mendoza Egypt 36 H1N1 NO
+9100 Tyler Carter Egypt 13 EVD NO
+1605 Gary Ortiz Egypt 38 FLU-2018 YES 03-07-2001
+5376 James Rowe Egypt 11 MERS-COV NO
+5836 Wendy Wilkins Egypt 23 MERS-COV YES 31-12-2005
+7834 Mark Schwartz Egypt 73 H1N1 NO
+7834 Mark Schwartz Egypt 73 MERS-COV NO
+1162 Jeremiah Banks Egypt 53 MERS-COV YES 06-06-2014
+958 Leslie Morris Egypt 52 SARS-COV-2 YES 28-09-2000
+958 Leslie Morris Egypt 52 EVD YES 10-08-2009
+4749 William Conner Egypt 27 EVD NO
+1762 Steven Bailey Egypt 23 FLU-2018 NO
+1911 Andre Wilkerson Egypt 47 COVID-2019 YES 27-07-2007
+7477 Meghan Woods Egypt 70 H1N1 YES 13-02-2019
+442 Andre Cook Egypt 35 FLU-2018 YES 07-02-2007
+1519 Jason Morse Egypt 32 MERS-COV NO
+8399 Jill Kline Egypt 54 FLU-2018 NO
+8417 Candace Gilmore Egypt 63 SARS-COV-2 YES 19-06-2010
+6007 Adrian Patton Egypt 16 SARS-COV-2 NO
+4104 Karen Cooper Egypt 19 FLU-2018 NO
+417 Walter Barber Egypt 72 SARS-COV-2 NO
+637 Charles Richmond Egypt 46 FLU-2018 NO
+637 Charles Richmond Egypt 46 H1N1 NO
+8721 Kathryn Stevens Egypt 69 MERS-COV NO
+886 Barry Nichols Egypt 41 SARS-COV-2 YES 30-05-2002
+6879 Courtney Diaz Egypt 28 SARS-1 NO
+7065 Ashley Murphy Egypt 66 EVD YES 27-03-2011
+4596 James Barnes Egypt 66 COVID-2019 YES 29-11-2017
+842 Thomas Miller Egypt 22 MERS-COV NO
+5571 Judy Wilson Egypt 28 MERS-COV YES 21-03-2003
+4017 Nicole Gutierrez Egypt 42 MERS-COV NO
+4861 Victor Carter Egypt 70 EVD YES 04-05-2002
+2586 Brenda Medina Egypt 66 H1N1 NO
+6160 Virginia Patrick Egypt 20 SARS-COV-2 NO
+380 Christian Warren Egypt 39 SARS-COV-2 YES 02-06-2018
+6654 John Rios Egypt 37 H1N1 NO
+5761 John Villanueva Egypt 17 H1N1 YES 25-08-2012
+3816 Kelly Sanchez Egypt 28 SARS-COV-2 YES 09-08-2018
+6138 Justin Ramirez Egypt 64 SARS-COV-2 NO
+5162 Matthew Kidd Egypt 68 SARS-COV-2 YES 22-02-2013
+3036 Christina Jackson Egypt 67 FLU-2018 YES 30-04-2009
+2682 Brent King Egypt 33 COVID-2019 YES 21-01-2020
+7948 Alison Boyle Egypt 17 H1N1 NO
+1091 Heather Johnson Egypt 69 EVD NO
+3287 Joseph Moreno Egypt 51 SARS-COV-2 YES 01-06-2018
+9454 William Williamson Egypt 18 SARS-COV-2 YES 23-07-2014
+1559 Frank Scott Egypt 14 H1N1 YES 28-07-2020
+5597 Christina Carter Egypt 11 SARS-1 YES 25-03-2002
+5597 Christina Carter Egypt 11 SARS-COV-2 NO
+7710 Russell Boyd Egypt 49 MERS-COV YES 20-02-2018
+7710 Russell Boyd Egypt 49 SARS-COV-2 NO
+8553 Denise Chase Egypt 57 SARS-COV-2 YES 03-12-2010
+1451 Lisa Santos Egypt 75 FLU-2018 NO
+3674 Erin Harrison Egypt 31 H1N1 YES 12-09-2009
+7499 Katherine Herrera Egypt 72 COVID-2019 YES 15-01-2002
+2986 Michelle Jackson Egypt 60 MERS-COV NO
+1062 William Foley Egypt 65 FLU-2018 NO
+9494 Wendy Dixon Egypt 43 FLU-2018 NO
+889 Tracey Jones Egypt 78 COVID-2019 YES 10-06-2019
+9539 Sydney Li Egypt 46 MERS-COV NO
+8580 Ricky Russell Egypt 29 MERS-COV YES 07-07-2015
+2231 David Anderson Egypt 50 FLU-2018 NO
+9916 Melissa Robinson Egypt 73 EVD YES 11-08-2018
+9564 Cole Burgess Egypt 12 SARS-COV-2 NO
+1929 Michael Atkins Egypt 19 MERS-COV YES 29-03-2016
+9213 Dawn Hill Egypt 56 SARS-1 NO
+4950 Janice Fuller Egypt 53 H1N1 YES 03-09-2002
+4267 Daniel Hampton Egypt 12 SARS-1 NO
+9808 Allison Lynch Egypt 17 SARS-1 YES 12-11-2006
+9808 Allison Lynch Egypt 17 H1N1 NO
+443 William Cruz Egypt 57 EVD NO
+4163 Troy Oliver Egypt 64 MERS-COV YES 04-12-2007
+3135 Jennifer Contreras Egypt 30 EVD NO
+4992 Sally Arellano Egypt 29 SARS-COV-2 YES 26-05-2011
+696 Michael Cherry Egypt 38 FLU-2018 NO
+9201 Cassandra Williams Egypt 65 EVD YES 16-09-2009
+195 Krystal Thompson Egypt 61 FLU-2018 NO
+8820 Daniel Fields Egypt 25 SARS-COV-2 YES 24-03-2009
+1951 Nicholas Lopez Egypt 74 FLU-2018 NO
+3829 Connie Hooper Egypt 68 FLU-2018 NO
+6575 Tracy Roberts Egypt 69 COVID-2019 YES 27-09-2002
+9768 Zoe Alexander Egypt 63 FLU-2018 NO
+1837 Ryan West Egypt 17 COVID-2019 NO
+1837 Ryan West Egypt 17 FLU-2018 NO
+9202 Tyler Martinez Egypt 62 H1N1 NO
+8928 John Mccullough Egypt 46 COVID-2019 NO
+8841 Sandy Hinton Egypt 44 SARS-COV-2 YES 11-03-2016
+2610 Laura Cain Egypt 63 SARS-COV-2 YES 10-09-2013
+2610 Laura Cain Egypt 63 EVD NO
+9256 Dana Salazar Egypt 13 H1N1 YES 28-10-2012
+9927 Hannah Jackson Egypt 29 SARS-1 NO
+9577 Lori Lewis Egypt 19 H1N1 YES 21-01-2020
+7986 Melissa Avery Egypt 70 EVD YES 30-08-2002
+9621 Sarah Lewis Egypt 52 FLU-2018 NO
+3507 Stacy Lane Egypt 38 MERS-COV NO
+3486 Jason Brennan Egypt 26 SARS-1 YES 28-12-2007
+3486 Jason Brennan Egypt 26 H1N1 NO
+2621 David Williams Egypt 77 EVD NO
+2688 Lee Scott Egypt 77 H1N1 YES 13-04-2019
+4147 Roberto Kirk Egypt 42 MERS-COV NO
+3003 Regina Taylor Egypt 69 H1N1 NO
+8082 Felicia Washington Egypt 36 COVID-2019 NO
+3781 Ashley Johnson Egypt 43 SARS-COV-2 YES 04-12-2003
+2909 Bryan Downs Egypt 26 COVID-2019 YES 29-03-2008
+5776 Robert Snow Egypt 25 SARS-1 NO
+6880 Manuel Hunter Egypt 13 FLU-2018 YES 18-08-2003
+1377 Timothy Walker Egypt 38 COVID-2019 YES 04-02-2003
+6696 Joseph Dunlap Egypt 73 SARS-COV-2 NO
+8613 Kevin Reese Egypt 26 EVD NO
+8613 Kevin Reese Egypt 26 FLU-2018 NO
+445 Marie Garcia Egypt 62 SARS-COV-2 NO
+4175 Alex Swanson Egypt 20 FLU-2018 NO
+2769 Leonard Porter Egypt 78 FLU-2018 YES 22-02-2019
+4565 Devin Thomas Egypt 67 EVD YES 28-10-2013
+1962 Molly Wilson Egypt 78 EVD NO
+9721 Courtney Soto Egypt 22 H1N1 NO
+4215 Elizabeth Bradford Egypt 46 MERS-COV YES 23-08-2013
+3356 Desiree Calhoun Egypt 15 MERS-COV NO
+6569 Elizabeth Cabrera Egypt 50 H1N1 YES 24-11-2000
+9777 Jessica Webb Egypt 67 FLU-2018 NO
+3840 Kimberly White Egypt 48 FLU-2018 YES 09-05-2002
+9410 Vanessa Graham Egypt 42 H1N1 NO
+9410 Vanessa Graham Egypt 42 EVD YES 26-12-2008
+2301 Julie Thompson Egypt 64 FLU-2018 YES 27-12-2001
+1737 Martin Greer Egypt 27 SARS-COV-2 NO
+4196 John Morales Egypt 72 FLU-2018 YES 18-08-2015
+9502 Christine Cobb Egypt 60 H1N1 NO
+7419 Julie Ferrell Egypt 59 H1N1 YES 10-07-2007
+5774 Robert Adams Egypt 35 COVID-2019 NO
+8583 Michelle Villarreal Egypt 60 MERS-COV YES 16-05-2003
+8083 Kevin Harris Egypt 22 MERS-COV YES 02-07-2003
+298 Kelly Harris Egypt 32 EVD YES 17-01-2010
+298 Kelly Harris Egypt 32 COVID-2019 NO
+7535 Mary Brown Egypt 64 SARS-COV-2 YES 21-02-2009
+1653 Louis Garcia Egypt 24 SARS-COV-2 YES 11-10-2014
+6872 Anthony Romero Egypt 15 MERS-COV NO
+6765 Dale Foley Egypt 55 SARS-1 NO
+3684 Janet Thompson Egypt 34 EVD YES 05-06-2005
+3684 Janet Thompson Egypt 34 COVID-2019 YES 17-09-2018
+8563 Gregory Ibarra Egypt 30 H1N1 YES 14-03-2013
+8560 Nicole Marshall Egypt 19 MERS-COV YES 23-02-2014
+8560 Nicole Marshall Egypt 19 EVD YES 08-06-2005
+9821 Michael Edwards Egypt 41 H1N1 YES 08-11-2007
+7669 James Brown Egypt 34 COVID-2019 YES 01-08-2000
+2313 Maria Martinez Egypt 71 SARS-1 NO
+1919 Brady Ward Egypt 50 COVID-2019 YES 25-06-2020
+8139 Ashley Davis Egypt 55 EVD NO
+2569 Robert Wong Egypt 65 SARS-COV-2 YES 31-10-2020
+483 Brian Williams Egypt 35 SARS-1 NO
+2377 Tommy Thompson Egypt 33 COVID-2019 NO
+8770 John Schneider Egypt 25 EVD NO
+5732 Pamela Howard Egypt 63 SARS-1 NO
+3196 Lee Henry Egypt 61 H1N1 NO
+6045 Shannon Patterson Egypt 17 EVD NO
+3559 Tracy Wilson Egypt 78 COVID-2019 NO
+5924 Willie Lynch Egypt 30 SARS-COV-2 YES 29-07-2009
+493 Jose Torres Egypt 42 H1N1 YES 14-03-2009
+9216 Robert Wood Egypt 49 H1N1 NO
+7613 Peter West Egypt 78 SARS-COV-2 YES 29-06-2002
+4005 Johnathan Huang Egypt 24 SARS-COV-2 YES 14-09-2019
+4005 Johnathan Huang Egypt 24 FLU-2018 NO
+9093 Steven Miller Egypt 23 FLU-2018 YES 09-12-2001
+6324 David Hernandez Egypt 24 SARS-1 NO
+5469 Mark Green Egypt 24 SARS-1 NO
+9127 Benjamin Johnson Egypt 32 SARS-COV-2 YES 12-09-2013
+1615 Gloria Harris Egypt 39 SARS-1 YES 21-05-2008
+8894 Mark Wu Egypt 51 H1N1 NO
+4250 Kristen Lee Egypt 38 COVID-2019 NO
+7133 James Edwards Egypt 25 EVD NO
+1714 Melissa Phelps Egypt 33 MERS-COV YES 15-07-2007
+5899 Stephanie Bailey Egypt 33 MERS-COV YES 29-01-2020
+2259 Rebekah Davis Egypt 15 EVD YES 14-12-2017
+2880 Nancy Fleming Egypt 49 SARS-COV-2 NO
+9291 Jerry Perez Egypt 40 FLU-2018 NO
+9009 David Herrera Egypt 19 H1N1 YES 08-05-2011
+9969 Jason Keith Egypt 70 MERS-COV YES 02-06-2020
+1291 Priscilla Yoder Egypt 43 COVID-2019 NO
+1291 Priscilla Yoder Egypt 43 H1N1 YES 07-08-2001
+3375 Patricia Davis Egypt 29 SARS-1 NO
+1616 Paul Lowery Egypt 38 COVID-2019 NO
+2640 Steven Simmons Egypt 36 SARS-1 YES 03-02-2006
+2276 Joshua Frazier Egypt 61 SARS-1 NO
+2413 Jennifer Boyer Egypt 25 MERS-COV YES 28-04-2002
+9160 Megan Oneill Egypt 35 SARS-1 YES 14-06-2015
+9072 Colleen Gonzalez Egypt 15 H1N1 NO
+4954 David Bailey Egypt 15 FLU-2018 YES 28-11-2007
+5731 Jessica Adams Egypt 71 SARS-COV-2 YES 18-01-2003
+9672 Diana Baker Egypt 24 EVD YES 30-03-2019
+4485 Sandra Snyder Egypt 26 SARS-COV-2 NO
+336 Michele Long Egypt 57 MERS-COV YES 21-04-2001
+2799 Natalie Nelson Egypt 14 FLU-2018 NO
+44 Doris Snow Egypt 13 SARS-COV-2 NO
+3544 Phillip Edwards Egypt 73 EVD NO
+8272 Michael Johnson Egypt 37 COVID-2019 NO
+8634 Suzanne Gomez Egypt 45 MERS-COV NO
+3881 Michael Bowman Egypt 37 COVID-2019 NO
+8789 Jeanette Newman Egypt 60 H1N1 YES 17-11-2013
+6328 Jennifer Kent Egypt 48 COVID-2019 NO
+9329 Stacey Simpson Egypt 62 MERS-COV YES 20-05-2013
+8713 Stacey Kim Egypt 54 SARS-1 YES 23-11-2014
+7611 Megan Hill Egypt 11 FLU-2018 YES 23-03-2019
+688 Jeffrey Hernandez Egypt 78 MERS-COV NO
+8548 Leah Davis Egypt 71 COVID-2019 NO
+8548 Leah Davis Egypt 71 SARS-COV-2 NO
+2431 Jessica Thompson Egypt 13 FLU-2018 YES 25-06-2003
+2431 Jessica Thompson Egypt 13 SARS-COV-2 NO
+5661 James Huffman Egypt 55 EVD NO
+5661 James Huffman Egypt 55 FLU-2018 NO
+4612 Jason Hardin Egypt 35 SARS-COV-2 YES 26-07-2002
+3108 Brian Torres Egypt 72 EVD NO
+5553 Maria Steele Egypt 24 FLU-2018 YES 22-05-2001
+4382 Renee Russell Egypt 37 COVID-2019 YES 30-12-2010
+7854 Thomas Robles Egypt 48 SARS-1 NO
+2702 Tiffany Young Egypt 14 COVID-2019 YES 06-06-2017
+2702 Tiffany Young Egypt 14 FLU-2018 YES 23-02-2000
+6278 Tonya Clark Egypt 69 SARS-COV-2 NO
+4761 Timothy Rodriguez Egypt 12 SARS-1 YES 15-07-2002
+3460 Holly Wiley Egypt 20 SARS-COV-2 NO
+2795 Mark Willis Egypt 23 EVD NO
+5171 Samuel Barber Egypt 34 FLU-2018 YES 25-04-2003
+8510 Mike Carroll Egypt 75 H1N1 NO
+3727 Aaron Hall Egypt 49 MERS-COV YES 27-01-2018
+2167 Amy Black Egypt 67 H1N1 NO
+2167 Amy Black Egypt 67 COVID-2019 NO
+8204 Stephanie Lee Egypt 72 EVD YES 24-09-2017
+3202 Judy Page Egypt 45 MERS-COV YES 18-12-2017
+2 Lori Davis Egypt 36 FLU-2018 YES 30-08-2011
+4914 Shawn Simon Egypt 67 FLU-2018 NO
+8265 Veronica Le Egypt 37 SARS-1 NO
+8265 Veronica Le Egypt 37 EVD NO
+7035 Tracey Black Egypt 49 MERS-COV YES 22-10-2004
+3234 David Aguirre Egypt 36 COVID-2019 NO
+7868 Julia Hayes Egypt 51 SARS-1 YES 04-02-2020
+2081 Laura Harris Egypt 48 H1N1 NO
+2081 Laura Harris Egypt 48 EVD YES 21-10-2017
+6688 Brenda Hamilton Egypt 11 SARS-COV-2 NO
+3385 Micheal Torres Egypt 77 EVD YES 11-06-2017
+3936 Tina Conley Egypt 54 FLU-2018 YES 04-03-2019
+6441 Matthew Underwood Egypt 45 FLU-2018 YES 02-07-2013
+2458 Michael Gonzalez Egypt 29 MERS-COV YES 01-01-2018
+651 Russell Contreras Egypt 77 SARS-COV-2 NO
+1242 Brenda Keller Egypt 51 H1N1 YES 26-04-2010
+58 Randy Hodges Egypt 18 FLU-2018 YES 30-11-2005
+6092 Roberta Hudson Egypt 36 SARS-1 NO
+9745 Anne Wade Egypt 32 COVID-2019 NO
+9362 Matthew Braun Egypt 47 SARS-COV-2 NO
+2790 Paul Harrell Egypt 38 FLU-2018 NO
+3828 Maurice Johnson Egypt 38 H1N1 NO
+5114 Julie Baker Egypt 64 SARS-1 YES 12-06-2004
+4153 Shelby Barnes Egypt 32 MERS-COV NO
+2307 Travis Ewing Egypt 11 FLU-2018 NO
+7012 David Maddox Egypt 35 SARS-COV-2 NO
+5105 Billy James Egypt 65 SARS-1 NO
+9011 Jessica Jenkins Egypt 65 FLU-2018 YES 30-03-2005
+1633 Teresa Fox Egypt 72 FLU-2018 NO
+6411 Adrian Gray Egypt 15 FLU-2018 NO
+8460 Charles Cox Egypt 49 FLU-2018 YES 10-09-2011
+1218 George Coleman Egypt 42 SARS-1 YES 27-10-2011
+6171 Brent Hall Egypt 23 EVD NO
+3291 Collin Jimenez Egypt 52 EVD NO
+2675 Megan Sanchez Egypt 29 EVD YES 06-01-2008
+5359 Ralph Bartlett Egypt 57 H1N1 YES 02-03-2019
+3532 Jay Martin Egypt 51 MERS-COV NO
+1915 Aaron Johnson Egypt 36 H1N1 YES 16-06-2018
+127 Nicole Cowan Egypt 48 FLU-2018 YES 26-10-2002
+3495 Sarah Lyons Egypt 58 H1N1 YES 30-10-2013
+5358 John Johnson Egypt 16 H1N1 NO
+6193 Garrett Morris Egypt 18 H1N1 NO
+3106 Randy Moore Egypt 63 COVID-2019 YES 24-05-2007
+3106 Randy Moore Egypt 63 EVD YES 24-09-2000
+9642 Tara Lopez Egypt 70 SARS-COV-2 YES 02-01-2003
+7139 Michael Smith Egypt 64 H1N1 YES 03-03-2004
+2319 Steven Smith Egypt 54 FLU-2018 NO
+6338 Steven Powell Egypt 77 FLU-2018 NO
+1666 David Ross Egypt 68 SARS-1 YES 16-01-2018
+3221 Shannon Bennett Egypt 11 SARS-1 NO
+3669 Mallory Howe Egypt 50 FLU-2018 NO
+216 Michelle Alexander Egypt 69 FLU-2018 NO
+5901 Cameron Schultz Egypt 55 SARS-1 YES 29-07-2008
+9888 Paul Terry Egypt 24 H1N1 NO
+4658 Matthew Jones Egypt 72 SARS-COV-2 NO
+3747 Jeff Powers Egypt 29 H1N1 NO
+6450 Michelle George Egypt 28 SARS-COV-2 YES 12-06-2002
+1168 Adrienne Mccullough Egypt 49 COVID-2019 YES 10-07-2010
+1768 Riley Allen Egypt 45 FLU-2018 YES 19-08-2000
+5181 Derek Lawrence Egypt 40 COVID-2019 YES 15-04-2005
+2809 Angela Clements Egypt 23 MERS-COV YES 12-09-2013
+9470 Phillip Owen Egypt 60 MERS-COV YES 09-04-2015
+9470 Phillip Owen Egypt 60 FLU-2018 NO
+8652 John Huff Egypt 75 EVD YES 01-05-2017
+6331 Christine Gomez Egypt 70 FLU-2018 YES 07-08-2016
+8198 Brent Rivera Egypt 39 SARS-1 NO
+8198 Brent Rivera Egypt 39 EVD NO
+1381 Christina Singleton Egypt 23 EVD NO
+8113 Cassandra Alvarado Egypt 51 H1N1 NO
+4830 Melissa Jensen Egypt 61 MERS-COV NO
+2936 Anthony Campbell Egypt 71 MERS-COV YES 07-12-2012
+1179 Larry Fitzgerald Egypt 10 FLU-2018 YES 24-06-2016
+1179 Larry Fitzgerald Egypt 10 SARS-COV-2 NO
+7031 Jessica Clark Egypt 21 EVD YES 25-09-2009
+484 Jessica Duarte Egypt 67 H1N1 NO
+1007 Cindy Nguyen Egypt 51 SARS-1 NO
+3445 Cassandra White Egypt 26 H1N1 YES 14-10-2019
+8641 Derek Roberts Egypt 69 H1N1 YES 27-07-2019
+8641 Derek Roberts Egypt 69 COVID-2019 NO
+2039 Sharon Rodriguez Egypt 18 MERS-COV NO
+9632 Carolyn Turner Egypt 73 MERS-COV YES 19-01-2000
+9632 Carolyn Turner Egypt 73 SARS-1 NO
+6957 Andrew Harris Egypt 52 FLU-2018 YES 22-08-2018
+8344 April Golden Egypt 58 H1N1 YES 27-11-2004
+7924 Kristen Olson Egypt 37 SARS-1 YES 22-02-2020
+4101 Eric Davidson Egypt 79 MERS-COV NO
+1859 Joshua Murphy Egypt 58 SARS-1 NO
+5569 Michael Johnson Egypt 61 MERS-COV NO
+6681 Ann White Egypt 41 COVID-2019 YES 30-01-2017
+1337 Cheryl Page Egypt 58 SARS-COV-2 NO
+2001 Ashlee Baxter Egypt 66 SARS-COV-2 NO
+4407 Megan Landry Egypt 57 FLU-2018 NO
+1336 Arthur Garcia Egypt 78 SARS-COV-2 YES 09-05-2005
+7760 Pamela Simmons Egypt 61 COVID-2019 YES 19-03-2009
+9187 Victoria Perez Egypt 79 SARS-1 YES 27-01-2008
+9187 Victoria Perez Egypt 79 FLU-2018 NO
+6663 Frederick Murphy Egypt 32 COVID-2019 YES 27-04-2016
+8237 Tiffany Anderson Egypt 68 SARS-1 NO
+4792 Joe White Egypt 49 H1N1 NO
+2502 Thomas Mcdonald Egypt 19 SARS-COV-2 NO
+2602 Kim Harris Egypt 22 COVID-2019 YES 29-03-2017
+2602 Kim Harris Egypt 22 MERS-COV YES 24-11-2004
+5712 Natalie Hamilton Egypt 61 SARS-1 YES 06-10-2008
+4558 Deanna Freeman Egypt 60 H1N1 NO
+932 Dylan Jackson Egypt 21 SARS-COV-2 NO
+8292 Tyler Moore Egypt 30 COVID-2019 YES 02-02-2021
+7170 Meghan Rodriguez Egypt 49 FLU-2018 NO
+5757 Walter Martinez Egypt 64 FLU-2018 NO
+7285 Heather Johnson Egypt 21 SARS-1 YES 28-09-2020
+9211 Joshua Ochoa Egypt 56 H1N1 YES 22-07-2001
+8623 Cynthia Robertson Egypt 60 EVD NO
+3050 Heather Stevenson Egypt 32 SARS-COV-2 NO
+492 Austin Roberson Egypt 22 FLU-2018 NO
+1847 Joseph Christian Egypt 44 FLU-2018 YES 22-08-2017
+2982 Monica Aguilar Egypt 43 FLU-2018 NO
+3883 Jackie White Egypt 10 SARS-COV-2 YES 06-11-2004
+6778 Mario Hall Egypt 66 MERS-COV NO
+6778 Mario Hall Egypt 66 COVID-2019 YES 01-11-2011
+1285 Toni Wood Egypt 73 EVD YES 14-01-2019
+2979 Daniel Brown Egypt 14 MERS-COV YES 12-07-2009
+8771 Susan Carlson Egypt 58 MERS-COV NO
+3940 Rick Torres Egypt 52 MERS-COV YES 29-09-2009
+1208 Cynthia Gibson Egypt 17 FLU-2018 NO
+6541 Brian Smith Egypt 48 EVD YES 27-03-2018
+3262 Brian Winters Egypt 42 COVID-2019 YES 13-05-2018
+5895 Olivia Diaz Egypt 61 SARS-1 NO
+2069 Jesse Woods Egypt 32 SARS-COV-2 YES 15-06-2007
+6776 Joseph Smith Egypt 62 SARS-COV-2 YES 09-08-2005
+8868 Alexander Robles Egypt 45 MERS-COV NO
+8868 Alexander Robles Egypt 45 SARS-1 YES 20-02-2018
+7687 Stefanie Guzman Egypt 43 EVD NO
+5672 Cory Green Egypt 51 H1N1 YES 27-05-2010
+2182 Lauren Cervantes Egypt 26 FLU-2018 YES 15-09-2002
+1598 Brittany Hernandez Egypt 73 MERS-COV YES 03-05-2019
+9469 Jerry Ford Egypt 47 MERS-COV YES 30-08-2001
+7727 Wendy Bowers Egypt 17 EVD NO
+7749 Joe Olson Egypt 44 H1N1 NO
+8146 Michelle Thompson Egypt 76 SARS-1 YES 13-03-2004
+3786 Dwayne Martinez Egypt 47 SARS-1 YES 29-08-2016
+152 Michelle Lee Egypt 52 COVID-2019 NO
+9232 Cameron Patel Egypt 33 H1N1 YES 21-02-2020
+5555 Patricia Ramirez Egypt 43 EVD YES 08-07-2015
+3787 Stacey Martin Egypt 61 EVD NO
+9526 Timothy Walker Egypt 54 SARS-COV-2 NO
+6564 Kayla Day Egypt 31 SARS-1 YES 02-09-2009
+6977 Casey Petty Egypt 16 MERS-COV NO
+6855 David Green Egypt 11 H1N1 YES 29-01-2018
+6855 David Green Egypt 11 COVID-2019 NO
+5533 Richard Herrera Egypt 29 SARS-1 NO
+3297 Stephanie Elliott Egypt 73 MERS-COV YES 22-09-2010
+183 Michael Bray Egypt 10 SARS-1 YES 29-01-2007
+1363 April Bartlett Egypt 12 SARS-COV-2 NO
+5280 Elizabeth Butler Egypt 51 H1N1 YES 13-10-2006
+8927 Seth Williams Egypt 51 COVID-2019 NO
+1662 Brandon Carter Egypt 28 SARS-1 YES 14-04-2010
+6084 Jessica Pacheco Egypt 55 COVID-2019 NO
+6084 Jessica Pacheco Egypt 55 EVD YES 13-11-2019
+8905 Mary Kelley Egypt 20 H1N1 NO
+518 Adam Dixon Egypt 77 SARS-1 NO
+1289 Charles Stewart Egypt 22 SARS-1 NO
+2247 Monica Carter Egypt 36 EVD NO
+1503 Stephen Nguyen Egypt 26 EVD NO
+1503 Stephen Nguyen Egypt 26 MERS-COV NO
+6998 Jennifer Johnson Egypt 62 SARS-1 NO
+6473 Tina Brewer Egypt 62 SARS-1 YES 05-01-2002
+9552 Sarah Gregory Egypt 60 FLU-2018 NO
+1279 Michele Long Egypt 30 EVD NO
+984 Christopher Hale Egypt 67 H1N1 YES 13-01-2011
+9323 Victoria Daniels Egypt 58 FLU-2018 NO
+5789 Ashley Murillo Egypt 37 EVD YES 11-06-2010
+8276 Tiffany Foster Egypt 22 H1N1 YES 25-05-2007
+7431 Aaron Parks Egypt 54 COVID-2019 NO
+8818 Lisa Santiago Egypt 32 SARS-COV-2 NO
+4283 Donald Miller Egypt 48 SARS-1 YES 25-04-2016
+4505 Terrance Lawson Egypt 11 FLU-2018 YES 09-02-2015
+4505 Terrance Lawson Egypt 11 EVD YES 24-04-2012
+6612 Roger Woodward Egypt 73 EVD NO
+8953 Charles Moon Egypt 56 FLU-2018 NO
+3339 Danielle Brown Egypt 72 H1N1 NO
+3339 Danielle Brown Egypt 72 SARS-1 YES 13-07-2008
+2773 Michelle Wilkins Egypt 18 SARS-1 NO
+7645 Ellen Mccarty Egypt 76 SARS-1 NO
+1773 Christine Mills Egypt 68 H1N1 YES 23-09-2004
+2776 Patrick Fischer Egypt 27 H1N1 NO
+238 David Avila Egypt 61 H1N1 YES 20-08-2005
+238 David Avila Egypt 61 COVID-2019 YES 26-12-2002
+5034 Shannon Rose Egypt 40 COVID-2019 YES 18-04-2000
+2697 Shawn Gregory Egypt 59 MERS-COV YES 14-01-2000
+3217 Lisa Kim Egypt 41 FLU-2018 NO
+4144 James Cowan Egypt 15 SARS-1 YES 01-11-2000
+4144 James Cowan Egypt 15 COVID-2019 NO
+8895 Jodi Hernandez Egypt 36 COVID-2019 NO
+1613 Natalie Franklin Egypt 40 FLU-2018 YES 25-03-2020
+9608 Crystal Mitchell Egypt 31 MERS-COV YES 16-04-2015
+7100 Brooke Lopez Egypt 38 MERS-COV NO
+906 Tina Perez Egypt 76 FLU-2018 NO
+5618 Gary Clements Egypt 68 COVID-2019 YES 05-11-2016
+4928 Jennifer James Egypt 28 COVID-2019 YES 30-12-2018
+1486 Donald Frazier Egypt 14 SARS-1 NO
+2967 Brenda Kidd Egypt 57 SARS-1 YES 03-03-2012
+8480 William Stanley Egypt 27 COVID-2019 NO
+8166 Amy Villegas Egypt 71 H1N1 YES 30-05-2004
+4851 Collin Randall Egypt 43 FLU-2018 NO
+4851 Collin Randall Egypt 43 SARS-1 YES 17-01-2000
+9349 Rhonda Brown Egypt 65 MERS-COV YES 02-05-2012
+7636 Kurt Johnson Egypt 29 H1N1 YES 14-02-2020

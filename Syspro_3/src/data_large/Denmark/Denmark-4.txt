@@ -1,0 +1,3298 @@
+17906 Susan Moss Denmark 38 SARS-COV-2 NO
+6452 David Davidson Denmark 70 COVID-2019 YES 22-08-2009
+13289 Kevin Cox Denmark 51 SARS-COV-2 YES 21-07-2010
+43389 Michael Dyer Denmark 68 EVD NO
+2299 John Rogers Denmark 41 EVD NO
+82775 Anthony Arnold Denmark 33 H1N1 NO
+58766 Brian Jones Denmark 31 FLU-2018 NO
+81544 Tyler Estrada Denmark 78 EVD YES 30-12-2016
+27949 Kurt Chang Denmark 73 SARS-COV-2 NO
+49291 Christopher Spencer Denmark 22 FLU-2018 NO
+17399 Christopher Warren Denmark 79 H1N1 YES 02-02-2001
+94260 Andrea Shepherd Denmark 30 MERS-COV YES 27-01-2018
+31439 Erin Saunders Denmark 14 H1N1 NO
+89419 Robert Lynn Denmark 70 FLU-2018 YES 31-12-2003
+320 Danielle Wilson Denmark 79 COVID-2019 YES 06-03-2013
+93712 Joseph Bass Denmark 24 MERS-COV NO
+40048 Katherine Miller Denmark 51 MERS-COV NO
+77511 Martin Mckay Denmark 11 FLU-2018 NO
+88883 Lawrence Thompson Denmark 41 H1N1 NO
+78656 Sherry Bennett Denmark 46 COVID-2019 YES 04-04-2015
+95211 Donna Davis Denmark 78 MERS-COV YES 03-12-2003
+20274 Hannah Carter Denmark 33 COVID-2019 YES 03-11-2007
+724 Edward Palmer Denmark 32 H1N1 NO
+93149 David Chaney Denmark 22 FLU-2018 NO
+72050 Raymond Newton Denmark 22 SARS-COV-2 YES 18-02-2016
+87289 Elizabeth Moore Denmark 57 MERS-COV YES 31-10-2002
+69957 Daniel Brown Denmark 59 EVD YES 22-02-2013
+89454 Leonard Hernandez Denmark 12 COVID-2019 YES 03-01-2004
+36736 Aimee Aguirre Denmark 20 H1N1 YES 17-02-2019
+69092 Brian White Denmark 25 H1N1 NO
+8864 Kenneth White Denmark 51 SARS-1 NO
+86076 Joshua Clark Denmark 41 MERS-COV YES 20-04-2009
+79041 Michael Cook Denmark 67 EVD YES 29-12-2018
+27945 Emma Washington Denmark 11 H1N1 YES 11-06-2000
+59225 Colton Vaughn Denmark 69 SARS-1 NO
+85486 Donald Watson Denmark 44 SARS-COV-2 YES 21-01-2008
+11233 Joseph Bentley Denmark 71 EVD NO
+15606 Robert Cooper Denmark 18 MERS-COV YES 10-06-2017
+61973 Kelly Rodriguez Denmark 59 SARS-COV-2 YES 20-12-2014
+27633 Kelly House Denmark 55 EVD YES 01-03-2021
+19765 Jeremy Duncan Denmark 42 H1N1 NO
+70823 Shawn Ortiz Denmark 51 SARS-1 NO
+32882 Charles Hall Denmark 38 SARS-COV-2 NO
+98703 Kimberly Terry Denmark 55 H1N1 YES 27-02-2012
+95768 Ashley Page Denmark 57 H1N1 YES 02-07-2008
+16572 Bryce Gutierrez Denmark 34 COVID-2019 YES 22-09-2016
+54534 Stacy Marshall Denmark 75 MERS-COV NO
+47576 Shannon Lopez Denmark 14 SARS-COV-2 YES 19-07-2009
+40079 Joseph Foster Denmark 72 COVID-2019 NO
+81931 Monica Shepherd Denmark 35 SARS-1 NO
+50698 Deborah Shaw Denmark 33 H1N1 YES 14-11-2001
+97776 Steve White Denmark 59 MERS-COV NO
+17824 Melissa Johnson Denmark 53 H1N1 NO
+77418 Jessica Fitzgerald Denmark 17 FLU-2018 NO
+84533 Jessica Jones Denmark 30 MERS-COV YES 09-06-2013
+40182 Sara Jones Denmark 14 SARS-1 NO
+54911 Kevin Russell Denmark 45 SARS-COV-2 YES 03-08-2011
+62694 Melissa Morse Denmark 67 SARS-COV-2 YES 26-06-2006
+92549 Julia Rogers Denmark 34 EVD NO
+79832 Lucas Hendrix Denmark 68 H1N1 NO
+76834 Joel Jones Denmark 21 FLU-2018 YES 24-03-2004
+10548 Diane Hill Denmark 44 FLU-2018 NO
+93089 Thomas Riley Denmark 73 H1N1 NO
+8577 Lisa Barajas Denmark 64 H1N1 YES 03-12-2008
+25415 Kim Brewer Denmark 41 SARS-1 YES 04-12-2015
+8220 Joshua Barton Denmark 61 H1N1 YES 24-05-2018
+23136 Linda Henderson Denmark 17 SARS-1 NO
+75732 Daisy Sims Denmark 40 EVD YES 15-05-2016
+20673 Debra Keller Denmark 60 SARS-1 NO
+39042 Kyle Bennett Denmark 56 H1N1 YES 20-07-2020
+76804 Seth Collins Denmark 64 FLU-2018 YES 01-07-2002
+32263 Lance Dunn Denmark 13 COVID-2019 YES 15-09-2019
+9596 Frank Thornton Denmark 60 MERS-COV NO
+20248 Victor Watson Denmark 23 SARS-1 YES 13-09-2003
+72619 Maria Bruce Denmark 28 H1N1 NO
+40927 Lauren Young Denmark 14 COVID-2019 YES 21-01-2006
+4706 Robert Cox Denmark 29 SARS-COV-2 NO
+70906 William Miller Denmark 31 SARS-1 YES 08-07-2006
+15184 Stephanie Manning Denmark 66 MERS-COV YES 27-10-2006
+46823 Dana Carter Denmark 54 MERS-COV YES 13-01-2018
+36663 John Brooks Denmark 46 SARS-1 YES 08-12-2010
+90167 Kimberly Cruz Denmark 30 FLU-2018 NO
+56758 Daniel Lam Denmark 34 H1N1 NO
+18553 Joshua Sharp Denmark 50 MERS-COV NO
+60631 Amanda Jackson Denmark 48 COVID-2019 NO
+2351 Monica Perry Denmark 10 COVID-2019 YES 12-08-2006
+43226 Bryce Bell Denmark 73 COVID-2019 NO
+29312 James Villanueva Denmark 25 H1N1 NO
+57574 Timothy Maddox Denmark 46 COVID-2019 YES 16-02-2021
+50926 Michelle Nelson Denmark 46 FLU-2018 YES 20-12-2016
+2114 Logan Small Denmark 41 SARS-1 NO
+76333 Rebecca Zuniga Denmark 53 SARS-1 NO
+50920 Tamara Allen Denmark 29 COVID-2019 NO
+99689 Veronica Diaz Denmark 56 SARS-COV-2 YES 03-11-2001
+43980 Tony Walsh Denmark 68 COVID-2019 YES 27-07-2013
+12475 Katie Morris Denmark 16 SARS-1 YES 08-03-2013
+27572 Tiffany Williams Denmark 21 SARS-COV-2 NO
+40092 Tina Sullivan Denmark 41 MERS-COV NO
+32825 Mark Hughes Denmark 73 COVID-2019 NO
+53605 Robert Merritt Denmark 17 SARS-COV-2 YES 29-09-2003
+16594 Frank Warren Denmark 47 SARS-COV-2 NO
+81285 Edward Benson Denmark 23 EVD YES 15-11-2011
+25800 Kelly Pena Denmark 50 EVD YES 06-05-2014
+46424 Brent Powers Denmark 44 SARS-1 YES 16-05-2002
+42301 Robert Lane Denmark 53 EVD YES 09-09-2012
+94314 Danielle Ramsey Denmark 66 H1N1 YES 20-08-2004
+26889 Albert Burton Denmark 34 H1N1 YES 26-12-2010
+29496 Rachael Hawkins Denmark 39 FLU-2018 NO
+50859 Anna Walker Denmark 43 EVD YES 11-11-2012
+2172 Tiffany Ramsey Denmark 51 COVID-2019 YES 05-03-2009
+75824 Carla Saunders Denmark 63 SARS-COV-2 NO
+39786 Caleb Patterson Denmark 73 COVID-2019 NO
+57329 Brett Maldonado Denmark 28 MERS-COV NO
+17254 Theresa Warren Denmark 30 COVID-2019 YES 05-06-2019
+40376 Curtis Walsh Denmark 42 SARS-COV-2 YES 27-09-2006
+3570 James Wong Denmark 14 SARS-COV-2 YES 28-05-2010
+81013 Cody Wilson Denmark 70 H1N1 YES 01-09-2005
+26137 Timothy Neal Denmark 18 FLU-2018 NO
+11468 Daniel Burke Denmark 32 EVD NO
+53649 Monica Willis Denmark 60 H1N1 YES 12-08-2001
+84629 Mark Moreno Denmark 69 H1N1 NO
+68261 Mary Hamilton Denmark 46 FLU-2018 NO
+6683 David Garza Denmark 24 H1N1 NO
+95317 Patricia Rivera Denmark 79 H1N1 YES 04-01-2013
+1412 Daniel Johnson Denmark 23 MERS-COV YES 19-04-2002
+78157 Elizabeth Sanchez Denmark 43 COVID-2019 YES 03-07-2005
+39695 Billy Wagner Denmark 60 COVID-2019 NO
+33990 Eric Williams Denmark 13 SARS-COV-2 NO
+25536 Jennifer Wise Denmark 55 MERS-COV YES 10-08-2009
+42765 Erin Garrett Denmark 24 FLU-2018 NO
+8308 Sierra Johnson Denmark 35 FLU-2018 YES 30-10-2000
+50347 Stephen Patterson Denmark 48 SARS-1 YES 27-12-2017
+67300 Erica Greer Denmark 30 SARS-1 NO
+80239 Paul Dixon Denmark 19 COVID-2019 NO
+82295 Shannon Carr Denmark 14 MERS-COV YES 29-03-2018
+84759 Veronica Holland Denmark 58 FLU-2018 YES 07-12-2007
+62030 Hannah Wang Denmark 16 SARS-COV-2 NO
+72901 Jennifer Bennett Denmark 62 EVD NO
+50861 Kenneth Perkins Denmark 49 EVD NO
+24936 Leslie White Denmark 22 FLU-2018 YES 13-05-2009
+48911 Donald Davis Denmark 13 SARS-1 NO
+76717 Melissa Smith Denmark 25 EVD NO
+61205 Heidi Whitaker Denmark 25 H1N1 YES 11-01-2011
+28308 Clayton Spears Denmark 66 FLU-2018 YES 21-10-2000
+67672 Erika Johnson Denmark 25 COVID-2019 YES 16-04-2007
+7849 Jeremy Johnson Denmark 44 SARS-COV-2 YES 27-06-2015
+34088 Amy Allen Denmark 67 MERS-COV NO
+58522 Richard Gallegos Denmark 75 COVID-2019 NO
+39137 Samantha Kelly Denmark 57 EVD NO
+62788 Craig Hughes Denmark 28 SARS-1 YES 16-01-2013
+53887 Bruce Green Denmark 18 COVID-2019 NO
+67498 William Sellers Denmark 42 MERS-COV NO
+59460 Monique Jackson Denmark 11 COVID-2019 NO
+23323 John Mejia Denmark 18 COVID-2019 NO
+26562 David Barry Denmark 54 FLU-2018 YES 11-05-2013
+23095 Paul Wright Denmark 28 SARS-1 YES 20-10-2002
+9029 Marcia Alvarado Denmark 77 COVID-2019 NO
+67612 Russell Bennett Denmark 38 H1N1 YES 13-10-2013
+39176 Kevin Wilson Denmark 20 FLU-2018 YES 03-09-2004
+44689 Deanna Stanton Denmark 42 SARS-COV-2 NO
+39792 Robert Robertson Denmark 76 COVID-2019 NO
+73245 Cory Griffin Denmark 66 COVID-2019 NO
+9198 Christopher Armstrong Denmark 29 SARS-1 NO
+69845 Brandon Reyes Denmark 59 COVID-2019 YES 26-04-2019
+59729 Stephen Mitchell Denmark 28 EVD YES 28-11-2010
+60161 Elizabeth Murray Denmark 56 SARS-COV-2 NO
+34712 Eric Gates Denmark 42 SARS-COV-2 NO
+89092 Jason Neal Denmark 21 MERS-COV YES 12-08-2020
+96029 Luke Reynolds Denmark 42 EVD NO
+71526 Brandon Pope Denmark 25 H1N1 YES 19-01-2006
+23939 Benjamin Dixon Denmark 56 SARS-1 NO
+42290 Matthew Garner Denmark 72 MERS-COV NO
+82368 Brenda Leonard Denmark 13 FLU-2018 NO
+25092 Nathan Contreras Denmark 58 EVD NO
+49383 Brandon Walker Denmark 26 SARS-1 YES 27-02-2007
+6251 Joseph Anthony Denmark 66 SARS-1 YES 13-06-2009
+49742 Anthony Gray Denmark 27 H1N1 YES 09-06-2006
+52767 Sarah Austin Denmark 61 FLU-2018 YES 12-08-2010
+61477 Ashley Johnson Denmark 42 SARS-COV-2 YES 28-05-2002
+22490 Sandy Moreno Denmark 21 SARS-COV-2 NO
+11803 William Bauer Denmark 30 FLU-2018 YES 31-10-2009
+63157 Amber Jones Denmark 55 FLU-2018 NO
+40196 Stephen Kim Denmark 55 SARS-1 NO
+69885 Monique Morales Denmark 58 SARS-COV-2 NO
+20046 Kimberly Anderson Denmark 20 FLU-2018 NO
+44715 Stephen Peterson Denmark 66 FLU-2018 YES 07-09-2012
+42078 James Wright Denmark 72 COVID-2019 NO
+93940 Charles Sanders Denmark 33 H1N1 YES 03-04-2017
+157 Colton Turner Denmark 32 SARS-COV-2 NO
+20840 Christian Stewart Denmark 11 SARS-COV-2 NO
+52844 Kelly Romero Denmark 52 SARS-COV-2 NO
+21122 Erica Archer Denmark 22 EVD YES 22-10-2015
+51135 Amy Williams Denmark 24 COVID-2019 YES 12-08-2010
+42946 Alex Valenzuela Denmark 37 H1N1 NO
+37549 Jim Lee Denmark 71 EVD YES 23-10-2019
+57968 Sheila Garza Denmark 65 EVD NO
+35677 Scott Craig Denmark 39 SARS-COV-2 YES 18-12-2010
+21622 Michele Strickland Denmark 43 SARS-1 YES 25-12-2017
+75717 Brandon Harris Denmark 77 SARS-1 YES 28-12-2013
+47583 Jessica Maxwell Denmark 71 COVID-2019 NO
+55558 Paul Mitchell Denmark 57 MERS-COV NO
+35108 James Howard Denmark 56 COVID-2019 NO
+14131 Elizabeth Miller Denmark 69 FLU-2018 YES 08-02-2004
+35863 Steven Li Denmark 55 FLU-2018 YES 11-11-2013
+20899 Brian Cain Denmark 23 FLU-2018 NO
+15840 Garrett Mccarthy Denmark 17 MERS-COV YES 01-11-2019
+69217 William Melton Denmark 29 MERS-COV YES 01-06-2013
+50575 Laura Stark Denmark 73 COVID-2019 YES 27-07-2000
+34318 Regina Moss Denmark 66 H1N1 YES 28-08-2008
+27272 Mckenzie Garcia Denmark 46 H1N1 NO
+14501 Henry Peterson Denmark 23 SARS-COV-2 NO
+43009 Jeffrey Steele Denmark 32 FLU-2018 YES 13-10-2020
+65317 Amanda Roberts Denmark 77 H1N1 NO
+80438 Sara Phillips Denmark 20 H1N1 NO
+39043 Steven Lyons Denmark 58 H1N1 NO
+86861 Aaron Huffman Denmark 74 EVD YES 15-12-2010
+21592 Sean Mcpherson Denmark 45 SARS-1 YES 15-05-2008
+54734 Melissa West Denmark 64 COVID-2019 YES 10-02-2005
+87198 Caitlin Cooley Denmark 17 H1N1 NO
+75409 Brandon Weeks Denmark 69 COVID-2019 YES 29-05-2013
+64899 Andrew Peters Denmark 55 SARS-1 NO
+54737 Brian Summers Denmark 33 SARS-1 YES 26-10-2010
+44447 Stephen Graham Denmark 69 FLU-2018 YES 14-05-2018
+75913 Jonathan Gutierrez Denmark 17 SARS-COV-2 YES 25-06-2008
+25116 David Walker Denmark 23 SARS-COV-2 NO
+63210 Miranda Pena Denmark 67 SARS-COV-2 YES 13-01-2001
+74521 John Cole Denmark 74 COVID-2019 NO
+70793 Andrea Berger Denmark 51 MERS-COV YES 02-10-2014
+92873 Christopher Brooks Denmark 40 H1N1 YES 19-02-2000
+43521 Rachael Marshall Denmark 55 MERS-COV NO
+54704 Michael Brewer Denmark 52 H1N1 YES 31-03-2013
+59365 Anna Arroyo Denmark 15 COVID-2019 NO
+39872 Alan Hunt Denmark 20 EVD YES 11-06-2004
+32209 Nathaniel Wilson Denmark 11 FLU-2018 YES 10-04-2003
+25835 Richard Patterson Denmark 10 COVID-2019 YES 13-11-2003
+16016 Tyler Spence Denmark 44 MERS-COV NO
+4630 Nicholas Collins Denmark 40 H1N1 YES 05-11-2001
+33169 Yesenia Osborn Denmark 22 SARS-COV-2 NO
+33161 Laura Morales Denmark 37 EVD NO
+60519 Brandon Perez Denmark 52 COVID-2019 NO
+9203 Heather Ramos Denmark 21 FLU-2018 NO
+43587 Daniel Moon Denmark 22 FLU-2018 YES 14-06-2013
+16799 Bryan Rios Denmark 53 MERS-COV YES 28-05-2014
+27278 Jesse Ramos Denmark 63 EVD NO
+97872 Duane Reyes Denmark 54 H1N1 YES 27-11-2012
+27468 Brian Travis Denmark 17 H1N1 NO
+90404 Shane Odom Denmark 18 H1N1 YES 04-09-2002
+82686 Julie Brennan Denmark 37 SARS-COV-2 YES 20-03-2007
+72564 Destiny Gibson Denmark 23 H1N1 NO
+67410 Hannah Shaw Denmark 19 SARS-1 NO
+3372 Matthew Aguilar Denmark 41 COVID-2019 YES 08-09-2002
+30093 Kevin Barton Denmark 22 EVD YES 18-11-2005
+52094 Dillon Mueller Denmark 25 SARS-COV-2 YES 20-02-2005
+31969 Melissa Larson Denmark 32 COVID-2019 YES 22-03-2000
+20636 Mark Ward Denmark 39 COVID-2019 YES 03-05-2017
+54282 Tina Sheppard Denmark 43 FLU-2018 YES 21-04-2005
+79919 Kimberly Jimenez Denmark 34 SARS-COV-2 YES 29-01-2011
+78073 Corey Solomon Denmark 14 FLU-2018 NO
+72751 Dawn Torres Denmark 75 MERS-COV YES 01-12-2019
+97167 Amy Brown Denmark 50 FLU-2018 YES 15-11-2008
+64151 Jeffery Smith Denmark 77 SARS-COV-2 NO
+37240 Lauren Jensen Denmark 33 SARS-1 NO
+12403 Gabriel Tucker Denmark 74 EVD NO
+97570 Alexa Rodriguez Denmark 69 SARS-COV-2 YES 24-09-2007
+47934 Frank Marks Denmark 76 MERS-COV NO
+68691 Regina Sawyer Denmark 74 FLU-2018 NO
+81978 Christopher Garcia Denmark 23 EVD YES 02-01-2019
+33266 Dennis Burnett Denmark 26 COVID-2019 NO
+73132 Jon Williams Denmark 24 FLU-2018 NO
+72093 Christina Owen Denmark 52 COVID-2019 NO
+90184 Randy Williams Denmark 55 MERS-COV NO
+80366 Shawn Carrillo Denmark 74 COVID-2019 YES 11-07-2014
+38554 Susan Gutierrez Denmark 56 SARS-COV-2 YES 01-04-2004
+1122 Amanda Frye Denmark 76 EVD NO
+29303 Jason Garner Denmark 49 H1N1 NO
+55396 Jason Reed Denmark 28 SARS-1 NO
+5887 Brian Compton Denmark 22 MERS-COV NO
+27743 Anna Stanton Denmark 69 COVID-2019 NO
+47938 Thomas Reynolds Denmark 29 H1N1 YES 09-12-2018
+56693 Kimberly Rocha Denmark 68 SARS-COV-2 YES 14-05-2008
+80770 Jennifer Bailey Denmark 17 SARS-1 NO
+89933 Heather Butler Denmark 29 MERS-COV YES 11-04-2003
+31955 Rachel Anderson Denmark 21 SARS-1 YES 15-08-2015
+91028 Thomas Willis Denmark 21 SARS-COV-2 NO
+34776 Melissa Shaw Denmark 37 SARS-1 YES 12-12-2019
+25916 Carrie Roberts Denmark 39 FLU-2018 NO
+15337 Nicole Moore Denmark 78 EVD YES 10-06-2000
+71139 Ryan Washington Denmark 46 FLU-2018 YES 14-01-2014
+61857 James Nelson Denmark 33 COVID-2019 NO
+23728 Robin Davidson Denmark 33 SARS-1 NO
+39185 Nathaniel White Denmark 36 FLU-2018 YES 27-07-2020
+81954 Madeline Richardson Denmark 12 COVID-2019 NO
+92311 Tracy Santiago Denmark 46 H1N1 YES 26-03-2011
+42563 Christopher Chandler Denmark 55 COVID-2019 NO
+69004 Thomas Scott Denmark 42 COVID-2019 YES 22-02-2018
+63141 Roberto Burns Denmark 61 FLU-2018 YES 11-04-2014
+24050 Nancy Hampton Denmark 61 SARS-1 YES 12-06-2003
+10947 James Hall Denmark 48 H1N1 YES 16-06-2020
+64495 Kenneth Rodriguez Denmark 39 FLU-2018 NO
+13225 Patricia Martin Denmark 18 MERS-COV NO
+3910 Thomas Fox Denmark 42 SARS-1 NO
+66013 Bethany Murray Denmark 43 COVID-2019 YES 05-04-2000
+22347 Madison Williams Denmark 46 SARS-1 NO
+61592 Karen Johnson Denmark 34 FLU-2018 NO
+78522 Brian Mccarthy Denmark 46 SARS-1 NO
+71768 Samuel Stewart Denmark 77 EVD NO
+67846 Zachary Tapia Denmark 79 MERS-COV YES 18-03-2017
+1469 George Cortez Denmark 56 H1N1 YES 24-09-2014
+19751 Larry Collins Denmark 44 FLU-2018 YES 22-03-2001
+34704 Kenneth Hickman Denmark 25 MERS-COV YES 05-01-2010
+1604 Bryan Morgan Denmark 11 FLU-2018 NO
+88636 Michelle Morrow Denmark 54 COVID-2019 YES 24-11-2011
+83006 Margaret Harris Denmark 51 EVD NO
+41998 Amy Harmon Denmark 61 MERS-COV YES 10-11-2000
+81293 Caitlin Sanchez Denmark 48 FLU-2018 NO
+81070 Steven Herring Denmark 18 FLU-2018 YES 21-01-2004
+61105 Anna Collins Denmark 11 SARS-COV-2 YES 27-11-2010
+4848 Amanda Salazar Denmark 73 MERS-COV NO
+91275 Cheryl Haas Denmark 67 MERS-COV NO
+44560 Linda Lewis Denmark 43 FLU-2018 YES 13-10-2010
+94602 Jacqueline West Denmark 79 COVID-2019 YES 09-08-2002
+13131 Susan Solis Denmark 63 SARS-COV-2 YES 28-06-2010
+80414 Brandon Jackson Denmark 70 COVID-2019 YES 15-04-2017
+36980 Katherine Bryan Denmark 52 SARS-1 YES 19-06-2005
+80130 Amanda Burnett Denmark 75 SARS-COV-2 YES 22-10-2018
+37378 Linda Bailey Denmark 27 SARS-COV-2 YES 31-07-2019
+31642 Dana Ross Denmark 47 SARS-1 NO
+19913 Albert Brown Denmark 43 COVID-2019 NO
+44148 David Baker Denmark 30 EVD YES 29-09-2015
+55457 Travis Davis Denmark 38 EVD NO
+50209 Sheila Anderson Denmark 54 H1N1 YES 17-07-2017
+94532 Wayne Miller Denmark 14 SARS-1 YES 12-02-2014
+6031 Mark George Denmark 22 SARS-COV-2 NO
+1476 Gary Gray Denmark 39 EVD NO
+8980 Eugene Mccullough Denmark 26 FLU-2018 YES 04-06-2009
+87132 Peter Oliver Denmark 33 COVID-2019 YES 07-08-2016
+65117 Mary Atkins Denmark 70 SARS-COV-2 YES 25-02-2017
+39806 Christine Peters Denmark 10 EVD YES 01-11-2012
+72941 Lindsey Foster Denmark 27 H1N1 NO
+14076 Justin Graham Denmark 53 FLU-2018 NO
+37613 Jose Mcknight Denmark 47 COVID-2019 YES 06-04-2006
+83511 Pamela Thomas Denmark 33 FLU-2018 NO
+16849 Margaret Vasquez Denmark 67 COVID-2019 NO
+90192 Sarah Rodriguez Denmark 56 EVD NO
+40346 Mary Jones Denmark 68 SARS-1 NO
+10292 Gregory Gonzalez Denmark 47 EVD NO
+27025 Todd Jones Denmark 47 SARS-COV-2 YES 22-11-2000
+1169 Jeffrey Henderson Denmark 66 SARS-COV-2 NO
+28642 John Brock Denmark 38 FLU-2018 NO
+8493 Tammy Munoz Denmark 35 SARS-1 NO
+80977 Cynthia Jackson Denmark 45 SARS-COV-2 NO
+90027 Donna Medina Denmark 46 SARS-1 YES 18-04-2010
+92535 Matthew Tran Denmark 61 FLU-2018 NO
+11242 Shawn Williams Denmark 40 COVID-2019 YES 13-03-2016
+6773 Jackie Roberts Denmark 27 EVD YES 13-01-2002
+97438 Katherine Padilla Denmark 18 EVD NO
+73914 Calvin Lopez Denmark 56 FLU-2018 NO
+99572 Mark Reed Denmark 60 EVD YES 01-08-2018
+82848 Steven Allen Denmark 17 FLU-2018 YES 24-08-2013
+31057 Bonnie Ray Denmark 23 SARS-1 YES 04-01-2021
+31173 Joseph Clark Denmark 12 MERS-COV YES 09-12-2015
+23378 James Martinez Denmark 29 H1N1 NO
+42038 Amanda Williamson Denmark 27 EVD NO
+5301 Sherry Nelson Denmark 71 H1N1 YES 30-07-2002
+65638 Maria Bush Denmark 25 EVD YES 07-10-2008
+83727 Kristen Freeman Denmark 56 H1N1 NO
+30321 Molly Davis Denmark 71 H1N1 YES 25-05-2018
+71333 Bethany Weeks Denmark 23 H1N1 NO
+10692 Larry Carpenter Denmark 12 SARS-COV-2 YES 26-02-2011
+84696 Alexandra Lutz Denmark 44 FLU-2018 YES 21-10-2008
+65346 Paul Williams Denmark 42 EVD YES 01-11-2016
+95287 Tina Brooks Denmark 44 COVID-2019 YES 23-04-2009
+30796 Russell Farrell Denmark 61 SARS-COV-2 NO
+40699 Joseph Krueger Denmark 12 FLU-2018 YES 02-02-2008
+5583 Hector Hopkins Denmark 26 MERS-COV YES 22-06-2000
+10549 Allison Thompson Denmark 27 SARS-1 NO
+39856 Scott Sanchez Denmark 74 H1N1 YES 10-07-2018
+48993 Sharon White Denmark 79 SARS-1 YES 15-12-2017
+1935 Lydia Meyer Denmark 26 MERS-COV NO
+40533 Brittany Hernandez Denmark 65 COVID-2019 YES 05-11-2007
+86666 Charles Robinson Denmark 18 EVD NO
+85759 Tamara Reyes Denmark 24 MERS-COV YES 21-04-2020
+96035 Patrick Turner Denmark 76 FLU-2018 YES 24-05-2019
+57236 Jonathan Long Denmark 60 EVD NO
+63536 Jasmine Elliott Denmark 57 COVID-2019 NO
+1527 Amanda Michael Denmark 27 SARS-COV-2 YES 04-03-2008
+72783 Daniel Mcgee Denmark 75 COVID-2019 NO
+64963 Hayley Walter Denmark 64 COVID-2019 YES 26-11-2006
+53738 Melissa Edwards Denmark 23 H1N1 YES 09-03-2002
+25540 Cody Bradley Denmark 11 EVD YES 24-01-2021
+78572 Rebecca Evans Denmark 73 H1N1 YES 14-03-2001
+13749 Jason Riddle Denmark 43 SARS-COV-2 YES 09-08-2015
+70211 Nicholas Carroll Denmark 30 MERS-COV NO
+46057 Robert Ayala Denmark 43 SARS-COV-2 YES 07-03-2016
+43524 Jillian York Denmark 66 SARS-COV-2 YES 03-04-2010
+65364 Shelia Murphy Denmark 43 SARS-1 NO
+91759 Mason Murphy Denmark 74 SARS-1 NO
+90242 David Mclaughlin Denmark 51 SARS-COV-2 NO
+96644 Christy Rivera Denmark 37 H1N1 NO
+91229 Craig Clark Denmark 38 FLU-2018 YES 16-03-2001
+99162 Karen Chavez Denmark 48 SARS-1 YES 01-05-2015
+80056 Barbara Rodriguez Denmark 68 SARS-1 YES 10-09-2019
+21574 Curtis Reed Denmark 25 H1N1 YES 18-04-2019
+18877 William Edwards Denmark 78 H1N1 YES 09-06-2011
+12093 Elizabeth Martin Denmark 67 COVID-2019 YES 08-10-2017
+92519 Tina Cobb Denmark 49 COVID-2019 YES 27-08-2001
+26520 Beth Coleman Denmark 64 COVID-2019 YES 11-09-2018
+84531 Michael Harrell Denmark 65 SARS-COV-2 NO
+50345 John Castillo Denmark 43 SARS-COV-2 NO
+96720 Kara Stewart Denmark 28 COVID-2019 YES 09-08-2011
+59092 Robert Ray Denmark 40 H1N1 NO
+3802 Misty Sullivan Denmark 10 FLU-2018 YES 23-11-2015
+21369 Michael Barton Denmark 35 H1N1 NO
+86778 Tammy Casey Denmark 42 SARS-COV-2 NO
+98976 Miguel Lewis Denmark 59 COVID-2019 NO
+70787 Kimberly Perez Denmark 25 MERS-COV YES 21-04-2012
+65090 Kathryn Green Denmark 51 FLU-2018 YES 04-06-2003
+20271 Michael Ramos Denmark 17 MERS-COV YES 03-01-2001
+88153 Sara Jackson Denmark 53 MERS-COV YES 15-11-2008
+76980 Michelle White Denmark 27 FLU-2018 YES 12-11-2014
+1932 Linda Lynch Denmark 53 COVID-2019 NO
+32995 Robert Taylor Denmark 59 FLU-2018 NO
+83880 Christopher Hartman Denmark 62 MERS-COV NO
+96 Hannah Garcia Denmark 40 FLU-2018 NO
+16025 Jean Stewart Denmark 14 MERS-COV YES 27-10-2006
+97329 Jennifer Taylor Denmark 27 EVD YES 23-12-2011
+45739 Rebecca Fisher Denmark 43 FLU-2018 YES 15-06-2016
+60821 Nicholas Thompson Denmark 21 SARS-1 NO
+55637 Christina Clark Denmark 13 H1N1 YES 08-06-2015
+13361 Suzanne Taylor Denmark 24 FLU-2018 YES 03-12-2016
+72255 Richard Lamb Denmark 57 EVD YES 27-11-2013
+25689 Timothy Boyd Denmark 64 COVID-2019 YES 04-11-2009
+73629 Derek Ramos Denmark 59 SARS-COV-2 NO
+17624 Kathy Hamilton Denmark 40 FLU-2018 YES 26-03-2014
+63493 Eric Smith Denmark 60 MERS-COV YES 05-10-2017
+63647 Janice Haynes Denmark 43 H1N1 NO
+93575 Annette Williams Denmark 41 SARS-COV-2 YES 22-12-2020
+86575 Grant Smith Denmark 12 SARS-COV-2 NO
+63924 Jill Lawson Denmark 59 COVID-2019 NO
+18772 Gwendolyn Palmer Denmark 73 EVD NO
+82655 Kevin Murphy Denmark 38 SARS-COV-2 YES 07-07-2012
+6594 Regina Allen Denmark 18 COVID-2019 NO
+33023 Sharon Banks Denmark 30 SARS-1 NO
+38062 Brian Carson Denmark 75 MERS-COV NO
+64187 Richard Aguilar Denmark 24 FLU-2018 YES 09-12-2006
+39798 James Jordan Denmark 43 FLU-2018 NO
+14611 Donald Villarreal Denmark 16 MERS-COV NO
+23772 William Richards Denmark 63 SARS-1 YES 13-05-2000
+13039 Tara Nielsen Denmark 65 FLU-2018 NO
+86142 Scott Lee Denmark 39 EVD YES 28-07-2002
+27345 Darrell Evans Denmark 69 SARS-1 NO
+42897 Monica Mcdonald Denmark 70 H1N1 NO
+49023 Danielle Parker Denmark 68 H1N1 YES 28-01-2019
+24572 Ricky Holden Denmark 72 COVID-2019 NO
+74804 Ricky Owens Denmark 34 MERS-COV YES 16-01-2013
+8115 Mary Mcgee Denmark 27 MERS-COV YES 23-04-2011
+57683 Melanie Kramer Denmark 30 SARS-1 YES 22-10-2009
+26193 Laurie Dean Denmark 50 COVID-2019 NO
+91155 Gerald Roberts Denmark 11 SARS-COV-2 NO
+52674 Kimberly Keller Denmark 23 SARS-1 YES 08-06-2002
+49682 Amy Baker Denmark 20 FLU-2018 NO
+94117 James Duffy Denmark 56 FLU-2018 NO
+69973 Holly Hancock Denmark 17 COVID-2019 YES 28-07-2014
+94074 Leslie Perkins Denmark 12 FLU-2018 YES 10-04-2018
+56551 Jessica Hammond Denmark 70 SARS-COV-2 YES 11-09-2015
+4620 Emily Gutierrez Denmark 64 SARS-1 NO
+9202 Brian Reid Denmark 27 COVID-2019 YES 04-07-2013
+52225 Charles Chapman Denmark 44 SARS-COV-2 YES 02-04-2004
+62884 Elizabeth Hull Denmark 46 FLU-2018 YES 20-06-2006
+68072 Michael Pugh Denmark 30 FLU-2018 NO
+61855 Christopher Day Denmark 39 MERS-COV YES 04-02-2004
+61912 Angela Carter Denmark 21 EVD YES 20-09-2001
+18460 Denise Jones Denmark 13 MERS-COV NO
+13913 Jared Barrett Denmark 73 EVD NO
+65976 Mary Smith Denmark 41 EVD YES 14-04-2014
+56387 Bryan Gutierrez Denmark 73 FLU-2018 YES 16-11-2009
+85616 John Hernandez Denmark 19 SARS-COV-2 YES 20-02-2010
+74199 Laura Mason Denmark 18 COVID-2019 YES 25-12-2006
+19693 Christopher Smith Denmark 32 MERS-COV YES 25-12-2003
+10334 Connie Howard Denmark 47 MERS-COV YES 20-10-2006
+62873 Kathleen Blevins Denmark 54 SARS-COV-2 YES 22-12-2002
+56859 Michael Solomon Denmark 11 SARS-1 NO
+1543 Hannah Ferrell Denmark 47 COVID-2019 YES 15-01-2013
+96803 Joseph Davis Denmark 30 FLU-2018 NO
+82008 Katrina Smith Denmark 56 SARS-1 YES 25-07-2015
+71981 Sarah Neal Denmark 39 SARS-1 YES 06-10-2018
+97676 Christina Brown Denmark 39 FLU-2018 YES 24-10-2008
+63158 Christian Turner Denmark 12 H1N1 NO
+80686 Matthew Collier Denmark 74 FLU-2018 NO
+77776 Teresa Combs Denmark 62 SARS-COV-2 NO
+95717 Emily Caldwell Denmark 11 FLU-2018 YES 20-07-2004
+1963 Brian Ball Denmark 19 COVID-2019 YES 09-06-2001
+57300 Janice Taylor Denmark 56 MERS-COV YES 12-04-2018
+76104 Lisa Peterson Denmark 50 SARS-COV-2 YES 20-04-2000
+89341 Nicole Smith Denmark 79 COVID-2019 NO
+81492 Ian Welch Denmark 66 SARS-COV-2 NO
+41551 Arthur Hernandez Denmark 48 MERS-COV NO
+45319 Thomas Farley Denmark 23 H1N1 YES 03-12-2011
+4184 Michael Wiley Denmark 45 FLU-2018 YES 02-04-2013
+12808 Natasha Hanson Denmark 65 H1N1 YES 01-09-2019
+29484 Jesse Tate Denmark 18 SARS-COV-2 YES 10-11-2016
+40616 Kathryn Johnson Denmark 20 H1N1 NO
+12705 Martin Washington Denmark 79 SARS-1 YES 27-10-2019
+29009 Daniel Brown Denmark 40 COVID-2019 YES 04-04-2003
+78029 David Vargas Denmark 21 EVD NO
+8814 Ashley Lucas Denmark 69 COVID-2019 NO
+20478 Sarah Bender Denmark 56 COVID-2019 NO
+84941 Linda Hernandez Denmark 36 H1N1 NO
+56936 Alexis Freeman Denmark 23 H1N1 NO
+47407 Maurice Wilson Denmark 67 H1N1 NO
+17220 Joseph Green Denmark 36 EVD YES 25-08-2006
+29744 Joan Rivers Denmark 31 EVD NO
+72715 Amanda Taylor Denmark 73 H1N1 NO
+27763 Toni Arroyo Denmark 46 EVD YES 11-03-2017
+58040 Bryan Rivera Denmark 55 SARS-1 YES 17-07-2002
+57801 Tina Kane Denmark 32 COVID-2019 NO
+47759 Eric Wright Denmark 52 COVID-2019 YES 15-09-2020
+7505 Angela Neal Denmark 34 MERS-COV YES 06-02-2014
+72097 Sean Hancock Denmark 14 COVID-2019 NO
+99926 Ryan Warner Denmark 74 SARS-COV-2 NO
+59924 Loretta Lopez Denmark 51 SARS-COV-2 YES 24-12-2005
+96173 Gerald Lewis Denmark 29 SARS-COV-2 NO
+56805 James Mclaughlin Denmark 21 EVD NO
+59115 Bryan Reeves Denmark 51 SARS-COV-2 YES 22-10-2016
+42215 Daniel Erickson Denmark 60 MERS-COV YES 25-01-2006
+42415 Keith Gonzales Denmark 10 FLU-2018 NO
+99853 Leslie Meza Denmark 40 COVID-2019 YES 29-04-2017
+94335 Gregory Kaiser Denmark 40 EVD NO
+56165 Kevin Callahan Denmark 53 COVID-2019 NO
+60815 Wesley Gardner Denmark 45 COVID-2019 YES 14-05-2020
+24364 Richard Robbins Denmark 53 SARS-COV-2 YES 25-03-2019
+21546 Carolyn Ramos Denmark 61 SARS-COV-2 YES 25-03-2020
+53241 Brian Peterson Denmark 34 SARS-1 NO
+45566 Melissa Weber Denmark 22 EVD NO
+75234 James Flores Denmark 62 EVD NO
+56421 Max Stout Denmark 42 SARS-COV-2 NO
+90580 Briana Miles Denmark 24 EVD NO
+76521 Benjamin Sanford Denmark 50 SARS-1 YES 20-04-2006
+25956 Matthew Small Denmark 41 FLU-2018 NO
+75125 Michael Vazquez Denmark 41 SARS-COV-2 YES 02-04-2013
+23796 Hannah Berry Denmark 48 EVD YES 01-11-2003
+51863 Marc Robinson Denmark 42 EVD NO
+27933 David Jones Denmark 45 H1N1 NO
+2753 Amy Navarro Denmark 49 EVD NO
+24150 Stephanie Johnson Denmark 34 EVD YES 25-10-2003
+73760 Patrick Thomas Denmark 62 FLU-2018 NO
+73509 Jacob Mcdonald Denmark 36 FLU-2018 YES 03-10-2014
+1052 Shawn Miranda Denmark 17 SARS-COV-2 YES 10-04-2001
+43560 Kevin Davidson Denmark 21 SARS-COV-2 YES 22-05-2019
+46699 Robert Jefferson Denmark 40 H1N1 YES 01-08-2012
+8888 Brandon Jones Denmark 72 SARS-COV-2 NO
+33543 Michele Mcbride Denmark 46 SARS-1 NO
+77063 Debra Jordan Denmark 37 FLU-2018 NO
+19221 Lisa Flynn Denmark 66 MERS-COV YES 03-07-2004
+3459 Daniel Howard Denmark 74 FLU-2018 YES 29-07-2007
+59284 Christine Larson Denmark 14 SARS-1 NO
+96775 Amanda Willis Denmark 77 SARS-COV-2 YES 25-11-2009
+5294 Judith Horn Denmark 16 FLU-2018 YES 05-03-2004
+24733 Diana Mcdonald Denmark 67 EVD NO
+73986 Bonnie Nolan Denmark 65 FLU-2018 YES 27-02-2017
+30326 Debbie Lewis Denmark 65 H1N1 NO
+54850 Vanessa Riddle Denmark 46 MERS-COV NO
+62935 Amber Smith Denmark 32 SARS-COV-2 YES 14-05-2016
+70851 Bailey Hernandez Denmark 19 MERS-COV YES 23-01-2009
+1069 Kristen Alexander Denmark 77 SARS-1 NO
+11919 Lisa Castillo Denmark 28 SARS-1 NO
+95832 Jeffrey Roberts Denmark 40 H1N1 YES 25-12-2020
+58828 Cathy Walsh Denmark 13 SARS-COV-2 YES 04-05-2016
+6965 Garrett Andrews Denmark 14 H1N1 NO
+59816 Tracey Walton Denmark 16 FLU-2018 YES 22-08-2010
+55791 Cheryl Williams Denmark 52 COVID-2019 YES 20-03-2012
+41112 Michael Landry Denmark 75 SARS-1 YES 29-07-2007
+75846 Ryan Sanchez Denmark 11 H1N1 NO
+43758 Ethan Macias Denmark 38 H1N1 NO
+27435 Gabriella Wallace Denmark 26 MERS-COV YES 18-09-2001
+39250 Marie Bridges Denmark 13 SARS-1 YES 19-02-2007
+73911 Gregory Fox Denmark 66 MERS-COV YES 12-02-2021
+71128 Natalie Bowen Denmark 60 SARS-COV-2 YES 12-07-2006
+69469 Bradley Johnson Denmark 21 COVID-2019 NO
+72772 Amber Jackson Denmark 78 FLU-2018 YES 17-04-2000
+62256 Ryan Frazier Denmark 11 SARS-COV-2 NO
+67965 Charles Lawrence Denmark 54 COVID-2019 NO
+63089 Samuel Harris Denmark 16 EVD YES 13-07-2011
+1449 Jessica Brown Denmark 62 EVD YES 15-01-2021
+35851 Ashley Bates Denmark 52 MERS-COV NO
+47265 Jason Smith Denmark 10 SARS-COV-2 NO
+30325 Andrea Thomas Denmark 43 COVID-2019 YES 07-07-2008
+13311 John Brown Denmark 51 SARS-1 NO
+13855 Julie Smith Denmark 22 COVID-2019 YES 27-03-2008
+10358 Donald Potter Denmark 23 H1N1 YES 17-08-2012
+85662 Timothy Jones Denmark 37 SARS-COV-2 NO
+97535 Kevin Cline Denmark 79 H1N1 NO
+93453 Robert Berg Denmark 14 EVD YES 06-07-2001
+17938 Scott Bell Denmark 51 FLU-2018 YES 25-04-2012
+9898 Emily Richards Denmark 62 EVD YES 24-07-2019
+70522 David Russell Denmark 31 FLU-2018 NO
+59702 Michael Porter Denmark 55 FLU-2018 YES 12-10-2019
+8602 Gary House Denmark 43 EVD YES 13-12-2019
+32321 Todd Macdonald Denmark 60 COVID-2019 NO
+388 Benjamin Anderson Denmark 48 FLU-2018 YES 05-01-2008
+40227 Jessica Ramos Denmark 33 MERS-COV NO
+16067 Eric Woods Denmark 63 EVD YES 23-11-2000
+96704 William Bailey Denmark 30 SARS-1 NO
+46077 Jared Sanders Denmark 36 SARS-1 NO
+35921 Felicia Juarez Denmark 50 FLU-2018 YES 08-08-2008
+65284 Kyle Estrada Denmark 78 MERS-COV NO
+94379 Lance Flores Denmark 36 SARS-1 YES 02-03-2014
+18316 Andrea Munoz Denmark 65 SARS-1 NO
+41992 Benjamin Hoffman Denmark 47 FLU-2018 YES 16-10-2009
+52235 Sandra Steele Denmark 36 FLU-2018 NO
+24384 James Alexander Denmark 18 MERS-COV NO
+26787 Melody Perez Denmark 62 H1N1 YES 21-10-2016
+78002 Michael Holland Denmark 43 COVID-2019 YES 30-06-2008
+18337 Samuel Johnson Denmark 55 EVD YES 15-11-2009
+42903 Jennifer Hall Denmark 41 EVD NO
+4391 Dean Cruz Denmark 10 SARS-1 YES 01-06-2014
+21258 Kathryn Johnson Denmark 53 COVID-2019 NO
+97561 Nicole Carroll Denmark 62 EVD NO
+33305 Teresa Anderson Denmark 79 SARS-COV-2 YES 03-04-2019
+91316 Amy Coleman Denmark 64 SARS-COV-2 YES 19-11-2000
+8485 Ann Hoover Denmark 71 EVD YES 23-06-2018
+18080 Todd Harris Denmark 23 MERS-COV YES 10-08-2006
+90701 Allison Holt Denmark 79 MERS-COV NO
+79929 Ronald Fernandez Denmark 54 MERS-COV YES 02-04-2004
+69425 Richard Andrews Denmark 57 H1N1 YES 12-12-2006
+60116 Courtney Sanders Denmark 73 EVD NO
+80665 Amanda Cisneros Denmark 76 MERS-COV NO
+6541 Kristin Roberts Denmark 22 SARS-1 NO
+46869 Joshua Mason Denmark 12 SARS-1 NO
+35094 Michael Castro Denmark 23 EVD YES 24-05-2001
+88573 Travis Knight Denmark 61 SARS-1 YES 03-09-2001
+89926 Kayla Ortiz Denmark 17 MERS-COV YES 23-10-2016
+99838 Kristen Wheeler Denmark 66 SARS-1 NO
+21395 Michael Mcdonald Denmark 14 H1N1 NO
+68562 Jeremiah Cunningham Denmark 74 EVD YES 05-09-2019
+12039 Cassandra Sanford Denmark 13 SARS-1 YES 13-03-2002
+78048 Katie Cole Denmark 26 SARS-COV-2 NO
+75068 Deborah Arellano Denmark 17 H1N1 YES 13-11-2003
+72022 Mark Norris Denmark 47 SARS-COV-2 YES 11-02-2016
+84206 Nicole Shaw Denmark 17 H1N1 YES 05-03-2007
+58365 Sarah Horton Denmark 64 SARS-COV-2 YES 19-12-2001
+23204 Jesse Jones Denmark 78 COVID-2019 NO
+62327 Michael Herring Denmark 56 EVD NO
+46514 Julia Ward Denmark 37 EVD YES 23-05-2011
+35096 Benjamin Lawson Denmark 73 SARS-COV-2 YES 17-11-2003
+80066 Vanessa Hamilton Denmark 50 FLU-2018 YES 18-07-2002
+20508 Robert Barton Denmark 13 SARS-1 NO
+63717 Stacy Lopez Denmark 71 H1N1 NO
+94945 Valerie Cox Denmark 59 COVID-2019 YES 20-05-2008
+13369 Jason Scott Denmark 32 COVID-2019 YES 19-11-2017
+42486 Danielle Williams Denmark 48 SARS-COV-2 YES 13-02-2014
+46002 Raymond Jordan Denmark 10 SARS-COV-2 NO
+93684 Earl Collins Denmark 68 SARS-1 YES 31-05-2003
+84608 Anthony Gray Denmark 10 MERS-COV NO
+35545 Katherine Gill Denmark 78 COVID-2019 YES 13-07-2006
+60460 Jeremy Smith Denmark 67 SARS-COV-2 NO
+49365 William Brown Denmark 51 SARS-1 NO
+97003 Mario Allen Denmark 16 FLU-2018 NO
+36358 Cameron Jones Denmark 29 SARS-1 NO
+86973 Tracy Austin Denmark 12 FLU-2018 NO
+55513 Christopher Le Denmark 30 MERS-COV YES 02-05-2009
+87533 Brandon Chandler Denmark 34 SARS-COV-2 NO
+26414 Christopher Bennett Denmark 13 COVID-2019 NO
+10726 Timothy Moore Denmark 64 H1N1 YES 27-08-2019
+38310 Peter Gutierrez Denmark 79 H1N1 YES 14-03-2012
+65398 Ryan Davis Denmark 52 EVD YES 20-10-2009
+37726 David Riley Denmark 34 SARS-COV-2 YES 29-09-2011
+12385 Damon Anderson Denmark 20 EVD NO
+91974 Jason Dillon Denmark 33 SARS-COV-2 YES 13-10-2006
+5497 Marcus Calhoun Denmark 30 COVID-2019 YES 24-05-2004
+18527 Mary Garcia Denmark 35 COVID-2019 NO
+94833 Justin Owens Denmark 42 COVID-2019 YES 10-06-2001
+89302 Christine Koch Denmark 62 H1N1 NO
+1781 Kristin Roberts Denmark 48 SARS-1 NO
+58155 George Schneider Denmark 26 H1N1 NO
+54818 Kenneth Petersen Denmark 35 COVID-2019 YES 15-04-2007
+29994 Sean Skinner Denmark 54 H1N1 NO
+68255 David Smith Denmark 22 EVD YES 05-05-2006
+44961 Kelly Smith Denmark 37 H1N1 NO
+27366 Joseph Nichols Denmark 28 COVID-2019 NO
+96731 Anthony Pratt Denmark 14 SARS-COV-2 YES 05-11-2020
+35817 Kelly Sheppard Denmark 76 EVD NO
+2119 Teresa Byrd Denmark 54 SARS-1 YES 29-12-2000
+27810 Joel Curtis Denmark 39 FLU-2018 NO
+7769 Trevor Davis Denmark 22 H1N1 NO
+91451 Brittany Bennett Denmark 76 MERS-COV YES 08-08-2010
+45669 Ashley Rose Denmark 10 SARS-1 YES 13-03-2017
+17260 Tyler Miller Denmark 75 COVID-2019 YES 10-01-2021
+48170 William White Denmark 21 SARS-1 NO
+72152 Daniel Estrada Denmark 37 EVD NO
+60863 Dominique Edwards Denmark 12 COVID-2019 YES 20-07-2001
+40433 Brooke Mathews Denmark 28 COVID-2019 NO
+62329 Bridget Jackson Denmark 79 COVID-2019 YES 20-10-2018
+79250 April Farrell Denmark 11 EVD NO
+9671 Summer Ballard Denmark 19 SARS-COV-2 NO
+38294 Matthew Miller Denmark 27 FLU-2018 NO
+26691 Amber Myers Denmark 78 COVID-2019 YES 24-07-2007
+76 Latoya Johnson Denmark 31 EVD NO
+70083 Carrie Gomez Denmark 18 H1N1 YES 15-09-2014
+83163 Gregory Thomas Denmark 45 MERS-COV NO
+30393 Patricia Martinez Denmark 43 COVID-2019 NO
+5205 Ronald Green Denmark 70 FLU-2018 NO
+24480 Andre Smith Denmark 36 EVD YES 23-03-2013
+770 Dustin Stewart Denmark 38 COVID-2019 YES 30-08-2008
+43772 Lisa Frazier Denmark 64 COVID-2019 NO
+62510 Julia Reese Denmark 52 SARS-1 NO
+94171 Rachel King Denmark 51 MERS-COV YES 19-01-2012
+17481 Sheila King Denmark 15 SARS-COV-2 YES 07-08-2000
+79727 Louis Mason Denmark 54 COVID-2019 NO
+72595 Jill Green Denmark 19 COVID-2019 NO
+81278 Joanna Holden Denmark 17 H1N1 YES 06-10-2009
+14248 Sandra Reed Denmark 61 SARS-COV-2 YES 26-10-2012
+50473 Andrew Burns Denmark 19 FLU-2018 NO
+12355 Nicholas Lopez Denmark 38 COVID-2019 NO
+38785 Teresa Dean Denmark 56 MERS-COV NO
+59013 Lori Blackwell Denmark 14 FLU-2018 NO
+53875 Leslie Martinez Denmark 52 COVID-2019 YES 20-05-2007
+62383 Rachel Walker Denmark 49 MERS-COV YES 27-06-2009
+43894 Jennifer Gutierrez Denmark 40 SARS-COV-2 NO
+81104 Shawn Weber Denmark 42 FLU-2018 YES 11-07-2006
+42592 Michelle Bowman Denmark 66 MERS-COV NO
+86583 Jennifer Morris Denmark 54 FLU-2018 YES 22-03-2019
+58436 Valerie Valdez Denmark 77 H1N1 NO
+41599 Adam Grant Denmark 38 SARS-1 YES 23-07-2018
+41168 Michael Clayton Denmark 72 EVD YES 30-05-2012
+4099 Gina Powell Denmark 50 EVD NO
+52411 Ralph Thompson Denmark 78 SARS-1 YES 14-02-2008
+54083 Daniel Davis Denmark 10 SARS-COV-2 YES 27-12-2008
+52619 David Robinson Denmark 71 H1N1 YES 29-10-2008
+78653 Lisa Maddox Denmark 38 SARS-COV-2 YES 21-11-2006
+49361 Maria Miller Denmark 78 H1N1 NO
+3515 Tabitha Porter Denmark 30 EVD YES 24-07-2009
+78915 Melissa Bell Denmark 53 H1N1 YES 22-08-2006
+14921 Brooke Crawford Denmark 62 SARS-1 YES 26-10-2001
+4422 Brenda Fisher Denmark 77 EVD YES 24-03-2012
+24776 Justin Hayes Denmark 58 FLU-2018 NO
+50257 Deborah Hampton Denmark 19 COVID-2019 NO
+34435 Marissa Patton Denmark 50 COVID-2019 YES 14-10-2005
+26229 Jeffrey Davis Denmark 75 EVD YES 05-10-2010
+59231 Michael Holmes Denmark 69 H1N1 YES 02-03-2009
+55608 John Lyons Denmark 78 MERS-COV YES 21-02-2020
+24947 Dawn Conley Denmark 79 FLU-2018 NO
+84468 Christy Choi Denmark 60 SARS-1 YES 10-10-2004
+43540 Taylor Smith Denmark 52 SARS-1 NO
+29405 Christopher Reeves Denmark 42 FLU-2018 NO
+3399 Kelly Berger Denmark 66 EVD YES 04-02-2021
+90193 Michelle Mccullough Denmark 12 COVID-2019 YES 04-10-2010
+59375 Derek Blackwell Denmark 21 COVID-2019 YES 09-06-2017
+74192 Amanda Williams Denmark 70 H1N1 NO
+6867 Darlene Alvarez Denmark 46 COVID-2019 NO
+9832 Shannon Patton Denmark 14 FLU-2018 NO
+19981 Fernando Mclaughlin Denmark 47 SARS-COV-2 YES 03-02-2010
+49794 Becky Daniels Denmark 67 COVID-2019 NO
+30352 Connie Lucas Denmark 51 SARS-1 NO
+1305 Rose Thornton Denmark 28 FLU-2018 YES 29-02-2020
+93551 Duane Wagner Denmark 28 SARS-1 NO
+3052 Andrew Miranda Denmark 57 H1N1 NO
+74892 Lori Graham Denmark 67 FLU-2018 YES 17-03-2013
+59776 Daniel Wright Denmark 79 FLU-2018 NO
+25752 Kimberly Kidd Denmark 73 FLU-2018 NO
+72585 Cameron Burns Denmark 49 FLU-2018 NO
+78838 Sandy Reed Denmark 25 FLU-2018 YES 21-11-2001
+49414 John Zavala Denmark 18 H1N1 NO
+7357 Kathy Pope Denmark 72 H1N1 NO
+57660 Stephen Williams Denmark 42 FLU-2018 NO
+19289 Sandra Green Denmark 12 EVD NO
+58689 Roy Contreras Denmark 30 SARS-COV-2 NO
+35129 Amber Taylor Denmark 39 H1N1 YES 10-12-2013
+84081 Keith Lawson Denmark 52 FLU-2018 YES 22-07-2012
+40954 Kyle Cross Denmark 53 COVID-2019 NO
+83595 James Smith Denmark 40 H1N1 YES 21-01-2007
+2976 Brittany Anderson Denmark 64 EVD NO
+87280 Mary Alexander Denmark 45 EVD NO
+63081 Joel Parrish Denmark 70 MERS-COV YES 30-06-2013
+65132 Megan Williams Denmark 32 FLU-2018 NO
+44193 Eileen Garcia Denmark 17 EVD NO
+68056 Meagan Noble Denmark 46 H1N1 YES 30-04-2007
+39848 Wendy Lester Denmark 77 MERS-COV YES 08-06-2002
+67660 Linda Crawford Denmark 58 MERS-COV NO
+48995 Tammy David Denmark 40 SARS-1 NO
+14874 Christopher Tucker Denmark 61 FLU-2018 NO
+16113 Beth Mendez Denmark 72 FLU-2018 NO
+45333 Lori Schneider Denmark 44 EVD YES 18-06-2012
+69275 Christopher Yoder Denmark 67 H1N1 YES 19-10-2018
+62789 Rhonda Zimmerman Denmark 17 COVID-2019 NO
+19224 Nicholas Jones Denmark 22 SARS-1 YES 05-01-2008
+2018 Jared Holt Denmark 55 COVID-2019 YES 20-02-2007
+27641 Ernest Hernandez Denmark 75 SARS-1 NO
+16523 David Hensley Denmark 27 COVID-2019 YES 02-12-2004
+3086 Michelle Rodriguez Denmark 14 EVD YES 06-03-2000
+65349 Christine Little Denmark 78 MERS-COV YES 13-05-2009
+45661 Anthony Taylor Denmark 40 FLU-2018 YES 28-01-2007
+55189 David Doyle Denmark 51 SARS-1 YES 20-01-2008
+22964 Bonnie Fernandez Denmark 70 FLU-2018 YES 05-12-2013
+65502 William Bird Denmark 17 FLU-2018 NO
+18439 Kevin Kennedy Denmark 34 H1N1 NO
+86643 Kyle Davies Denmark 37 H1N1 YES 01-02-2005
+78788 Melissa Williams Denmark 65 COVID-2019 NO
+1321 Nicholas Conrad Denmark 15 MERS-COV YES 30-06-2015
+48016 Lisa Pope Denmark 79 EVD YES 22-08-2006
+145 Rachel Medina Denmark 30 SARS-1 YES 26-11-2017
+75071 Susan Zimmerman Denmark 10 MERS-COV NO
+47065 Julia Vega Denmark 23 H1N1 YES 04-09-2007
+33740 Kelli Bell Denmark 79 COVID-2019 NO
+18856 Robert Lewis Denmark 12 EVD YES 05-04-2009
+8357 Timothy Young Denmark 53 H1N1 YES 13-09-2006
+96555 Lorraine Miller Denmark 47 EVD NO
+70268 Kelly Brown Denmark 66 SARS-1 NO
+95229 Paul Ball Denmark 18 SARS-COV-2 YES 11-07-2006
+51966 Jill Foster Denmark 14 SARS-COV-2 YES 19-03-2006
+24558 Daniel Stout Denmark 48 SARS-1 NO
+85477 Jamie Smith Denmark 11 H1N1 NO
+51022 Keith Marshall Denmark 46 SARS-COV-2 NO
+5283 Brianna Bowen Denmark 47 COVID-2019 NO
+4406 Rhonda Williams Denmark 79 SARS-COV-2 YES 01-04-2013
+79266 Jordan Johnson Denmark 58 FLU-2018 YES 21-09-2011
+94790 Jessica Guzman Denmark 52 COVID-2019 YES 24-03-2019
+35437 Kayla Johnson Denmark 58 H1N1 NO
+15811 Jennifer Sellers Denmark 13 SARS-1 NO
+45276 Breanna Taylor Denmark 33 SARS-COV-2 NO
+13027 James Rios Denmark 40 COVID-2019 YES 23-02-2004
+82600 Anthony Green Denmark 63 FLU-2018 YES 24-08-2007
+14108 Dalton Juarez Denmark 77 SARS-1 NO
+50931 Christopher Murphy Denmark 45 EVD NO
+52063 Mike Walker Denmark 74 MERS-COV YES 29-01-2006
+54865 Megan Shea Denmark 46 FLU-2018 NO
+91026 Kelly Larson Denmark 20 SARS-COV-2 NO
+68529 Selena Peterson Denmark 17 SARS-1 NO
+16654 Michelle Walker Denmark 14 SARS-1 NO
+40810 Jeremy Schwartz Denmark 50 SARS-1 YES 22-11-2013
+4418 David Thompson Denmark 24 COVID-2019 YES 02-06-2008
+71107 Jeffrey Moore Denmark 76 FLU-2018 NO
+79444 Ryan Reese Denmark 78 SARS-1 YES 27-08-2001
+34909 David Fitzpatrick Denmark 79 SARS-COV-2 NO
+51375 Stephen Schultz Denmark 24 H1N1 NO
+51478 Wanda Jackson Denmark 49 EVD YES 01-10-2016
+75178 Keith Frazier Denmark 35 FLU-2018 NO
+34442 Wanda Johnson Denmark 76 SARS-COV-2 NO
+53526 Mary Davis Denmark 33 COVID-2019 YES 23-03-2013
+36650 Patricia Evans Denmark 48 FLU-2018 NO
+9866 John Robinson Denmark 21 MERS-COV NO
+34981 Deanna Nichols Denmark 35 SARS-COV-2 NO
+66416 Becky Mccullough Denmark 74 EVD YES 01-06-2007
+57161 Robert Blackwell Denmark 67 COVID-2019 NO
+92503 Erin Hanson Denmark 63 H1N1 YES 03-02-2009
+84190 Martin Russo Denmark 73 FLU-2018 YES 13-05-2020
+17729 Danielle Mercer Denmark 47 COVID-2019 YES 10-10-2004
+53964 Laurie Sutton Denmark 67 SARS-COV-2 NO
+84951 Rebecca Gilbert Denmark 46 EVD YES 27-10-2001
+97925 William Drake Denmark 48 H1N1 NO
+20747 Charles Terry Denmark 46 FLU-2018 NO
+65418 Kevin Walsh Denmark 60 EVD NO
+35878 Kimberly Rodriguez Denmark 73 SARS-1 YES 18-07-2013
+62022 David Burgess Denmark 21 SARS-COV-2 NO
+73177 Allison Davis Denmark 70 COVID-2019 NO
+24474 Richard Wong Denmark 78 FLU-2018 YES 10-06-2013
+54864 William Boyd Denmark 55 SARS-1 NO
+61806 Jennifer Hardy Denmark 49 H1N1 YES 17-07-2014
+41652 Larry Jones Denmark 20 FLU-2018 NO
+96229 Barry Armstrong Denmark 13 EVD NO
+65723 Christina Neal Denmark 24 FLU-2018 NO
+51414 Jasmine Roberson Denmark 75 EVD YES 23-07-2008
+60679 Carol Wells Denmark 77 COVID-2019 YES 11-09-2010
+31514 Michael Alvarez Denmark 19 FLU-2018 YES 21-09-2012
+16431 Kyle Parrish Denmark 58 COVID-2019 NO
+4803 Tricia Perez Denmark 12 COVID-2019 NO
+41100 Vincent Vang Denmark 57 H1N1 NO
+62753 Donald Alexander Denmark 67 COVID-2019 NO
+36537 Daniel Gilbert Denmark 18 MERS-COV YES 28-01-2004
+43259 Kimberly Williams Denmark 50 COVID-2019 YES 24-10-2009
+4539 Ryan Clay Denmark 63 FLU-2018 YES 01-06-2018
+7161 Devin Wiley Denmark 43 H1N1 NO
+50835 Javier Burch Denmark 53 SARS-COV-2 NO
+78646 Charles Jenkins Denmark 69 SARS-1 NO
+6011 Ronald Alexander Denmark 64 FLU-2018 NO
+97949 Tiffany Mejia Denmark 50 FLU-2018 NO
+61570 James Martinez Denmark 50 SARS-COV-2 NO
+31809 Jeffrey Grant Denmark 67 SARS-COV-2 YES 20-04-2008
+62122 John White Denmark 75 EVD YES 08-11-2018
+35180 Luis Perkins Denmark 29 MERS-COV YES 08-08-2007
+45041 Debbie Turner Denmark 60 SARS-COV-2 NO
+42374 Ashley Mann Denmark 17 SARS-1 YES 14-04-2011
+12342 Richard Combs Denmark 11 FLU-2018 NO
+19870 Amanda Vaughan Denmark 30 MERS-COV NO
+82677 Corey Armstrong Denmark 30 COVID-2019 YES 02-09-2012
+10849 Willie Levine Denmark 43 EVD NO
+12369 Marc Holder Denmark 47 EVD YES 21-07-2008
+44095 Alan Walters Denmark 23 EVD NO
+77634 Ryan Harrison Denmark 35 COVID-2019 YES 26-06-2006
+23406 Amanda Gamble Denmark 18 H1N1 NO
+87606 Michelle Black Denmark 17 H1N1 NO
+1347 Alyssa Tate Denmark 34 COVID-2019 NO
+64176 James Gomez Denmark 27 MERS-COV YES 25-12-2006
+6674 Steven Coleman Denmark 53 SARS-COV-2 NO
+86837 Benjamin Watson Denmark 70 H1N1 NO
+61320 Lynn Ochoa Denmark 20 MERS-COV NO
+83049 William Daniels Denmark 11 COVID-2019 YES 29-01-2016
+33742 Carl Walter Denmark 74 MERS-COV YES 21-12-2018
+83462 Daniel Harris Denmark 18 COVID-2019 NO
+62835 Ricky Jackson Denmark 65 H1N1 YES 04-05-2015
+80748 Micheal Ramirez Denmark 44 SARS-COV-2 YES 06-08-2014
+74383 Ryan Buckley Denmark 26 EVD NO
+28338 Alicia Clayton Denmark 45 EVD NO
+51386 Jamie Davenport Denmark 10 SARS-1 YES 11-12-2007
+29419 Jessica Lee Denmark 52 MERS-COV YES 25-10-2006
+81110 Scott Smith Denmark 74 H1N1 NO
+81166 Sarah Compton Denmark 77 H1N1 YES 05-07-2007
+18955 Joseph Potter Denmark 52 SARS-COV-2 YES 25-03-2005
+11115 Dennis Jordan Denmark 43 COVID-2019 NO
+41007 Jeanne Jefferson Denmark 28 COVID-2019 NO
+81873 Cheyenne Chandler Denmark 29 SARS-1 YES 11-04-2001
+32913 Scott Palmer Denmark 72 EVD YES 09-07-2016
+93944 Michele Wells Denmark 20 SARS-1 YES 30-08-2020
+63266 Kara Thomas Denmark 72 H1N1 YES 10-03-2012
+41429 Kenneth Copeland Denmark 78 SARS-1 YES 27-08-2020
+43933 Heather Bean Denmark 24 H1N1 YES 07-09-2005
+15503 Catherine Lindsey Denmark 66 H1N1 YES 16-11-2002
+3747 Stacy Hahn Denmark 36 COVID-2019 YES 10-06-2007
+16477 Alice Cook Denmark 72 MERS-COV NO
+94230 Vincent Taylor Denmark 55 FLU-2018 NO
+1572 Anthony Martin Denmark 41 SARS-1 NO
+81455 Lori Hansen Denmark 15 MERS-COV NO
+79821 Jacqueline Wilson Denmark 40 FLU-2018 YES 03-02-2010
+4451 Emily Schroeder Denmark 35 FLU-2018 NO
+40776 Daniel Velasquez Denmark 25 COVID-2019 YES 16-06-2001
+28701 Arthur Ortega Denmark 63 MERS-COV NO
+34852 Lynn Floyd Denmark 21 EVD YES 28-02-2012
+92456 Rachael Rodriguez Denmark 52 COVID-2019 YES 06-03-2020
+76022 Austin Davis Denmark 47 MERS-COV YES 17-03-2017
+22543 Felicia Williams Denmark 22 SARS-COV-2 NO
+14138 Jessica Weber Denmark 27 COVID-2019 NO
+27691 Andrew Shannon Denmark 27 FLU-2018 NO
+90851 Luis Young Denmark 42 COVID-2019 NO
+50396 Sara Pineda Denmark 38 MERS-COV NO
+53841 Andrew Perez Denmark 71 EVD YES 13-06-2009
+59938 Ashley Villarreal Denmark 41 SARS-1 YES 28-11-2010
+20276 Lee Mckay Denmark 16 SARS-1 NO
+6376 Samantha Williams Denmark 39 MERS-COV NO
+46337 Tamara Weaver Denmark 60 MERS-COV NO
+97113 Lindsey Bautista Denmark 19 MERS-COV NO
+24948 Thomas Peters Denmark 65 SARS-COV-2 NO
+47323 Jose Hurley Denmark 79 COVID-2019 NO
+7207 Laura Black Denmark 78 COVID-2019 YES 03-02-2006
+50254 Ronald Brown Denmark 76 MERS-COV NO
+65727 Michael Foley Denmark 58 SARS-1 YES 04-01-2013
+77541 Shelia Carrillo Denmark 54 SARS-1 NO
+77304 Jeffrey King Denmark 56 H1N1 NO
+54823 Angela Wallace Denmark 46 SARS-COV-2 NO
+76554 Keith White Denmark 34 EVD YES 27-01-2008
+64189 Jennifer Miller Denmark 36 MERS-COV NO
+97110 Bailey Conley Denmark 14 FLU-2018 YES 10-10-2000
+55590 Thomas Webb Denmark 58 FLU-2018 YES 22-05-2010
+58862 Stephen Schultz Denmark 55 SARS-1 YES 15-02-2001
+98895 Cheryl Parker Denmark 76 COVID-2019 NO
+68478 Joel Allen Denmark 33 MERS-COV NO
+62109 Colleen Mendoza Denmark 63 SARS-1 NO
+34239 Steven Barnett Denmark 61 H1N1 NO
+40451 Brittany Cruz Denmark 72 FLU-2018 NO
+89681 Heather Hudson Denmark 69 SARS-COV-2 NO
+35884 Katie Montoya Denmark 60 SARS-1 NO
+5114 Justin Wilkerson Denmark 50 H1N1 NO
+95404 Teresa Johnson Denmark 41 SARS-1 YES 15-09-2014
+97931 Teresa Love Denmark 24 COVID-2019 YES 28-01-2017
+80737 Carlos Hall Denmark 37 COVID-2019 NO
+35433 Timothy Bradley Denmark 78 SARS-1 NO
+26166 David Vasquez Denmark 17 COVID-2019 NO
+27229 Lance Sullivan Denmark 12 EVD YES 14-03-2000
+4470 Brett Washington Denmark 51 SARS-COV-2 YES 30-10-2005
+1917 Carolyn Morton Denmark 54 H1N1 NO
+47132 Roger Padilla Denmark 17 MERS-COV YES 28-08-2009
+23521 Patrick Brewer Denmark 47 COVID-2019 NO
+29894 Gina Oliver Denmark 73 SARS-COV-2 NO
+89552 Joseph Patton Denmark 25 FLU-2018 YES 18-04-2017
+2246 Todd Perez Denmark 41 FLU-2018 NO
+20990 Tiffany Wilson Denmark 37 FLU-2018 YES 20-06-2016
+87000 Thomas Carter Denmark 62 SARS-1 NO
+97922 Carrie Chang Denmark 41 H1N1 NO
+83730 Jorge Simpson Denmark 73 EVD YES 30-11-2007
+40105 Gregory Davis Denmark 32 FLU-2018 YES 25-04-2008
+87055 David Harrison Denmark 71 FLU-2018 NO
+28748 Ryan Kelly Denmark 46 COVID-2019 NO
+55678 Philip Hunt Denmark 76 COVID-2019 YES 29-08-2015
+26167 Christine Dixon Denmark 78 H1N1 YES 15-09-2012
+12770 Jason Wagner Denmark 42 EVD YES 19-01-2005
+3876 Susan Harrison Denmark 30 H1N1 NO
+96272 Sean Allen Denmark 29 H1N1 NO
+502 Virginia Sanders Denmark 53 SARS-COV-2 NO
+6763 Christopher Garcia Denmark 33 MERS-COV YES 31-12-2005
+43131 Brent Hammond Denmark 51 EVD NO
+75344 Mallory Gilmore Denmark 34 MERS-COV NO
+24421 Heather Olson Denmark 19 SARS-1 YES 16-09-2019
+72012 David Gibson Denmark 24 MERS-COV YES 14-01-2005
+39221 Karen Armstrong Denmark 47 MERS-COV YES 15-12-2004
+71947 Nicholas Duffy Denmark 43 SARS-COV-2 YES 07-06-2009
+55834 Amanda Wells Denmark 39 SARS-COV-2 YES 16-01-2018
+75349 Benjamin White Denmark 26 H1N1 NO
+69091 Lisa Reed Denmark 76 SARS-COV-2 NO
+15745 Melissa Stephens Denmark 30 COVID-2019 YES 04-02-2005
+41569 Latoya Collins Denmark 59 SARS-COV-2 NO
+1136 Ashley Barker Denmark 69 COVID-2019 NO
+46567 Benjamin Ortiz Denmark 75 FLU-2018 NO
+23207 Michelle Cook Denmark 49 EVD NO
+65814 Nicholas Robinson Denmark 51 MERS-COV NO
+64347 Carol Parrish Denmark 11 H1N1 NO
+53939 Brett Sanchez Denmark 72 SARS-COV-2 YES 17-05-2015
+33111 Brian Shaw Denmark 66 SARS-1 YES 10-05-2012
+76968 Tommy Schmidt Denmark 12 COVID-2019 YES 21-05-2010
+37598 Kayla Fisher Denmark 74 FLU-2018 YES 08-07-2020
+84443 Justin Jones Denmark 30 COVID-2019 YES 04-01-2002
+46550 Derrick Sullivan Denmark 57 SARS-COV-2 YES 05-06-2007
+11133 Robert Garcia Denmark 56 SARS-COV-2 NO
+28185 Amy Todd Denmark 69 H1N1 YES 22-02-2021
+43764 Michael Jenkins Denmark 65 MERS-COV NO
+43330 Ronald Mcguire Denmark 33 H1N1 NO
+15297 Daniel Ferguson Denmark 75 SARS-1 YES 01-09-2012
+85927 Matthew Gates Denmark 40 H1N1 YES 27-05-2016
+7955 Beth Finley Denmark 50 SARS-COV-2 NO
+36798 Kimberly Ballard Denmark 72 H1N1 NO
+92941 John Carroll Denmark 54 EVD YES 08-08-2007
+9921 Glen Miller Denmark 57 COVID-2019 NO
+2770 Amber Acosta Denmark 76 COVID-2019 YES 20-10-2003
+4223 Kevin Friedman Denmark 14 MERS-COV NO
+56316 Erin Burns Denmark 17 H1N1 YES 29-05-2014
+36755 Shirley King Denmark 13 FLU-2018 NO
+86172 Erin Zimmerman Denmark 76 COVID-2019 NO
+48199 Andrew Gutierrez Denmark 36 H1N1 NO
+5677 Lisa Blevins Denmark 10 SARS-1 YES 17-05-2007
+88851 Gina Fox Denmark 46 SARS-COV-2 NO
+85567 Amy Mathis Denmark 29 H1N1 NO
+59624 Nicole Owens Denmark 28 SARS-1 NO
+31525 Samuel Page Denmark 72 SARS-COV-2 NO
+95831 Darin Thompson Denmark 28 SARS-1 NO
+71394 Chelsea Brown Denmark 63 COVID-2019 NO
+92118 Randy Ingram Denmark 19 SARS-COV-2 YES 05-07-2011
+52989 Christine Brown Denmark 15 SARS-1 NO
+86306 Bethany Browning Denmark 32 SARS-COV-2 NO
+4510 Tiffany Lopez Denmark 75 EVD NO
+83347 Marcia Griffith Denmark 78 SARS-1 NO
+66316 Kelly Wolfe Denmark 28 EVD YES 14-06-2017
+54137 Justin Dixon Denmark 54 EVD YES 21-10-2004
+56664 Lisa Peterson Denmark 13 COVID-2019 YES 19-10-2014
+69748 Michael Clark Denmark 74 SARS-1 NO
+69065 Briana Richardson Denmark 28 SARS-COV-2 NO
+61489 Blake Parsons Denmark 50 FLU-2018 YES 03-04-2015
+95288 Sierra Lee Denmark 46 H1N1 NO
+62435 Crystal Ramirez Denmark 12 H1N1 YES 30-01-2014
+85896 Derek Mills Denmark 48 SARS-1 NO
+13575 Ann Brown Denmark 31 SARS-1 YES 30-07-2008
+80154 Alyssa Rice Denmark 45 MERS-COV YES 12-07-2001
+59836 Peter Evans Denmark 71 SARS-COV-2 YES 12-03-2015
+99412 Dominic Stanley Denmark 17 COVID-2019 YES 12-06-2009
+43230 Candace Guzman Denmark 55 FLU-2018 YES 15-11-2019
+38042 Ryan Peters Denmark 20 FLU-2018 YES 06-12-2000
+17505 Angela Porter Denmark 61 EVD YES 07-09-2004
+18184 Thomas Stephens Denmark 60 COVID-2019 NO
+41864 Marilyn Zuniga Denmark 72 FLU-2018 YES 24-07-2004
+1618 Samuel Robinson Denmark 21 COVID-2019 NO
+89058 Diane Watkins Denmark 51 MERS-COV NO
+24168 Gabriel Mccall Denmark 32 EVD YES 22-11-2001
+63551 George Hamilton Denmark 77 H1N1 NO
+58038 Frederick Davidson Denmark 67 SARS-1 YES 29-07-2016
+52481 Rebecca Cooper Denmark 39 COVID-2019 YES 10-04-2020
+51402 Jacob Banks Denmark 20 SARS-1 NO
+12780 Stephanie Murphy Denmark 63 SARS-COV-2 NO
+25688 Billy Reyes Denmark 19 FLU-2018 NO
+49188 Mary Barron Denmark 22 COVID-2019 NO
+4635 Briana Morales Denmark 71 H1N1 NO
+76724 Tyler Rodriguez Denmark 57 MERS-COV NO
+11786 Vanessa Howell Denmark 40 SARS-COV-2 YES 02-05-2020
+77205 Jessica Jones Denmark 58 SARS-COV-2 YES 25-05-2012
+29717 Christopher Wheeler Denmark 33 H1N1 YES 17-02-2019
+27536 Scott Smith Denmark 58 COVID-2019 NO
+7742 Susan Hart Denmark 11 SARS-1 NO
+12762 Joseph Ellis Denmark 29 SARS-COV-2 YES 28-11-2008
+30414 Chase Murray Denmark 64 SARS-1 NO
+82558 Reginald King Denmark 14 MERS-COV YES 07-02-2021
+35541 Sara Snyder Denmark 56 H1N1 NO
+85042 Vanessa Jackson Denmark 15 COVID-2019 NO
+85613 Victor Maynard Denmark 41 FLU-2018 YES 03-08-2011
+59956 Patrick Scott Denmark 45 EVD YES 19-06-2020
+98014 Jennifer Hayes Denmark 65 MERS-COV NO
+85731 Jeffrey Thompson Denmark 19 FLU-2018 YES 22-10-2013
+95876 Rodney Christensen Denmark 47 SARS-COV-2 NO
+22088 Kenneth Smith Denmark 64 SARS-COV-2 YES 26-04-2011
+3827 Lauren Olsen Denmark 59 EVD YES 26-03-2020
+81730 Anthony Gonzalez Denmark 79 SARS-COV-2 NO
+7682 Luke Meadows Denmark 39 H1N1 NO
+37683 Dylan Cook Denmark 69 H1N1 YES 01-02-2012
+59666 Brian Nelson Denmark 64 COVID-2019 YES 31-01-2018
+20201 Holly Garza Denmark 21 FLU-2018 NO
+69059 Ernest Mueller Denmark 71 H1N1 YES 01-02-2009
+62870 Alan Morrow Denmark 43 SARS-1 YES 29-10-2013
+24674 Christine Bass Denmark 64 EVD NO
+21179 Terri Page Denmark 63 SARS-COV-2 YES 14-01-2000
+89822 Keith Blankenship Denmark 62 H1N1 NO
+39295 Melinda Thompson Denmark 25 COVID-2019 NO
+63762 Pamela Gibson Denmark 19 MERS-COV NO
+88878 Gregory Cook Denmark 13 SARS-1 NO
+71773 David Burns Denmark 73 EVD YES 24-07-2014
+65858 Micheal Blanchard Denmark 55 FLU-2018 NO
+7553 Jeffrey Green Denmark 69 COVID-2019 NO
+5466 Alexa Adams Denmark 26 EVD NO
+79622 Kenneth Perez Denmark 10 FLU-2018 YES 22-11-2017
+81154 Bonnie Roman Denmark 17 MERS-COV NO
+37982 Bianca Marsh Denmark 59 FLU-2018 NO
+62767 Donald Gardner Denmark 44 FLU-2018 NO
+88251 Richard Hall Denmark 56 EVD NO
+10790 Mark Shelton Denmark 35 EVD YES 27-10-2009
+55794 Sue Stewart Denmark 40 H1N1 YES 04-12-2001
+94212 John Ward Denmark 48 H1N1 NO
+89654 Kathleen Warren Denmark 30 EVD YES 25-05-2007
+9164 Brandy King Denmark 13 SARS-1 NO
+73496 Kristina Castro Denmark 57 SARS-1 YES 14-11-2014
+52307 Tamara Conner Denmark 21 MERS-COV YES 30-10-2015
+2270 Connor Gay Denmark 49 EVD NO
+49697 Diane Brown Denmark 30 SARS-COV-2 NO
+78118 Alicia Rodriguez Denmark 41 COVID-2019 YES 29-11-2001
+98765 Carl Mcdaniel Denmark 13 H1N1 NO
+28750 Abigail Robertson Denmark 59 SARS-1 NO
+86271 William Gonzales Denmark 70 MERS-COV YES 08-08-2006
+46738 Melissa Johnson Denmark 70 SARS-COV-2 NO
+30442 Bailey Lee Denmark 26 FLU-2018 YES 09-04-2006
+13506 Deanna Hatfield Denmark 37 SARS-1 NO
+12002 Catherine Foster Denmark 54 H1N1 NO
+85779 Rachel Stone Denmark 77 COVID-2019 YES 17-02-2008
+44047 Scott Singh Denmark 61 MERS-COV YES 25-06-2012
+86499 Rebecca Dean Denmark 33 MERS-COV NO
+8959 Patricia Gill Denmark 19 H1N1 NO
+85737 Christopher Rogers Denmark 26 COVID-2019 NO
+95749 Logan Rodriguez Denmark 63 COVID-2019 NO
+88299 Nathan Tran Denmark 68 SARS-COV-2 YES 30-08-2013
+41318 Erin Choi Denmark 34 MERS-COV YES 04-05-2014
+38688 Brittany Jenkins Denmark 38 FLU-2018 NO
+38658 Jeffery Howard Denmark 52 MERS-COV NO
+70685 Bill Russell Denmark 53 FLU-2018 NO
+6844 Cory Sanchez Denmark 37 SARS-1 NO
+33863 Lisa Villanueva Denmark 53 SARS-COV-2 YES 21-03-2013
+26164 Alison Steele Denmark 46 FLU-2018 YES 29-06-2009
+37183 Autumn Carter Denmark 72 H1N1 YES 01-05-2013
+51842 Allen Craig Denmark 17 SARS-COV-2 YES 14-05-2004
+19481 Rhonda White Denmark 73 COVID-2019 NO
+50106 Jodi Pollard Denmark 52 H1N1 NO
+79634 Jessica Michael Denmark 35 SARS-COV-2 NO
+20172 Corey Fitzpatrick Denmark 63 COVID-2019 YES 05-11-2018
+77717 Matthew Henderson Denmark 30 COVID-2019 YES 13-10-2019
+308 Gabriel Romero Denmark 69 SARS-COV-2 NO
+11920 Alison Parrish Denmark 29 EVD NO
+60540 Abigail Kelley Denmark 42 COVID-2019 YES 03-12-2020
+34195 Natasha Guerra Denmark 43 MERS-COV NO
+67972 Melanie Travis Denmark 71 EVD YES 05-04-2009
+3011 Christina Burch Denmark 28 SARS-COV-2 YES 14-03-2006
+49132 Stephanie Smith Denmark 69 EVD YES 07-03-2007
+68085 Michelle Wilson Denmark 50 MERS-COV NO
+4076 Samuel Rose Denmark 27 SARS-1 YES 04-12-2006
+96292 Kelly Owens Denmark 45 MERS-COV YES 10-08-2013
+26887 Alyssa Robles Denmark 78 COVID-2019 YES 23-11-2004
+47964 Julie Medina Denmark 77 H1N1 NO
+24312 Nancy Byrd Denmark 65 MERS-COV YES 05-09-2011
+29460 Melissa Garcia Denmark 42 SARS-COV-2 YES 20-06-2020
+92335 Daniel Cook Denmark 22 COVID-2019 YES 31-08-2011
+81751 Jessica Klein Denmark 26 SARS-COV-2 NO
+27336 Mary Jackson Denmark 76 EVD NO
+97389 Cody Rodriguez Denmark 72 SARS-1 NO
+21378 Carl Paul Denmark 75 SARS-1 YES 05-06-2020
+44733 Joan Morrison Denmark 31 EVD YES 21-05-2012
+56720 Jasmine Hubbard Denmark 63 SARS-COV-2 NO
+52132 Melissa White Denmark 33 COVID-2019 YES 01-08-2002
+68107 Diane Ramirez Denmark 37 SARS-COV-2 NO
+25458 Michael Martin Denmark 77 SARS-1 NO
+16855 Katherine Alvarez Denmark 46 H1N1 NO
+36729 Stephanie Garcia Denmark 58 SARS-COV-2 YES 01-02-2021
+18491 Jeffrey Coleman Denmark 77 MERS-COV NO
+8595 Christopher Gibson Denmark 39 SARS-COV-2 NO
+14171 Maurice Zamora Denmark 44 EVD NO
+11806 Kristen Gregory Denmark 73 SARS-1 YES 28-06-2018
+6478 Richard Costa Denmark 64 SARS-1 NO
+35599 Christopher Colon Denmark 74 MERS-COV YES 23-01-2019
+44945 Lisa Kemp Denmark 19 SARS-COV-2 YES 01-12-2005
+1805 Ronald Turner Denmark 27 MERS-COV YES 27-04-2018
+53558 Scott Hodge Denmark 71 MERS-COV NO
+26847 Sara Anderson Denmark 21 COVID-2019 YES 06-03-2005
+82661 Diana Thomas Denmark 45 FLU-2018 NO
+91561 Tracy Boyd Denmark 50 SARS-1 NO
+84308 Abigail Rojas Denmark 58 MERS-COV YES 19-10-2006
+85773 Jonathan Swanson Denmark 36 FLU-2018 YES 20-11-2011
+85164 Richard Lewis Denmark 68 SARS-COV-2 NO
+76199 Mackenzie Greene Denmark 17 COVID-2019 YES 10-06-2006
+61176 Alyssa Hudson Denmark 34 COVID-2019 YES 01-11-2005
+75597 Stephanie Romero Denmark 15 EVD YES 02-11-2013
+91062 Kevin West Denmark 40 EVD NO
+59619 Sonya Edwards Denmark 20 EVD YES 02-01-2009
+26233 Shannon Martinez Denmark 65 SARS-COV-2 YES 30-04-2003
+38499 Patrick Wilson Denmark 58 SARS-1 YES 20-12-2006
+18602 Jonathan Matthews Denmark 59 SARS-1 NO
+78810 Lindsay Hurst Denmark 78 MERS-COV YES 18-06-2015
+23177 Jason Valencia Denmark 76 SARS-COV-2 YES 21-02-2000
+54593 Jason Russell Denmark 10 H1N1 NO
+97341 Veronica Rose Denmark 56 H1N1 NO
+72781 Matthew Smith Denmark 26 COVID-2019 YES 29-03-2007
+39253 Michael Cochran Denmark 44 SARS-1 NO
+30862 Morgan Thomas Denmark 65 SARS-COV-2 NO
+26005 John Wheeler Denmark 69 H1N1 NO
+1744 Regina Murphy Denmark 78 COVID-2019 YES 01-07-2019
+63113 Christine Russell Denmark 27 SARS-1 NO
+20227 Michael Rowe Denmark 38 H1N1 YES 09-02-2002
+82342 Jennifer Carson Denmark 45 SARS-1 YES 18-01-2014
+35434 Alexandria Savage Denmark 51 FLU-2018 NO
+95175 Sarah Faulkner Denmark 24 SARS-1 YES 27-02-2016
+49342 Amber Morrow Denmark 16 EVD NO
+96800 Ellen Walters Denmark 78 COVID-2019 YES 04-10-2004
+73787 Jasmine Ellis Denmark 37 FLU-2018 NO
+8741 Henry Whitaker Denmark 24 SARS-1 YES 29-06-2008
+48297 Eddie Stewart Denmark 14 EVD NO
+36451 Christopher Neal Denmark 38 MERS-COV NO
+60703 Deanna Owens Denmark 20 EVD NO
+31384 Matthew Harris Denmark 49 MERS-COV NO
+2776 Megan Brewer Denmark 25 H1N1 YES 21-11-2015
+54261 Toni Davis Denmark 18 EVD NO
+29456 Eric Barton Denmark 78 SARS-COV-2 NO
+5064 Gregory Powell Denmark 66 COVID-2019 NO
+23847 Sabrina Austin Denmark 74 FLU-2018 YES 04-04-2004
+45089 Scott Castro Denmark 50 SARS-COV-2 YES 27-08-2002
+58936 Casey Stanton Denmark 18 FLU-2018 NO
+41215 Alexandra Brown Denmark 56 SARS-1 NO
+48786 Gail Skinner Denmark 67 MERS-COV YES 20-08-2006
+58414 David Holmes Denmark 24 SARS-1 YES 04-05-2000
+5827 Kelsey Johnson Denmark 79 FLU-2018 YES 23-11-2013
+15824 Megan Woods Denmark 18 FLU-2018 YES 25-11-2007
+38710 James Sanchez Denmark 64 FLU-2018 NO
+96434 Denise Gilmore Denmark 23 COVID-2019 NO
+74489 Marcus Ferrell Denmark 57 SARS-COV-2 NO
+71506 Nathan Brown Denmark 79 COVID-2019 YES 21-01-2012
+94961 Christina Dorsey Denmark 31 H1N1 YES 12-03-2017
+12557 Charles Scott Denmark 65 H1N1 NO
+80355 Jason Wright Denmark 51 H1N1 NO
+35348 Lori Allen Denmark 79 H1N1 NO
+34013 Kathleen Freeman Denmark 32 MERS-COV NO
+85519 Michael Cobb Denmark 43 H1N1 YES 29-09-2017
+40204 Laura Johnson Denmark 73 SARS-COV-2 YES 27-08-2006
+84212 Christine Miller Denmark 60 SARS-1 YES 31-03-2005
+39643 Daniel Moreno Denmark 10 MERS-COV NO
+27774 Brandon Moore Denmark 17 SARS-COV-2 YES 14-11-2020
+27684 Richard Conner Denmark 45 SARS-COV-2 YES 03-08-2007
+15234 Aaron Burke Denmark 74 SARS-1 NO
+47171 Cassandra Bruce Denmark 45 SARS-COV-2 NO
+37656 Sherry Anderson Denmark 61 H1N1 YES 06-08-2012
+87401 Molly Ball Denmark 15 COVID-2019 YES 09-07-2002
+22133 Margaret Coleman Denmark 61 MERS-COV YES 08-04-2009
+3794 Elizabeth Delgado Denmark 24 EVD NO
+47110 Catherine Welch Denmark 62 COVID-2019 YES 05-01-2010
+88550 Christopher Henderson Denmark 31 H1N1 NO
+54516 Valerie Maxwell Denmark 50 EVD YES 23-06-2003
+43468 Kiara Barnes Denmark 16 H1N1 YES 29-07-2004
+93680 Tammy Powell Denmark 31 MERS-COV NO
+63019 Paul Morrow Denmark 36 MERS-COV NO
+56236 Jennifer Stuart Denmark 48 EVD YES 12-01-2002
+55369 Joseph Thompson Denmark 39 EVD YES 20-05-2005
+89913 Elizabeth Carey Denmark 51 FLU-2018 NO
+51555 Gregory Campbell Denmark 20 EVD YES 14-12-2018
+78804 Paige Rasmussen Denmark 41 H1N1 NO
+70205 Richard Arnold Denmark 17 MERS-COV YES 23-01-2020
+89078 Lucas Chambers Denmark 77 COVID-2019 YES 31-08-2004
+35498 Erin Hamilton Denmark 34 FLU-2018 NO
+59299 Jim Campbell Denmark 60 SARS-1 YES 21-01-2017
+92295 Kimberly Park Denmark 50 COVID-2019 YES 28-03-2020
+99259 Anne Mullen Denmark 30 MERS-COV NO
+30410 Alexander Carter Denmark 65 COVID-2019 YES 20-04-2000
+13052 Mary Edwards Denmark 73 SARS-COV-2 NO
+20171 Thomas Warner Denmark 43 EVD YES 30-05-2007
+48246 Jillian Barr Denmark 72 EVD NO
+80310 Danielle Vargas Denmark 28 EVD NO
+17024 Jillian Lozano Denmark 42 SARS-COV-2 NO
+90473 Alexis Waters Denmark 35 MERS-COV YES 29-05-2005
+26671 Kyle Morgan Denmark 55 SARS-1 NO
+85107 Suzanne Weber Denmark 34 FLU-2018 NO
+18845 Emma Burnett Denmark 24 H1N1 NO
+22451 Kimberly Moore Denmark 12 FLU-2018 YES 12-08-2007
+8096 Elizabeth Ballard Denmark 31 SARS-1 YES 16-06-2000
+77874 Julie Harris Denmark 32 H1N1 YES 11-05-2011
+71575 Jill Allen Denmark 47 MERS-COV YES 10-06-2020
+58843 Emily West Denmark 35 SARS-COV-2 YES 16-12-2019
+76623 John Smith Denmark 31 SARS-1 NO
+25796 Lynn Roberts Denmark 72 SARS-1 YES 08-03-2019
+1236 Jamie Knight Denmark 62 EVD YES 18-06-2005
+53004 Michael Miller Denmark 39 MERS-COV NO
+18105 Amy Gonzalez Denmark 49 SARS-1 NO
+56668 Gordon Allen Denmark 20 EVD NO
+90277 Patrick Richardson Denmark 64 EVD NO
+4942 Shannon Payne Denmark 25 SARS-1 YES 19-07-2014
+75704 Brenda Martinez Denmark 51 MERS-COV YES 13-11-2020
+25217 Juan Davis Denmark 53 H1N1 YES 25-03-2013
+85949 Gabriel Wallace Denmark 21 H1N1 YES 19-02-2006
+64335 Danielle Torres Denmark 28 FLU-2018 NO
+61756 Karen Collins Denmark 50 FLU-2018 YES 01-01-2020
+12517 Travis Johnson Denmark 11 MERS-COV YES 11-07-2001
+87141 Kimberly Carter Denmark 58 H1N1 NO
+5965 Aaron Martinez Denmark 56 MERS-COV YES 06-11-2019
+59609 Nicholas Lyons Denmark 61 EVD YES 20-01-2011
+32593 Hannah Dawson Denmark 16 EVD YES 18-06-2007
+68669 Carolyn Hawkins Denmark 24 EVD NO
+76079 Christina Johnson Denmark 36 SARS-COV-2 YES 13-04-2004
+32626 Nathan Rodriguez Denmark 45 COVID-2019 YES 21-05-2017
+48046 Kathryn Reed Denmark 56 SARS-1 NO
+60249 Michele Mcguire Denmark 40 FLU-2018 NO
+48114 Henry Hunter Denmark 34 H1N1 YES 15-02-2009
+86572 Ashley Serrano Denmark 36 SARS-COV-2 NO
+9377 Jessica Johnson Denmark 34 H1N1 YES 16-03-2011
+23983 Gregory Williams Denmark 40 MERS-COV YES 30-06-2016
+28924 Sarah Ryan Denmark 21 COVID-2019 NO
+16301 Walter Cervantes Denmark 46 COVID-2019 YES 04-07-2017
+43735 Ernest Harris Denmark 21 EVD NO
+95451 John Martin Denmark 75 SARS-1 NO
+92838 David Bradley Denmark 27 FLU-2018 NO
+77254 Thomas Ho Denmark 77 SARS-COV-2 NO
+36477 Sean Miles Denmark 59 MERS-COV YES 07-06-2008
+87892 David Smith Denmark 27 FLU-2018 NO
+29817 Briana Vega Denmark 63 COVID-2019 NO
+82177 David Hill Denmark 55 COVID-2019 YES 27-06-2002
+58171 David Reed Denmark 17 SARS-1 YES 01-03-2007
+42056 Ann Lee Denmark 34 MERS-COV NO
+92233 James Wong Denmark 36 SARS-COV-2 NO
+84845 Andrea Nicholson Denmark 25 FLU-2018 YES 26-08-2012
+82220 Michael Rodriguez Denmark 50 EVD NO
+71377 Jane Tapia Denmark 58 SARS-1 NO
+51768 Jacqueline Lee Denmark 72 SARS-COV-2 NO
+62491 Richard Mckee Denmark 68 SARS-1 NO
+809 David Wagner Denmark 42 SARS-1 YES 15-06-2010
+59562 Laurie Elliott Denmark 59 COVID-2019 YES 23-12-2020
+96194 Sarah Alexander Denmark 73 SARS-1 NO
+2207 Devon Bruce Denmark 70 FLU-2018 YES 01-07-2008
+18865 Megan Moore Denmark 48 FLU-2018 NO
+9789 Emily Brown Denmark 11 H1N1 NO
+47185 Michael Brown Denmark 67 EVD YES 03-01-2016
+31878 James Villanueva Denmark 73 H1N1 YES 06-07-2000
+16148 Matthew Anderson Denmark 33 SARS-COV-2 YES 18-10-2017
+37328 Robert Malone Denmark 27 SARS-COV-2 YES 03-03-2009
+69987 Joshua Jimenez Denmark 67 COVID-2019 YES 23-05-2011
+82529 Samantha Williams Denmark 30 H1N1 YES 08-02-2017
+12669 Katie Gonzalez Denmark 29 H1N1 NO
+37883 Sarah Brown Denmark 31 H1N1 YES 01-11-2004
+96363 Aaron Green Denmark 57 SARS-1 NO
+23758 Audrey Gregory Denmark 76 COVID-2019 YES 25-04-2010
+38319 David Reynolds Denmark 55 EVD YES 31-05-2000
+7515 Richard Perry Denmark 52 SARS-1 NO
+57121 Mark Ramirez Denmark 68 MERS-COV NO
+73621 Nathan Nelson Denmark 50 SARS-COV-2 NO
+34188 Barbara Shaffer Denmark 12 SARS-COV-2 YES 17-11-2005
+94873 Lindsey Johnson Denmark 71 SARS-COV-2 NO
+86767 Carrie Owens Denmark 13 COVID-2019 YES 24-08-2008
+25567 Miguel Barton Denmark 52 SARS-1 YES 25-10-2013
+10786 Darren Smith Denmark 17 FLU-2018 NO
+66455 David Fernandez Denmark 39 FLU-2018 NO
+83160 Luis Ochoa Denmark 73 SARS-COV-2 YES 21-04-2003
+64729 Daniel Graham Denmark 33 COVID-2019 YES 31-03-2007
+94969 Andrew Anderson Denmark 32 EVD NO
+50006 Sandra Powell Denmark 41 SARS-1 YES 09-09-2011
+3635 Jonathan Calderon Denmark 47 EVD YES 08-07-2016
+4532 Pedro Torres Denmark 76 FLU-2018 YES 27-04-2009
+1513 Allison Barnes Denmark 26 EVD YES 08-02-2017
+33959 Stephanie Frazier Denmark 21 H1N1 NO
+76553 Emily Lewis Denmark 39 SARS-COV-2 NO
+4477 Jill Huang Denmark 41 COVID-2019 YES 26-03-2010
+91426 Alexa Castillo Denmark 74 SARS-1 YES 12-04-2005
+71560 Anna Jordan Denmark 40 FLU-2018 NO
+27461 Robert Taylor Denmark 12 EVD NO
+85087 Doris Baker Denmark 79 SARS-COV-2 NO
+44167 Rachel Wolfe Denmark 12 COVID-2019 NO
+3957 Joseph Middleton Denmark 21 SARS-1 NO
+69114 Jon Ellis Denmark 48 FLU-2018 YES 19-07-2010
+1984 Bruce Singleton Denmark 59 COVID-2019 YES 16-02-2008
+68857 Steven Tyler Denmark 68 H1N1 YES 04-03-2014
+92723 Monique Perez Denmark 32 MERS-COV YES 30-12-2005
+75379 Kathryn Parker Denmark 28 SARS-COV-2 YES 11-12-2019
+74823 Crystal Reilly Denmark 14 EVD YES 11-03-2016
+37905 Dustin Allen Denmark 61 FLU-2018 NO
+20292 Kimberly Lawson Denmark 76 H1N1 NO
+63463 Christopher Mack Denmark 40 EVD YES 22-05-2003
+47625 Jessica Blair Denmark 75 SARS-1 NO
+3735 Ricky Wright Denmark 75 SARS-1 NO
+71867 Amanda Francis Denmark 74 MERS-COV YES 24-04-2020
+90070 Bradley Hernandez Denmark 51 H1N1 NO
+50253 William Golden Denmark 67 FLU-2018 YES 18-03-2008
+33104 Leah Garcia Denmark 69 FLU-2018 NO
+12721 Patricia Mejia Denmark 10 H1N1 NO
+84097 Heather Peterson Denmark 74 MERS-COV YES 06-08-2004
+39025 Derek Jordan Denmark 62 SARS-1 YES 22-10-2014
+41211 Mark Newman Denmark 14 H1N1 YES 21-01-2011
+5480 Bradley Kemp Denmark 32 SARS-COV-2 YES 27-08-2015
+58633 Kenneth Russell Denmark 41 SARS-COV-2 YES 12-09-2015
+35629 Aaron Butler Denmark 40 COVID-2019 YES 16-04-2018
+65593 Mary Smith Denmark 62 MERS-COV YES 12-12-2018
+25388 Timothy Robinson Denmark 69 H1N1 YES 06-11-2014
+3670 Benjamin Curtis Denmark 18 EVD YES 22-07-2001
+44421 Kyle Garcia Denmark 49 SARS-1 YES 25-12-2011
+17811 Daniel Rocha Denmark 58 SARS-1 NO
+55750 Melissa Taylor Denmark 41 EVD YES 04-02-2012
+14521 Rebecca Russell Denmark 25 EVD NO
+13658 Wesley Rosales Denmark 70 SARS-1 NO
+33245 Lisa Brady Denmark 25 COVID-2019 NO
+26969 Nicole Weber Denmark 12 H1N1 NO
+44402 Melissa Brown Denmark 19 H1N1 YES 04-04-2014
+59724 Brooke Murillo Denmark 79 SARS-COV-2 NO
+24217 Kyle Kim Denmark 17 FLU-2018 YES 27-10-2012
+75558 Tammy Contreras Denmark 24 FLU-2018 NO
+81485 Brent Hanson Denmark 72 EVD NO
+5876 Colleen Patel Denmark 62 EVD YES 08-07-2000
+53337 Kayla Miller Denmark 14 SARS-COV-2 NO
+94377 Frederick Foster Denmark 43 SARS-COV-2 NO
+53270 Michael Davidson Denmark 37 SARS-COV-2 YES 18-12-2012
+96780 Christopher Newman Denmark 47 FLU-2018 YES 19-08-2001
+12147 Lisa Mullins Denmark 39 FLU-2018 YES 24-03-2002
+54221 Connie Green Denmark 37 FLU-2018 YES 13-05-2008
+40394 Michele Thomas Denmark 22 SARS-1 YES 17-05-2009
+40921 Anthony Mahoney Denmark 45 EVD YES 15-08-2006
+76275 Rick Schwartz Denmark 29 SARS-1 YES 07-01-2002
+39051 Thomas Hunter Denmark 49 SARS-1 YES 05-03-2018
+71483 Douglas Pacheco Denmark 66 COVID-2019 YES 30-03-2008
+46835 Jason Miller Denmark 48 SARS-1 NO
+69926 Kimberly Taylor Denmark 35 SARS-COV-2 YES 21-07-2014
+3724 Connie Durham Denmark 73 FLU-2018 NO
+58735 Stacy Figueroa Denmark 40 MERS-COV NO
+18147 Aaron Gardner Denmark 71 EVD NO
+6862 Jacqueline Oliver Denmark 14 SARS-COV-2 YES 27-10-2005
+37759 Wyatt Rodriguez Denmark 14 MERS-COV NO
+40301 Norma Obrien Denmark 63 MERS-COV YES 06-08-2019
+28770 Martha Hall Denmark 52 SARS-1 NO
+54917 Karen Juarez Denmark 44 SARS-1 YES 20-05-2000
+35978 Jennifer Harris Denmark 21 SARS-COV-2 YES 22-07-2020
+65936 Theresa Barajas Denmark 79 MERS-COV NO
+70505 Amanda Adams Denmark 12 EVD YES 14-05-2017
+16157 Heather Marshall Denmark 19 MERS-COV YES 21-03-2010
+51270 Melinda Martin Denmark 60 FLU-2018 NO
+49441 Karen Bates Denmark 37 SARS-1 YES 14-07-2003
+14715 Kyle Pittman Denmark 24 EVD NO
+60923 Christina Rogers Denmark 60 H1N1 NO
+17751 Steven Newman Denmark 58 EVD NO
+12069 Karina Hobbs Denmark 64 MERS-COV NO
+69334 Steven Fitzgerald Denmark 22 H1N1 NO
+62504 Janet West Denmark 68 SARS-1 YES 30-11-2000
+64546 Theresa Wilson Denmark 10 EVD NO
+81918 Gregory Oneill Denmark 74 SARS-COV-2 NO
+20192 Sydney Simon Denmark 43 COVID-2019 YES 10-07-2003
+57797 Jennifer Morris Denmark 41 H1N1 NO
+6821 Jennifer Brown Denmark 71 EVD NO
+90827 Jocelyn Castillo Denmark 73 H1N1 YES 08-08-2010
+66131 David Johnson Denmark 73 SARS-1 NO
+44805 Trevor Love Denmark 25 MERS-COV YES 04-02-2010
+49181 Jenna Cline Denmark 21 SARS-1 YES 04-12-2019
+90985 Stephanie Gaines Denmark 21 SARS-1 NO
+67762 Jeffrey Bean Denmark 62 SARS-COV-2 YES 07-05-2015
+16198 Lisa Young Denmark 33 H1N1 YES 29-01-2006
+57781 Johnny Brown Denmark 33 EVD NO
+89497 John Ryan Denmark 39 EVD YES 02-10-2004
+49666 Anthony Page Denmark 21 SARS-1 YES 31-07-2006
+98111 Chad Joyce Denmark 21 EVD NO
+65414 Kelly Cooper Denmark 53 SARS-1 NO
+68829 Tammy Matthews Denmark 38 SARS-COV-2 NO
+89159 Kelly Pitts Denmark 28 SARS-COV-2 NO
+38753 Jennifer Olson Denmark 54 SARS-1 NO
+75107 Mary Rhodes Denmark 11 COVID-2019 NO
+73224 Erica Green Denmark 11 COVID-2019 YES 23-09-2002
+79637 Justin Brown Denmark 77 COVID-2019 NO
+60135 Aaron Rodriguez Denmark 47 SARS-1 NO
+68313 Justin Davis Denmark 49 SARS-1 NO
+94394 Rita Wright Denmark 70 H1N1 NO
+8338 Alexis Rogers Denmark 21 COVID-2019 NO
+39213 Peggy Richardson Denmark 54 FLU-2018 YES 25-05-2011
+96011 Jennifer Bradford Denmark 47 FLU-2018 NO
+3645 Steven Huff Denmark 29 H1N1 NO
+63590 Nathan Perez Denmark 42 COVID-2019 NO
+6160 Randy Clarke Denmark 24 SARS-1 NO
+10604 Eric Walls Denmark 33 H1N1 YES 20-03-2014
+39426 Margaret Morris Denmark 13 COVID-2019 YES 29-11-2013
+24300 Teresa Knox Denmark 73 H1N1 YES 05-10-2014
+50163 Daniel Morrow Denmark 12 H1N1 NO
+93246 Anne Robbins Denmark 47 MERS-COV NO
+77319 Brandon Gonzalez Denmark 64 COVID-2019 YES 20-04-2009
+58946 Brian Ayala Denmark 69 H1N1 NO
+48351 Madeline Small Denmark 28 SARS-1 YES 25-04-2018
+17693 Suzanne Young Denmark 58 SARS-COV-2 YES 05-10-2016
+69479 Gregory Johnson Denmark 41 MERS-COV NO
+9124 Douglas Parker Denmark 72 COVID-2019 NO
+76236 Timothy Craig Denmark 57 H1N1 NO
+9651 Lacey Campbell Denmark 64 FLU-2018 YES 04-01-2013
+2952 Adrian Manning Denmark 60 SARS-COV-2 YES 03-06-2020
+85722 Natalie Wilson Denmark 43 MERS-COV NO
+31802 Daniel Brennan Denmark 77 SARS-1 NO
+79599 Jodi Hampton Denmark 51 SARS-COV-2 YES 03-07-2001
+61679 Heather Bowen Denmark 24 EVD NO
+44261 Maria Davidson Denmark 52 COVID-2019 NO
+79685 Nancy Burke Denmark 36 EVD NO
+72866 Eric Moreno Denmark 37 FLU-2018 YES 24-05-2013
+14726 Kelly Harrison Denmark 71 EVD YES 17-08-2012
+18024 Jason Zuniga Denmark 22 EVD YES 16-04-2010
+47950 Roberto Meyer Denmark 12 MERS-COV NO
+16479 Savannah Hamilton Denmark 79 FLU-2018 NO
+39988 Benjamin Johnson Denmark 16 SARS-1 YES 10-03-2015
+79633 David Pennington Denmark 79 EVD NO
+57019 Ethan White Denmark 68 SARS-1 YES 28-02-2012
+93673 Joseph Lee Denmark 64 SARS-1 NO
+87095 Aaron Hahn Denmark 65 COVID-2019 YES 12-09-2010
+95690 Kevin Robinson Denmark 46 COVID-2019 NO
+41663 William Medina Denmark 32 MERS-COV YES 10-04-2005
+7600 Jason Oneal Denmark 13 H1N1 YES 11-10-2012
+79718 Diana Andrews Denmark 72 H1N1 NO
+7526 Diana Brady Denmark 38 COVID-2019 NO
+49961 Pam Morgan Denmark 35 H1N1 NO
+12327 Erika Villanueva Denmark 57 SARS-1 YES 25-06-2020
+19369 Heidi Foley Denmark 55 COVID-2019 YES 18-03-2010
+80531 Melissa White Denmark 70 SARS-COV-2 YES 18-03-2021
+80236 Susan Russell Denmark 62 COVID-2019 YES 07-03-2012
+76828 James Washington Denmark 30 MERS-COV NO
+39229 John Morris Denmark 40 COVID-2019 YES 12-09-2017
+94906 Antonio Smith Denmark 72 H1N1 NO
+34121 Jose Willis Denmark 22 H1N1 NO
+80084 Darren Swanson Denmark 61 COVID-2019 NO
+35881 Ryan Joyce Denmark 35 SARS-1 NO
+73938 Tammie Briggs Denmark 63 H1N1 YES 14-08-2017
+68807 Lori Hull Denmark 62 COVID-2019 NO
+47947 Jacqueline Rowland Denmark 13 EVD NO
+82555 Eric Hoffman Denmark 65 FLU-2018 YES 19-07-2013
+8018 Mary Nguyen Denmark 70 COVID-2019 YES 19-12-2004
+12414 Alejandro Perry Denmark 50 FLU-2018 NO
+63932 Emily Park Denmark 22 H1N1 YES 26-02-2005
+8031 Bradley Thornton Denmark 77 SARS-COV-2 YES 14-09-2019
+61431 Stephanie Floyd Denmark 43 EVD NO
+79603 Nicholas Thompson Denmark 31 SARS-COV-2 YES 26-09-2018
+55416 Rodney Saunders Denmark 57 FLU-2018 NO
+60232 Tyler Webb Denmark 71 SARS-COV-2 YES 04-06-2005
+30378 Seth Adams Denmark 66 SARS-COV-2 NO
+56246 Karen Reed Denmark 16 SARS-1 NO
+91303 Brandon Thompson Denmark 54 EVD NO
+50504 William Myers Denmark 27 SARS-1 YES 25-06-2015
+25180 Kenneth Hernandez Denmark 58 H1N1 NO
+94342 Samantha Mason Denmark 64 EVD NO
+95187 Heather Lynn Denmark 76 COVID-2019 YES 04-05-2007
+34717 Alexander Carter Denmark 33 EVD YES 06-06-2017
+72817 Charles Brooks Denmark 24 MERS-COV YES 21-04-2016
+67586 William Williams Denmark 55 COVID-2019 NO
+9583 Tonya Wiley Denmark 41 COVID-2019 NO
+66314 Jesse Chambers Denmark 13 H1N1 NO
+86474 Kimberly Diaz Denmark 12 SARS-1 NO
+1766 Dawn Brown Denmark 19 MERS-COV NO
+22469 Matthew Adams Denmark 33 H1N1 NO
+18225 Tyler Hammond Denmark 10 SARS-COV-2 YES 21-01-2003
+48458 Douglas Hooper Denmark 49 COVID-2019 YES 26-02-2009
+29139 Holly Wade Denmark 50 COVID-2019 YES 04-09-2006
+79076 Darren Foster Denmark 77 SARS-1 YES 14-08-2020
+71740 Jessica Gillespie Denmark 47 SARS-1 NO
+25348 Amy Walker Denmark 63 H1N1 YES 28-11-2007
+39166 Lauren Hayes Denmark 43 SARS-COV-2 NO
+14767 Jonathan Jordan Denmark 13 SARS-COV-2 YES 23-11-2010
+3331 Christopher Carlson Denmark 79 COVID-2019 NO
+56741 Benjamin Gould Denmark 20 EVD NO
+10080 James Armstrong Denmark 32 SARS-1 NO
+79446 Matthew Jones Denmark 11 SARS-COV-2 NO
+8344 Susan Silva Denmark 52 EVD YES 12-07-2000
+2440 Scott Crawford Denmark 70 H1N1 NO
+84444 Aaron Yates Denmark 79 FLU-2018 YES 13-07-2015
+34876 Ashley Ross Denmark 42 H1N1 NO
+4439 Michael Sanchez Denmark 68 SARS-COV-2 NO
+74585 Erica Conrad Denmark 75 FLU-2018 YES 20-07-2001
+56938 George Olson Denmark 36 SARS-1 NO
+85866 Rebecca Graves Denmark 77 EVD NO
+72042 Mary Smith Denmark 79 SARS-COV-2 NO
+40733 Brian Allen Denmark 53 COVID-2019 YES 09-04-2003
+33481 Jessica Rojas Denmark 53 H1N1 NO
+44539 Jacqueline Smith Denmark 49 H1N1 YES 10-02-2021
+8407 Janet Thompson Denmark 28 EVD NO
+85132 Andrew Rodriguez Denmark 69 SARS-1 YES 16-07-2012
+41678 Daniel Baker Denmark 45 SARS-COV-2 NO
+30544 Gregory Sims Denmark 28 MERS-COV YES 29-03-2003
+73447 Maria Cowan Denmark 54 H1N1 NO
+9638 Jared Day Denmark 11 SARS-COV-2 NO
+1006 Richard Smith Denmark 14 EVD YES 18-03-2010
+22706 Andrew Robinson Denmark 64 EVD YES 15-10-2001
+11032 Javier Grant Denmark 12 MERS-COV NO
+54528 David Diaz Denmark 50 FLU-2018 NO
+53909 Robert Cochran Denmark 55 EVD NO
+498 Steven Taylor Denmark 40 FLU-2018 NO
+91891 Michael Hamilton Denmark 57 SARS-1 YES 08-10-2018
+86238 Drew Mccullough Denmark 31 EVD NO
+41806 Luke Harmon Denmark 16 EVD NO
+42032 Megan Gill Denmark 12 FLU-2018 YES 01-08-2013
+80873 Jordan Perry Denmark 63 EVD YES 16-09-2007
+88072 Stephen Williams Denmark 48 H1N1 YES 06-11-2018
+38530 Joshua Medina Denmark 48 SARS-COV-2 YES 21-07-2018
+44014 Erin Hickman Denmark 46 H1N1 YES 19-06-2007
+76175 Thomas Sweeney Denmark 53 SARS-COV-2 NO
+11868 Megan Smith Denmark 40 COVID-2019 YES 04-02-2012
+224 Nathan Price Denmark 49 EVD NO
+70346 Robert Williams Denmark 50 SARS-1 YES 10-01-2004
+92274 Deborah Chang Denmark 18 COVID-2019 YES 16-10-2019
+98293 Maria Mcneil Denmark 35 COVID-2019 NO
+12670 Taylor Green Denmark 35 FLU-2018 YES 04-10-2007
+45246 Jeffrey Lee Denmark 64 SARS-COV-2 YES 22-03-2020
+96889 Johnathan Mason Denmark 63 SARS-COV-2 NO
+76375 Mary Noble Denmark 57 SARS-COV-2 NO
+89838 Nathan Wood Denmark 63 COVID-2019 NO
+76385 Amber Greene Denmark 31 SARS-COV-2 YES 15-02-2015
+72587 Cheryl Davis Denmark 30 MERS-COV YES 10-11-2008
+33760 Daniel Simmons Denmark 27 EVD NO
+20404 Nicole Jones Denmark 36 EVD YES 16-12-2017
+88320 Wesley Wells Denmark 60 EVD YES 21-03-2002
+92729 Joseph Bowers Denmark 32 SARS-COV-2 NO
+72241 Marcus Abbott Denmark 32 H1N1 YES 05-08-2015
+26131 Kenneth Ortiz Denmark 57 COVID-2019 YES 05-02-2007
+16006 Chad Mccann Denmark 74 H1N1 YES 18-09-2011
+71421 Tiffany Norris Denmark 63 SARS-1 YES 05-11-2006
+8916 Matthew Hanna Denmark 78 FLU-2018 YES 12-08-2020
+27850 Scott Choi Denmark 52 SARS-1 NO
+4858 April Harmon Denmark 68 FLU-2018 YES 27-02-2014
+60569 Jessica Richards Denmark 39 MERS-COV YES 19-04-2000
+25871 Christian Robinson Denmark 28 SARS-1 YES 26-09-2010
+63569 Terri Vasquez Denmark 46 MERS-COV YES 14-05-2000
+24202 James Davis Denmark 42 COVID-2019 YES 26-07-2002
+38714 Jordan Burns Denmark 30 H1N1 NO
+39688 Austin Miller Denmark 78 EVD YES 18-09-2002
+51827 Amy Edwards Denmark 59 H1N1 NO
+77723 Robert Anderson Denmark 16 H1N1 YES 05-11-2013
+3614 Maria Banks Denmark 52 SARS-1 YES 08-02-2009
+39484 Andrew Bell Denmark 76 SARS-1 YES 20-02-2010
+60887 Mark Riley Denmark 34 FLU-2018 NO
+84484 Anna Mclean Denmark 47 SARS-1 NO
+62499 Courtney Davis Denmark 44 FLU-2018 YES 06-04-2015
+77089 Kristina Gallegos Denmark 67 SARS-1 NO
+76235 Angela Fischer Denmark 65 FLU-2018 YES 08-05-2018
+12246 Patricia Watts Denmark 73 COVID-2019 NO
+85545 Jon Campbell Denmark 70 SARS-1 YES 10-12-2019
+52359 Michael Mcfarland Denmark 62 EVD YES 04-02-2011
+54834 Adam Romero Denmark 23 MERS-COV NO
+41177 John Silva Denmark 53 EVD YES 31-05-2015
+94548 Caitlin Moore Denmark 37 SARS-1 YES 02-09-2010
+93952 Jill White Denmark 76 COVID-2019 NO
+57061 Denise Jackson Denmark 64 COVID-2019 YES 20-02-2010
+17183 Seth Wright Denmark 64 MERS-COV YES 01-06-2017
+89585 Gregory Peters Denmark 26 H1N1 NO
+38717 Jason Miller Denmark 53 COVID-2019 NO
+15960 Dylan Hines Denmark 68 COVID-2019 YES 24-01-2013
+76460 Michele Martinez Denmark 79 MERS-COV YES 21-04-2013
+96444 Deborah Brown Denmark 24 COVID-2019 NO
+10309 Elizabeth French Denmark 21 MERS-COV NO
+19044 Nina Cummings Denmark 64 SARS-COV-2 NO
+75371 Anthony Maldonado Denmark 57 SARS-1 YES 23-05-2020
+39773 Lee Rodriguez Denmark 13 COVID-2019 NO
+13925 Jennifer Torres Denmark 15 FLU-2018 NO
+81189 Brandon Lee Denmark 79 EVD NO
+15148 Brian Hill Denmark 68 FLU-2018 YES 20-08-2018
+38551 Marcus Turner Denmark 39 COVID-2019 YES 17-07-2003
+21542 Carrie Thomas Denmark 61 H1N1 NO
+56614 Earl Fisher Denmark 42 H1N1 YES 31-08-2012
+5158 Sean Martin Denmark 14 MERS-COV NO
+71434 Gregory Hughes Denmark 20 SARS-COV-2 NO
+23208 Stephanie Watson Denmark 32 COVID-2019 YES 12-01-2011
+79229 Kevin Wilson Denmark 14 SARS-1 NO
+72482 Angela Weiss Denmark 14 COVID-2019 NO
+75766 Chelsea Garcia Denmark 49 SARS-1 NO
+44081 Brett Williams Denmark 25 H1N1 NO
+45291 Grace Dalton Denmark 20 FLU-2018 NO
+36401 Bobby Roberts Denmark 66 SARS-1 YES 23-08-2003
+67505 Ryan Mitchell Denmark 35 SARS-1 NO
+12189 Donna Hernandez Denmark 14 SARS-COV-2 YES 30-11-2000
+73106 Jonathan Brooks Denmark 65 COVID-2019 NO
+62901 Robert Zimmerman Denmark 78 COVID-2019 YES 30-01-2016
+68505 James Peterson Denmark 72 COVID-2019 NO
+93151 Tony Huerta Denmark 34 MERS-COV NO
+88298 Madison Nelson Denmark 53 H1N1 NO
+93376 David Hart Denmark 78 SARS-1 NO
+87148 Denise Sloan Denmark 61 H1N1 YES 06-12-2013
+40421 Seth Summers Denmark 79 SARS-1 NO
+67196 Brittany Gilbert Denmark 36 COVID-2019 NO
+46052 Megan Lucas Denmark 54 EVD NO
+31463 Nichole Anderson Denmark 16 SARS-COV-2 NO
+54483 Cathy Butler Denmark 48 SARS-1 NO
+95080 Patricia Mcconnell Denmark 27 COVID-2019 YES 17-03-2005
+67499 Cassandra Bridges Denmark 17 MERS-COV NO
+32504 Hannah Robinson Denmark 79 COVID-2019 NO
+17440 Jill Fuller Denmark 26 SARS-1 YES 06-03-2003
+88701 Erica Martinez Denmark 16 FLU-2018 YES 18-08-2016
+31949 Anthony Ramos Denmark 56 COVID-2019 NO
+63120 Debra Murray Denmark 30 H1N1 NO
+25318 Megan Johnson Denmark 19 COVID-2019 YES 15-08-2003
+16885 Daniel Downs Denmark 14 SARS-COV-2 YES 21-11-2015
+89176 Maureen Harvey Denmark 65 SARS-1 YES 11-01-2002
+37443 Randy Johnson Denmark 41 EVD YES 17-01-2016
+81172 Tara Anderson Denmark 60 SARS-COV-2 YES 16-08-2009
+71891 Marc Owens Denmark 50 SARS-COV-2 NO
+93508 Stacy Wall Denmark 11 EVD YES 30-04-2012
+73227 Amanda York Denmark 21 H1N1 NO
+36602 Andrea Dean Denmark 55 SARS-COV-2 NO
+44100 Cameron Gardner Denmark 42 SARS-COV-2 YES 28-01-2021
+53391 Thomas Murphy Denmark 50 SARS-COV-2 NO
+40201 Zachary Moore Denmark 69 SARS-1 NO
+69450 Lisa Harding Denmark 42 SARS-1 YES 02-04-2006
+98347 Michael Martin Denmark 20 EVD YES 13-02-2019
+92583 Jennifer Patel Denmark 16 COVID-2019 NO
+33828 Megan Fernandez Denmark 51 FLU-2018 YES 14-11-2004
+62391 Daniel York Denmark 41 EVD NO
+80252 Kristen Mitchell Denmark 18 SARS-COV-2 NO
+57187 Denise Coleman Denmark 71 H1N1 NO
+60087 Jo Chavez Denmark 77 COVID-2019 YES 21-03-2001
+3855 Ryan Alexander Denmark 50 SARS-COV-2 NO
+32522 Colleen Mahoney Denmark 35 H1N1 YES 28-12-2011
+52138 Erin Sloan Denmark 35 H1N1 YES 18-08-2004
+76997 Adam Perkins Denmark 45 FLU-2018 NO
+95755 Russell Meyer Denmark 32 EVD YES 23-12-2007
+44274 Gregory Myers Denmark 76 H1N1 YES 06-11-2018
+8839 Latoya Roberts Denmark 50 MERS-COV NO
+72384 Zachary Brown Denmark 64 SARS-COV-2 NO
+61024 Alyssa Howell Denmark 41 SARS-COV-2 NO
+47360 Timothy Colon Denmark 76 FLU-2018 NO
+2320 Donna Wilson Denmark 55 SARS-COV-2 NO
+38616 David Curtis Denmark 68 COVID-2019 YES 21-02-2002
+21394 Brittany Hunter Denmark 62 SARS-COV-2 NO
+28571 Debra Grant Denmark 60 FLU-2018 NO
+86391 Drew Holden Denmark 35 COVID-2019 YES 24-05-2011
+23001 Jessica Ramirez Denmark 68 SARS-1 YES 15-11-2005
+66169 Jessica Weaver Denmark 50 SARS-1 YES 06-02-2019
+77815 Shawn Sherman Denmark 50 FLU-2018 YES 22-01-2016
+14534 Edwin Burgess Denmark 33 COVID-2019 YES 25-03-2014
+99417 Amanda Mullen Denmark 15 SARS-1 YES 03-12-2020
+30961 Rodney Ross Denmark 60 H1N1 YES 24-07-2008
+94382 Brenda Graves Denmark 33 FLU-2018 NO
+72892 Alicia Dougherty Denmark 23 COVID-2019 YES 22-09-2016
+91159 Julian Pittman Denmark 51 H1N1 NO
+82543 Tracy Montoya Denmark 48 FLU-2018 NO
+13894 Shelley Henderson Denmark 29 COVID-2019 NO
+61416 Shannon Jackson Denmark 42 MERS-COV NO
+60459 David Black Denmark 60 SARS-1 NO
+48146 Stephanie Stewart Denmark 13 COVID-2019 NO
+85811 Jeffrey Nelson Denmark 50 COVID-2019 YES 26-10-2017
+43110 Brandon Patel Denmark 27 SARS-COV-2 YES 01-08-2011
+52429 Kathy Willis Denmark 59 SARS-COV-2 YES 22-11-2017
+39501 Victoria Ruiz Denmark 28 EVD NO
+73745 Robert Stephens Denmark 68 H1N1 NO
+54265 Warren Harris Denmark 74 SARS-COV-2 NO
+26257 John Cole Denmark 68 MERS-COV NO
+97658 Sean Nichols Denmark 59 H1N1 YES 27-03-2001
+61987 Susan Sanchez Denmark 22 COVID-2019 YES 28-02-2019
+48078 Jeffrey Williams Denmark 42 H1N1 NO
+10274 Matthew Stephens Denmark 44 FLU-2018 YES 24-02-2000
+66629 Kevin Dixon Denmark 38 H1N1 YES 12-04-2003
+68070 Robert Garcia Denmark 44 SARS-COV-2 NO
+23702 Casey Banks Denmark 24 COVID-2019 YES 22-01-2009
+14983 William Best Denmark 51 FLU-2018 YES 30-11-2009
+91790 Melissa Torres Denmark 17 EVD NO
+41416 Monica Walker Denmark 50 EVD NO
+11836 John Johnson Denmark 24 H1N1 NO
+74237 Steven Tucker Denmark 31 SARS-COV-2 YES 03-09-2001
+91835 Donald Anderson Denmark 53 SARS-COV-2 YES 28-08-2003
+94524 Pamela Anthony Denmark 48 FLU-2018 NO
+1694 Eric Pearson Denmark 66 MERS-COV NO
+8381 Christina Bryant Denmark 68 SARS-COV-2 YES 22-03-2005
+21514 Nicole Willis Denmark 45 H1N1 YES 20-03-2015
+89531 Lisa Anderson Denmark 67 FLU-2018 YES 04-03-2003
+23806 Aaron Hughes Denmark 75 H1N1 NO
+59250 Erin Griffin Denmark 46 EVD YES 06-09-2018
+23285 Jennifer Bowman Denmark 54 MERS-COV NO
+48454 George Lopez Denmark 69 H1N1 YES 14-01-2009
+45158 Manuel Collier Denmark 14 SARS-COV-2 NO
+52100 Theresa Johnson Denmark 59 SARS-1 YES 19-05-2019
+19106 Keith Lopez Denmark 21 SARS-1 YES 14-07-2008
+94407 Chad Ramirez Denmark 61 H1N1 NO
+24703 Gerald Spencer Denmark 45 FLU-2018 NO
+48238 Alan Carson Denmark 58 FLU-2018 YES 26-02-2014
+31950 Debra Murphy Denmark 28 FLU-2018 YES 19-09-2020
+51942 Kevin Gutierrez Denmark 77 FLU-2018 YES 23-02-2008
+41164 Tammy Richardson Denmark 79 SARS-COV-2 NO
+55353 Michael Harrison Denmark 12 COVID-2019 YES 29-09-2004
+29061 Julie Ritter Denmark 66 MERS-COV YES 16-03-2011
+83354 Patrick Fox Denmark 20 FLU-2018 NO
+11105 Marilyn Wilson Denmark 40 MERS-COV YES 23-05-2008
+39628 Kaitlyn Conley Denmark 25 SARS-COV-2 YES 05-11-2011
+43507 Morgan Murphy Denmark 17 EVD YES 27-04-2013
+94551 Rickey Drake Denmark 65 COVID-2019 YES 23-08-2016
+79079 Sarah Robles Denmark 49 MERS-COV YES 23-04-2017
+25242 Jessica Brown Denmark 66 MERS-COV YES 26-09-2012
+24737 Stephanie Watts Denmark 24 MERS-COV YES 15-01-2019
+69851 Michele Barrett Denmark 39 FLU-2018 YES 17-12-2006
+94325 Paul Salazar Denmark 27 MERS-COV YES 10-06-2004
+35301 Karen Tapia Denmark 76 H1N1 NO
+91675 Gary Hernandez Denmark 36 EVD NO
+18059 Daryl Lloyd Denmark 74 MERS-COV YES 14-07-2015
+66865 Michael Galvan Denmark 29 EVD YES 11-05-2001
+88136 Shannon Torres Denmark 35 COVID-2019 YES 21-09-2015
+4567 Krystal Martinez Denmark 27 SARS-COV-2 YES 14-02-2002
+73786 Robin Rivers Denmark 38 COVID-2019 NO
+79057 Amy Hines Denmark 18 FLU-2018 YES 05-06-2009
+67804 Tiffany Turner Denmark 72 MERS-COV NO
+43472 Randall Diaz Denmark 14 H1N1 YES 06-03-2003
+64887 Aaron Mccall Denmark 41 SARS-1 YES 08-12-2011
+70546 Taylor Hill Denmark 47 H1N1 YES 04-01-2004
+87546 Wendy Riley Denmark 67 EVD NO
+40412 Melissa Dunn Denmark 33 SARS-1 YES 12-06-2015
+18847 Steven Jackson Denmark 42 MERS-COV YES 28-01-2006
+7253 Joseph Rodriguez Denmark 34 SARS-1 NO
+64426 Janet Hamilton Denmark 79 SARS-COV-2 YES 10-06-2006
+22498 Melanie Lee Denmark 31 SARS-1 YES 13-03-2009
+5083 Matthew Duncan Denmark 50 MERS-COV NO
+27716 Matthew Singh Denmark 20 H1N1 NO
+35856 Richard Strickland Denmark 51 MERS-COV NO
+12444 Terri Perez Denmark 16 H1N1 NO
+59801 Kimberly Davis Denmark 20 COVID-2019 YES 14-08-2016
+26704 Craig Fleming Denmark 17 SARS-1 YES 25-10-2011
+90921 Heather West Denmark 55 MERS-COV YES 07-04-2002
+4750 Rhonda Robinson Denmark 55 COVID-2019 NO
+89729 Robert West Denmark 10 SARS-1 YES 04-01-2009
+49638 Christina Thornton Denmark 53 COVID-2019 NO
+7857 Natalie Aguilar Denmark 47 COVID-2019 YES 17-07-2018
+68865 Rhonda Zimmerman Denmark 18 COVID-2019 YES 15-07-2004
+25789 Nancy Hurley Denmark 36 SARS-COV-2 YES 01-06-2001
+75292 Paula Lee Denmark 37 SARS-COV-2 NO
+96581 Billy Glover Denmark 76 SARS-COV-2 NO
+11018 Kyle Pena Denmark 34 FLU-2018 NO
+19455 Rodney Anderson Denmark 29 EVD YES 30-12-2014
+98327 Kristin Bell Denmark 33 SARS-1 YES 04-05-2002
+77150 Tammy Duncan Denmark 21 H1N1 NO
+82915 Heather Norton Denmark 76 FLU-2018 NO
+65063 Charles Rosales Denmark 21 COVID-2019 NO
+11164 Matthew Daugherty Denmark 12 MERS-COV NO
+14659 Douglas Ford Denmark 42 H1N1 YES 08-06-2016
+91043 Rachel Stewart Denmark 46 SARS-1 YES 29-08-2007
+38899 Duane Fox Denmark 34 EVD NO
+47584 Jeffrey Freeman Denmark 35 SARS-1 NO
+54746 Micheal Clayton Denmark 13 H1N1 YES 08-11-2010
+33732 Christopher Bautista Denmark 52 EVD NO
+27785 Charles Melendez Denmark 13 H1N1 YES 28-04-2001
+11891 Christopher Smith Denmark 20 MERS-COV NO
+36915 Antonio Smith Denmark 60 MERS-COV NO
+31688 Peggy Dyer Denmark 70 SARS-1 YES 17-11-2002
+5231 James Jones Denmark 70 COVID-2019 NO
+68417 Emily Baker Denmark 30 FLU-2018 NO
+29905 Stephen Johnson Denmark 45 COVID-2019 YES 05-04-2006
+64325 Lindsey Evans Denmark 11 H1N1 YES 02-09-2007
+6010 Robert Taylor Denmark 41 FLU-2018 NO
+52712 Courtney Johnson Denmark 41 EVD NO
+55669 Rodney Espinoza Denmark 59 MERS-COV YES 15-03-2018
+41732 Billy Mcdonald Denmark 74 SARS-COV-2 NO
+74503 Brittney Russell Denmark 46 SARS-COV-2 NO
+69510 Julie Drake Denmark 17 H1N1 YES 30-10-2004
+13944 Susan Castillo Denmark 52 MERS-COV YES 22-08-2016
+39854 Marc Smith Denmark 38 SARS-COV-2 YES 26-04-2005
+8322 Timothy Sharp Denmark 27 EVD NO
+43193 Mark Robinson Denmark 54 EVD YES 30-03-2002
+61530 Kelsey Bell Denmark 50 COVID-2019 YES 12-12-2008
+37053 Courtney Kennedy Denmark 62 SARS-1 NO
+99093 Mark King Denmark 12 SARS-COV-2 YES 22-01-2018
+56985 Betty Davis Denmark 21 H1N1 YES 09-03-2001
+32316 Paul Rivera Denmark 32 SARS-1 YES 23-08-2000
+15790 James Taylor Denmark 26 H1N1 NO
+75369 Willie Everett Denmark 35 COVID-2019 YES 23-01-2005
+49679 John Ross Denmark 66 H1N1 YES 18-10-2018
+70765 Joseph Koch Denmark 36 SARS-COV-2 NO
+49157 Robin Hall Denmark 11 MERS-COV NO
+21074 Janet Romero Denmark 31 SARS-1 YES 12-04-2014
+47238 Elizabeth Melendez Denmark 36 EVD YES 02-06-2009
+30954 Erin Cole Denmark 36 SARS-1 YES 12-01-2007
+66359 William Washington Denmark 45 COVID-2019 YES 14-06-2010
+5288 Carlos Walker Denmark 37 H1N1 YES 14-11-2017
+87850 Jamie Fry Denmark 62 COVID-2019 YES 08-03-2014
+9527 Elizabeth Hill Denmark 47 EVD NO
+21280 Wendy Williamson Denmark 58 H1N1 YES 16-10-2006
+51458 Robert Martin Denmark 77 SARS-1 NO
+82662 Meredith Woods Denmark 76 SARS-COV-2 YES 09-09-2003
+30002 Michael Ellis Denmark 29 H1N1 YES 17-01-2002
+84102 Alison Carey Denmark 79 EVD NO
+9990 Tyler Moore Denmark 73 EVD YES 25-02-2013
+44228 Jeffrey Evans Denmark 13 H1N1 NO
+70565 Dylan Brewer Denmark 53 SARS-1 YES 17-12-2007
+62251 Lisa Bailey Denmark 66 EVD YES 29-08-2006
+98005 Pamela Thomas Denmark 20 COVID-2019 YES 04-02-2019
+42465 Kimberly Miller Denmark 73 FLU-2018 NO
+12501 Meghan Smith Denmark 22 SARS-1 YES 07-06-2013
+30903 Jacqueline Browning Denmark 67 EVD YES 05-09-2008
+79627 Justin Collins Denmark 54 MERS-COV YES 01-04-2014
+31133 Rachel Anderson Denmark 11 H1N1 NO
+46709 Jonathan Carlson Denmark 11 H1N1 NO
+52959 Corey Wiley Denmark 26 FLU-2018 YES 07-01-2001
+73479 Cynthia Orozco Denmark 48 EVD YES 24-09-2006
+15693 Sean Hopkins Denmark 19 FLU-2018 YES 29-01-2007
+36166 Benjamin Parker Denmark 28 MERS-COV NO
+24499 Kayla Lee Denmark 22 EVD YES 24-04-2008
+27256 Trevor Smith Denmark 63 SARS-1 NO
+93503 Andre Hogan Denmark 38 FLU-2018 NO
+65175 Gerald Thomas Denmark 60 H1N1 NO
+31684 Jorge Wise Denmark 67 SARS-1 YES 31-03-2010
+49212 Matthew Pierce Denmark 70 FLU-2018 YES 15-07-2004
+26096 Valerie Hall Denmark 14 SARS-COV-2 YES 01-02-2015
+68286 Melinda Daniels Denmark 64 FLU-2018 YES 30-05-2009
+30380 Robin Lopez Denmark 53 FLU-2018 NO
+41785 Thomas Parker Denmark 25 EVD NO
+71665 Jose Rose Denmark 23 MERS-COV NO
+58722 Shawna Smith Denmark 15 FLU-2018 YES 13-10-2008
+25311 William Reeves Denmark 79 SARS-COV-2 YES 05-02-2001
+66714 Sarah Wagner Denmark 31 COVID-2019 YES 21-12-2007
+12875 Gregory Hobbs Denmark 69 FLU-2018 NO
+33830 Karen Watson Denmark 16 MERS-COV NO
+38770 John Parrish Denmark 33 H1N1 NO
+78485 Rebecca Day Denmark 11 FLU-2018 YES 07-03-2009
+50681 Jonathan Hill Denmark 13 SARS-1 YES 02-03-2013
+8810 Melanie Davila Denmark 54 H1N1 YES 11-01-2005
+74233 Cameron Brooks Denmark 58 COVID-2019 YES 17-06-2008
+22532 Thomas Richards Denmark 42 SARS-1 YES 07-07-2001
+94324 Edwin Perry Denmark 42 COVID-2019 NO
+49840 Emily Olson Denmark 32 FLU-2018 YES 27-09-2020
+27813 Jason Allison Denmark 64 MERS-COV NO
+96846 Linda Peterson Denmark 62 SARS-COV-2 YES 02-12-2000
+25936 Stephanie Velez Denmark 49 FLU-2018 NO
+4987 Stephanie Ross Denmark 54 MERS-COV NO
+12075 Gabrielle Rhodes Denmark 38 FLU-2018 NO
+5186 William Willis Denmark 69 EVD NO
+74817 Michael Baker Denmark 76 SARS-1 YES 04-02-2008
+45388 Julie Guerra Denmark 37 EVD NO
+23923 Leah Mendoza Denmark 69 EVD YES 05-12-2016
+52565 Tyler Miller Denmark 20 SARS-1 NO
+46050 Krystal Lopez Denmark 74 COVID-2019 NO
+11361 Billy Dixon Denmark 35 MERS-COV NO
+14725 Brian Hodges Denmark 29 H1N1 NO
+58458 John Greene Denmark 27 COVID-2019 YES 11-12-2011
+41205 Anthony Haynes Denmark 30 FLU-2018 YES 13-01-2009
+21733 Melissa Russell Denmark 41 SARS-COV-2 YES 10-07-2004
+84483 Wesley Aguilar Denmark 74 EVD NO
+22576 Sharon Carroll Denmark 30 H1N1 NO
+72549 Brandon Henderson Denmark 14 SARS-1 NO
+46042 Sabrina Hunter Denmark 76 COVID-2019 YES 29-05-2010
+91961 Jennifer Barker Denmark 17 FLU-2018 NO
+96232 Kelsey Haynes Denmark 26 SARS-1 NO
+43827 Kelly Sutton Denmark 78 H1N1 NO
+52302 Donald Rodriguez Denmark 67 FLU-2018 NO
+34689 Paul Fuentes Denmark 47 FLU-2018 YES 26-09-2003
+92488 William Foster Denmark 39 FLU-2018 YES 19-10-2020
+74226 Marie Moore Denmark 57 EVD NO
+10599 Eric Pham Denmark 10 H1N1 YES 06-11-2001
+52999 Emily Kelley Denmark 36 SARS-COV-2 YES 30-08-2015
+20678 Steven Sanders Denmark 59 SARS-1 YES 13-12-2019
+39442 Jeffrey Sanford Denmark 45 EVD YES 09-02-2009
+22328 Douglas Nichols Denmark 46 EVD YES 07-08-2006
+74264 Katie Frazier Denmark 45 H1N1 NO
+89554 John Reeves Denmark 42 MERS-COV NO
+98615 Alyssa Martinez Denmark 12 COVID-2019 YES 22-08-2001
+10084 Jennifer Thompson Denmark 16 MERS-COV NO
+47144 Brittany Becker Denmark 26 SARS-COV-2 NO
+1348 Zachary Gutierrez Denmark 77 MERS-COV NO
+192 James Keith Denmark 44 MERS-COV NO
+503 Audrey Graves Denmark 54 EVD NO
+39126 William Cohen Denmark 15 SARS-COV-2 YES 06-03-2006
+12833 Lori Brooks Denmark 14 MERS-COV YES 29-12-2005
+27210 Danielle Ortiz Denmark 33 SARS-1 NO
+62691 Paula Deleon Denmark 18 MERS-COV YES 22-08-2014
+92217 Gina Ellison Denmark 13 EVD NO
+97844 Mark Washington Denmark 13 MERS-COV NO
+15506 Clinton Campbell Denmark 70 EVD YES 18-05-2003
+15465 Theresa Butler Denmark 78 COVID-2019 YES 14-04-2001
+1988 Linda Harrington Denmark 51 EVD YES 04-11-2012
+32273 David Gallagher Denmark 69 MERS-COV NO
+99001 Tammy Edwards Denmark 49 EVD YES 13-10-2014
+58217 Michael Hansen Denmark 29 FLU-2018 YES 22-07-2001
+71505 Jennifer Jones Denmark 15 SARS-COV-2 YES 01-07-2012
+24267 Cheryl Cordova Denmark 68 FLU-2018 NO
+85407 Victoria Green Denmark 53 FLU-2018 YES 02-12-2016
+906 Shirley Lawson Denmark 50 H1N1 NO
+46134 Timothy Holloway Denmark 71 SARS-COV-2 YES 15-09-2001
+95322 Theodore Mcclain Denmark 37 COVID-2019 NO
+6643 Tyler Miller Denmark 45 COVID-2019 NO
+76646 Bryan Palmer Denmark 21 COVID-2019 NO
+73748 William Burke Denmark 22 EVD NO
+33837 Wendy Davila Denmark 45 SARS-1 NO
+12137 Kyle Austin Denmark 52 MERS-COV NO
+73689 Jesse Nichols Denmark 20 MERS-COV NO
+55900 Matthew Ellis Denmark 73 FLU-2018 YES 14-10-2011
+26508 Shelley Murphy Denmark 45 FLU-2018 YES 07-06-2020
+96886 Paul Jones Denmark 38 SARS-1 YES 18-09-2000
+4522 Janice Payne Denmark 73 COVID-2019 NO
+629 Andrea Lopez Denmark 16 EVD NO
+85134 Matthew Bailey Denmark 16 EVD NO
+30109 Daniel Murphy Denmark 43 SARS-COV-2 NO
+84180 Brian Pruitt Denmark 52 SARS-COV-2 NO
+92574 Alexis Mccoy Denmark 61 SARS-COV-2 NO
+46156 Marissa Rodriguez Denmark 21 MERS-COV YES 27-10-2013
+15772 Matthew Lopez Denmark 47 H1N1 YES 02-03-2011
+38354 Maria Rubio Denmark 17 FLU-2018 YES 23-10-2000
+7699 Elizabeth Jackson Denmark 71 H1N1 YES 14-02-2013
+64003 Shane Brooks Denmark 78 FLU-2018 NO
+92671 Wendy Williamson Denmark 18 SARS-COV-2 YES 27-06-2016
+79018 Joel Lee Denmark 20 COVID-2019 YES 17-06-2011
+26149 Matthew Chavez Denmark 43 COVID-2019 NO
+87312 David Scott Denmark 15 EVD YES 22-09-2005
+11240 Terri English Denmark 79 FLU-2018 YES 10-06-2017
+30708 Jared Weber Denmark 14 SARS-COV-2 YES 22-01-2006
+10575 Lisa White Denmark 28 COVID-2019 NO
+19522 Nancy Adams Denmark 29 MERS-COV YES 27-06-2019
+16346 Nathan Andrews Denmark 79 EVD YES 30-08-2013
+94784 Douglas Mckay Denmark 79 FLU-2018 YES 07-04-2008
+39611 Ebony Cole Denmark 12 COVID-2019 NO
+20314 Scott Bond Denmark 73 FLU-2018 NO
+15113 Brenda Mendoza Denmark 16 MERS-COV YES 15-06-2020
+34243 Joseph Gonzalez Denmark 65 COVID-2019 NO
+70757 David Lindsey Denmark 58 MERS-COV YES 07-07-2009
+79877 Priscilla Lee Denmark 56 FLU-2018 YES 08-12-2015
+59223 Laura Lane Denmark 65 MERS-COV YES 02-02-2013
+44972 Barry Dalton Denmark 74 FLU-2018 NO
+80952 Wendy Davis Denmark 79 EVD NO
+40808 Samantha Gilmore Denmark 70 MERS-COV YES 18-12-2007
+26222 Linda Thomas Denmark 16 COVID-2019 NO
+68549 Jacqueline Ellis Denmark 35 MERS-COV NO
+3890 Hannah Hamilton Denmark 20 H1N1 YES 22-11-2020
+71279 William Galvan Denmark 36 EVD NO
+43179 Ashley Maxwell Denmark 38 SARS-1 NO
+58903 Rebecca Estes Denmark 36 SARS-1 NO
+76250 Caleb Cook Denmark 55 EVD YES 31-03-2007
+53819 Kimberly Morgan Denmark 64 EVD YES 24-02-2007
+18431 Lisa Hopkins Denmark 34 MERS-COV YES 07-07-2001
+4355 Robert Cooper Denmark 66 SARS-1 YES 31-03-2012
+67027 Ryan Parker Denmark 69 SARS-COV-2 NO
+91073 Joseph Nguyen Denmark 35 COVID-2019 YES 29-08-2000
+36962 Sarah Costa Denmark 41 MERS-COV NO
+686 Laurie Gonzalez Denmark 26 COVID-2019 NO
+58201 Sandra Miller Denmark 44 SARS-COV-2 NO
+82480 Jason Thomas Denmark 13 H1N1 NO
+35376 Amy Walters Denmark 13 MERS-COV NO
+61597 Daniel Lowe Denmark 24 EVD NO
+67258 Michael Walsh Denmark 43 SARS-1 YES 21-05-2002
+10839 Nathan Carlson Denmark 38 SARS-COV-2 YES 17-04-2003
+13259 Aaron Miller Denmark 29 FLU-2018 NO
+87145 Gina Garcia Denmark 22 SARS-COV-2 YES 11-07-2009
+21446 Deborah Armstrong Denmark 30 FLU-2018 YES 04-06-2012
+18197 Benjamin Jefferson Denmark 78 SARS-1 YES 30-12-2009
+48287 Nicholas White Denmark 47 SARS-1 YES 05-03-2021
+71287 Robert Peters Denmark 47 SARS-1 YES 13-06-2006
+34592 Marc Russell Denmark 52 SARS-1 NO
+90079 Elizabeth Martinez Denmark 27 FLU-2018 NO
+7594 Ruth Adkins Denmark 17 FLU-2018 NO
+32147 Michael Stanton Denmark 59 SARS-1 YES 21-09-2004
+4145 Tonya Ramos Denmark 28 FLU-2018 NO
+55551 Alice Franklin Denmark 13 EVD NO
+480 Curtis Dickerson Denmark 41 COVID-2019 YES 15-01-2016
+93707 Kristin Ward Denmark 12 EVD NO
+74141 Holly Hughes Denmark 46 SARS-COV-2 YES 04-12-2007
+68226 Amanda Carlson Denmark 44 SARS-COV-2 YES 09-07-2003
+24370 Jessica Gallagher Denmark 41 COVID-2019 NO
+35694 Marvin Garcia Denmark 43 MERS-COV YES 18-07-2013
+64833 Teresa Diaz Denmark 39 EVD YES 06-10-2019
+61478 Timothy Jones Denmark 43 SARS-1 NO
+39752 Spencer Howard Denmark 29 MERS-COV YES 22-09-2001
+91418 Douglas Taylor Denmark 13 FLU-2018 NO
+11042 Erica Roberts Denmark 21 SARS-1 NO
+65949 Gloria Lawson Denmark 40 EVD YES 09-06-2014
+65867 Steven Jackson Denmark 58 COVID-2019 NO
+41413 Chris Morris Denmark 46 H1N1 YES 08-10-2016
+82536 Sarah Gutierrez Denmark 76 SARS-COV-2 NO
+51541 James Ramirez Denmark 26 SARS-COV-2 YES 27-03-2001
+93258 Troy Jefferson Denmark 55 MERS-COV NO
+58082 Tracey Wolf Denmark 53 FLU-2018 NO
+74090 Vanessa Oconnor Denmark 32 H1N1 NO
+93352 Jennifer Wilkins Denmark 67 FLU-2018 YES 22-04-2001
+46898 Victor Smith Denmark 53 SARS-COV-2 YES 24-02-2021
+18686 Jennifer Wade Denmark 11 H1N1 NO
+40946 Joseph Matthews Denmark 73 H1N1 NO
+34727 Joshua Miller Denmark 46 H1N1 YES 11-03-2004
+26185 Tanya Mccarthy Denmark 34 MERS-COV YES 24-08-2008
+97189 Lisa Jones Denmark 13 H1N1 YES 11-04-2008
+71231 Christine Waters Denmark 20 FLU-2018 NO
+89711 Fernando Hill Denmark 71 SARS-COV-2 NO
+83476 Sarah Lowe Denmark 38 EVD NO
+6466 Jeffrey Ayers Denmark 49 FLU-2018 YES 19-07-2000
+69021 Daniel Powell Denmark 40 MERS-COV NO
+21665 Carrie Hall Denmark 77 H1N1 NO
+81314 Roberta Rivera Denmark 10 SARS-1 NO
+19364 Travis Jones Denmark 31 COVID-2019 NO
+73393 Julie Carter Denmark 58 EVD YES 16-12-2015
+63159 Carmen Brooks Denmark 59 SARS-COV-2 NO
+93826 Ryan Howard Denmark 53 FLU-2018 NO
+72582 Jennifer Palmer Denmark 28 SARS-1 YES 01-06-2011
+64736 Cody Carney Denmark 35 SARS-COV-2 YES 23-05-2010
+13914 Kenneth Harrington Denmark 72 H1N1 NO
+21458 Carol Patrick Denmark 59 COVID-2019 NO
+84027 Ernest Newton Denmark 12 FLU-2018 YES 02-08-2010
+962 Teresa Good Denmark 27 MERS-COV NO
+56543 Thomas Simmons Denmark 66 COVID-2019 YES 28-05-2004
+12176 Manuel Smith Denmark 15 MERS-COV YES 14-04-2004
+64703 Garrett Hernandez Denmark 42 MERS-COV YES 13-03-2008
+73562 Corey Yang Denmark 23 SARS-1 YES 05-06-2002
+62944 Melanie Middleton Denmark 28 H1N1 NO
+16383 David Cowan Denmark 70 FLU-2018 YES 04-08-2016
+56394 Carlos Perkins Denmark 18 EVD NO
+99663 Victoria Duncan Denmark 44 COVID-2019 NO
+59057 Jenny Wallace Denmark 23 MERS-COV NO
+43595 Ashley Greene Denmark 49 SARS-1 NO
+24694 Angela Melton Denmark 59 COVID-2019 YES 15-11-2015
+41578 Ryan Daniel Denmark 49 SARS-COV-2 NO
+99368 John Jones Denmark 65 H1N1 YES 16-11-2007
+2257 Elizabeth Young Denmark 27 SARS-COV-2 NO
+39736 Emily Burton Denmark 42 MERS-COV NO
+96245 Steven Morris Denmark 69 FLU-2018 YES 08-11-2005
+81305 Jennifer Jones Denmark 58 EVD NO
+88948 Christopher Rodriguez Denmark 67 COVID-2019 NO
+61063 Anthony Cowan Denmark 42 COVID-2019 NO
+78394 Jeffrey Oconnell Denmark 56 MERS-COV YES 06-01-2000
+74154 Briana Gordon Denmark 18 H1N1 YES 12-04-2019
+53833 Elizabeth Riley Denmark 47 MERS-COV NO
+82143 Pam Brewer Denmark 64 H1N1 NO
+12388 Jermaine Humphrey Denmark 26 COVID-2019 YES 06-04-2009
+99546 Sean Collins Denmark 63 SARS-1 YES 15-11-2001
+44774 Stephanie Parsons Denmark 57 COVID-2019 NO
+59532 Tyler Parker Denmark 20 COVID-2019 YES 25-04-2008
+6729 Joshua Miller Denmark 57 EVD YES 24-07-2007
+17611 Kelly Burns Denmark 60 SARS-1 NO
+63268 Michael Hart Denmark 37 SARS-1 YES 09-01-2007
+1088 Emily Olson Denmark 26 SARS-1 YES 20-08-2015
+89404 John Smith Denmark 67 H1N1 NO
+48573 Robert Baldwin Denmark 26 H1N1 NO
+89976 Sharon Mendoza Denmark 63 EVD NO
+48105 Cassandra Navarro Denmark 21 EVD YES 08-04-2002
+69350 Craig Thomas Denmark 71 EVD YES 01-07-2014
+81841 Frederick Barnes Denmark 78 SARS-COV-2 NO
+25738 John Cook Denmark 54 MERS-COV NO
+35680 Gabriel Clay Denmark 41 MERS-COV NO
+94021 Jessica Bennett Denmark 74 EVD YES 26-10-2018
+48394 Lucas Jackson Denmark 79 FLU-2018 YES 20-08-2000
+88786 Heather Richardson Denmark 44 H1N1 NO
+78857 Michael Kelly Denmark 37 EVD YES 30-07-2013
+48138 Tamara Cochran Denmark 70 FLU-2018 NO
+12027 Joseph Swanson Denmark 46 FLU-2018 YES 30-12-2018
+72900 Jessica Brown Denmark 68 MERS-COV YES 01-03-2007
+36489 Shannon Schroeder Denmark 23 MERS-COV NO
+81552 Daniel Clark Denmark 78 EVD NO
+83803 Nicholas Phillips Denmark 69 MERS-COV YES 21-11-2011
+84715 Hector Moreno Denmark 17 COVID-2019 NO
+87490 Charlotte Hernandez Denmark 10 COVID-2019 YES 23-12-2018
+56099 Ryan Smith Denmark 29 SARS-COV-2 NO
+16972 Arthur Reyes Denmark 21 SARS-COV-2 YES 22-06-2000
+80428 Patricia Leon Denmark 25 COVID-2019 NO
+45824 Jared Jensen Denmark 52 FLU-2018 NO
+78261 Leonard Carpenter Denmark 42 COVID-2019 NO
+42996 Lisa Hughes Denmark 38 FLU-2018 NO
+78035 Elizabeth Santos Denmark 75 SARS-COV-2 NO
+71113 Patricia Mcclure Denmark 17 EVD NO
+26827 Karen Gonzalez Denmark 66 FLU-2018 YES 07-12-2001
+38823 Brandon Black Denmark 66 SARS-1 YES 05-02-2016
+99101 Deborah Carr Denmark 50 SARS-1 NO
+28969 William Mullins Denmark 21 FLU-2018 NO
+75489 Andrea Walker Denmark 27 SARS-1 YES 02-08-2019
+34994 Robert Pugh Denmark 48 H1N1 NO
+98032 Renee Swanson Denmark 20 SARS-1 NO
+62604 Jeremy Wilson Denmark 59 FLU-2018 YES 13-06-2013
+32963 Melanie Mcclure Denmark 74 FLU-2018 YES 22-10-2009
+21936 Joseph Martinez Denmark 36 H1N1 YES 20-02-2014
+94154 Teresa Rodriguez Denmark 59 SARS-1 YES 02-06-2008
+33334 Shannon Dominguez Denmark 13 FLU-2018 NO
+27381 Jeremiah Castro Denmark 27 EVD YES 01-12-2013
+98939 Annette Robinson Denmark 20 EVD NO
+9512 Charles Anderson Denmark 32 MERS-COV YES 11-04-2012
+57865 John Green Denmark 66 EVD YES 04-01-2009
+98139 Jeff Perkins Denmark 39 EVD YES 30-05-2016
+65569 Andrea Herman Denmark 55 SARS-1 NO
+88542 Michelle Walsh Denmark 79 MERS-COV NO
+22240 Edward Cannon Denmark 25 MERS-COV YES 22-05-2002
+22778 Jason Holloway Denmark 47 SARS-1 NO
+68934 Jonathan Graham Denmark 21 EVD YES 23-01-2011
+5825 Christopher Acosta Denmark 14 SARS-1 NO
+98083 Melissa Graham Denmark 41 SARS-1 YES 10-02-2017
+3875 Amber Torres Denmark 74 SARS-COV-2 YES 05-12-2004
+12251 Suzanne Barron Denmark 78 H1N1 YES 11-06-2018
+31062 Eric Baker Denmark 38 EVD NO
+78136 Robert Robles Denmark 64 EVD NO
+98702 Tina Shields Denmark 31 FLU-2018 YES 07-07-2015
+51498 James Melendez Denmark 54 SARS-1 NO
+39395 Breanna Smith Denmark 60 FLU-2018 YES 26-01-2021
+91484 Sean Jones Denmark 72 MERS-COV YES 21-02-2009
+91142 Dennis Willis Denmark 29 SARS-COV-2 NO
+29605 Tim Doyle Denmark 20 EVD NO
+61629 Erin Johnson Denmark 74 EVD NO
+89803 Robin Joseph Denmark 56 COVID-2019 NO
+85745 Adrian Allen Denmark 61 COVID-2019 NO
+11811 Sharon Medina Denmark 13 COVID-2019 YES 17-01-2002
+88459 Patricia Thomas Denmark 76 SARS-COV-2 NO
+56586 Claire Garcia Denmark 16 SARS-1 YES 03-11-2009
+12159 Amy Fields Denmark 70 SARS-1 YES 21-06-2016
+30135 Matthew Vang Denmark 58 SARS-1 NO
+42144 Douglas Jennings Denmark 21 H1N1 YES 23-07-2020
+5899 Brittany Clark Denmark 33 EVD NO
+39574 Robert Neal Denmark 32 H1N1 YES 11-04-2012
+36342 Kenneth Novak Denmark 60 SARS-1 NO
+41372 Anna Harvey Denmark 37 EVD NO
+84545 Wanda Blair Denmark 44 SARS-COV-2 NO
+23803 Christy Wolfe Denmark 36 SARS-1 YES 03-07-2013
+1914 Jose Kane Denmark 17 FLU-2018 NO
+40502 Carrie Macdonald Denmark 14 EVD NO
+2238 Kimberly Bush Denmark 14 EVD NO
+71093 Keith Brock Denmark 72 MERS-COV YES 23-10-2020
+62423 Faith King Denmark 49 H1N1 YES 09-08-2004
+94205 Sarah Jackson Denmark 55 FLU-2018 NO
+43455 Craig Adams Denmark 71 SARS-1 NO
+15415 Nicholas Walker Denmark 17 SARS-COV-2 YES 20-12-2000
+20463 Eileen Bell Denmark 63 MERS-COV YES 01-01-2009
+74607 Carrie Williams Denmark 25 EVD NO
+55556 Michelle Stuart Denmark 64 MERS-COV NO
+16888 Samantha Jones Denmark 32 COVID-2019 YES 01-02-2007
+43096 Robert Jackson Denmark 18 SARS-1 NO
+21390 Natasha Lawrence Denmark 10 EVD YES 04-12-2010
+24333 Carrie Moore Denmark 70 MERS-COV NO
+9731 Amanda Hall Denmark 17 COVID-2019 YES 22-02-2004
+22958 Bradley Mcdonald Denmark 77 H1N1 YES 07-03-2004
+95170 Julie Rosales Denmark 75 SARS-COV-2 YES 11-01-2013
+13209 Brian Stout Denmark 45 H1N1 NO
+26773 Jerry Moon Denmark 16 H1N1 NO
+89469 Christina Wolfe Denmark 38 COVID-2019 NO
+99413 Tamara Lewis Denmark 13 MERS-COV YES 21-12-2013
+71925 Jimmy Meyer Denmark 54 COVID-2019 NO
+45479 Erin Phillips Denmark 62 FLU-2018 YES 08-08-2015
+38349 Jennifer Walker Denmark 25 FLU-2018 YES 30-01-2002
+55020 Emily Murphy Denmark 11 MERS-COV NO
+86035 Jay Lang Denmark 68 COVID-2019 YES 24-08-2006
+84163 James Watson Denmark 35 MERS-COV YES 04-09-2003
+70429 Catherine Weaver Denmark 63 SARS-1 NO
+86868 Wendy Hodges Denmark 58 EVD NO
+95866 Kristin Stokes Denmark 72 H1N1 YES 23-01-2021
+83703 Jared Meyer Denmark 14 FLU-2018 YES 17-07-2011
+48153 Denise Mclean Denmark 47 SARS-1 YES 14-06-2008
+19354 Anthony Leonard Denmark 20 SARS-1 YES 13-11-2012
+65400 Thomas Romero Denmark 78 COVID-2019 NO
+88593 Debra Smith Denmark 18 COVID-2019 NO
+97879 Jared Brooks Denmark 68 FLU-2018 YES 10-06-2009
+754 Mark Richardson Denmark 67 SARS-COV-2 YES 26-04-2001
+83921 Cody Green Denmark 37 SARS-1 NO
+55689 Michael Mann Denmark 29 SARS-1 NO
+15793 Cameron Johnson Denmark 62 EVD NO
+53127 Lori Jackson Denmark 45 EVD YES 07-11-2001
+11280 Garrett Love Denmark 47 SARS-COV-2 NO
+28135 Katherine Key Denmark 36 FLU-2018 YES 22-11-2008
+81897 Alexandra Gray Denmark 71 EVD NO
+14519 Pamela Smith Denmark 30 SARS-COV-2 NO
+91538 Bonnie Butler Denmark 15 SARS-COV-2 NO
+42155 Melissa Johnson Denmark 79 COVID-2019 YES 21-01-2005
+51781 Tiffany Brown Denmark 35 SARS-1 NO
+35935 John Marquez Denmark 12 H1N1 YES 02-08-2010
+10160 Michael Howard Denmark 44 SARS-1 YES 26-03-2017
+96586 Lauren Gregory Denmark 16 SARS-COV-2 NO
+37176 Michael Hernandez Denmark 32 MERS-COV NO
+53146 Anthony Dunn Denmark 10 SARS-1 NO
+88030 Michael Jones Denmark 58 SARS-1 NO
+85542 Barbara Watson Denmark 43 SARS-COV-2 YES 02-10-2012
+10869 Angela Gray Denmark 30 H1N1 YES 04-05-2012
+21903 Heather Morgan Denmark 72 FLU-2018 YES 05-03-2016
+26586 Maria Gay Denmark 16 FLU-2018 YES 25-04-2015
+22033 Scott Hoffman Denmark 52 COVID-2019 NO
+64474 Linda Smith Denmark 31 SARS-1 NO
+37638 Claudia Allen Denmark 78 SARS-1 YES 23-01-2012
+7321 Angelica Moore Denmark 49 SARS-COV-2 YES 09-08-2003
+82453 Rachel Carlson Denmark 73 SARS-COV-2 NO
+91307 Arthur Martinez Denmark 20 SARS-COV-2 YES 18-03-2008
+14365 Stephen Franco Denmark 15 H1N1 YES 13-03-2019
+37227 Lisa Mays Denmark 71 SARS-COV-2 NO
+53419 Jonathon Smith Denmark 61 SARS-COV-2 YES 17-03-2019
+48689 Michael Randall Denmark 66 SARS-COV-2 NO
+38569 Cameron Johnson Denmark 21 SARS-COV-2 NO
+65513 Robert Chan Denmark 64 SARS-COV-2 NO
+51120 Robert Contreras Denmark 45 SARS-COV-2 NO
+63921 Michael Ford Denmark 49 EVD YES 20-06-2020
+68999 Joseph Scott Denmark 42 SARS-1 NO
+92934 William Flores Denmark 18 COVID-2019 YES 10-10-2016
+5440 Diane Mccoy Denmark 78 FLU-2018 YES 03-01-2013
+64550 Alexandria Wright Denmark 41 SARS-1 NO
+68038 Jim Wolf Denmark 19 MERS-COV NO
+92685 Monica Clark Denmark 30 SARS-1 YES 30-08-2016
+88911 Amanda Roberts Denmark 13 H1N1 NO
+13341 James Bentley Denmark 34 FLU-2018 YES 01-04-2020
+41047 Daniel Anderson Denmark 15 MERS-COV NO
+36783 Nicholas Diaz Denmark 54 FLU-2018 NO
+53981 Edward Brooks Denmark 18 EVD YES 27-09-2007
+39531 James Anderson Denmark 22 MERS-COV YES 09-01-2021
+55929 Nicole Delgado Denmark 28 H1N1 YES 22-03-2017
+78554 David Cox Denmark 39 FLU-2018 YES 13-03-2013
+21948 Lawrence Miller Denmark 20 SARS-COV-2 NO
+31401 Deborah Peterson Denmark 17 COVID-2019 NO
+70669 Holly Patterson Denmark 52 FLU-2018 NO
+44418 Erica Wright Denmark 40 COVID-2019 NO
+81681 Timothy Le Denmark 62 SARS-1 NO
+21484 Christopher Brown Denmark 42 MERS-COV NO
+11534 Eric Mayo Denmark 33 H1N1 NO
+55736 Catherine Hall Denmark 31 EVD YES 15-09-2007
+33134 Billy Petty Denmark 14 H1N1 NO
+61630 Thomas Mejia Denmark 69 MERS-COV YES 25-08-2013
+50137 Johnny Herrera Denmark 25 H1N1 YES 01-09-2002
+51213 Beverly Anderson Denmark 62 H1N1 NO
+12079 Melissa Riley Denmark 45 COVID-2019 NO
+74384 Jonathan Sanchez Denmark 47 SARS-COV-2 YES 28-03-2019
+54515 Samantha Rose Denmark 17 FLU-2018 NO
+20371 Brandi Jones Denmark 38 MERS-COV NO
+85627 Tammy Thompson Denmark 23 H1N1 YES 15-03-2020
+44269 Scott Collins Denmark 77 SARS-1 NO
+71154 Edward Taylor Denmark 65 H1N1 NO
+5710 Jason Edwards Denmark 15 H1N1 NO
+68666 Kathleen Jones Denmark 65 SARS-COV-2 NO
+64834 Anthony Ruiz Denmark 59 SARS-1 NO
+53861 Samuel Perez Denmark 46 SARS-1 YES 25-07-2001
+67694 Pamela Morales Denmark 63 FLU-2018 NO
+39371 Shelly Baxter Denmark 73 EVD NO
+84402 Ronald Gentry Denmark 74 EVD NO
+18142 Courtney Salinas Denmark 36 SARS-1 NO
+9723 Renee Heath Denmark 64 COVID-2019 NO
+45155 Russell Hatfield Denmark 20 EVD NO
+52836 Anita Rodriguez Denmark 50 MERS-COV NO
+37612 David Brandt Denmark 31 SARS-1 NO
+56577 Paul Fritz Denmark 71 EVD NO
+67742 Ryan Spencer Denmark 48 MERS-COV NO
+61845 Mallory Boyle Denmark 78 COVID-2019 NO
+51201 Derek Benson Denmark 46 COVID-2019 YES 21-03-2005
+90258 Kimberly Dominguez Denmark 18 MERS-COV YES 07-04-2001
+10901 Gary Roberts Denmark 54 H1N1 YES 25-09-2000
+87844 Keith Mclean Denmark 75 FLU-2018 YES 23-08-2011
+65114 John Bennett Denmark 16 H1N1 NO
+33933 Albert Anderson Denmark 53 H1N1 NO
+74999 Joshua Underwood Denmark 46 SARS-COV-2 NO
+61708 Katherine Hernandez Denmark 34 FLU-2018 NO
+57387 Brent Davis Denmark 19 H1N1 NO
+16918 Hannah Reyes Denmark 69 SARS-COV-2 YES 11-12-2002
+97746 Jeanette Jones Denmark 65 COVID-2019 YES 30-05-2004
+61079 Mallory May Denmark 19 H1N1 YES 26-08-2004
+92990 David Herrera Denmark 68 EVD YES 11-07-2020
+99327 Mike Morgan Denmark 34 COVID-2019 NO
+56061 Alexandra Landry Denmark 45 SARS-COV-2 NO
+40523 Robert Berry Denmark 46 MERS-COV YES 08-02-2012
+9392 Matthew Chavez Denmark 10 SARS-COV-2 YES 30-10-2005
+93830 Michael Howard Denmark 58 H1N1 YES 05-04-2012
+87572 Jacob Rivera Denmark 41 SARS-1 YES 28-07-2005
+76372 Christopher Byrd Denmark 18 FLU-2018 YES 02-02-2008
+96888 Andrea Swanson Denmark 58 EVD NO
+6796 David Campbell Denmark 30 FLU-2018 YES 12-08-2010
+40588 Scott Williams Denmark 22 MERS-COV YES 03-02-2005
+69344 Aaron Campbell Denmark 48 SARS-COV-2 NO
+88006 Steven Brooks Denmark 47 MERS-COV YES 12-09-2015
+9098 Kayla Wolf Denmark 50 SARS-1 YES 28-04-2007
+73187 Michelle Hart Denmark 45 EVD NO
+1143 Ryan Williams Denmark 66 H1N1 NO
+15937 Jeffrey Sexton Denmark 12 MERS-COV YES 04-10-2000
+13071 Brian Webster Denmark 16 SARS-COV-2 NO
+62233 Kyle Baker Denmark 31 FLU-2018 NO
+1086 Jody Villarreal Denmark 19 SARS-1 YES 04-12-2017
+1729 Keith Wells Denmark 44 EVD YES 08-05-2009
+84644 Thomas Young Denmark 21 SARS-1 YES 05-07-2008
+62733 Jennifer Baker Denmark 17 H1N1 NO
+48081 Jessica Finley Denmark 16 SARS-1 YES 14-12-2001
+88695 Elizabeth Thomas Denmark 11 COVID-2019 NO
+54490 Christopher Price Denmark 44 H1N1 YES 13-11-2002
+64883 Derek Gonzalez Denmark 52 FLU-2018 YES 16-10-2003
+86955 Melissa Raymond Denmark 49 MERS-COV NO
+88557 Stephen Obrien Denmark 37 FLU-2018 NO
+18076 Jonathan Frazier Denmark 79 EVD NO
+12264 Mark Velez Denmark 78 H1N1 YES 12-10-2016
+21818 Daniel Cole Denmark 43 MERS-COV YES 26-02-2008
+59802 Austin Torres Denmark 33 SARS-1 YES 06-11-2004
+5223 Thomas Wells Denmark 55 H1N1 YES 10-09-2008
+58120 Andrew Todd Denmark 22 MERS-COV YES 11-01-2003
+78666 Parker Martinez Denmark 66 H1N1 YES 29-06-2009
+24430 Brittany Lewis Denmark 26 H1N1 YES 02-10-2008
+7287 John Ryan Denmark 75 SARS-1 NO
+92542 Holly Richardson Denmark 74 SARS-COV-2 YES 11-01-2015
+69878 Bruce King Denmark 75 COVID-2019 NO
+15324 Timothy Khan Denmark 25 H1N1 YES 10-09-2012
+4419 Tyler Velazquez Denmark 49 EVD YES 03-02-2005
+9790 Brian Warren Denmark 79 H1N1 NO
+64693 Bryan Pham Denmark 14 SARS-1 YES 05-02-2012
+98979 Elizabeth Sanchez Denmark 68 SARS-1 NO
+67078 Lisa Brown Denmark 71 SARS-1 YES 30-11-2006
+59334 Barry Hernandez Denmark 36 FLU-2018 NO
+41190 Derek West Denmark 60 MERS-COV NO
+96580 Troy Johnson Denmark 31 COVID-2019 NO
+16244 Monica Williams Denmark 71 H1N1 YES 17-06-2010
+77129 David Anderson Denmark 12 COVID-2019 YES 16-10-2002
+38220 David Caldwell Denmark 60 SARS-1 NO
+16345 Jacob Rodriguez Denmark 10 SARS-COV-2 YES 27-05-2019
+13365 Michael Cohen Denmark 77 SARS-1 YES 02-03-2017
+3339 Kyle Perez Denmark 39 FLU-2018 NO
+16257 Steven Robinson Denmark 72 EVD YES 02-02-2017
+1531 Alyssa King Denmark 55 H1N1 NO
+71379 Kerry Bright Denmark 10 FLU-2018 NO
+88258 Christine Smith Denmark 39 H1N1 NO
+63885 Brittany Carter Denmark 74 SARS-COV-2 NO
+69 Matthew Graham Denmark 48 EVD YES 03-05-2009
+56608 Laura Kelly Denmark 43 SARS-1 NO
+8910 Michelle Williams Denmark 25 EVD YES 06-01-2003
+49787 Monica Hicks Denmark 60 MERS-COV NO
+81886 Michael Wang Denmark 18 SARS-COV-2 YES 02-04-2015
+68570 Diana Lester Denmark 71 COVID-2019 YES 20-05-2015
+12671 Suzanne Clark Denmark 40 SARS-COV-2 NO
+49777 Derek Solomon Denmark 38 H1N1 NO
+66025 Sean Austin Denmark 17 EVD YES 05-07-2002
+85326 Sarah Cline Denmark 23 SARS-1 NO
+24303 Julie Wang Denmark 40 SARS-COV-2 NO
+25766 Donald Parker Denmark 40 H1N1 YES 16-12-2017
+26869 Justin Thomas Denmark 68 EVD YES 25-03-2016
+20341 Dale Cook Denmark 23 COVID-2019 YES 21-05-2014
+12227 Angelica Young Denmark 74 MERS-COV YES 30-07-2010
+79240 Stacie Bray Denmark 42 EVD YES 10-09-2003
+94826 Bradley Marquez Denmark 22 H1N1 YES 19-09-2006
+2359 David Johnson Denmark 14 EVD YES 24-04-2010
+58121 Austin Kline Denmark 30 SARS-COV-2 NO
+41751 James Wheeler Denmark 36 EVD YES 02-08-2001
+18545 Tammy Stokes Denmark 39 MERS-COV YES 30-11-2001
+95965 Spencer Washington Denmark 55 FLU-2018 NO
+76818 Rebecca Mitchell Denmark 21 SARS-1 NO
+50439 Kenneth Palmer Denmark 72 FLU-2018 NO
+85440 Vincent Fernandez Denmark 68 COVID-2019 NO
+81145 Debra Gallegos Denmark 32 SARS-COV-2 NO
+98021 Stacy Ho Denmark 28 COVID-2019 YES 27-08-2016
+82860 Peter Chase Denmark 10 FLU-2018 YES 29-09-2019
+31860 Kathleen Perez Denmark 17 H1N1 NO
+41799 Keith Washington Denmark 73 EVD YES 23-03-2013
+47867 Sylvia Fuller Denmark 65 MERS-COV YES 26-02-2006
+35499 Christopher Rodriguez Denmark 60 H1N1 YES 21-09-2001
+17194 Donald Alexander Denmark 76 MERS-COV NO
+35275 James Jackson Denmark 66 FLU-2018 NO
+45192 Brooke Anderson Denmark 49 COVID-2019 NO
+3685 Randy Williams Denmark 59 SARS-COV-2 NO
+38256 April Powell Denmark 47 SARS-COV-2 NO
+19076 Lisa Lopez Denmark 31 MERS-COV NO
+82140 Amanda Wood Denmark 51 MERS-COV NO
+43884 Thomas Burton Denmark 75 MERS-COV YES 03-02-2000
+94158 Donna Glover Denmark 51 EVD NO
+41171 Tyler Hill Denmark 29 COVID-2019 YES 24-12-2001
+89379 Margaret Cooper Denmark 74 COVID-2019 YES 12-09-2004
+75826 Cheryl Martinez Denmark 31 EVD NO
+33889 Sheryl Schmidt Denmark 12 COVID-2019 YES 01-12-2015
+25263 Luis Bright Denmark 58 SARS-COV-2 YES 09-10-2015
+83766 Nicholas Dorsey Denmark 20 EVD YES 27-01-2002
+72562 Robert Warren Denmark 20 SARS-COV-2 NO
+41505 Michael Simon Denmark 76 MERS-COV NO
+97538 Vanessa Black Denmark 25 SARS-COV-2 NO
+4938 Craig Thompson Denmark 65 FLU-2018 YES 12-10-2017
+22951 Melanie Hayden Denmark 78 SARS-COV-2 NO
+11753 Joseph Sullivan Denmark 18 H1N1 NO
+4098 Spencer Cole Denmark 35 MERS-COV YES 01-04-2014
+59194 Kimberly Dixon Denmark 73 MERS-COV NO
+78636 Lisa Mccarty Denmark 18 SARS-1 NO
+79513 Michele Lawson Denmark 45 MERS-COV NO
+38380 Amy Ryan Denmark 11 MERS-COV NO
+34045 Jacob Nelson Denmark 45 SARS-COV-2 NO
+3139 Jennifer Maldonado Denmark 11 SARS-COV-2 YES 25-08-2009
+52123 Kevin Warner Denmark 33 H1N1 YES 16-04-2001
+77341 Tiffany Morris Denmark 14 FLU-2018 YES 17-01-2004
+11311 Michael Weaver Denmark 50 H1N1 NO
+77749 Jessica Ryan Denmark 58 FLU-2018 YES 11-01-2020
+64591 Keith Vargas Denmark 64 SARS-COV-2 YES 08-04-2002
+95004 Sharon Lewis Denmark 23 FLU-2018 NO
+54643 Calvin Bailey Denmark 24 SARS-COV-2 YES 27-08-2004
+21632 Brendan Schwartz Denmark 37 SARS-1 YES 15-03-2009
+8245 Regina Maxwell Denmark 75 COVID-2019 NO
+8215 John Hernandez Denmark 53 FLU-2018 NO
+12751 Meagan Mercado Denmark 14 SARS-1 NO
+74763 James Griffin Denmark 53 MERS-COV NO
+37557 Lydia Jones Denmark 56 H1N1 NO
+80062 Michael Scott Denmark 63 MERS-COV YES 22-09-2000
+73727 Veronica James Denmark 63 COVID-2019 NO
+14015 Steven Arias Denmark 67 MERS-COV YES 29-07-2014
+73292 Cameron Ross Denmark 22 H1N1 NO
+28343 Jessica Velazquez Denmark 55 MERS-COV YES 02-01-2002
+8477 Nicole Leon Denmark 36 MERS-COV YES 13-03-2009
+38691 Joy Collins Denmark 70 MERS-COV NO
+56207 Dennis Booth Denmark 46 SARS-1 NO
+1938 Jennifer Wilson Denmark 10 FLU-2018 YES 12-04-2004
+3068 Mary Valdez Denmark 22 MERS-COV NO
+64146 Martin Long Denmark 64 FLU-2018 NO
+97979 Amber Morgan Denmark 15 FLU-2018 YES 29-11-2017
+75633 Angela Davis Denmark 21 SARS-1 YES 12-05-2019
+55273 Kenneth Watts Denmark 20 MERS-COV YES 05-12-2013
+51817 Joseph Wilson Denmark 11 SARS-1 YES 05-08-2018
+61028 Dylan Hopkins Denmark 73 EVD NO
+23075 Kimberly Lewis Denmark 45 SARS-COV-2 NO
+95068 Aaron Vance Denmark 63 SARS-COV-2 NO
+13706 Jasmine Washington Denmark 67 H1N1 YES 19-02-2012
+29792 Tamara Cain Denmark 19 SARS-1 YES 31-12-2018
+75 Matthew Moore Denmark 44 H1N1 YES 23-06-2001
+49848 Michael Newman Denmark 47 SARS-COV-2 YES 14-08-2005
+54173 Ebony Thomas Denmark 46 EVD NO
+57075 Nicole Price Denmark 49 EVD NO
+61621 Veronica Good Denmark 31 EVD YES 17-06-2020
+21918 Jeffrey Castaneda Denmark 59 FLU-2018 YES 06-10-2015
+99592 Justin Martinez Denmark 73 SARS-COV-2 NO
+23083 Colleen Park Denmark 43 EVD NO
+1918 Kristopher Ross Denmark 20 SARS-1 NO
+87222 Robert Booth Denmark 24 SARS-1 NO
+18111 Tina Cardenas Denmark 29 EVD YES 06-02-2019
+41402 Amanda Simmons Denmark 32 EVD YES 22-04-2008
+36423 James Daniel Denmark 45 H1N1 NO
+73244 Cheryl Collins Denmark 58 H1N1 NO
+49701 Shelley Brown Denmark 72 H1N1 NO
+44168 Laura Norris Denmark 24 FLU-2018 NO
+74496 Michelle Tanner Denmark 72 H1N1 YES 11-11-2005
+63760 Daniel Davis Denmark 70 MERS-COV NO
+89690 Jessica Bush Denmark 15 MERS-COV NO
+68556 Lauren Nguyen Denmark 59 EVD NO
+8168 Lacey King Denmark 54 FLU-2018 YES 20-09-2000
+3415 Jonathan Powell Denmark 34 SARS-COV-2 YES 11-11-2005
+87670 Tammie Cummings Denmark 28 SARS-COV-2 YES 20-08-2018
+9656 Andrew Duran Denmark 41 H1N1 YES 11-05-2017
+82658 Tony Martin Denmark 47 EVD YES 22-03-2007
+90769 Stephanie Taylor Denmark 11 SARS-COV-2 NO
+83831 William Castro Denmark 48 H1N1 NO
+98610 Michelle Clark Denmark 61 EVD NO
+79979 James Hicks Denmark 45 H1N1 YES 22-06-2000
+9548 Kaylee Thomas Denmark 38 FLU-2018 YES 09-03-2005
+99606 Paige Vaughan Denmark 62 MERS-COV YES 23-12-2006
+71487 Frank Wolf Denmark 54 EVD YES 17-09-2002
+36104 Carly Mccoy Denmark 75 H1N1 YES 09-02-2009
+36526 William Jackson Denmark 50 FLU-2018 YES 03-08-2012
+90913 Richard Ryan Denmark 21 COVID-2019 NO
+63568 Laurie Hunter Denmark 71 COVID-2019 YES 24-07-2010
+99887 Peggy Bruce Denmark 77 FLU-2018 YES 14-09-2014
+80311 Becky Anderson Denmark 27 MERS-COV YES 04-11-2018
+26065 Joseph Pugh Denmark 58 COVID-2019 NO
+65505 Thomas Gross Denmark 55 SARS-COV-2 YES 05-08-2020
+56679 Paul Sexton Denmark 18 EVD YES 30-03-2015
+81225 Michelle Stafford Denmark 42 SARS-COV-2 NO
+37739 Vanessa Nelson Denmark 32 COVID-2019 NO
+74691 Christopher Herrera Denmark 18 SARS-1 NO
+30519 April Holland Denmark 40 SARS-1 YES 22-04-2015
+88891 Michael Green Denmark 74 SARS-COV-2 NO
+73814 Debra Collins Denmark 32 MERS-COV YES 25-03-2006
+71043 Ryan Haley Denmark 60 H1N1 NO
+50809 Julia Brown Denmark 78 EVD YES 29-07-2004
+16643 Kathryn Davila Denmark 78 MERS-COV YES 03-08-2007
+28076 Brent Dean Denmark 25 H1N1 NO
+75983 Laura Reed Denmark 71 H1N1 NO
+48087 Virginia Lopez Denmark 16 H1N1 NO
+67780 Derrick Duran Denmark 60 MERS-COV NO
+12725 Amanda Black Denmark 76 FLU-2018 NO
+56224 Amber Romero Denmark 20 MERS-COV YES 14-09-2007
+56417 Paul Fletcher Denmark 58 EVD YES 12-05-2004
+4207 Laura Rodriguez Denmark 73 FLU-2018 YES 11-01-2011
+33073 Bobby Cowan Denmark 75 EVD NO
+36818 Matthew Pearson Denmark 72 FLU-2018 YES 13-12-2007
+3567 Jeremy Mccoy Denmark 20 EVD YES 01-04-2014
+91671 Michael Garcia Denmark 46 MERS-COV YES 26-02-2010
+48176 Tina Jones Denmark 58 SARS-1 NO
+33904 Mary Ellison Denmark 47 EVD NO
+22113 Scott Turner Denmark 32 SARS-1 NO
+51940 Sarah Nichols Denmark 42 MERS-COV NO
+2456 Angela Roman Denmark 45 COVID-2019 YES 08-03-2016
+46403 Julia Gill Denmark 34 SARS-COV-2 YES 10-03-2016
+55583 Kylie Wall Denmark 38 SARS-COV-2 NO
+96095 Jeffrey Holloway Denmark 78 SARS-1 NO
+9422 Jessica Baker Denmark 22 H1N1 YES 04-10-2007
+54206 Heather Brooks Denmark 63 EVD YES 04-07-2004
+28037 Crystal King Denmark 29 H1N1 NO
+62631 David Bray Denmark 23 EVD YES 16-12-2004
+21436 Mark Knight Denmark 49 SARS-1 NO
+52470 Paul Burke Denmark 41 SARS-1 YES 14-01-2012
+13819 Roberto Mathis Denmark 56 FLU-2018 YES 17-11-2011
+8947 Julie Mccall Denmark 22 SARS-1 YES 11-11-2006
+69218 Rebecca Sanders Denmark 66 MERS-COV YES 02-10-2009
+88137 Randy Smith Denmark 13 SARS-COV-2 NO
+81856 Angela King Denmark 39 H1N1 YES 14-05-2019
+88250 Matthew Marshall Denmark 71 SARS-COV-2 YES 02-08-2020
+52073 John Zamora Denmark 49 EVD NO
+31150 Andrew Cordova Denmark 22 COVID-2019 YES 16-09-2003
+25402 Nancy Snyder Denmark 79 MERS-COV NO
+74722 Christopher Hogan Denmark 56 FLU-2018 YES 06-08-2018
+62046 Carlos Hunter Denmark 34 SARS-COV-2 YES 19-11-2015
+7235 Anne Smith Denmark 16 MERS-COV NO
+6501 Donna Aguilar Denmark 58 SARS-1 YES 12-09-2003
+71854 Mark Parks Denmark 54 EVD YES 08-09-2007
+14752 Jonathan Hall Denmark 49 SARS-1 YES 10-10-2007
+65253 Marcia Hammond Denmark 66 COVID-2019 YES 22-04-2008
+5510 Zoe Johnson Denmark 74 H1N1 YES 20-03-2001
+59779 Michael Ware Denmark 75 COVID-2019 NO
+58119 Victoria Hines Denmark 36 FLU-2018 NO
+26254 Jennifer Hess Denmark 26 H1N1 YES 05-04-2014
+53579 Isabella Thomas Denmark 17 EVD YES 05-07-2013
+86791 Ryan Pittman Denmark 77 H1N1 NO
+92571 Thomas Miles Denmark 79 FLU-2018 NO
+46619 Susan Schroeder Denmark 12 MERS-COV NO
+23071 Zachary Montes Denmark 39 H1N1 YES 03-03-2021
+18240 Victor Terrell Denmark 13 SARS-COV-2 YES 29-01-2007
+47346 Peter Jones Denmark 79 MERS-COV NO
+69868 Theresa Wright Denmark 57 SARS-1 YES 18-03-2018
+31442 Allen White Denmark 52 FLU-2018 YES 08-10-2012
+17583 Gregory Smith Denmark 33 EVD YES 13-10-2011
+15982 Nicholas Chavez Denmark 37 COVID-2019 YES 12-03-2006
+61844 Kimberly Martinez Denmark 56 SARS-COV-2 YES 12-09-2002
+80607 Kimberly Coleman Denmark 50 COVID-2019 YES 26-11-2000
+59954 Teresa Roach Denmark 10 COVID-2019 NO
+6499 Jennifer Small Denmark 79 SARS-COV-2 NO
+44182 Danielle Castro Denmark 45 EVD NO
+40545 Lauren Martinez Denmark 36 SARS-1 NO
+75820 Rebecca Smith Denmark 14 EVD NO
+15887 Wanda Hartman Denmark 18 SARS-COV-2 NO
+5666 Danielle Barton Denmark 72 H1N1 NO
+59959 Chad Smith Denmark 47 FLU-2018 YES 13-06-2016
+7378 Susan Santiago Denmark 74 EVD NO
+9565 George Gomez Denmark 45 FLU-2018 NO
+26099 Lisa Cox Denmark 40 COVID-2019 NO
+6004 Justin Hebert Denmark 20 H1N1 NO
+29057 Veronica Vasquez Denmark 28 SARS-COV-2 YES 29-06-2012
+88056 Cynthia Reyes Denmark 64 MERS-COV YES 22-02-2015
+89972 Andrew Cabrera Denmark 38 MERS-COV YES 21-01-2001
+46250 Michael Lara Denmark 34 SARS-COV-2 NO
+19847 James Lopez Denmark 45 SARS-COV-2 YES 24-06-2014
+48601 Tammy Howard Denmark 74 SARS-COV-2 YES 24-07-2009
+10213 Tyler Smith Denmark 71 SARS-1 YES 06-05-2001
+25818 Rebecca Stewart Denmark 28 EVD NO
+35399 Kyle Evans Denmark 65 SARS-COV-2 YES 16-08-2005
+12315 Rachel Hernandez Denmark 45 MERS-COV YES 30-11-2009
+42227 Scott Brown Denmark 11 MERS-COV YES 09-08-2005
+17496 Nicole Wilcox Denmark 69 SARS-1 NO
+55786 Mark Ball Denmark 12 SARS-1 YES 21-12-2008
+72924 Amy Huang Denmark 33 SARS-1 NO
+75199 Ryan Garcia Denmark 74 SARS-COV-2 NO
+78332 Morgan Johnson Denmark 26 H1N1 YES 24-06-2014
+92444 Kelly Mcdaniel Denmark 39 EVD NO
+45829 Stephanie Lane Denmark 28 SARS-1 NO
+71408 Jeremy Miller Denmark 59 FLU-2018 NO
+40027 Jacob Taylor Denmark 26 SARS-1 YES 02-07-2020
+90953 Derek Roach Denmark 47 MERS-COV YES 28-09-2002
+27551 Marcus Gray Denmark 29 SARS-COV-2 NO
+20655 Carl Lindsey Denmark 22 COVID-2019 YES 19-09-2013
+24761 Christopher Wade Denmark 19 H1N1 YES 17-04-2020
+36050 Veronica Robinson Denmark 14 SARS-COV-2 NO
+80690 Vincent Li Denmark 69 MERS-COV NO
+26455 Crystal Hernandez Denmark 61 EVD NO
+46311 Zachary Johnson Denmark 58 COVID-2019 YES 14-10-2016
+31865 Angela Parker Denmark 54 FLU-2018 YES 01-07-2017
+56430 Maxwell Murphy Denmark 64 SARS-1 YES 31-12-2018
+37780 Laura Gallagher Denmark 71 SARS-1 YES 19-05-2014
+40297 Tyler Ball Denmark 36 EVD NO
+88531 Logan Watkins Denmark 39 FLU-2018 YES 23-06-2019
+63164 Elizabeth Murphy Denmark 13 FLU-2018 YES 24-12-2001
+88524 Bryan Jones Denmark 54 SARS-1 NO
+27912 Ashley Anderson Denmark 56 EVD YES 14-12-2020
+89777 Christopher Brewer Denmark 55 MERS-COV NO
+16798 Abigail Kim Denmark 42 MERS-COV YES 13-01-2000
+35247 Samuel Miller Denmark 79 MERS-COV NO
+23928 Dylan Castillo Denmark 26 COVID-2019 YES 20-10-2017
+89742 William Booth Denmark 69 SARS-COV-2 YES 10-07-2000
+35202 Andrew Flynn Denmark 59 COVID-2019 YES 07-09-2007
+16762 Isabel Mitchell Denmark 26 FLU-2018 NO
+56371 Don Hernandez Denmark 43 COVID-2019 NO
+96088 Laura Holmes Denmark 50 MERS-COV YES 27-10-2001
+8636 Trevor Anderson Denmark 46 EVD NO
+25581 Sheila Miller Denmark 66 H1N1 YES 09-04-2009
+97 Ricky Walton Denmark 44 SARS-1 YES 10-04-2017
+6757 Gregory Edwards Denmark 48 FLU-2018 NO
+44874 Randall Williams Denmark 64 SARS-1 NO
+65618 Christopher Powers Denmark 65 FLU-2018 NO
+72387 Patricia Young Denmark 28 COVID-2019 NO
+44479 Elizabeth Barber Denmark 37 SARS-1 NO
+84380 Emily Mason Denmark 17 MERS-COV NO
+53001 Jesse Johnson Denmark 31 COVID-2019 YES 04-09-2001
+47672 Erica Nguyen Denmark 23 SARS-COV-2 NO
+46979 Melinda Shaw Denmark 27 H1N1 YES 22-05-2012
+69168 Manuel Stein Denmark 42 EVD NO
+28888 Samantha Everett Denmark 57 FLU-2018 YES 23-09-2016
+67131 Eduardo Stone Denmark 67 SARS-COV-2 YES 12-08-2013
+68122 Pamela Brown Denmark 33 SARS-COV-2 YES 22-05-2000
+22292 Teresa Harrison Denmark 71 MERS-COV YES 24-05-2011
+67951 Maria Boyd Denmark 29 SARS-1 NO
+41502 Michael Fitzpatrick Denmark 50 SARS-COV-2 YES 19-03-2018
+61263 Tammy Oconnell Denmark 39 COVID-2019 YES 15-11-2018
+551 Vincent Mccoy Denmark 49 COVID-2019 YES 07-02-2019
+55518 Gary Hill Denmark 47 SARS-1 NO
+71866 Jennifer Vaughan Denmark 17 SARS-1 NO
+65670 Kristin Collins Denmark 23 MERS-COV YES 08-04-2016
+6307 Cameron Warner Denmark 10 SARS-COV-2 YES 25-09-2010
+71929 Paula Daniels Denmark 10 H1N1 YES 24-10-2004
+66298 Terri Hernandez Denmark 59 EVD YES 18-02-2011
+74421 Erica Garcia Denmark 77 EVD YES 23-08-2017
+63637 Nicholas Vargas Denmark 51 EVD YES 22-02-2013
+78411 Bryan Neal Denmark 52 EVD NO
+80407 Isaiah Whitaker Denmark 55 SARS-1 NO
+47275 Anthony Lucas Denmark 55 SARS-COV-2 NO
+86253 Miguel Payne Denmark 77 COVID-2019 YES 19-11-2019
+42430 Ronald Smith Denmark 71 FLU-2018 NO
+38016 Joseph Roberson Denmark 67 SARS-COV-2 NO
+87468 Jacob Blankenship Denmark 22 H1N1 NO
+271 Carla Lutz Denmark 76 COVID-2019 NO
+64450 Kevin Robbins Denmark 33 EVD NO
+47632 Laurie Lewis Denmark 10 COVID-2019 YES 06-05-2020
+21981 Pedro Perkins Denmark 31 H1N1 YES 30-08-2015
+96461 Amanda Anthony Denmark 65 MERS-COV NO
+1177 Rodney Larson Denmark 68 H1N1 NO
+41453 James Allen Denmark 36 H1N1 NO
+69220 Darlene Lopez Denmark 57 H1N1 NO
+70448 Jose Jordan Denmark 16 MERS-COV NO
+55005 Thomas Kaufman Denmark 32 COVID-2019 NO
+77108 Carlos Garcia Denmark 40 SARS-COV-2 NO
+66674 Jessica Martinez Denmark 31 MERS-COV YES 06-06-2001
+90588 Andrea Davila Denmark 30 SARS-1 NO
+25749 Jenna Vargas Denmark 12 FLU-2018 NO
+19554 Rachel Mckinney Denmark 61 EVD YES 12-05-2012
+90613 Benjamin Weaver Denmark 42 SARS-COV-2 NO
+96831 Tonya Herrera Denmark 70 EVD NO
+35535 Teresa Rodriguez Denmark 61 FLU-2018 YES 06-03-2017
+21791 Tyrone Brooks Denmark 37 FLU-2018 YES 11-03-2003
+86062 Jodi Freeman Denmark 52 EVD NO
+10494 Chad Martin Denmark 12 SARS-COV-2 YES 07-11-2005
+94807 Karen Morgan Denmark 77 EVD YES 11-06-2019
+31324 Marisa Morris Denmark 22 EVD YES 07-12-2006
+31999 Richard Foster Denmark 63 COVID-2019 YES 06-12-2019
+21471 Amanda Perez Denmark 79 MERS-COV NO
+56456 Jennifer Lowe Denmark 35 SARS-1 NO
+96966 Jacqueline Lopez Denmark 35 H1N1 NO
+56772 Amber Becker Denmark 46 EVD NO
+96603 Timothy Edwards Denmark 21 MERS-COV YES 31-03-2017
+71819 Michael Miller Denmark 73 H1N1 NO
+11261 Sophia Smith Denmark 25 H1N1 YES 27-08-2015
+24809 Christine Henry Denmark 28 FLU-2018 NO
+72288 David Turner Denmark 29 SARS-1 YES 05-07-2010
+2585 Elijah Kane Denmark 28 COVID-2019 NO
+25896 Amy Austin Denmark 75 EVD YES 01-03-2009
+10737 Timothy Mora Denmark 53 MERS-COV YES 18-10-2015
+60719 Amanda Allen Denmark 79 COVID-2019 YES 19-11-2005
+25473 Sharon Johnson Denmark 53 FLU-2018 YES 16-05-2003
+51052 Spencer Griffin Denmark 44 H1N1 NO
+10262 Melissa Garcia Denmark 14 COVID-2019 NO
+26933 Michael Hall Denmark 17 MERS-COV YES 03-01-2015
+90740 Anthony Turner Denmark 40 EVD NO
+76101 David Rodgers Denmark 39 EVD NO
+87849 Craig Weaver Denmark 59 MERS-COV NO
+75342 Brandon Miller Denmark 23 EVD NO
+17847 Gregory Dillon Denmark 70 SARS-1 YES 06-03-2000
+32229 David Estrada Denmark 19 SARS-COV-2 NO
+19753 Johnathan Lee Denmark 43 SARS-COV-2 NO
+53984 Jason Parker Denmark 14 SARS-COV-2 YES 03-02-2014
+76478 Timothy Donaldson Denmark 46 MERS-COV YES 15-11-2013
+17532 Mark Hunter Denmark 49 H1N1 YES 06-02-2010
+95165 Shannon Rice Denmark 27 SARS-1 YES 12-01-2005
+66020 Nicole Zuniga Denmark 19 H1N1 NO
+39271 Stephanie Hutchinson Denmark 71 MERS-COV YES 15-06-2003
+44072 John Howe Denmark 41 FLU-2018 NO
+33084 David Hamilton Denmark 53 H1N1 NO
+60484 Lisa Allen Denmark 46 SARS-1 NO
+25087 Jacob Martin Denmark 28 FLU-2018 YES 04-07-2020
+70994 Jason Lewis Denmark 16 SARS-COV-2 YES 01-05-2015
+78057 Michele Washington Denmark 13 COVID-2019 YES 29-07-2004
+88378 Crystal Reed Denmark 77 EVD YES 24-07-2004
+95101 Corey Vincent Denmark 64 FLU-2018 YES 21-09-2017
+29837 Emily Cook Denmark 75 SARS-COV-2 NO
+57861 Lindsey Foster Denmark 66 COVID-2019 NO
+25865 Linda Cherry Denmark 11 COVID-2019 YES 22-05-2015
+84508 Amanda Hester Denmark 74 SARS-1 NO
+11840 Sandra Heath Denmark 19 SARS-1 NO
+73974 David Mullins Denmark 71 EVD NO
+94525 Jill Reyes Denmark 38 SARS-COV-2 NO
+29134 Steven Smith Denmark 38 SARS-COV-2 NO
+19769 Tammy Allen Denmark 45 SARS-1 NO
+83887 Connie Howell Denmark 60 SARS-COV-2 YES 06-02-2007
+26294 Shawn Osborn Denmark 34 EVD YES 22-05-2006
+7411 Brooke Graham Denmark 49 COVID-2019 YES 30-12-2019
+17702 Matthew Bailey Denmark 38 H1N1 NO
+75368 Janice Foster Denmark 76 EVD YES 21-10-2010
+51448 David Rodriguez Denmark 51 MERS-COV YES 26-05-2019
+12928 Victor Cabrera Denmark 30 EVD NO
+27577 Doris Pitts Denmark 75 SARS-COV-2 NO
+23757 Christopher Williams Denmark 48 MERS-COV YES 24-09-2016
+40114 Christina Wood Denmark 29 FLU-2018 NO
+31158 Isaac Bright Denmark 76 EVD YES 17-05-2001
+17160 Allison Benjamin Denmark 16 MERS-COV YES 21-02-2005
+79567 Kaitlyn Downs Denmark 15 SARS-COV-2 YES 01-04-2004
+1862 William Andrews Denmark 57 FLU-2018 NO
+80482 Barbara Walls Denmark 74 SARS-1 NO
+18819 Mia Owens Denmark 62 SARS-COV-2 YES 22-10-2020
+84576 Brian Lee Denmark 22 H1N1 YES 21-04-2011
+12531 Jessica Gonzalez Denmark 34 COVID-2019 NO
+75655 Dana Matthews Denmark 33 FLU-2018 NO
+9482 Tina Montgomery Denmark 36 SARS-COV-2 NO
+95541 Sean Carter Denmark 22 SARS-1 YES 30-12-2011
+69009 Anna Washington Denmark 65 H1N1 NO
+71373 Marcus Marshall Denmark 15 H1N1 YES 20-01-2011
+41068 Michelle King Denmark 44 COVID-2019 YES 04-06-2019
+21953 Lisa Bowen Denmark 60 SARS-COV-2 NO
+45170 Andrew Morrow Denmark 52 SARS-1 YES 11-12-2005
+75768 Jermaine Velasquez Denmark 27 SARS-1 NO
+71861 Lisa Mata Denmark 41 H1N1 NO
+38597 Elizabeth Johnson Denmark 71 MERS-COV NO
+20770 Dana Erickson Denmark 65 FLU-2018 YES 05-04-2019
+6573 Whitney Ochoa Denmark 47 EVD YES 05-11-2007
+88023 Renee Huynh Denmark 53 H1N1 YES 10-08-2019
+20225 Sherry Johnson Denmark 13 COVID-2019 NO
+52247 Courtney Miller Denmark 39 SARS-1 NO
+77827 Chad Morgan Denmark 58 SARS-COV-2 YES 31-12-2014
+47546 Larry Mendez Denmark 77 SARS-COV-2 NO
+92919 Brian Deleon Denmark 38 SARS-1 NO
+56382 Anthony Allen Denmark 48 COVID-2019 YES 24-04-2019
+27729 Jonathan Phillips Denmark 54 COVID-2019 YES 15-08-2010
+14769 Hunter Gates Denmark 39 MERS-COV YES 15-11-2016
+51533 Mary Price Denmark 67 SARS-1 YES 13-03-2007
+62654 Jessica Singleton Denmark 12 COVID-2019 NO
+53710 Megan Mcintosh Denmark 36 H1N1 YES 27-04-2010
+75957 Andrew White Denmark 32 COVID-2019 NO
+27118 Renee Howell Denmark 51 EVD YES 10-07-2005
+45211 Robert Wright Denmark 42 SARS-1 YES 07-09-2004
+91592 Troy King Denmark 35 EVD NO
+10400 Kenneth Martin Denmark 67 COVID-2019 YES 24-12-2001
+11741 Lisa Carter Denmark 69 COVID-2019 NO
+42672 Andrea Powers Denmark 33 H1N1 NO
+89800 Kevin Elliott Denmark 12 H1N1 NO
+14224 Jay Price Denmark 57 FLU-2018 YES 21-11-2017
+98947 Jennifer Jones Denmark 69 H1N1 YES 08-06-2016
+61923 Andrea Fowler Denmark 47 SARS-COV-2 NO
+90811 Charles Payne Denmark 68 FLU-2018 NO
+12142 Joshua Williams Denmark 33 EVD NO
+79131 Thomas Graham Denmark 27 H1N1 YES 15-05-2015
+12213 Lauren Hendrix Denmark 21 FLU-2018 NO
+74028 Eric Price Denmark 32 SARS-1 NO
+74280 Tiffany Fields Denmark 77 FLU-2018 YES 10-05-2006
+28641 Angela Stewart Denmark 24 EVD NO
+21000 Joyce Trevino Denmark 38 COVID-2019 YES 08-05-2019
+64706 Christopher Hart Denmark 55 SARS-COV-2 NO
+23790 Joshua Lopez Denmark 23 H1N1 YES 23-05-2011
+81534 Danielle Rios Denmark 32 SARS-COV-2 YES 04-01-2002
+60494 Fernando Smith Denmark 36 COVID-2019 NO
+62640 Peter Moran Denmark 72 H1N1 YES 30-05-2007
+77838 Colleen Johnson Denmark 47 EVD NO
+83854 Joshua Lucas Denmark 20 H1N1 NO
+21216 Ariana Evans Denmark 33 H1N1 NO
+83229 Jonathan Brady Denmark 40 SARS-1 NO
+80911 Mary Fisher Denmark 37 SARS-COV-2 YES 21-03-2018
+24555 Dustin Adams Denmark 20 H1N1 NO
+72894 Sharon Leblanc Denmark 69 SARS-1 NO
+39012 Sarah Turner Denmark 53 EVD NO
+97726 Mary Macias Denmark 56 MERS-COV NO
+42284 Heather Lambert Denmark 73 MERS-COV NO
+60406 Kenneth Cooke Denmark 67 SARS-1 YES 27-08-2008
+11185 Deborah Keller Denmark 26 MERS-COV NO
+12375 Jeffrey Chapman Denmark 50 EVD YES 13-03-2020
+19785 April Reyes Denmark 50 H1N1 NO
+11096 Evelyn Stewart Denmark 16 SARS-1 NO
+96784 Zachary Dyer Denmark 37 SARS-1 NO
+78583 Kristin Campbell Denmark 47 SARS-COV-2 NO
+22506 Theresa Snow Denmark 49 SARS-COV-2 YES 10-06-2005
+85810 Nathan Young Denmark 12 EVD YES 29-01-2020
+16294 Megan White Denmark 22 EVD YES 02-07-2019
+23379 Courtney Duke Denmark 12 H1N1 NO
+26198 Trevor Ward Denmark 26 MERS-COV NO
+92806 Mark Miller Denmark 23 COVID-2019 YES 28-02-2020
+7616 Linda Middleton Denmark 66 H1N1 NO
+87632 Kimberly Cantu Denmark 37 COVID-2019 YES 03-06-2015
+27509 John Cortez Denmark 18 MERS-COV YES 26-03-2016
+98917 Mark Thompson Denmark 50 FLU-2018 YES 19-12-2019
+62426 Jason Davis Denmark 21 H1N1 NO
+44155 Andrea Carter Denmark 52 SARS-1 NO
+6778 David Simmons Denmark 34 SARS-COV-2 NO
+79893 Bruce Collins Denmark 46 SARS-COV-2 YES 15-02-2010
+37215 Joseph Cortez Denmark 45 SARS-1 YES 22-09-2014
+11420 Lisa Wyatt Denmark 51 EVD YES 05-01-2015
+70343 Steven Gates Denmark 57 EVD YES 02-10-2002
+61048 Cynthia Le Denmark 24 SARS-COV-2 NO
+32408 George Bennett Denmark 54 FLU-2018 NO
+43233 Theresa Wilson Denmark 20 COVID-2019 YES 03-06-2000
+10355 Erin Love Denmark 34 FLU-2018 YES 20-05-2005
+45483 Daniel Montgomery Denmark 26 SARS-1 NO
+29208 Jonathan Sanchez Denmark 56 H1N1 NO
+61375 Shane Hoover Denmark 70 SARS-1 NO
+44827 Rhonda Glass Denmark 41 SARS-COV-2 YES 29-12-2005
+73357 Sharon Salas Denmark 42 SARS-COV-2 NO
+4151 Eric Wheeler Denmark 31 SARS-COV-2 YES 13-05-2007
+93639 Jay Turner Denmark 49 MERS-COV NO
+35820 Donna Fisher Denmark 56 FLU-2018 YES 07-04-2000
+26036 Timothy Ford Denmark 38 FLU-2018 NO
+15062 Angela Raymond Denmark 69 H1N1 NO
+52338 Matthew Rosales Denmark 68 SARS-COV-2 YES 28-06-2020
+84810 Timothy Green Denmark 70 COVID-2019 NO
+33426 Brandon Green Denmark 61 SARS-COV-2 NO
+70959 Andrew Washington Denmark 14 SARS-1 NO
+5673 Dawn Mercado Denmark 48 EVD NO
+43577 Phillip Kennedy Denmark 39 EVD NO
+50317 Billy Douglas Denmark 59 COVID-2019 NO
+28260 Johnny Webb Denmark 63 H1N1 NO
+61650 John Fleming Denmark 16 SARS-COV-2 YES 06-03-2019
+21889 Jill Jones Denmark 57 EVD YES 02-10-2010
+97777 Steven Flynn Denmark 63 SARS-COV-2 NO
+87268 Richard Wilson Denmark 35 SARS-1 YES 23-12-2005
+12489 Sharon Brooks Denmark 12 FLU-2018 NO
+22919 Monica Garcia Denmark 23 SARS-1 NO
+51283 Elizabeth Brown Denmark 64 FLU-2018 NO
+15735 Paul Johnson Denmark 78 SARS-COV-2 NO
+77607 Eddie Mueller Denmark 61 SARS-1 NO
+35144 Michael King Denmark 13 EVD YES 31-12-2010
+31703 Julie Brown Denmark 59 SARS-COV-2 YES 16-12-2004
+63207 Kirk Watson Denmark 23 SARS-COV-2 YES 30-09-2020
+21118 Jenna Mason Denmark 39 SARS-1 YES 18-10-2003
+10489 David Estrada Denmark 54 FLU-2018 YES 08-01-2001
+73452 Paul Bailey Denmark 25 SARS-COV-2 NO
+70331 Rebecca Smith Denmark 45 COVID-2019 YES 22-02-2003
+31356 Brian Cisneros Denmark 57 COVID-2019 NO
+14805 Lisa Harmon Denmark 44 H1N1 YES 24-05-2004
+50911 Alison Miller Denmark 69 SARS-1 YES 12-08-2001
+71488 Dave Kline Denmark 38 FLU-2018 NO
+63036 Jody Mccarthy Denmark 69 MERS-COV NO
+26647 Anthony Rowe Denmark 37 MERS-COV YES 07-03-2019
+91381 Heather Wagner Denmark 34 H1N1 NO
+62443 Barbara Hubbard Denmark 12 SARS-COV-2 YES 31-07-2004
+71582 Sean Rodriguez Denmark 27 H1N1 YES 25-01-2017
+51747 Dawn Maynard Denmark 28 MERS-COV YES 19-10-2009
+69559 Diamond Watkins Denmark 14 H1N1 YES 29-05-2008
+5676 Jackie Sampson Denmark 40 FLU-2018 YES 11-09-2017
+75599 Steven Sweeney Denmark 21 H1N1 YES 22-05-2017
+69048 Janet Fernandez Denmark 13 FLU-2018 YES 18-05-2017
+78849 George Williams Denmark 18 SARS-COV-2 YES 08-07-2009
+20624 Justin Walls Denmark 40 H1N1 YES 14-09-2007
+18831 Debra Garcia Denmark 43 MERS-COV NO
+32571 Shelley Lynch Denmark 72 MERS-COV YES 15-02-2016
+99283 Crystal Roach Denmark 77 H1N1 NO
+8860 Scott James Denmark 60 SARS-1 NO
+52593 Jennifer Horton Denmark 73 FLU-2018 YES 29-09-2020
+60198 Amber Oconnell Denmark 61 COVID-2019 NO
+54091 Jessica Thomas Denmark 33 FLU-2018 NO
+62927 Stephen Morales Denmark 24 SARS-COV-2 YES 13-12-2005
+72258 Ronald Hamilton Denmark 30 FLU-2018 YES 18-05-2016
+25434 Judith White Denmark 56 MERS-COV NO
+91148 Amanda Mata Denmark 61 EVD YES 17-03-2018
+5053 Lisa Simpson Denmark 55 SARS-COV-2 YES 07-08-2018
+91697 Jennifer Perez Denmark 71 SARS-COV-2 NO
+9911 Joshua Sellers Denmark 66 MERS-COV YES 19-08-2004
+65954 Michael Douglas Denmark 39 MERS-COV YES 04-03-2003
+25121 Pamela Mcguire Denmark 10 H1N1 YES 14-05-2018
+73686 Nicole Dyer Denmark 25 COVID-2019 NO
+72229 Linda Brown Denmark 17 SARS-COV-2 NO
+194 Connie Green Denmark 41 SARS-COV-2 NO
+91638 Debra Cannon Denmark 15 SARS-COV-2 YES 26-12-2019
+78301 Joseph Wilson Denmark 48 H1N1 YES 03-11-2014
+30770 Lee Hayes Denmark 61 SARS-1 YES 17-02-2003
+12091 Christopher Phillips Denmark 15 FLU-2018 YES 13-01-2010
+19279 Michael Richards Denmark 72 COVID-2019 NO
+16543 Cheryl York Denmark 25 SARS-1 YES 06-09-2018
+47098 Nicholas Miller Denmark 63 SARS-1 YES 03-10-2011
+14462 David Castaneda Denmark 45 EVD NO
+23362 Gwendolyn Wilcox Denmark 74 H1N1 YES 29-10-2012
+92614 John Keller Denmark 18 MERS-COV YES 02-04-2011
+88687 David Michael Denmark 15 COVID-2019 NO
+10036 Kathleen Cooper Denmark 22 EVD YES 21-11-2003
+43423 Austin Williams Denmark 28 SARS-1 NO
+7375 Jennifer Hansen Denmark 59 MERS-COV YES 23-08-2013
+1529 Chad Gomez Denmark 28 FLU-2018 YES 13-06-2012
+51780 Michael Bell Denmark 27 COVID-2019 YES 28-03-2012
+65855 Robert Frank Denmark 70 SARS-COV-2 YES 15-09-2001
+94493 Christian Russell Denmark 31 H1N1 NO
+33641 Patricia Martin Denmark 53 COVID-2019 YES 16-10-2018
+27676 Brian Donaldson Denmark 47 EVD NO
+97712 Kevin Lee Denmark 72 COVID-2019 NO
+93993 Marcus Jones Denmark 68 SARS-1 YES 27-09-2009
+14053 Jacqueline Hernandez Denmark 24 COVID-2019 NO
+28424 Michelle Arroyo Denmark 69 MERS-COV NO
+46640 Dominique Patterson Denmark 57 H1N1 YES 25-07-2012
+30330 Lauren Robinson Denmark 73 H1N1 NO
+80823 Brian Long Denmark 53 FLU-2018 NO
+65099 Donald Brown Denmark 53 SARS-1 NO
+52377 Kevin Murphy Denmark 45 SARS-COV-2 NO
+27084 Julie Ball Denmark 18 H1N1 NO
+18934 Stephen King Denmark 60 SARS-1 YES 24-02-2011
+74149 Lacey Ibarra Denmark 26 H1N1 YES 27-07-2008
+15878 Sandra Henderson Denmark 31 SARS-1 YES 19-12-2009
+91271 Shawn Evans Denmark 27 EVD NO
+65190 Stephanie Thomas Denmark 43 EVD YES 22-11-2013
+20381 Gabriel Garcia Denmark 68 H1N1 YES 20-03-2012
+20003 Steven Martinez Denmark 75 FLU-2018 YES 25-12-2005
+2964 Heidi Cooke Denmark 58 SARS-COV-2 NO
+5051 Eric Lopez Denmark 58 COVID-2019 YES 25-06-2011
+7291 Valerie Jones Denmark 13 EVD NO
+985 Ian Mccall Denmark 25 MERS-COV YES 11-11-2006
+30836 Becky Camacho Denmark 70 FLU-2018 YES 07-09-2016
+37805 Vanessa Lopez Denmark 68 FLU-2018 NO
+36869 Katherine Harper Denmark 44 EVD YES 26-05-2018
+95249 Lorraine White Denmark 33 COVID-2019 YES 14-05-2014
+8448 Jasmine Johnson Denmark 50 FLU-2018 YES 20-10-2009
+62108 Jennifer White Denmark 48 COVID-2019 NO
+27301 Keith Rose Denmark 59 COVID-2019 NO
+70412 Michael Caldwell Denmark 70 H1N1 YES 09-08-2012
+34353 Dustin Griffin Denmark 24 SARS-COV-2 NO
+28755 Lori Clark Denmark 72 FLU-2018 YES 10-01-2006
+94465 Linda Stephens Denmark 66 SARS-1 YES 22-10-2019
+85297 Eric Brock Denmark 39 SARS-1 NO
+30405 Joshua Schneider Denmark 52 SARS-1 NO
+67118 Brenda Calderon Denmark 60 H1N1 YES 15-02-2002
+51681 Brianna Spencer Denmark 11 H1N1 NO
+18081 John Nguyen Denmark 58 COVID-2019 YES 24-11-2015
+58280 Paul Erickson Denmark 75 SARS-1 YES 16-07-2007
+18399 Cristian Thompson Denmark 35 COVID-2019 NO
+20852 Caitlin Campbell Denmark 54 FLU-2018 YES 28-08-2011
+99647 Tina Mcneil Denmark 43 EVD YES 05-06-2012
+27207 Eugene Cain Denmark 58 SARS-1 NO
+26726 Alexander Jones Denmark 57 EVD YES 28-08-2008
+34075 Ryan Zimmerman Denmark 37 EVD NO
+91951 Lisa Acosta Denmark 56 SARS-COV-2 YES 19-12-2005
+88692 Kathleen Montoya Denmark 54 EVD NO
+68344 Linda Holt Denmark 29 COVID-2019 NO
+31560 Elizabeth Hughes Denmark 69 EVD NO
+82502 William Brown Denmark 79 COVID-2019 YES 16-05-2010
+97952 Ryan Glover Denmark 46 SARS-COV-2 NO
+26765 Carlos Olson Denmark 31 FLU-2018 YES 02-09-2012
+24763 Christine Pierce Denmark 13 H1N1 YES 15-03-2001
+80381 Cindy Johnson Denmark 18 SARS-COV-2 NO
+77837 Brittany Young Denmark 43 H1N1 YES 10-07-2008
+20932 Karen Clark Denmark 70 COVID-2019 YES 18-08-2017
+6561 Michael Ray Denmark 13 MERS-COV NO
+81283 Stephen Chandler Denmark 55 SARS-1 YES 04-09-2014
+26461 Dennis Palmer Denmark 63 FLU-2018 NO
+47921 Michael Anderson Denmark 76 FLU-2018 YES 05-08-2005
+74301 Timothy Mitchell Denmark 42 MERS-COV YES 03-11-2014
+19292 Patricia Ferguson Denmark 28 SARS-1 YES 12-08-2009
+57006 Thomas Garcia Denmark 40 COVID-2019 NO
+39423 Andrea Roach Denmark 29 EVD NO
+55788 Nancy Williams Denmark 42 H1N1 YES 19-05-2018
+73576 Anthony Jones Denmark 74 MERS-COV NO
+72414 Kevin Cummings Denmark 25 MERS-COV YES 01-08-2002
+20080 Gary Schmidt Denmark 60 EVD YES 25-02-2021
+79767 Shawn Colon Denmark 57 EVD NO
+9231 Martin Reynolds Denmark 33 COVID-2019 YES 26-04-2003
+66763 Anna Lawson Denmark 30 SARS-1 YES 08-04-2016
+4699 Daniel Taylor Denmark 60 SARS-1 NO
+21352 Mitchell Howard Denmark 48 EVD YES 02-08-2012
+17106 Kelly Noble Denmark 31 MERS-COV NO
+80958 Hannah Sanchez Denmark 19 H1N1 YES 26-08-2005
+44123 Steven Wilson Denmark 49 COVID-2019 NO
+96758 Ryan Kim Denmark 31 FLU-2018 NO
+86674 Daniel Hernandez Denmark 26 H1N1 NO
+90860 Rachel Cunningham Denmark 66 SARS-1 NO
+4459 Brent Dillon Denmark 47 MERS-COV YES 01-02-2019
+71676 Mary Rogers Denmark 18 COVID-2019 NO
+64350 Miranda Jackson Denmark 19 SARS-COV-2 YES 10-05-2003
+37652 Andrew Schwartz Denmark 23 FLU-2018 YES 30-11-2002
+50240 Christina Wilson Denmark 31 FLU-2018 NO
+20969 John Hines Denmark 32 FLU-2018 YES 22-02-2016
+15988 Tonya Garcia Denmark 41 SARS-COV-2 YES 11-04-2019
+86028 Anthony Miller Denmark 20 FLU-2018 NO
+11306 Tracy Rivera Denmark 14 COVID-2019 NO
+9402 Amanda Joyce Denmark 12 H1N1 YES 31-10-2008
+26237 Jacqueline Carson Denmark 59 COVID-2019 NO
+60612 Michael Valentine Denmark 25 H1N1 NO
+4991 Leroy Richardson Denmark 71 SARS-1 YES 20-09-2007
+79358 Sonia Aguirre Denmark 69 SARS-1 YES 24-02-2016
+37873 Jacob Thompson Denmark 13 COVID-2019 YES 16-11-2002
+21579 Diane Hart Denmark 62 EVD NO
+19458 Brian Pruitt Denmark 22 COVID-2019 YES 22-02-2018
+76933 Caleb Rodriguez Denmark 73 FLU-2018 YES 30-06-2019
+16191 Eric Garcia Denmark 52 SARS-1 NO
+31919 Heather Phillips Denmark 43 COVID-2019 NO
+89025 Thomas Banks Denmark 61 SARS-COV-2 YES 12-10-2017
+7341 Karen Spears Denmark 26 H1N1 NO
+47145 Dennis Harrison Denmark 27 H1N1 YES 04-01-2018
+553 Nicole Johnson Denmark 68 COVID-2019 NO
+30929 Paul Sanchez Denmark 72 SARS-COV-2 NO
+56974 Nicole Osborne Denmark 31 SARS-COV-2 NO
+24057 Ryan Ortiz Denmark 56 H1N1 NO
+2538 Samuel Merritt Denmark 71 COVID-2019 NO
+70774 Frank Evans Denmark 72 COVID-2019 YES 05-05-2000
+89555 David Arroyo Denmark 16 FLU-2018 YES 09-09-2018
+70850 Paul Mcconnell Denmark 10 FLU-2018 YES 16-05-2001
+1418 Dale Bauer Denmark 61 SARS-COV-2 YES 30-12-2012
+38021 Adam Velazquez Denmark 54 SARS-COV-2 NO
+65668 Christopher Sullivan Denmark 30 SARS-COV-2 NO
+16225 Sara Russell Denmark 54 MERS-COV YES 14-08-2016
+70494 Kayla Hunter Denmark 23 H1N1 YES 14-09-2000
+93436 Kathryn Hernandez Denmark 57 EVD NO
+31461 Margaret Nelson Denmark 37 FLU-2018 NO
+21071 Craig Fernandez Denmark 45 SARS-COV-2 YES 19-11-2006
+55892 Kathryn Edwards Denmark 12 MERS-COV YES 29-03-2014
+85369 Daniel Davis Denmark 49 EVD NO
+60843 Mark Nguyen Denmark 26 SARS-1 NO
+18924 Mariah Cummings Denmark 48 FLU-2018 YES 26-11-2017
+50968 Jackson Vaughn Denmark 57 EVD NO
+75851 Shannon Morales Denmark 30 EVD NO
+23685 Angela Anderson Denmark 58 COVID-2019 YES 05-07-2006
+80255 James Cooper Denmark 40 FLU-2018 YES 05-04-2018
+4410 Heather Vega Denmark 73 EVD NO
+90737 Carl Dunn Denmark 53 MERS-COV NO
+9303 Alex Fletcher Denmark 46 MERS-COV YES 05-10-2000
+40503 Taylor Cooke Denmark 55 EVD YES 29-08-2017
+70927 Eugene Morris Denmark 10 SARS-1 NO
+93822 Lindsay Vargas Denmark 39 EVD YES 17-06-2020
+72310 Anthony Hunter Denmark 37 SARS-1 NO
+1283 Allison Stephens Denmark 45 COVID-2019 YES 10-05-2011
+27722 Tammy Taylor Denmark 23 COVID-2019 NO
+91083 Alexander Smith Denmark 18 COVID-2019 NO
+86464 Wanda Wright Denmark 42 FLU-2018 YES 08-11-2004
+11016 Jason Gallegos Denmark 65 SARS-1 NO
+86008 Keith Robinson Denmark 17 H1N1 YES 09-05-2004
+52238 Alisha Martinez Denmark 62 EVD NO
+75161 Brian Randolph Denmark 22 H1N1 YES 27-06-2009
+6214 Alejandro Adams Denmark 36 EVD YES 13-03-2010
+34534 Patrick Hicks Denmark 33 EVD YES 22-07-2010
+59914 Emma Lopez Denmark 36 MERS-COV YES 08-08-2010
+32671 Vincent Davies Denmark 58 EVD YES 31-07-2012
+27888 Matthew Hill Denmark 62 H1N1 NO
+34632 Thomas Camacho Denmark 20 H1N1 NO
+57668 Diamond Clark Denmark 61 FLU-2018 NO
+50350 Samantha Goodman Denmark 26 FLU-2018 NO
+36697 Joshua Collier Denmark 16 COVID-2019 YES 21-12-2009
+86421 April Lang Denmark 20 FLU-2018 NO
+2380 Mary Romero Denmark 31 SARS-1 YES 10-06-2014
+41379 Kelly Moss Denmark 56 SARS-COV-2 YES 18-03-2021
+39636 Andre Acosta Denmark 34 MERS-COV NO
+55482 Bryan Wilson Denmark 76 COVID-2019 NO
+43669 William Woodard Denmark 72 FLU-2018 YES 23-06-2004
+1115 Janet Hernandez Denmark 30 SARS-1 YES 04-01-2020
+5330 Jane Maynard Denmark 15 EVD YES 25-09-2019
+44221 Tammy Fischer Denmark 22 SARS-1 YES 26-09-2001
+73285 Alexander Delgado Denmark 61 EVD NO
+74788 Kimberly Erickson Denmark 13 SARS-1 YES 22-01-2000
+33713 Christian Pitts Denmark 44 SARS-1 NO
+24378 Kathy Mcdowell Denmark 19 SARS-COV-2 NO
+92291 Tiffany Rogers Denmark 73 SARS-1 NO
+95455 Nathan Quinn Denmark 19 SARS-1 NO
+88922 Michael Walls Denmark 55 EVD YES 17-06-2004
+91681 Whitney Buchanan Denmark 43 EVD NO
+8062 Eric Gomez Denmark 21 SARS-1 YES 11-05-2008
+36382 Ashley Anderson Denmark 18 SARS-1 YES 13-11-2011
+66274 Emily Nguyen Denmark 17 SARS-COV-2 NO
+17912 Donna Taylor Denmark 15 SARS-COV-2 NO
+58415 Danielle Davis Denmark 22 SARS-1 NO
+22661 Kenneth Gallegos Denmark 50 MERS-COV NO
+98051 Yvette Love Denmark 58 EVD YES 11-12-2011
+18660 Ryan Thomas Denmark 29 COVID-2019 YES 07-08-2006
+14505 Kevin Miller Denmark 51 FLU-2018 YES 07-01-2001
+27495 Ian Christensen Denmark 18 EVD YES 05-05-2015
+59651 Anna Gonzalez Denmark 24 SARS-COV-2 NO
+60211 Justin Burns Denmark 62 EVD NO
+21133 Marvin Herman Denmark 24 EVD YES 18-06-2008
+98424 Emma Miller Denmark 53 MERS-COV YES 16-01-2004
+48416 Kenneth Hughes Denmark 63 SARS-1 NO
+56993 Alexis Davis Denmark 59 H1N1 YES 12-12-2001
+21424 Linda Parker Denmark 35 COVID-2019 YES 17-11-2013
+71832 Leslie Harper Denmark 26 SARS-COV-2 NO
+27974 Tristan Barnes Denmark 58 MERS-COV YES 29-01-2007
+51607 Jonathan Escobar Denmark 21 SARS-COV-2 NO
+97418 Jackie Young Denmark 30 SARS-1 NO
+93358 Jonathan Robles Denmark 22 EVD YES 09-09-2017
+51129 Ronald Hernandez Denmark 55 FLU-2018 YES 21-11-2011
+77166 Patrick Harris Denmark 15 COVID-2019 YES 08-03-2010
+26627 Mariah Harris Denmark 77 FLU-2018 NO
+38024 Brian Berg Denmark 54 FLU-2018 YES 06-11-2013
+58771 James Warren Denmark 66 SARS-COV-2 NO
+58113 Victoria Wallace Denmark 37 MERS-COV NO
+90442 Marie Freeman Denmark 34 SARS-1 YES 30-05-2005
+65428 Billy Fletcher Denmark 47 FLU-2018 NO
+17457 Stacy Wright Denmark 65 MERS-COV YES 15-03-2014
+27190 Brandon Wolfe Denmark 19 MERS-COV YES 20-06-2000
+69572 Makayla Frost Denmark 41 COVID-2019 NO
+59944 Amy Bond Denmark 68 H1N1 NO
+14890 Lisa Smith Denmark 78 FLU-2018 YES 25-07-2006
+66665 Debra Hudson Denmark 40 FLU-2018 YES 24-04-2001
+79536 Stephanie Mitchell Denmark 39 EVD YES 02-06-2020
+7444 Christina Acosta Denmark 34 SARS-COV-2 YES 29-01-2004
+21976 Jacqueline Rodriguez Denmark 46 MERS-COV YES 19-07-2020
+20780 Anita Burch Denmark 19 H1N1 YES 24-04-2019
+3078 Katelyn Gonzalez Denmark 61 SARS-1 NO
+32908 Justin Garza Denmark 35 H1N1 NO
+41796 Julie Cardenas Denmark 63 COVID-2019 YES 28-06-2016
+58519 Michael Young Denmark 12 H1N1 YES 04-07-2003
+29985 Heather Choi Denmark 33 MERS-COV NO
+6400 Judith Gibson Denmark 51 COVID-2019 NO
+70544 Robert Richards Denmark 79 FLU-2018 YES 06-02-2007
+38543 Kristina Davis Denmark 39 SARS-COV-2 NO
+67216 Gina Wise Denmark 21 FLU-2018 NO
+72797 Jose Walker Denmark 56 FLU-2018 YES 23-09-2005
+57240 William Jefferson Denmark 65 SARS-COV-2 NO
+63873 Jeffrey Vaughan Denmark 56 H1N1 NO
+18411 Lisa Haynes Denmark 60 SARS-1 NO
+67585 Amanda Ramsey Denmark 47 EVD NO
+13353 Justin Preston Denmark 16 SARS-1 NO
+20216 Gloria Ford Denmark 16 H1N1 YES 09-08-2002
+35225 Laura Robinson Denmark 12 MERS-COV NO
+1293 Linda Williams Denmark 19 H1N1 YES 23-12-2013
+11902 Ronald White Denmark 61 COVID-2019 NO
+31899 Nicole Castillo Denmark 23 FLU-2018 YES 29-07-2009
+16156 Matthew Garcia Denmark 12 FLU-2018 YES 27-08-2013
+94256 Dennis Boyd Denmark 51 SARS-COV-2 NO
+86780 Christopher Suarez Denmark 58 SARS-COV-2 NO
+16347 Michelle Fields Denmark 56 SARS-1 YES 20-12-2013
+33285 Robin Cummings Denmark 21 EVD YES 29-10-2017
+82188 Janet Scott Denmark 67 COVID-2019 YES 07-03-2005
+85484 Jeffrey Harris Denmark 59 MERS-COV YES 21-06-2003
+48464 Katie Mitchell Denmark 60 SARS-1 YES 13-02-2015
+65790 Frank Phelps Denmark 10 SARS-COV-2 YES 16-01-2014
+88186 Daniel Sandoval Denmark 64 MERS-COV YES 10-05-2015
+73323 Alyssa Wilson Denmark 21 MERS-COV NO
+28324 Tonya Hill Denmark 23 COVID-2019 NO
+20459 Jasmine Vazquez Denmark 26 EVD NO
+32574 Erica Gonzalez Denmark 18 EVD NO
+83559 Francis Alvarez Denmark 15 H1N1 YES 04-10-2002
+41744 Wanda Campbell Denmark 73 SARS-COV-2 YES 02-12-2007
+2190 Dana Wade Denmark 72 FLU-2018 YES 22-02-2006
+24506 Alicia Lyons Denmark 45 SARS-1 NO
+43248 Elizabeth Ochoa Denmark 38 MERS-COV NO
+61652 Robert Zuniga Denmark 53 H1N1 NO
+61470 Elizabeth Romero Denmark 40 COVID-2019 YES 10-09-2000
+83916 Linda White Denmark 76 EVD YES 16-08-2010
+6109 James Green Denmark 57 SARS-1 YES 05-04-2013
+80065 Kevin Thompson Denmark 47 H1N1 NO
+24386 John Pacheco Denmark 26 SARS-COV-2 YES 25-06-2008
+11061 Russell Branch Denmark 14 SARS-1 NO
+35034 David Sanders Denmark 38 SARS-1 NO
+90528 Nicole Mcbride Denmark 76 FLU-2018 YES 20-04-2020
+17855 Martin Williams Denmark 77 SARS-COV-2 YES 14-03-2014
+79939 Tammy Garcia Denmark 50 EVD NO
+79448 Cheyenne Miller Denmark 22 COVID-2019 YES 21-03-2000
+44107 Marcus Rodriguez Denmark 75 SARS-COV-2 NO
+90033 Ana Perez Denmark 42 FLU-2018 NO
+58561 Michael Potter Denmark 62 COVID-2019 NO
+69960 James Stanley Denmark 46 MERS-COV YES 12-10-2002
+74693 Susan Sampson Denmark 45 FLU-2018 NO
+82958 Angela Murray Denmark 66 FLU-2018 NO
+1606 Carl Scott Denmark 42 MERS-COV NO
+53382 Austin Gates Denmark 73 MERS-COV YES 13-09-2002
+15145 Scott Brown Denmark 25 FLU-2018 NO
+65573 Jeffrey Ford Denmark 70 FLU-2018 YES 16-11-2014
+75374 Ashley Andersen Denmark 25 EVD NO
+85533 Gary Saunders Denmark 30 MERS-COV NO
+73488 Danielle Gonzalez Denmark 37 H1N1 NO
+56273 Isaiah Shelton Denmark 12 MERS-COV NO
+34365 Lisa Jacobs Denmark 42 FLU-2018 NO
+89153 Mia Tyler Denmark 10 SARS-1 NO
+93320 Frank Sellers Denmark 44 EVD NO
+68215 Brittany York Denmark 20 SARS-1 YES 19-10-2006
+31143 Sean Smith Denmark 30 EVD NO
+18796 Anthony Bowman Denmark 55 FLU-2018 NO
+67644 Steven Curry Denmark 20 SARS-1 NO
+5575 Todd Anderson Denmark 45 SARS-1 YES 20-06-2018
+51980 Dana York Denmark 39 COVID-2019 YES 01-07-2011
+21876 Edward Reed Denmark 62 H1N1 NO
+30570 Jacob Mcguire Denmark 38 FLU-2018 NO
+62384 Whitney Robinson Denmark 32 H1N1 NO
+65956 Natalie Boyer Denmark 21 SARS-COV-2 YES 17-04-2003
+36950 Amy Thomas Denmark 37 COVID-2019 NO
+18074 Angela Morgan Denmark 47 SARS-COV-2 NO
+34345 Leslie Mullins Denmark 62 FLU-2018 YES 06-09-2006
+37123 Christopher Manning Denmark 75 EVD YES 30-03-2020
+63887 Crystal Nguyen Denmark 52 H1N1 NO
+85383 Sarah Bender Denmark 72 MERS-COV NO
+20210 Kyle Porter Denmark 29 EVD YES 17-10-2013
+35986 Glenn Martin Denmark 44 SARS-1 NO
+46368 Aaron Gray Denmark 52 SARS-1 NO
+29423 Rachel Torres Denmark 56 SARS-COV-2 NO
+952 Christopher Morris Denmark 40 SARS-1 NO
+27317 Johnny Smith Denmark 38 H1N1 YES 31-01-2002
+32440 Steven Bridges Denmark 21 MERS-COV YES 17-05-2018
+58558 Scott Clark Denmark 66 SARS-COV-2 NO
+11910 David Munoz Denmark 76 EVD NO
+4270 Samuel Hernandez Denmark 49 FLU-2018 YES 23-06-2016
+79844 Wanda Hart Denmark 53 SARS-COV-2 NO
+9581 Brian Neal Denmark 41 FLU-2018 NO
+26550 Curtis Garcia Denmark 23 H1N1 NO
+44238 Erica Anderson Denmark 42 SARS-1 YES 22-03-2000
+26747 Chad Moore Denmark 71 COVID-2019 NO
+67334 Kenneth Bean Denmark 56 SARS-COV-2 NO
+39053 Gabrielle Moss Denmark 11 COVID-2019 YES 24-04-2020
+38809 Sean Thompson Denmark 66 FLU-2018 NO
+84794 Melanie Rodriguez Denmark 10 SARS-COV-2 NO
+69905 Crystal Diaz Denmark 21 EVD NO
+59558 Leonard Tucker Denmark 25 COVID-2019 YES 04-08-2002
+10960 Anthony Smith Denmark 31 COVID-2019 YES 14-05-2005
+33259 Kelli Trevino Denmark 56 COVID-2019 YES 06-04-2014
+47535 Amy Brock Denmark 67 H1N1 NO
+68047 Melissa Grant Denmark 77 COVID-2019 NO
+84625 Lauren King Denmark 56 FLU-2018 YES 14-09-2016
+46172 Samantha Stewart Denmark 11 SARS-1 YES 02-11-2016
+51885 Allison Harvey Denmark 72 COVID-2019 YES 06-12-2003
+60170 Pamela Cook Denmark 75 FLU-2018 YES 21-09-2020
+21878 Denise Boone Denmark 63 SARS-1 YES 04-11-2000
+5807 Chase Mcdonald Denmark 16 SARS-1 YES 24-02-2016
+60086 Ashley Benitez Denmark 30 SARS-1 NO
+5679 Rodney Adkins Denmark 40 COVID-2019 NO
+55836 David Moore Denmark 15 COVID-2019 YES 20-07-2015
+18503 Heather Washington Denmark 67 SARS-COV-2 YES 20-03-2000
+21282 Daniel Gonzalez Denmark 34 MERS-COV NO
+76345 John Faulkner Denmark 63 MERS-COV YES 11-12-2013
+77632 Michael Bryan Denmark 65 FLU-2018 NO
+60089 Travis Lopez Denmark 19 SARS-1 NO
+85097 Alexander Boone Denmark 78 COVID-2019 YES 11-04-2016
+8067 Kevin Clark Denmark 22 SARS-1 NO
+26673 Kimberly Hansen Denmark 37 EVD YES 16-11-2010
+69258 Catherine James Denmark 21 FLU-2018 NO
+56781 Vanessa Patterson Denmark 57 H1N1 YES 04-07-2004
+18890 Kelly Kramer Denmark 21 H1N1 NO
+96266 Christopher Baker Denmark 76 SARS-1 YES 18-07-2010
+67328 Jasmine Elliott Denmark 77 EVD NO
+29229 Douglas Hill Denmark 65 COVID-2019 YES 07-03-2018
+41801 Heather Hunt Denmark 44 SARS-COV-2 NO
+92462 Andrea Black Denmark 63 SARS-COV-2 NO
+39067 Hannah Palmer Denmark 56 MERS-COV NO
+60662 Dawn Lopez Denmark 56 SARS-1 NO
+42854 Kelly Flores Denmark 56 COVID-2019 YES 20-03-2013
+12834 Shelby Ford Denmark 66 COVID-2019 NO
+3 Lindsay Sanders Denmark 30 SARS-1 NO
+62768 Paul James Denmark 48 MERS-COV YES 07-12-2003
+36881 Robin Campbell Denmark 32 EVD NO
+81647 Kimberly Murillo Denmark 16 COVID-2019 NO
+50943 Russell Spears Denmark 30 MERS-COV YES 08-11-2018
+15969 Randall Hill Denmark 72 MERS-COV NO
+59101 Max Diaz Denmark 74 FLU-2018 NO
+12509 Toni Rogers Denmark 73 SARS-1 NO
+34650 Jerome Allen Denmark 37 MERS-COV YES 13-01-2010
+14748 Barbara Smith Denmark 76 SARS-COV-2 NO
+81519 Melissa Luna Denmark 78 COVID-2019 NO
+9837 Seth Schultz Denmark 45 EVD YES 14-11-2005
+96626 Andrew Davis Denmark 66 H1N1 NO
+58029 Daniel Jones Denmark 30 SARS-COV-2 YES 16-02-2011
+10578 Gary Scott Denmark 34 EVD YES 17-10-2016

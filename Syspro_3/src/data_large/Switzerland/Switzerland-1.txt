@@ -1,0 +1,3359 @@
+60319 Richard Conley Switzerland 75 SARS-COV-2 NO
+66660 Christian Jones Switzerland 52 COVID-2019 YES 15-08-2012
+61647 Angela Thompson Switzerland 73 SARS-1 YES 02-06-2013
+53823 Samuel Gibson Switzerland 25 FLU-2018 YES 21-04-2012
+87818 Amy Haley Switzerland 10 SARS-COV-2 NO
+13965 Diana Orr Switzerland 43 MERS-COV YES 25-10-2002
+90625 Steve Ortiz Switzerland 72 H1N1 YES 19-07-2014
+94450 Cody Alvarez Switzerland 46 SARS-COV-2 YES 15-03-2014
+90007 Sabrina Cole Switzerland 47 FLU-2018 NO
+6504 David Espinoza Switzerland 46 H1N1 NO
+37255 David Williams Switzerland 66 H1N1 YES 09-02-2018
+57662 Steve Stein Switzerland 43 SARS-COV-2 NO
+90849 Aaron Morales Switzerland 38 COVID-2019 YES 06-04-2007
+11163 Tina Howard Switzerland 77 COVID-2019 NO
+33806 Thomas Cooper Switzerland 15 H1N1 YES 30-09-2013
+47997 Gabrielle Frederick Switzerland 71 EVD YES 27-06-2007
+18887 Stephen Daniels Switzerland 69 FLU-2018 YES 01-01-2017
+72238 Jonathan Walker Switzerland 28 EVD NO
+90115 Adrian Rodriguez Switzerland 38 H1N1 YES 09-05-2004
+97412 Jon Davis Switzerland 55 EVD NO
+82808 Maxwell Calderon Switzerland 75 SARS-COV-2 NO
+69132 James Baldwin Switzerland 12 SARS-COV-2 NO
+65301 Natasha Walter Switzerland 48 SARS-COV-2 YES 11-09-2016
+81342 Rachel Adams Switzerland 57 SARS-1 NO
+27725 Terrence Garrett Switzerland 20 MERS-COV YES 07-04-2011
+60113 Michael Howard Switzerland 43 EVD YES 16-11-2015
+91419 Robert Moore Switzerland 10 MERS-COV YES 25-09-2015
+37651 Debra Ford Switzerland 56 MERS-COV YES 30-07-2008
+49786 Robert Martinez Switzerland 79 SARS-COV-2 NO
+4584 David Patrick Switzerland 31 H1N1 NO
+9035 Kelly Edwards Switzerland 78 SARS-COV-2 NO
+96911 David Stevens Switzerland 24 MERS-COV YES 25-08-2006
+12197 Monica Braun Switzerland 52 SARS-1 YES 11-03-2001
+77404 Christine Miller Switzerland 76 FLU-2018 NO
+82404 Kristen Guzman Switzerland 63 MERS-COV NO
+37323 Karen Mckee Switzerland 13 SARS-1 YES 24-01-2020
+82447 Joshua Butler Switzerland 40 EVD NO
+16307 David Romero Switzerland 67 FLU-2018 YES 01-02-2006
+70635 Larry Webster Switzerland 67 H1N1 NO
+96559 Stuart Douglas Switzerland 53 SARS-COV-2 NO
+48488 Ashley Yoder Switzerland 75 EVD NO
+8282 Kimberly Estrada Switzerland 60 FLU-2018 YES 11-04-2013
+36636 Larry Hicks Switzerland 55 FLU-2018 YES 30-10-2009
+31290 Vanessa Elliott Switzerland 56 SARS-1 NO
+43467 Robert Oneill Switzerland 46 MERS-COV YES 28-10-2016
+90352 Christopher Black Switzerland 63 SARS-1 NO
+70541 Tina Barr Switzerland 34 H1N1 NO
+1131 Curtis Nelson Switzerland 53 EVD NO
+24388 Amanda Kaufman Switzerland 36 SARS-COV-2 YES 31-10-2003
+8079 Melinda Gibson Switzerland 63 H1N1 NO
+94320 William Burke Switzerland 24 COVID-2019 NO
+44064 Dan Hodge Switzerland 28 H1N1 NO
+45012 Elizabeth Roman Switzerland 31 MERS-COV NO
+22932 Teresa Hobbs Switzerland 15 MERS-COV NO
+20106 Alec Johnson Switzerland 27 MERS-COV NO
+73765 Christopher Howard Switzerland 69 COVID-2019 NO
+74124 Bryan Robinson Switzerland 76 H1N1 YES 19-08-2000
+45364 Michele Jackson Switzerland 27 MERS-COV YES 23-02-2020
+55972 Tyler Thompson Switzerland 26 H1N1 YES 07-04-2015
+4988 Thomas Porter Switzerland 16 H1N1 NO
+83883 Monique Sparks Switzerland 50 SARS-1 NO
+26359 Stacy Ballard Switzerland 21 MERS-COV YES 09-04-2017
+50435 Brandon Murphy Switzerland 74 SARS-COV-2 YES 18-03-2008
+8277 Cynthia Daniels Switzerland 21 SARS-1 YES 19-02-2002
+41396 Kara Torres Switzerland 21 SARS-COV-2 YES 16-11-2001
+44294 Robert Potter Switzerland 72 MERS-COV NO
+20947 Joseph Velez Switzerland 60 SARS-COV-2 NO
+35651 Jacqueline Mcdonald Switzerland 29 FLU-2018 NO
+57913 Mary Mccann Switzerland 66 SARS-1 NO
+15172 Jessica Allen Switzerland 51 EVD NO
+15221 Chelsea Raymond Switzerland 63 MERS-COV NO
+77323 Christine Arnold Switzerland 73 SARS-1 NO
+59864 Makayla White Switzerland 76 MERS-COV YES 10-05-2011
+80259 Julia Navarro Switzerland 41 H1N1 NO
+34902 Meghan Matthews Switzerland 49 EVD NO
+33129 Patricia Rice Switzerland 22 MERS-COV NO
+57013 Vanessa Cobb Switzerland 50 SARS-1 NO
+52870 Melissa Barnes Switzerland 62 SARS-COV-2 NO
+82071 Laura Williams Switzerland 53 SARS-COV-2 NO
+17534 Carol Knapp Switzerland 70 FLU-2018 YES 07-10-2011
+64524 Thomas Gonzalez Switzerland 45 COVID-2019 NO
+45763 Susan West Switzerland 13 COVID-2019 YES 21-01-2015
+97096 Michael Berger Switzerland 41 SARS-COV-2 NO
+47106 Mitchell Hardy Switzerland 39 SARS-COV-2 NO
+61476 Andrew Lewis Switzerland 59 SARS-COV-2 NO
+82085 Elizabeth Smith Switzerland 76 H1N1 YES 11-01-2021
+91079 Stephen Alvarado Switzerland 66 EVD NO
+24553 Keith Garcia Switzerland 69 COVID-2019 YES 16-03-2013
+88612 Richard Woods Switzerland 78 EVD YES 27-01-2013
+28228 Lisa Bolton Switzerland 79 EVD YES 10-09-2004
+70065 Jeffery Ross Switzerland 29 SARS-1 YES 28-08-2018
+21460 Thomas Martinez Switzerland 53 H1N1 YES 10-06-2000
+27218 Carolyn Smith Switzerland 71 FLU-2018 NO
+44960 Sharon Miller Switzerland 36 EVD YES 09-12-2019
+29404 Deborah Shaw Switzerland 54 H1N1 NO
+8187 Joshua Schroeder Switzerland 16 H1N1 NO
+94129 Maria Allen Switzerland 22 FLU-2018 NO
+33660 Chris Mayer Switzerland 12 MERS-COV YES 13-07-2003
+98821 Michael Griffith Switzerland 14 MERS-COV NO
+63728 Sharon Gonzalez Switzerland 26 MERS-COV YES 22-04-2005
+20557 Cynthia Leon Switzerland 46 H1N1 YES 29-08-2015
+91007 Betty Smith Switzerland 76 MERS-COV YES 04-03-2019
+34161 Charles Harris Switzerland 22 FLU-2018 NO
+1040 Timothy Wise Switzerland 79 H1N1 NO
+39321 Christina Sanders Switzerland 57 MERS-COV YES 22-08-2010
+48834 Tyler Black Switzerland 73 SARS-1 YES 18-11-2010
+15694 Sandra Wilson Switzerland 33 FLU-2018 NO
+81495 Robyn Schneider Switzerland 26 EVD YES 28-12-2019
+43591 Todd Owens Switzerland 55 MERS-COV NO
+12260 Elizabeth Moore Switzerland 14 EVD NO
+32215 Lisa Taylor Switzerland 22 EVD YES 24-01-2004
+5385 Emily Lopez Switzerland 79 SARS-COV-2 NO
+55026 Jennifer Burke Switzerland 42 SARS-1 NO
+95857 James Mccarthy Switzerland 32 MERS-COV NO
+81591 Jack Farmer Switzerland 20 H1N1 YES 13-04-2012
+70568 Ashley George Switzerland 76 SARS-COV-2 NO
+67726 Julie Dorsey Switzerland 34 H1N1 NO
+29363 Jennifer Edwards Switzerland 31 FLU-2018 NO
+66473 Ricardo Miller Switzerland 37 EVD YES 25-10-2003
+41324 Dwayne Farley Switzerland 20 H1N1 NO
+65642 Crystal Gentry Switzerland 47 FLU-2018 NO
+66018 Walter Shaffer Switzerland 22 H1N1 YES 14-10-2000
+91528 Perry Cruz Switzerland 60 COVID-2019 NO
+91867 Claudia Rice Switzerland 70 MERS-COV YES 17-02-2017
+4944 Denise Braun Switzerland 34 EVD YES 18-10-2016
+44762 Susan Bush Switzerland 22 SARS-COV-2 NO
+64022 Donna Morris Switzerland 32 MERS-COV NO
+32964 Zachary Swanson Switzerland 21 COVID-2019 YES 27-08-2001
+76064 Mary Townsend Switzerland 65 EVD YES 24-08-2009
+74435 Krystal Sparks Switzerland 37 H1N1 YES 23-04-2013
+3500 Lauren Rodriguez Switzerland 26 EVD NO
+48422 David Brown Switzerland 54 SARS-COV-2 YES 05-01-2002
+94787 Paula Huerta Switzerland 50 SARS-COV-2 NO
+10095 Zachary Baker Switzerland 43 COVID-2019 NO
+17363 Oscar Sanchez Switzerland 26 SARS-1 NO
+88305 William Roy Switzerland 52 MERS-COV YES 19-08-2017
+98406 Lori Morris Switzerland 13 SARS-1 NO
+81444 John Clark Switzerland 29 EVD YES 29-12-2013
+71538 Carrie Moore Switzerland 33 FLU-2018 NO
+18723 Clayton Harris Switzerland 25 MERS-COV YES 27-03-2018
+63537 Marcia Stafford Switzerland 72 FLU-2018 YES 22-12-2019
+93111 Jennifer Evans Switzerland 56 H1N1 YES 27-09-2000
+67852 Stephanie Mullins Switzerland 46 H1N1 NO
+48613 Kenneth James Switzerland 14 MERS-COV NO
+6113 Victoria Warner Switzerland 66 SARS-COV-2 YES 12-08-2005
+905 Tricia Kennedy Switzerland 66 FLU-2018 NO
+27404 Alan Bradley Switzerland 25 H1N1 YES 10-10-2012
+68668 James Morales Switzerland 65 MERS-COV YES 28-06-2018
+80153 Alexander Jenkins Switzerland 35 MERS-COV YES 23-06-2018
+67682 Christopher Short Switzerland 11 H1N1 YES 01-08-2014
+11266 Mark Hawkins Switzerland 61 SARS-1 NO
+44075 William Harper Switzerland 74 H1N1 NO
+66464 Pamela Moran Switzerland 51 SARS-COV-2 YES 05-07-2017
+71657 Lucas May Switzerland 30 FLU-2018 NO
+82994 Jeffrey Smith Switzerland 40 SARS-1 YES 22-05-2012
+75722 Ryan Lawrence Switzerland 61 SARS-1 NO
+18578 Willie Wise Switzerland 62 SARS-COV-2 NO
+86267 Elizabeth King Switzerland 11 H1N1 NO
+64832 Tammy Jenkins Switzerland 57 COVID-2019 YES 10-04-2002
+56178 Karen White Switzerland 55 H1N1 NO
+21636 Amanda Livingston Switzerland 11 SARS-COV-2 NO
+74437 Sean Ochoa Switzerland 47 EVD YES 25-06-2020
+66393 Matthew Anderson Switzerland 44 EVD YES 11-09-2020
+48388 Nicole Ewing Switzerland 69 MERS-COV NO
+93092 Jennifer Castillo Switzerland 32 H1N1 YES 29-05-2014
+90531 Marvin Thompson Switzerland 12 FLU-2018 NO
+58793 Audrey Franklin Switzerland 50 H1N1 NO
+12074 Amanda Bridges Switzerland 69 MERS-COV NO
+12913 Kathleen Bryant Switzerland 36 SARS-1 NO
+79060 Scott Long Switzerland 67 H1N1 YES 28-03-2017
+79077 Ryan Cole Switzerland 11 COVID-2019 YES 01-07-2009
+94971 Jason Stewart Switzerland 42 MERS-COV NO
+8075 Claudia Bradley Switzerland 41 EVD NO
+87356 Paul Richards Switzerland 13 SARS-1 NO
+83741 Steven Wilson Switzerland 56 SARS-1 YES 20-06-2011
+28806 Robert Richardson Switzerland 47 COVID-2019 YES 23-06-2007
+25572 Eric Hill Switzerland 65 FLU-2018 YES 25-02-2019
+46938 Cheryl Lewis Switzerland 18 H1N1 NO
+90710 Jacob Lambert Switzerland 19 FLU-2018 NO
+57269 John Berger Switzerland 25 H1N1 YES 08-11-2008
+40629 Tamara Daugherty Switzerland 55 SARS-COV-2 YES 25-04-2016
+21429 Anthony Miller Switzerland 54 FLU-2018 NO
+90480 Maria Kelly Switzerland 64 MERS-COV NO
+93970 Susan Stafford Switzerland 78 MERS-COV YES 14-11-2005
+49692 Michael Horn Switzerland 73 H1N1 YES 15-05-2008
+75204 Ronald Harris Switzerland 24 FLU-2018 YES 17-11-2018
+3369 Shannon Munoz Switzerland 62 EVD YES 07-08-2002
+16048 Billy Fisher Switzerland 72 SARS-COV-2 YES 27-12-2000
+80688 Maureen Fox Switzerland 15 MERS-COV NO
+76916 Rebecca Graham Switzerland 23 COVID-2019 NO
+95638 Joe Clark Switzerland 46 H1N1 YES 24-09-2009
+66365 Charles Noble Switzerland 13 SARS-1 NO
+53865 Luis Parker Switzerland 22 EVD YES 11-07-2005
+12465 Diane Chapman Switzerland 70 SARS-COV-2 YES 27-01-2017
+74579 Jose Anderson Switzerland 61 MERS-COV NO
+74515 Christopher Avery Switzerland 73 COVID-2019 YES 25-02-2020
+11138 Jill Alvarez Switzerland 56 H1N1 NO
+2593 Sara Smith Switzerland 65 MERS-COV NO
+83072 Jennifer Reeves Switzerland 41 SARS-COV-2 NO
+62953 Justin Miller Switzerland 75 EVD YES 08-03-2004
+9068 Ariel Ayers Switzerland 56 MERS-COV NO
+64416 Victoria Odonnell Switzerland 56 SARS-1 NO
+5696 Sarah Turner Switzerland 43 MERS-COV NO
+8819 Maria Miller Switzerland 47 SARS-1 YES 06-09-2001
+98561 Tommy Gillespie Switzerland 71 FLU-2018 YES 27-07-2013
+18870 Miguel Edwards Switzerland 54 SARS-COV-2 NO
+18734 Juan Wilson Switzerland 24 SARS-1 YES 07-09-2019
+63789 Todd Patterson Switzerland 15 EVD NO
+84607 David Salazar Switzerland 23 FLU-2018 YES 24-12-2002
+78509 James Kaiser Switzerland 58 FLU-2018 YES 24-08-2003
+59818 Megan Ferrell Switzerland 42 FLU-2018 YES 07-03-2011
+18567 David Medina Switzerland 22 SARS-1 YES 15-10-2004
+22838 Gregory Hernandez Switzerland 39 H1N1 YES 08-07-2008
+85535 Thomas Alexander Switzerland 55 SARS-COV-2 NO
+25464 Michael Rhodes Switzerland 42 EVD NO
+44472 Elizabeth Ramirez Switzerland 22 SARS-COV-2 NO
+31240 Anthony Garcia Switzerland 65 EVD NO
+75562 Whitney Richardson Switzerland 52 EVD YES 30-01-2013
+13175 Lisa Jones Switzerland 15 SARS-COV-2 NO
+46433 Emily Anderson Switzerland 26 SARS-1 YES 14-05-2017
+8375 Eric Whitaker Switzerland 18 EVD YES 22-11-2020
+24482 Sara Hill Switzerland 75 SARS-COV-2 NO
+13862 Michael Sanders Switzerland 26 EVD NO
+30247 Carlos Mckenzie Switzerland 52 MERS-COV YES 25-01-2011
+61348 Matthew Pierce Switzerland 46 COVID-2019 NO
+86644 Allison Thomas Switzerland 75 MERS-COV NO
+37232 Michael Mooney Switzerland 56 SARS-1 YES 20-02-2001
+87938 Scott Gonzalez Switzerland 69 SARS-COV-2 NO
+53431 Sergio Joseph Switzerland 13 COVID-2019 NO
+21372 Cheryl Ramos Switzerland 20 H1N1 YES 15-12-2001
+55101 Jennifer Ruiz Switzerland 48 MERS-COV YES 28-04-2020
+55340 Ronnie Mcgee Switzerland 53 FLU-2018 YES 07-03-2014
+40849 Julie Duke Switzerland 77 EVD NO
+36575 April Bishop Switzerland 13 SARS-COV-2 NO
+10481 Lisa Williams Switzerland 46 COVID-2019 YES 27-08-2014
+97077 Karen Hunt Switzerland 28 MERS-COV NO
+66936 Michael Brown Switzerland 51 FLU-2018 NO
+19966 Whitney Beard Switzerland 16 SARS-COV-2 YES 06-11-2011
+17259 Justin Cantu Switzerland 79 SARS-1 YES 16-03-2015
+36137 Brent Cruz Switzerland 31 SARS-1 NO
+24722 Joshua Snyder Switzerland 27 H1N1 NO
+30953 Ryan Huffman Switzerland 37 COVID-2019 NO
+74420 Donald Alexander Switzerland 66 EVD NO
+1011 Amanda Roberts Switzerland 28 SARS-1 NO
+20219 Holly Barnett Switzerland 61 SARS-1 YES 12-12-2017
+80564 Julie Wheeler Switzerland 67 SARS-1 NO
+63063 Jeffrey Cruz Switzerland 21 SARS-1 YES 07-09-2006
+94938 Chad Lowery Switzerland 43 MERS-COV YES 02-03-2020
+16308 Paula Smith Switzerland 19 COVID-2019 YES 28-03-2011
+32245 Matthew Woodward Switzerland 57 EVD YES 07-10-2015
+14494 Kathy Cruz Switzerland 24 COVID-2019 YES 05-02-2018
+53707 Jeff Mitchell Switzerland 45 H1N1 NO
+76191 Tiffany Jones Switzerland 75 SARS-COV-2 YES 11-09-2012
+52614 Richard Jackson Switzerland 18 SARS-COV-2 NO
+18541 Rachel Farmer Switzerland 24 H1N1 NO
+1054 Scott Crosby Switzerland 72 EVD NO
+15589 Lynn Davis Switzerland 62 EVD YES 24-04-2008
+24206 Andrew Brown Switzerland 48 FLU-2018 YES 23-11-2009
+58765 Paige Figueroa Switzerland 71 EVD NO
+69524 Tiffany Mullen Switzerland 34 EVD YES 10-06-2007
+88070 Michael Wright Switzerland 17 COVID-2019 YES 23-08-2011
+16770 Danielle Ferrell Switzerland 52 EVD YES 14-09-2000
+41085 Alyssa Scott Switzerland 39 FLU-2018 YES 26-01-2017
+26655 Erica Barton Switzerland 29 FLU-2018 YES 26-01-2003
+4577 Stephen Shelton Switzerland 59 SARS-COV-2 YES 09-03-2006
+16937 Christopher Nicholson Switzerland 20 FLU-2018 YES 24-03-2004
+25799 George Lopez Switzerland 77 COVID-2019 YES 16-07-2004
+33892 Emily Fields Switzerland 32 COVID-2019 YES 02-03-2004
+67662 David Nelson Switzerland 75 H1N1 YES 23-06-2005
+69492 Madison Mendez Switzerland 17 H1N1 YES 18-12-2005
+23056 Brandi Higgins Switzerland 24 EVD NO
+211 Heather Simmons Switzerland 70 COVID-2019 YES 26-12-2007
+3757 Whitney Contreras Switzerland 19 EVD YES 12-11-2016
+79985 John Lee Switzerland 28 FLU-2018 NO
+74022 Richard Reynolds Switzerland 61 FLU-2018 NO
+92599 Felicia Perez Switzerland 10 H1N1 YES 26-12-2012
+25032 Amanda Rice Switzerland 77 COVID-2019 YES 08-12-2015
+10720 Suzanne Armstrong Switzerland 54 MERS-COV NO
+53895 Susan Kelley Switzerland 30 SARS-COV-2 YES 28-07-2017
+8761 Brittany Johnson Switzerland 78 FLU-2018 YES 17-05-2017
+26380 Jill Taylor Switzerland 22 MERS-COV NO
+95646 Nathan Hudson Switzerland 62 FLU-2018 YES 09-04-2019
+1875 Natalie Nelson Switzerland 26 EVD NO
+18584 Anne Morrison Switzerland 71 COVID-2019 YES 10-12-2014
+31675 Matthew Grant Switzerland 16 MERS-COV NO
+25474 David Everett Switzerland 74 MERS-COV NO
+15226 Beth Padilla Switzerland 42 MERS-COV NO
+72741 Jonathan Sullivan Switzerland 72 SARS-1 NO
+44534 Dakota Calhoun Switzerland 31 FLU-2018 YES 02-03-2001
+27450 Aaron Christensen Switzerland 51 FLU-2018 YES 31-08-2013
+85162 Nancy Saunders Switzerland 27 COVID-2019 NO
+69057 Samuel Butler Switzerland 22 H1N1 YES 17-12-2010
+82541 William Goodwin Switzerland 27 SARS-COV-2 YES 26-03-2002
+87088 Marissa Curry Switzerland 45 SARS-COV-2 NO
+74305 Ryan Jones Switzerland 66 FLU-2018 NO
+89214 Sarah Cox Switzerland 65 FLU-2018 YES 26-02-2015
+2011 Jason Gomez Switzerland 25 SARS-1 YES 27-10-2017
+59179 Jason Martinez Switzerland 54 H1N1 NO
+74325 Stephen Beck Switzerland 51 COVID-2019 YES 29-01-2020
+15579 Brooke Browning Switzerland 61 H1N1 YES 03-11-2001
+89514 Mark Melton Switzerland 54 SARS-1 NO
+73342 Erik Jones Switzerland 37 COVID-2019 YES 17-03-2011
+37946 Justin Burton Switzerland 53 SARS-COV-2 NO
+92983 Stacy Woods Switzerland 34 EVD YES 28-05-2017
+59925 Tiffany Morton Switzerland 55 H1N1 NO
+66371 Bradley Williams Switzerland 41 FLU-2018 YES 11-06-2001
+60822 Derek Ray Switzerland 45 SARS-COV-2 YES 27-10-2019
+25589 Laura Rosario Switzerland 57 EVD YES 17-03-2018
+7059 Kenneth Johnson Switzerland 69 MERS-COV NO
+23835 Robyn Stout Switzerland 28 SARS-COV-2 NO
+98463 Lisa Chapman Switzerland 75 H1N1 NO
+68282 Travis Ford Switzerland 12 FLU-2018 NO
+35873 Michael Long Switzerland 66 SARS-1 YES 12-03-2008
+19214 Ryan Jones Switzerland 23 EVD NO
+85388 Eric Wallace Switzerland 33 EVD YES 17-01-2007
+14853 Jeanette Sawyer Switzerland 44 SARS-1 YES 24-09-2017
+39255 Samuel Turner Switzerland 19 H1N1 NO
+67294 Manuel Lloyd Switzerland 54 SARS-1 YES 20-05-2000
+43623 Leroy Wade Switzerland 62 MERS-COV NO
+84104 Susan Serrano Switzerland 39 MERS-COV NO
+39498 Ethan Jones Switzerland 27 EVD NO
+73513 Joshua Gutierrez Switzerland 37 H1N1 YES 25-04-2013
+41465 Robert Medina Switzerland 65 SARS-COV-2 NO
+36246 Christine Green Switzerland 65 SARS-COV-2 NO
+42882 Alicia Farmer Switzerland 13 MERS-COV NO
+65763 Jared Simmons Switzerland 20 SARS-COV-2 NO
+67552 Dwayne Boone Switzerland 21 SARS-COV-2 YES 14-12-2016
+11113 Elizabeth Jones Switzerland 45 SARS-1 NO
+55927 Mark Bates Switzerland 36 FLU-2018 YES 03-11-2015
+48239 Melissa Hampton Switzerland 69 H1N1 NO
+41739 Ian Sandoval Switzerland 73 EVD NO
+46691 Carol Henry Switzerland 47 FLU-2018 NO
+93853 Ronald Anderson Switzerland 54 SARS-1 NO
+60601 Anne Brown Switzerland 76 SARS-COV-2 NO
+339 Christopher Russell Switzerland 64 EVD YES 01-04-2015
+4822 Michael Cox Switzerland 29 EVD YES 28-10-2015
+30687 Stuart Porter Switzerland 22 EVD NO
+39093 Lisa Lopez Switzerland 44 MERS-COV YES 25-10-2009
+43320 Kaitlyn Clayton Switzerland 53 COVID-2019 NO
+49125 Troy Anderson Switzerland 22 COVID-2019 YES 08-03-2013
+12690 Jennifer Pearson Switzerland 23 EVD NO
+10290 Suzanne Carney Switzerland 79 FLU-2018 NO
+715 James Alvarez Switzerland 75 SARS-COV-2 YES 03-04-2013
+36696 Joseph Estrada Switzerland 59 SARS-COV-2 YES 10-09-2016
+91442 William Herrera Switzerland 68 MERS-COV YES 22-12-2011
+7509 John Brown Switzerland 69 COVID-2019 YES 03-10-2016
+85652 Pamela Butler Switzerland 77 COVID-2019 YES 21-07-2020
+55874 Latoya Sanchez Switzerland 72 COVID-2019 YES 04-12-2014
+65845 Lance Mendez Switzerland 10 FLU-2018 NO
+86513 William Brown Switzerland 38 SARS-COV-2 YES 15-01-2017
+58014 Robert Myers Switzerland 43 SARS-1 NO
+65213 Darrell Watson Switzerland 25 H1N1 YES 08-04-2010
+60110 Douglas Rice Switzerland 16 SARS-COV-2 YES 27-06-2010
+22141 Daniel Scott Switzerland 32 H1N1 YES 18-06-2000
+40883 Hannah Francis Switzerland 64 H1N1 NO
+68670 Danny Phillips Switzerland 30 COVID-2019 YES 07-01-2007
+2140 Linda Huber Switzerland 78 SARS-1 YES 07-12-2012
+61443 Annette Diaz Switzerland 78 COVID-2019 YES 08-07-2000
+29820 Jerry Jarvis Switzerland 56 SARS-COV-2 YES 25-02-2005
+11876 Ronnie Hammond Switzerland 14 SARS-COV-2 NO
+99697 John Hicks Switzerland 11 COVID-2019 NO
+89367 Steven Black Switzerland 37 H1N1 YES 22-10-2013
+60797 Richard Shepherd Switzerland 40 COVID-2019 NO
+42884 Jessica Murray Switzerland 32 MERS-COV NO
+17495 Dennis Buckley Switzerland 71 COVID-2019 NO
+15668 Tracey Lewis Switzerland 11 EVD NO
+50031 Brett Martinez Switzerland 47 SARS-1 NO
+92567 Andrea Taylor Switzerland 50 COVID-2019 NO
+82015 Shawn Taylor Switzerland 38 EVD YES 08-06-2008
+55626 Kristen Hurst Switzerland 41 MERS-COV YES 27-07-2009
+66297 Samuel Lawrence Switzerland 15 SARS-1 NO
+66824 Joseph Diaz Switzerland 40 COVID-2019 NO
+80198 Emily Herrera Switzerland 14 H1N1 YES 08-12-2020
+94628 Melissa Alvarez Switzerland 48 EVD NO
+15492 Stephanie Wilson Switzerland 20 MERS-COV NO
+31315 Carol Gonzalez Switzerland 37 COVID-2019 YES 27-04-2003
+59283 Shelby Hernandez Switzerland 11 EVD NO
+11171 Jennifer Martin Switzerland 67 SARS-1 NO
+9937 Jay Thompson Switzerland 57 EVD YES 27-08-2009
+92768 John Fitzgerald Switzerland 47 MERS-COV YES 13-07-2014
+17747 Tammy Ramsey Switzerland 53 FLU-2018 YES 24-06-2008
+67918 Brian Booker Switzerland 41 EVD NO
+6575 Jessica Rangel Switzerland 46 SARS-COV-2 NO
+44526 Andrew Rhodes Switzerland 53 SARS-COV-2 NO
+20841 Ashley Hughes Switzerland 35 SARS-1 YES 03-08-2003
+21755 Tonya Mendoza Switzerland 61 SARS-COV-2 YES 02-08-2018
+20933 Richard Valdez Switzerland 64 EVD NO
+3974 John Ruiz Switzerland 32 FLU-2018 NO
+37890 Carrie Jones Switzerland 48 SARS-1 NO
+41629 Dawn Phillips Switzerland 62 SARS-COV-2 YES 15-02-2012
+78223 Danielle Schmidt Switzerland 24 SARS-1 NO
+59849 Kathryn Davis Switzerland 11 H1N1 YES 16-12-2014
+90095 Stephanie Allen Switzerland 73 SARS-COV-2 NO
+54849 Michelle Hawkins Switzerland 32 FLU-2018 NO
+88145 Victoria Kane Switzerland 51 FLU-2018 NO
+46036 Elizabeth Nelson Switzerland 62 H1N1 YES 29-08-2007
+12853 Steven Collins Switzerland 36 SARS-COV-2 NO
+57294 Sara Hernandez Switzerland 46 EVD YES 16-08-2004
+42709 Tiffany Nichols Switzerland 33 SARS-1 NO
+79330 Amy Hernandez Switzerland 70 H1N1 YES 27-07-2014
+84559 Mary Robinson Switzerland 64 SARS-COV-2 NO
+63377 Dustin Cox Switzerland 13 EVD YES 18-03-2017
+3758 Shawn Hall Switzerland 78 COVID-2019 NO
+38763 Jennifer Hunter Switzerland 24 SARS-COV-2 NO
+97416 Christopher Rose Switzerland 72 COVID-2019 NO
+80891 Brian Huynh Switzerland 66 SARS-COV-2 YES 26-02-2019
+18283 Carolyn Hayes Switzerland 55 EVD NO
+35775 Glenn Johnson Switzerland 21 COVID-2019 YES 22-01-2002
+4238 Lauren Williams Switzerland 63 SARS-1 YES 20-06-2001
+58541 Anita Larsen Switzerland 48 SARS-COV-2 YES 13-01-2008
+3056 Renee Singleton Switzerland 62 H1N1 YES 16-10-2011
+54794 Ernest Wright Switzerland 76 FLU-2018 YES 05-10-2008
+80667 Toni Benitez Switzerland 46 MERS-COV YES 09-08-2001
+46724 Jean Salinas Switzerland 14 H1N1 YES 16-01-2011
+39638 Kathy Warner Switzerland 11 FLU-2018 NO
+93168 Jonathan Gomez Switzerland 29 SARS-COV-2 YES 03-09-2006
+67368 Lisa Simpson Switzerland 69 SARS-COV-2 YES 02-08-2016
+95006 Joe Lee Switzerland 27 H1N1 YES 08-07-2020
+89072 Betty Hodges Switzerland 53 FLU-2018 NO
+33608 Brian Gonzalez Switzerland 27 SARS-1 YES 06-09-2001
+74322 Gerald Scott Switzerland 57 MERS-COV NO
+56616 Lacey Martinez Switzerland 40 COVID-2019 YES 14-02-2014
+64847 Jimmy Franklin Switzerland 32 COVID-2019 NO
+87929 Raymond Marsh Switzerland 38 MERS-COV YES 11-05-2002
+55302 David Davis Switzerland 25 SARS-COV-2 YES 31-10-2011
+22318 Rebecca Rhodes Switzerland 26 EVD YES 26-07-2010
+4241 Julie Butler Switzerland 43 FLU-2018 YES 21-03-2007
+90206 Alex Clark Switzerland 13 SARS-COV-2 YES 28-02-2012
+55483 Sandra Lam Switzerland 41 EVD YES 01-04-2015
+64976 Kayla Walker Switzerland 10 MERS-COV YES 02-06-2020
+58787 Kerry Fleming Switzerland 34 SARS-1 NO
+70474 Brian Roberts Switzerland 68 COVID-2019 NO
+18862 James Hampton Switzerland 40 SARS-COV-2 NO
+6978 Stephen Miller Switzerland 75 MERS-COV YES 22-06-2007
+38598 Aaron Davies Switzerland 18 SARS-COV-2 NO
+38147 Diana Perez Switzerland 49 COVID-2019 YES 28-07-2001
+98496 Amanda Cooper Switzerland 47 H1N1 NO
+90285 Douglas Harris Switzerland 66 SARS-COV-2 NO
+67936 Juan Hughes Switzerland 68 H1N1 YES 03-10-2003
+93647 Stephanie Herman Switzerland 37 H1N1 YES 28-11-2001
+41036 Adam Murphy Switzerland 24 H1N1 NO
+53867 Thomas Garcia Switzerland 71 SARS-COV-2 NO
+67221 Janet Arnold Switzerland 61 FLU-2018 YES 04-02-2007
+40838 Anthony Lara Switzerland 57 SARS-1 YES 09-07-2006
+39024 Samuel Mullen Switzerland 42 MERS-COV YES 17-10-2017
+9900 Erica Morgan Switzerland 54 H1N1 NO
+8449 Cody Garcia Switzerland 76 SARS-1 YES 05-10-2007
+6616 Jessica Jones Switzerland 60 SARS-1 NO
+4116 Dylan Smith Switzerland 28 FLU-2018 NO
+84516 Christopher Madden Switzerland 32 H1N1 YES 24-06-2010
+56300 Adam Burns Switzerland 17 H1N1 NO
+4959 Taylor Perkins Switzerland 20 COVID-2019 YES 25-02-2004
+88770 Thomas Stone Switzerland 15 EVD NO
+59178 Erik Swanson Switzerland 24 EVD NO
+88958 Donna Jones Switzerland 12 MERS-COV NO
+54018 Kathy Young Switzerland 62 SARS-1 YES 02-08-2002
+64661 Adam Short Switzerland 45 SARS-COV-2 NO
+41261 Philip Bautista Switzerland 21 MERS-COV NO
+86724 Jamie Ponce Switzerland 27 SARS-COV-2 YES 30-08-2012
+90166 Kimberly Garcia Switzerland 40 COVID-2019 NO
+51840 Stephanie Williams Switzerland 73 COVID-2019 YES 08-09-2015
+31293 Steven Bailey Switzerland 76 MERS-COV YES 12-06-2004
+48229 Richard Austin Switzerland 46 SARS-1 YES 14-06-2014
+59135 Scott Hart Switzerland 69 SARS-COV-2 YES 27-10-2007
+91676 Hector Padilla Switzerland 16 H1N1 NO
+29825 John Cohen Switzerland 38 EVD NO
+82433 Cody Nunez Switzerland 77 MERS-COV NO
+75967 Kyle Galloway Switzerland 18 FLU-2018 YES 13-09-2006
+4644 Rebecca Vega Switzerland 17 MERS-COV YES 15-10-2007
+9578 Stephen Owens Switzerland 77 MERS-COV NO
+45565 Alicia Davies Switzerland 77 FLU-2018 YES 23-09-2000
+47354 Sarah Williams Switzerland 55 MERS-COV YES 02-10-2017
+50441 Taylor Johnson Switzerland 43 COVID-2019 NO
+47736 Sarah Cuevas Switzerland 54 FLU-2018 YES 27-07-2009
+10091 Angel Mcdaniel Switzerland 28 EVD YES 01-09-2004
+95944 Miranda Le Switzerland 48 H1N1 NO
+3087 Donna Barnes Switzerland 19 H1N1 YES 30-10-2002
+80779 Tracey Rasmussen Switzerland 54 COVID-2019 NO
+58423 Patricia Nelson Switzerland 36 FLU-2018 YES 07-10-2009
+28785 Stephanie Glenn Switzerland 14 SARS-COV-2 YES 07-03-2005
+34832 Clinton Davis Switzerland 62 SARS-COV-2 NO
+59040 Joe Murray Switzerland 56 SARS-COV-2 NO
+17105 Timothy Larson Switzerland 56 H1N1 NO
+12171 Melanie Johnson Switzerland 38 H1N1 YES 12-07-2005
+74170 Laura Carlson Switzerland 46 MERS-COV YES 23-01-2019
+64083 Tonya Martin Switzerland 51 MERS-COV NO
+47908 Debbie Harrison Switzerland 55 SARS-COV-2 YES 19-06-2015
+60093 Richard Martin Switzerland 64 FLU-2018 NO
+85816 Brian Taylor Switzerland 28 SARS-1 NO
+48936 Carla Powell Switzerland 24 COVID-2019 YES 27-10-2009
+55117 Jamie Garcia Switzerland 27 SARS-1 YES 17-05-2013
+51787 Amber Davis Switzerland 18 EVD NO
+11883 Jill Walker Switzerland 22 EVD YES 15-06-2020
+27109 Michael Foster Switzerland 21 SARS-1 NO
+82526 Susan Gordon Switzerland 67 SARS-1 YES 05-02-2008
+78205 Lisa Russell Switzerland 74 SARS-1 YES 08-11-2002
+826 Terry Flowers Switzerland 79 FLU-2018 NO
+39302 Allison Fisher Switzerland 11 H1N1 NO
+57790 Kristy Cervantes Switzerland 75 SARS-1 NO
+56385 Adrian Sparks Switzerland 40 H1N1 NO
+58221 Annette Ruiz Switzerland 14 SARS-1 YES 07-03-2016
+83768 Cameron White Switzerland 74 COVID-2019 YES 13-02-2008
+38473 Marc Rosales Switzerland 68 SARS-COV-2 YES 21-05-2020
+53584 Brooke Pierce Switzerland 60 MERS-COV YES 25-07-2008
+71081 Jose Carter Switzerland 53 EVD YES 02-01-2019
+69738 Olivia Smith Switzerland 34 COVID-2019 NO
+64809 Nathan Harris Switzerland 65 COVID-2019 NO
+39275 Charles May Switzerland 77 COVID-2019 NO
+72949 John Welch Switzerland 11 FLU-2018 NO
+8317 Joseph Johnson Switzerland 70 COVID-2019 NO
+54041 Amanda Oliver Switzerland 45 COVID-2019 NO
+70142 Jose Powell Switzerland 48 FLU-2018 NO
+49486 Vanessa Harper Switzerland 48 EVD YES 09-06-2010
+98900 Mark Vasquez Switzerland 17 COVID-2019 YES 02-06-2003
+48990 William Shepherd Switzerland 60 COVID-2019 YES 23-02-2016
+71182 Diana Watkins Switzerland 14 MERS-COV NO
+46187 Caroline Mitchell Switzerland 56 H1N1 NO
+1714 Juan Huerta Switzerland 60 SARS-COV-2 NO
+45019 Laura Mercer Switzerland 19 FLU-2018 NO
+3180 Michael Hensley Switzerland 19 H1N1 YES 07-02-2007
+45710 Andrew Gregory Switzerland 69 SARS-1 YES 23-07-2000
+30538 Carolyn Allen Switzerland 43 EVD NO
+81599 Molly Roberts Switzerland 37 SARS-COV-2 NO
+79859 Marissa Tran Switzerland 41 EVD YES 21-06-2012
+23526 Lindsay Sanders Switzerland 50 FLU-2018 NO
+16293 Zachary Foster Switzerland 60 MERS-COV NO
+30323 David Carey Switzerland 38 EVD NO
+45185 Natasha Pham Switzerland 50 FLU-2018 NO
+80165 Shannon Newman Switzerland 73 EVD NO
+41310 Pamela Miller Switzerland 21 SARS-1 NO
+84127 Charles Davis Switzerland 20 SARS-1 YES 01-01-2013
+47102 Denise Cole Switzerland 25 MERS-COV NO
+42289 Monica Wilson Switzerland 56 SARS-COV-2 YES 26-07-2007
+43982 Sarah Smith Switzerland 51 MERS-COV YES 28-03-2003
+50992 Jared Alvarez Switzerland 16 SARS-1 NO
+88622 Joseph Chambers Switzerland 28 SARS-1 YES 19-07-2007
+10412 Michael Taylor Switzerland 12 MERS-COV YES 05-01-2000
+57534 Savannah Gilmore Switzerland 76 SARS-COV-2 NO
+68828 Catherine Henderson Switzerland 41 COVID-2019 YES 04-02-2017
+53228 Shelly Sims Switzerland 31 SARS-1 YES 04-05-2001
+14368 James Bass Switzerland 15 COVID-2019 YES 05-11-2019
+15487 April Bailey Switzerland 47 MERS-COV NO
+29902 Bryan Byrd Switzerland 42 FLU-2018 NO
+29829 Raymond Patton Switzerland 15 SARS-1 YES 30-01-2016
+84047 Corey Miller Switzerland 27 H1N1 NO
+83969 Steve Velazquez Switzerland 64 MERS-COV NO
+89858 Paula Williams Switzerland 41 EVD NO
+5366 Richard Wilson Switzerland 67 SARS-1 YES 29-10-2019
+44040 Tracy Smith Switzerland 54 COVID-2019 NO
+24808 Amy Zhang Switzerland 23 H1N1 YES 19-04-2017
+39994 Justin Gonzales Switzerland 49 FLU-2018 NO
+66451 Drew Smith Switzerland 31 H1N1 NO
+63417 Timothy Larson Switzerland 46 EVD NO
+23623 Krista Phillips Switzerland 58 H1N1 YES 22-05-2012
+73051 Kyle Perez Switzerland 61 COVID-2019 YES 31-07-2010
+92707 Ann Jimenez Switzerland 79 SARS-COV-2 NO
+82041 Jacob Hansen Switzerland 69 MERS-COV YES 02-06-2018
+82711 Kristopher Oneal Switzerland 66 H1N1 NO
+34849 Anthony Warren Switzerland 39 SARS-COV-2 YES 18-06-2006
+10569 Kyle Thompson Switzerland 16 SARS-COV-2 NO
+61060 Zachary Juarez Switzerland 56 EVD YES 10-09-2006
+2153 Heidi Brown Switzerland 58 FLU-2018 NO
+43944 Kathryn Zuniga Switzerland 54 COVID-2019 YES 19-07-2019
+61889 Breanna Smith Switzerland 73 SARS-1 NO
+60514 Colleen Jackson Switzerland 60 SARS-1 NO
+20308 Pamela Wallace Switzerland 56 MERS-COV YES 21-03-2004
+53003 Jesse Davis Switzerland 52 COVID-2019 NO
+14139 Kathy Walker Switzerland 52 FLU-2018 NO
+50019 Melanie Farmer Switzerland 70 COVID-2019 YES 03-01-2019
+76543 Anthony Mcfarland Switzerland 38 FLU-2018 NO
+24925 Charles Jones Switzerland 59 COVID-2019 YES 26-09-2016
+22983 Jonathan Turner Switzerland 30 EVD NO
+63051 Latoya Bernard Switzerland 57 SARS-1 YES 28-10-2007
+32445 Brittany Espinoza Switzerland 18 FLU-2018 NO
+1586 Samuel Knox Switzerland 16 SARS-COV-2 YES 23-04-2020
+11807 Jennifer Fry Switzerland 32 EVD YES 09-09-2003
+76245 Ashley Salazar Switzerland 46 FLU-2018 NO
+61543 Anthony Wilson Switzerland 78 COVID-2019 YES 25-05-2017
+46847 Misty Jackson Switzerland 49 FLU-2018 NO
+40571 Joseph Mcdaniel Switzerland 64 SARS-1 YES 08-02-2019
+17226 David Macdonald Switzerland 20 EVD YES 02-04-2019
+17930 Christina Williams Switzerland 14 SARS-1 YES 16-08-2000
+37351 Patricia Newton Switzerland 15 SARS-COV-2 NO
+59531 Jennifer Jones Switzerland 26 H1N1 NO
+96754 Tina Carter Switzerland 78 COVID-2019 YES 23-10-2003
+39609 Darrell Jones Switzerland 21 COVID-2019 NO
+18209 Patricia Hart Switzerland 16 COVID-2019 YES 23-06-2007
+61602 Danielle Hall Switzerland 66 COVID-2019 YES 21-07-2001
+41611 Joseph Garcia Switzerland 48 MERS-COV NO
+22000 Angela Crawford Switzerland 16 FLU-2018 YES 02-10-2010
+79870 Bobby Green Switzerland 51 H1N1 NO
+38094 Maria Cooper Switzerland 31 H1N1 YES 27-04-2006
+27989 Bradley Patterson Switzerland 44 MERS-COV YES 31-05-2000
+90642 Pamela Brown Switzerland 34 FLU-2018 YES 16-08-2007
+76238 Brandon Pham Switzerland 30 SARS-1 YES 28-12-2012
+62371 Dustin King Switzerland 63 SARS-1 NO
+67109 John Alexander Switzerland 12 FLU-2018 NO
+17778 Katrina Sullivan Switzerland 25 SARS-COV-2 NO
+1252 Omar Acosta Switzerland 69 EVD NO
+92403 Ryan Carter Switzerland 30 EVD YES 16-10-2008
+62452 Michael Harper Switzerland 74 COVID-2019 NO
+15309 Michael Hayes Switzerland 78 SARS-COV-2 YES 25-10-2001
+60288 Sierra Mitchell Switzerland 30 COVID-2019 YES 01-07-2010
+59124 Levi Scott Switzerland 23 MERS-COV YES 17-09-2004
+56921 Charlene King Switzerland 72 EVD YES 11-01-2004
+99824 Shawn Austin Switzerland 42 COVID-2019 YES 23-01-2015
+30472 Katie Maxwell Switzerland 53 SARS-COV-2 YES 02-08-2006
+40598 Shelly Mitchell Switzerland 20 MERS-COV YES 31-03-2010
+30541 Patty Turner Switzerland 54 COVID-2019 NO
+94690 Katrina Harris Switzerland 20 MERS-COV YES 20-02-2002
+78194 Steven Martin Switzerland 44 EVD NO
+13222 Troy Brown Switzerland 15 COVID-2019 YES 30-06-2013
+77573 Vanessa Jackson Switzerland 26 SARS-1 NO
+8579 James Duncan Switzerland 59 MERS-COV NO
+18052 Jennifer Stevens Switzerland 62 MERS-COV NO
+37162 Nancy Blanchard Switzerland 15 FLU-2018 YES 02-11-2012
+84742 Carrie Bowers Switzerland 45 MERS-COV NO
+38452 Robert Haley Switzerland 21 H1N1 NO
+16237 Jacob Young Switzerland 41 COVID-2019 NO
+4093 Thomas Taylor Switzerland 60 FLU-2018 NO
+1688 George Taylor Switzerland 59 H1N1 NO
+1494 Elizabeth French Switzerland 36 FLU-2018 YES 05-04-2008
+76979 Crystal Perkins Switzerland 48 MERS-COV YES 29-03-2015
+63273 Edward Moore Switzerland 17 H1N1 YES 11-10-2001
+62004 Taylor Johnson Switzerland 56 H1N1 NO
+26445 Suzanne Lee Switzerland 17 COVID-2019 NO
+62471 Barbara Baker Switzerland 50 SARS-COV-2 YES 09-03-2016
+11643 Jermaine Lin Switzerland 58 MERS-COV NO
+85689 Lisa Williamson Switzerland 76 SARS-1 YES 11-04-2010
+66104 Robert Taylor Switzerland 67 EVD NO
+79249 James Ramsey Switzerland 30 SARS-1 NO
+22525 Hannah Sawyer Switzerland 28 COVID-2019 YES 23-01-2012
+32628 Jonathan Bass Switzerland 77 MERS-COV YES 13-06-2015
+82515 Donald Skinner Switzerland 32 SARS-COV-2 NO
+706 Nathan Johnson Switzerland 63 COVID-2019 YES 31-03-2001
+75006 Nicholas Lowe Switzerland 10 FLU-2018 NO
+22166 Daniel Proctor Switzerland 24 H1N1 NO
+76734 Melinda Torres Switzerland 62 SARS-1 NO
+4236 Pamela Watson Switzerland 65 H1N1 NO
+51819 Mary Mccullough Switzerland 69 FLU-2018 NO
+86579 Daniel Allison Switzerland 75 SARS-1 NO
+81851 Christine Thomas Switzerland 39 H1N1 YES 14-08-2003
+32519 Jennifer Buckley Switzerland 15 SARS-1 NO
+92576 Allen Ramirez Switzerland 62 H1N1 NO
+84363 Daniel Salas Switzerland 17 H1N1 YES 14-11-2005
+20406 Katherine Briggs Switzerland 79 H1N1 YES 25-03-2016
+70245 Kara Jennings Switzerland 20 SARS-1 YES 06-02-2016
+97429 Vanessa Davis Switzerland 75 SARS-1 YES 16-04-2004
+46463 Thomas Sims Switzerland 59 FLU-2018 YES 06-02-2006
+49988 Tonya Mendoza Switzerland 58 EVD YES 10-10-2020
+66594 Ryan Tran Switzerland 27 H1N1 NO
+99786 Phillip Williams Switzerland 79 SARS-1 NO
+67709 Peter Rojas Switzerland 32 COVID-2019 NO
+76298 Nancy Montgomery Switzerland 27 MERS-COV NO
+80454 Rita Calderon Switzerland 43 SARS-1 NO
+15358 Brian Short Switzerland 26 COVID-2019 YES 01-11-2008
+63398 Lisa Walls Switzerland 41 SARS-COV-2 NO
+23843 Shelia Guzman Switzerland 23 MERS-COV NO
+44253 Diana Perez Switzerland 21 COVID-2019 YES 01-09-2001
+18673 Selena Smith Switzerland 52 SARS-1 YES 19-02-2012
+59322 Jonathan Howard Switzerland 65 SARS-COV-2 NO
+48459 Tara Conway Switzerland 23 FLU-2018 NO
+11897 Kelli Kelley Switzerland 64 FLU-2018 NO
+54866 Joseph Lopez Switzerland 53 FLU-2018 NO
+16370 Joshua Lewis Switzerland 20 EVD YES 21-12-2000
+72510 Justin Riggs Switzerland 71 H1N1 YES 22-06-2011
+16471 Jennifer Cohen Switzerland 14 MERS-COV YES 17-08-2009
+3496 Louis Perry Switzerland 19 SARS-COV-2 YES 22-01-2016
+29612 Vincent Marquez Switzerland 22 EVD NO
+23111 Caitlyn Young Switzerland 16 SARS-COV-2 YES 19-06-2007
+45655 Gabriel Chavez Switzerland 13 EVD YES 17-10-2001
+24899 Jessica Garcia Switzerland 46 FLU-2018 NO
+10926 Scott Cook Switzerland 69 EVD YES 06-12-2011
+17008 Chad Hall Switzerland 26 EVD NO
+11321 Christopher Murphy Switzerland 51 H1N1 NO
+60385 Melissa Foster Switzerland 62 FLU-2018 NO
+90703 April Moody Switzerland 14 SARS-COV-2 YES 02-09-2016
+36126 Candace Flores Switzerland 27 MERS-COV NO
+52127 Isaac Martinez Switzerland 49 COVID-2019 NO
+5127 David Mccarthy Switzerland 53 COVID-2019 NO
+70281 Edwin Brown Switzerland 26 EVD NO
+6603 Clayton Miller Switzerland 60 EVD NO
+35207 William Alvarez Switzerland 15 SARS-1 YES 26-03-2005
+63390 Jonathan Martinez Switzerland 19 SARS-COV-2 NO
+62154 Brendan Owens Switzerland 76 EVD YES 31-07-2020
+91818 Alex Woods Switzerland 60 EVD YES 11-07-2011
+3597 Daniel Gilbert Switzerland 61 MERS-COV YES 07-02-2003
+2443 Jamie Jenkins Switzerland 72 COVID-2019 YES 23-04-2015
+60697 Henry Rice Switzerland 26 H1N1 NO
+9532 Mark Powell Switzerland 13 SARS-1 YES 06-02-2014
+76833 Laura Hale Switzerland 49 FLU-2018 NO
+86400 Melanie Krueger Switzerland 64 SARS-COV-2 YES 06-10-2013
+35337 Jon Koch Switzerland 60 MERS-COV NO
+47417 Katherine Morrison Switzerland 13 COVID-2019 NO
+14613 James Phillips Switzerland 14 EVD YES 29-10-2015
+55512 Justin Hurley Switzerland 68 FLU-2018 YES 16-06-2009
+85705 Rodney Bush Switzerland 61 H1N1 YES 12-10-2002
+15189 Ryan Reese Switzerland 74 MERS-COV YES 08-01-2005
+12419 Thomas Conley Switzerland 38 MERS-COV NO
+50474 Aaron Gonzalez Switzerland 44 SARS-COV-2 NO
+78240 Amy Williams Switzerland 74 SARS-COV-2 NO
+66202 Brittany Daniel Switzerland 57 COVID-2019 NO
+2890 Donna King Switzerland 65 H1N1 YES 12-06-2018
+5891 Tyler Cohen Switzerland 31 FLU-2018 NO
+51440 Zachary Lynch Switzerland 40 MERS-COV NO
+21086 Katherine Moore Switzerland 55 COVID-2019 YES 20-02-2002
+76020 Benjamin Johnson Switzerland 40 H1N1 NO
+6794 Rebecca Rush Switzerland 11 FLU-2018 YES 19-10-2001
+95320 Kimberly Gomez Switzerland 53 COVID-2019 YES 01-02-2015
+66066 Jeff Perkins Switzerland 27 FLU-2018 YES 01-09-2000
+68629 Karen Edwards Switzerland 69 MERS-COV NO
+72710 Robert Moore Switzerland 61 FLU-2018 NO
+98875 Stephen Lynch Switzerland 19 SARS-COV-2 YES 01-11-2016
+99070 Benjamin Rodriguez Switzerland 24 MERS-COV NO
+14030 Clarence Martin Switzerland 23 EVD YES 11-05-2019
+93223 Jeffrey Martin Switzerland 19 EVD NO
+36370 Lee Parker Switzerland 17 FLU-2018 YES 14-01-2012
+93798 Denise Dougherty Switzerland 14 COVID-2019 NO
+94218 Gregory Jones Switzerland 18 H1N1 YES 06-02-2016
+45050 Brandon Garcia Switzerland 69 SARS-1 NO
+35980 Benjamin Hoffman Switzerland 53 EVD YES 05-10-2019
+37106 Andrew Lee Switzerland 41 SARS-COV-2 NO
+70860 Daniel Johnson Switzerland 33 EVD YES 04-06-2019
+15533 Nicole Wade Switzerland 34 SARS-COV-2 NO
+73499 Christopher Taylor Switzerland 12 MERS-COV YES 16-08-2019
+75700 Elizabeth Wilson Switzerland 16 SARS-1 NO
+50285 Christopher Allen Switzerland 78 SARS-1 YES 22-04-2001
+75711 Joe Cochran Switzerland 46 COVID-2019 YES 06-09-2016
+94521 Lindsay Mckinney Switzerland 76 MERS-COV YES 22-01-2014
+53763 Ellen Tate Switzerland 72 COVID-2019 YES 22-04-2001
+17007 Justin Bowen Switzerland 13 EVD YES 15-01-2019
+19688 George Vasquez Switzerland 32 COVID-2019 YES 26-02-2010
+21466 Danielle Lindsey Switzerland 45 SARS-COV-2 YES 16-07-2009
+32618 Billy Austin Switzerland 40 MERS-COV YES 12-03-2005
+93431 David Johnson Switzerland 34 H1N1 YES 17-03-2011
+18521 Carol Black Switzerland 25 SARS-COV-2 YES 17-10-2015
+91696 Joe Jackson Switzerland 64 FLU-2018 YES 06-12-2016
+84359 Gregory Potts Switzerland 37 SARS-COV-2 YES 05-05-2013
+18769 Bobby Jones Switzerland 75 H1N1 YES 28-10-2016
+92815 Zachary Goodwin Switzerland 14 COVID-2019 YES 27-02-2017
+4690 Dwayne Davis Switzerland 39 FLU-2018 NO
+59144 Sabrina Guerrero Switzerland 68 MERS-COV YES 20-01-2017
+88339 Stephen Alexander Switzerland 29 EVD NO
+79855 Cynthia Higgins Switzerland 44 COVID-2019 NO
+87723 Roy Ross Switzerland 32 SARS-COV-2 NO
+68896 Dorothy Johnson Switzerland 42 SARS-COV-2 NO
+82109 Michael Holt Switzerland 26 FLU-2018 YES 04-07-2019
+14642 Jennifer Owens Switzerland 14 COVID-2019 YES 03-05-2013
+75590 Ricardo Stanley Switzerland 31 COVID-2019 YES 27-04-2000
+22284 Ashley Freeman Switzerland 17 SARS-1 NO
+45156 Garrett Barnes Switzerland 51 COVID-2019 YES 21-11-2008
+66924 Andrea Patton Switzerland 22 COVID-2019 NO
+49588 Tammy Gallagher Switzerland 41 SARS-1 NO
+74990 Michele Burns Switzerland 26 EVD NO
+88981 Theodore Gonzales Switzerland 29 MERS-COV YES 13-01-2009
+56807 Jamie Hill Switzerland 13 FLU-2018 NO
+67211 Melissa Mitchell Switzerland 21 SARS-1 YES 21-03-2002
+1022 Rodney Hatfield Switzerland 73 H1N1 YES 15-12-2007
+95169 Felicia Alexander Switzerland 62 EVD NO
+86336 Russell Rogers Switzerland 24 MERS-COV NO
+81117 Allison Scott Switzerland 10 SARS-1 YES 02-05-2006
+47565 Daniel Parsons Switzerland 38 EVD NO
+69867 Ryan Woods Switzerland 22 MERS-COV YES 19-02-2010
+42742 Amber Carrillo Switzerland 17 MERS-COV NO
+90313 Katherine Johns Switzerland 74 FLU-2018 NO
+12371 Bruce Harris Switzerland 37 SARS-1 NO
+79462 Jessica Castro Switzerland 52 MERS-COV NO
+83408 Xavier Jones Switzerland 23 SARS-1 YES 20-05-2002
+73693 Robert Silva Switzerland 27 MERS-COV NO
+36169 Rebecca Armstrong Switzerland 25 H1N1 NO
+75527 Stanley Williams Switzerland 61 FLU-2018 YES 26-03-2008
+80725 Shelby Taylor Switzerland 47 SARS-1 NO
+6099 Pamela Fox Switzerland 20 EVD YES 02-07-2016
+65202 Daniel Hayes Switzerland 19 EVD YES 13-04-2004
+3236 Taylor Burch Switzerland 20 SARS-COV-2 NO
+17572 Felicia Curry Switzerland 36 EVD YES 21-09-2005
+95394 Breanna Bullock Switzerland 54 MERS-COV NO
+37270 Brittany Cook Switzerland 34 MERS-COV NO
+7522 Christina Cox Switzerland 11 EVD YES 13-04-2018
+64419 David Taylor Switzerland 60 SARS-1 YES 21-03-2019
+59219 Chelsey Anderson Switzerland 60 SARS-1 YES 07-10-2010
+47896 Sherry Parker Switzerland 16 SARS-COV-2 YES 16-08-2001
+57904 Andrea Thomas Switzerland 12 SARS-1 NO
+94132 Dawn Clayton Switzerland 49 EVD NO
+71641 Lori Stevens Switzerland 18 MERS-COV YES 21-05-2002
+59452 Lisa Gonzalez Switzerland 14 EVD NO
+41547 Tyler Young Switzerland 35 SARS-COV-2 YES 09-10-2013
+65985 Mallory Miranda Switzerland 22 SARS-COV-2 NO
+82236 Jennifer Woods Switzerland 11 SARS-COV-2 NO
+33657 Roberta Dawson Switzerland 45 FLU-2018 YES 08-09-2018
+89875 Pedro Parks Switzerland 53 SARS-1 NO
+17513 Charles Turner Switzerland 51 MERS-COV YES 13-03-2014
+21025 Allison Coleman Switzerland 18 COVID-2019 NO
+51756 Lisa Howard Switzerland 37 SARS-COV-2 YES 13-04-2017
+8183 Ashley Edwards Switzerland 78 MERS-COV NO
+89498 Danny Newton Switzerland 37 EVD NO
+69834 Dana Mckinney Switzerland 12 SARS-1 YES 27-02-2017
+49936 Cody Wright Switzerland 48 COVID-2019 YES 26-07-2009
+78418 John Payne Switzerland 34 SARS-COV-2 NO
+86089 Erica Torres Switzerland 15 FLU-2018 YES 11-01-2004
+30840 John Calhoun Switzerland 75 H1N1 NO
+98476 Sally Brown Switzerland 11 H1N1 NO
+83915 Nina Wood Switzerland 67 FLU-2018 YES 01-11-2008
+55796 Mario Costa Switzerland 66 SARS-COV-2 NO
+35895 Brett Jones Switzerland 21 EVD NO
+96718 Joseph Evans Switzerland 55 MERS-COV YES 06-05-2018
+93563 Kelly Lee Switzerland 45 SARS-1 YES 19-12-2007
+50754 Edward Snyder Switzerland 26 COVID-2019 YES 09-12-2003
+85993 Candace Clark Switzerland 56 FLU-2018 YES 04-02-2018
+98109 Sarah Simpson Switzerland 69 MERS-COV YES 03-05-2005
+84431 Aaron Gentry Switzerland 44 H1N1 YES 17-06-2008
+15301 Gloria Scott Switzerland 60 COVID-2019 NO
+24879 Zachary Cole Switzerland 38 H1N1 YES 21-01-2021
+83336 Jacqueline Holder Switzerland 66 SARS-COV-2 YES 08-09-2011
+33600 Aaron Dixon Switzerland 25 COVID-2019 NO
+49239 Amber Johnson Switzerland 20 H1N1 NO
+99832 Diane Webster Switzerland 30 MERS-COV NO
+65884 Emily Washington Switzerland 61 MERS-COV YES 27-02-2013
+55455 Nicole Dudley Switzerland 37 COVID-2019 YES 29-04-2016
+83815 Scott Owens Switzerland 68 MERS-COV NO
+34452 Robert Smith Switzerland 29 SARS-COV-2 NO
+9411 April Nguyen Switzerland 67 SARS-COV-2 NO
+40906 Robert Johnston Switzerland 47 FLU-2018 NO
+6697 Michelle Adams Switzerland 58 FLU-2018 NO
+32455 Jessica Watts Switzerland 28 FLU-2018 YES 13-08-2013
+4591 Michael Anthony Switzerland 73 SARS-COV-2 YES 05-03-2005
+93007 William Reed Switzerland 59 COVID-2019 NO
+69327 Samuel Cortez Switzerland 34 COVID-2019 NO
+28998 Marissa Hoover Switzerland 43 EVD YES 24-08-2014
+88825 John King Switzerland 69 EVD YES 29-11-2019
+86671 Melissa Adams Switzerland 74 EVD NO
+75991 Stacy Frazier Switzerland 54 FLU-2018 YES 10-12-2002
+72061 Derrick Silva Switzerland 55 H1N1 YES 23-10-2014
+78942 Gabriella Rose Switzerland 18 SARS-1 YES 14-12-2013
+82048 Glenn Taylor Switzerland 70 MERS-COV NO
+57304 Chad White Switzerland 68 SARS-1 YES 24-02-2000
+65045 David Brown Switzerland 51 SARS-1 NO
+97304 Steven Johnson Switzerland 19 SARS-1 YES 08-07-2011
+75672 Lisa Pugh Switzerland 71 SARS-COV-2 YES 02-02-2016
+1868 Stephen Cole Switzerland 49 MERS-COV NO
+61529 Craig Wood Switzerland 63 SARS-COV-2 NO
+93904 Samantha Fernandez Switzerland 36 MERS-COV YES 10-03-2005
+66110 Jacqueline Mcgee Switzerland 12 EVD YES 07-03-2004
+53353 Lisa Miller Switzerland 10 FLU-2018 YES 08-03-2011
+94661 Angel Mitchell Switzerland 70 EVD NO
+66399 Erin Oneill Switzerland 68 SARS-1 YES 04-08-2017
+99662 Brian Smith Switzerland 26 FLU-2018 YES 06-05-2012
+74840 Russell Wright Switzerland 48 MERS-COV YES 06-02-2003
+91880 Stacy Mcdowell Switzerland 38 EVD YES 02-12-2015
+55223 Lindsey Johnson Switzerland 27 COVID-2019 NO
+25967 Zachary Waters Switzerland 27 MERS-COV NO
+95978 Jonathan Howard Switzerland 73 H1N1 NO
+79199 Christopher Short Switzerland 77 FLU-2018 YES 10-05-2006
+64659 Melissa Smith Switzerland 58 EVD NO
+69961 Michael Jennings Switzerland 69 MERS-COV YES 25-01-2004
+8371 Jeffrey Tran Switzerland 13 MERS-COV YES 08-06-2003
+5858 Jonathan Garner Switzerland 15 SARS-COV-2 NO
+48427 Victoria Rogers Switzerland 24 COVID-2019 YES 25-01-2010
+5198 Brandon Silva Switzerland 16 SARS-1 YES 01-02-2021
+9840 Danielle Johnson Switzerland 73 MERS-COV YES 20-11-2016
+96906 Diana Petty Switzerland 51 H1N1 NO
+88957 Tiffany Arnold Switzerland 53 COVID-2019 YES 28-11-2011
+81040 Patricia Sampson Switzerland 50 COVID-2019 YES 07-04-2015
+59267 Briana Cross Switzerland 18 FLU-2018 NO
+4194 Tommy Simpson Switzerland 51 H1N1 NO
+12914 Lance Velasquez Switzerland 51 EVD NO
+79946 Christine Jackson Switzerland 40 MERS-COV NO
+723 Aimee Cochran Switzerland 79 MERS-COV NO
+65774 Michael Day Switzerland 22 EVD YES 10-05-2008
+96972 Sandra Martin Switzerland 26 SARS-COV-2 NO
+69595 Kristen Clay Switzerland 76 SARS-1 NO
+25648 Joseph Hamilton Switzerland 38 EVD YES 09-12-2011
+65476 Diana Williams Switzerland 37 MERS-COV NO
+984 Shelly Kaufman Switzerland 60 COVID-2019 YES 20-02-2011
+26044 Sarah Wade Switzerland 65 SARS-COV-2 YES 16-12-2010
+29351 Rachel Thompson Switzerland 11 H1N1 YES 13-01-2006
+41719 Henry Harrison Switzerland 20 COVID-2019 YES 22-12-2010
+78004 Ashley Figueroa Switzerland 31 MERS-COV YES 08-04-2015
+68548 Joshua Mcdonald Switzerland 30 SARS-COV-2 NO
+13793 Christopher Brooks Switzerland 10 COVID-2019 NO
+57901 Russell Martinez Switzerland 25 COVID-2019 YES 20-10-2012
+49453 Connie Palmer Switzerland 25 H1N1 NO
+89277 Thomas Ball Switzerland 71 FLU-2018 NO
+35907 Natalie Roth Switzerland 76 SARS-1 NO
+16314 Misty Howell Switzerland 52 EVD NO
+49596 Gregory Gill Switzerland 45 EVD NO
+3420 Jeffrey Berry Switzerland 75 COVID-2019 NO
+57309 Lisa Summers Switzerland 52 EVD YES 09-11-2020
+34745 Brandon Golden Switzerland 23 SARS-1 NO
+60685 Renee Hill Switzerland 12 EVD NO
+53938 Natalie Barnes Switzerland 70 SARS-COV-2 YES 30-03-2007
+41545 Danielle Townsend Switzerland 77 H1N1 NO
+27083 Nicole Singleton Switzerland 21 SARS-COV-2 NO
+39104 Marcia Buchanan Switzerland 11 SARS-1 NO
+14851 Brandon Anderson Switzerland 11 H1N1 NO
+2550 Richard Baldwin Switzerland 16 COVID-2019 YES 13-01-2021
+30216 Adrienne Taylor Switzerland 78 EVD NO
+73427 Jason Wilson Switzerland 52 COVID-2019 YES 19-01-2018
+99732 Ricardo Haynes Switzerland 37 COVID-2019 NO
+2926 Karen Ford Switzerland 58 FLU-2018 YES 20-04-2000
+35755 Carla Frost Switzerland 28 SARS-COV-2 NO
+1333 Richard Barajas Switzerland 63 COVID-2019 NO
+91833 Chad Rodriguez Switzerland 30 MERS-COV NO
+33510 Jennifer Gonzalez Switzerland 49 SARS-1 YES 28-02-2019
+58450 Tracie Anderson Switzerland 53 SARS-COV-2 NO
+54815 Derek Lambert Switzerland 25 MERS-COV NO
+41249 Jeffrey Williams Switzerland 64 COVID-2019 NO
+59984 Gina Herman Switzerland 30 COVID-2019 NO
+36567 Danny Jenkins Switzerland 41 COVID-2019 YES 08-08-2006
+99439 Daniel Perry Switzerland 79 FLU-2018 YES 07-09-2016
+35069 Donald Gallagher Switzerland 48 MERS-COV YES 09-03-2014
+58203 Patrick Dodson Switzerland 50 MERS-COV NO
+70128 Victoria Miller Switzerland 34 SARS-COV-2 NO
+20407 Cody Jacobson Switzerland 24 MERS-COV NO
+738 Keith White Switzerland 69 FLU-2018 NO
+33453 Sandra Stewart Switzerland 73 EVD NO
+40400 Nicole Neal Switzerland 27 MERS-COV YES 03-08-2013
+47028 Kevin Kim Switzerland 43 MERS-COV YES 27-06-2015
+77631 Joshua Barton Switzerland 41 COVID-2019 YES 09-04-2006
+59420 Matthew Lee Switzerland 23 MERS-COV NO
+60229 Amanda Ortega Switzerland 13 EVD YES 20-06-2014
+72671 Charles Keith Switzerland 47 FLU-2018 NO
+23327 Shelley Moody Switzerland 28 MERS-COV NO
+61290 Mary Church Switzerland 21 SARS-1 NO
+99350 Alan Brown Switzerland 13 COVID-2019 NO
+34190 Michelle Martin Switzerland 24 H1N1 YES 09-12-2011
+18523 Julie Hawkins Switzerland 39 SARS-COV-2 YES 30-10-2017
+33547 Dominic Elliott Switzerland 46 H1N1 YES 17-11-2006
+69200 Kevin Chapman Switzerland 11 H1N1 NO
+91406 Tara Walker Switzerland 38 SARS-COV-2 YES 28-04-2010
+1210 Anthony Sanders Switzerland 40 EVD NO
+16424 James Norris Switzerland 24 MERS-COV NO
+29486 Barbara Richard Switzerland 45 FLU-2018 YES 18-10-2004
+61500 Benjamin Whitaker Switzerland 23 EVD NO
+47486 Brandy Smith Switzerland 66 FLU-2018 YES 04-12-2017
+68851 Luis Pierce Switzerland 74 SARS-1 NO
+78538 Cynthia Wood Switzerland 50 FLU-2018 NO
+23863 Kevin Wagner Switzerland 71 EVD NO
+66278 Ricky Hernandez Switzerland 29 EVD YES 03-12-2016
+47592 Brittany Douglas Switzerland 42 SARS-COV-2 YES 28-09-2009
+95760 Brett Velasquez Switzerland 69 COVID-2019 YES 22-11-2002
+23347 Oscar Johnson Switzerland 21 SARS-1 NO
+36080 Amy Christensen Switzerland 55 SARS-COV-2 YES 27-10-2016
+6936 Natasha Allen Switzerland 18 EVD NO
+30051 Robert Vasquez Switzerland 16 SARS-1 NO
+50963 Isaiah Henderson Switzerland 74 H1N1 NO
+221 Joshua Simmons Switzerland 28 SARS-COV-2 NO
+68389 Priscilla Lewis Switzerland 72 SARS-COV-2 YES 21-02-2017
+39372 Kevin Rollins Switzerland 73 H1N1 YES 09-11-2015
+92272 Philip Blair Switzerland 42 EVD YES 30-06-2020
+62344 Randall Stone Switzerland 38 SARS-1 NO
+38777 Robert Garcia Switzerland 13 FLU-2018 YES 19-02-2004
+94291 Jacob Harris Switzerland 53 SARS-1 NO
+3174 Kelly Wood Switzerland 45 SARS-COV-2 YES 14-05-2017
+66334 Holly Lane Switzerland 56 COVID-2019 YES 20-11-2011
+62200 Monica Francis Switzerland 16 COVID-2019 NO
+33221 Craig Wilson Switzerland 33 SARS-COV-2 YES 07-09-2017
+6741 Laura May Switzerland 59 FLU-2018 NO
+97161 Steven Medina Switzerland 73 EVD NO
+53633 James Meyer Switzerland 58 SARS-COV-2 YES 21-08-2014
+17600 Amy Anderson Switzerland 47 SARS-1 NO
+77656 Kelly Allen Switzerland 23 EVD NO
+61503 Aaron Reese Switzerland 64 H1N1 YES 11-11-2000
+98958 Vincent Oconnor Switzerland 38 SARS-COV-2 YES 06-01-2004
+15130 Rachel Cooper Switzerland 49 H1N1 NO
+66550 Sean Richard Switzerland 11 EVD NO
+37940 Zachary Lam Switzerland 33 H1N1 YES 21-06-2002
+52988 Daniel Walsh Switzerland 56 H1N1 NO
+15206 Juan Williams Switzerland 10 MERS-COV YES 11-08-2014
+12698 Matthew Brady Switzerland 64 SARS-COV-2 YES 14-10-2001
+39119 Donald Jackson Switzerland 46 COVID-2019 YES 18-03-2004
+58395 Jacob Graham Switzerland 70 COVID-2019 YES 01-05-2018
+12449 Isaac Robinson Switzerland 11 COVID-2019 YES 10-07-2004
+34908 Christopher Huff Switzerland 15 COVID-2019 YES 01-06-2019
+63859 Amanda Cook Switzerland 19 SARS-1 NO
+1565 Tyler Johnson Switzerland 26 MERS-COV NO
+29710 Susan Davis Switzerland 23 H1N1 YES 20-06-2008
+66750 Gabriel White Switzerland 42 FLU-2018 YES 10-12-2018
+13258 Eric Martin Switzerland 40 MERS-COV NO
+994 Gina Jenkins Switzerland 11 SARS-COV-2 NO
+23535 Michael Fuller Switzerland 56 SARS-1 NO
+92097 Rebecca White Switzerland 23 EVD YES 22-08-2020
+42871 John Simmons Switzerland 43 H1N1 NO
+85508 Kristi Williams Switzerland 56 MERS-COV YES 16-09-2003
+58158 Karina Shannon Switzerland 25 FLU-2018 YES 05-04-2007
+96737 Seth Malone Switzerland 61 FLU-2018 YES 25-10-2011
+89615 Patricia Johnson Switzerland 13 SARS-1 YES 12-07-2007
+83558 David Rose Switzerland 13 FLU-2018 NO
+3489 James Matthews Switzerland 14 SARS-COV-2 NO
+42407 Robert Hartman Switzerland 17 MERS-COV YES 22-07-2020
+37433 Rebecca Clarke Switzerland 60 COVID-2019 YES 10-04-2014
+67848 John Jones Switzerland 59 SARS-1 NO
+67087 Ashley Martin Switzerland 34 EVD YES 24-07-2000
+8347 Kristen Herrera Switzerland 56 MERS-COV YES 27-01-2011
+76881 Dwayne Wheeler Switzerland 21 H1N1 NO
+20235 Rebecca Johnson Switzerland 71 EVD YES 04-06-2000
+93713 Ryan Sosa Switzerland 41 SARS-1 YES 24-01-2016
+89669 Tiffany Carney Switzerland 48 SARS-COV-2 NO
+83442 Teresa Pitts Switzerland 64 SARS-1 NO
+70155 Alexander Noble Switzerland 29 EVD YES 05-11-2016
+84207 James Chavez Switzerland 25 EVD NO
+57186 Joshua Nguyen Switzerland 23 SARS-1 YES 04-08-2001
+8503 Jessica Singh Switzerland 28 MERS-COV NO
+4156 Jeffrey Ramirez Switzerland 71 COVID-2019 YES 27-04-2020
+86787 John Fuentes Switzerland 29 MERS-COV NO
+82894 Melanie Howard Switzerland 56 FLU-2018 YES 11-09-2010
+71671 Jerry Smith Switzerland 25 SARS-COV-2 NO
+95655 Danielle Collins Switzerland 34 MERS-COV YES 19-05-2001
+49838 Kathy Perry Switzerland 28 H1N1 NO
+24096 Kevin Medina Switzerland 16 MERS-COV YES 24-04-2003
+48503 Darren Shaw Switzerland 29 H1N1 YES 24-06-2014
+89055 Michaela Alvarez Switzerland 34 SARS-COV-2 YES 14-09-2005
+40521 Christy Rodriguez Switzerland 25 EVD NO
+14798 Sheri Peterson Switzerland 44 EVD NO
+56022 Justin Scott Switzerland 52 SARS-COV-2 NO
+22089 Kelly Taylor Switzerland 67 EVD YES 16-11-2013
+84626 Jason Smith Switzerland 27 FLU-2018 YES 04-05-2012
+31983 Joseph Martinez Switzerland 76 SARS-COV-2 NO
+12192 Mary Gillespie Switzerland 65 COVID-2019 NO
+47441 Jessica Anderson Switzerland 72 FLU-2018 NO
+96795 Nicholas Harper Switzerland 34 EVD NO
+18920 Kenneth Sosa Switzerland 19 FLU-2018 NO
+10379 James Calderon Switzerland 66 COVID-2019 YES 05-03-2011
+77662 Melissa Smith Switzerland 63 SARS-1 YES 13-09-2015
+38944 Sergio Scott Switzerland 62 COVID-2019 YES 21-04-2010
+91081 Stephanie Hernandez Switzerland 63 SARS-COV-2 YES 07-09-2007
+62595 Loretta Williams Switzerland 57 EVD NO
+86934 Brittany Jackson Switzerland 73 COVID-2019 NO
+41107 Melissa Krause Switzerland 49 MERS-COV YES 17-08-2007
+39897 Jonathan Roberts Switzerland 10 MERS-COV NO
+81339 Tyler Young Switzerland 26 COVID-2019 NO
+89512 Gail Price Switzerland 24 SARS-COV-2 NO
+61790 Fernando Downs Switzerland 42 SARS-COV-2 NO
+67837 Douglas Clay Switzerland 60 MERS-COV NO
+27947 Richard Tyler Switzerland 13 COVID-2019 NO
+68410 Christopher Sims Switzerland 24 COVID-2019 YES 04-08-2018
+82855 Chelsea Fry Switzerland 75 MERS-COV YES 04-10-2007
+49300 Denise Hill Switzerland 39 H1N1 NO
+23257 Elizabeth Parker Switzerland 72 FLU-2018 NO
+96801 Jacqueline Price Switzerland 57 EVD NO
+57936 Stacy Camacho Switzerland 31 SARS-1 NO
+94084 Anthony Webster Switzerland 79 COVID-2019 NO
+19586 Richard Jones Switzerland 67 MERS-COV NO
+93716 Jessica Johnson Switzerland 30 COVID-2019 NO
+77825 Robert Williams Switzerland 68 COVID-2019 YES 15-06-2018
+64112 Patrick Andrews Switzerland 33 SARS-COV-2 YES 09-07-2013
+24772 Jaclyn Melendez Switzerland 61 FLU-2018 YES 06-06-2004
+24979 Michelle Short Switzerland 77 COVID-2019 YES 13-04-2010
+34179 Eric Smith Switzerland 15 COVID-2019 NO
+93210 Antonio Clark Switzerland 25 H1N1 YES 04-12-2008
+14615 Michael Hancock Switzerland 67 EVD YES 05-08-2005
+10419 Frances White Switzerland 29 SARS-1 YES 25-10-2005
+54378 Bradley Rivera Switzerland 69 FLU-2018 NO
+36355 Scott Johnston Switzerland 30 FLU-2018 YES 05-05-2011
+43817 Robert Garrett Switzerland 52 COVID-2019 YES 18-08-2008
+68429 Marcus Flowers Switzerland 42 H1N1 YES 19-11-2004
+5245 Daniel Hawkins Switzerland 32 MERS-COV NO
+76058 Jay Jackson Switzerland 70 MERS-COV NO
+60694 Paul Williams Switzerland 61 SARS-COV-2 NO
+245 Stephanie Patrick Switzerland 53 SARS-1 YES 27-07-2018
+35451 Valerie Thomas Switzerland 79 H1N1 NO
+65832 Steven Scott Switzerland 33 EVD NO
+25499 Caitlin Cox Switzerland 31 MERS-COV NO
+55245 Daniel Allen Switzerland 36 FLU-2018 YES 27-08-2008
+12472 Benjamin Rogers Switzerland 75 FLU-2018 YES 18-03-2014
+26814 Christopher Parker Switzerland 60 MERS-COV YES 06-04-2017
+70679 Heather Walsh Switzerland 58 H1N1 NO
+13329 Kyle Ware Switzerland 79 SARS-COV-2 YES 18-08-2020
+47600 Michael Hall Switzerland 77 EVD YES 24-03-2018
+27419 Sheila Price Switzerland 50 SARS-1 YES 26-01-2007
+92775 Charles Clark Switzerland 22 FLU-2018 NO
+21082 Jennifer Williams Switzerland 78 EVD YES 07-01-2010
+35586 Mathew Rodriguez Switzerland 16 FLU-2018 YES 21-08-2009
+9263 Lisa Terry Switzerland 52 SARS-1 YES 23-06-2012
+79119 Philip Ortiz Switzerland 76 SARS-1 NO
+52001 Christopher Singleton Switzerland 71 SARS-COV-2 YES 09-11-2010
+40284 Mary Howard Switzerland 67 FLU-2018 NO
+57795 Veronica Underwood Switzerland 48 MERS-COV NO
+55739 Felicia Chung Switzerland 45 MERS-COV YES 04-04-2006
+9337 Charles Johnson Switzerland 70 MERS-COV NO
+39069 Michael Thompson Switzerland 35 H1N1 YES 13-05-2016
+59430 Brett Bishop Switzerland 55 H1N1 NO
+85990 Gabrielle Hubbard Switzerland 29 FLU-2018 NO
+11503 Christine Holland Switzerland 75 SARS-COV-2 NO
+19587 Willie Francis Switzerland 14 FLU-2018 YES 14-10-2006
+70527 Krista Evans Switzerland 76 COVID-2019 NO
+96451 Steven Melton Switzerland 16 COVID-2019 NO
+35828 Alexander Washington Switzerland 77 COVID-2019 NO
+24698 Tracy Stafford Switzerland 44 FLU-2018 NO
+63289 Natasha Wilson Switzerland 32 COVID-2019 NO
+84706 Taylor Johnson Switzerland 12 SARS-COV-2 YES 06-09-2007
+1549 Willie Gallagher Switzerland 13 FLU-2018 YES 07-06-2007
+75241 Kenneth Dyer Switzerland 16 MERS-COV NO
+38591 John Cameron Switzerland 71 H1N1 YES 20-01-2001
+92105 Krista Gordon Switzerland 62 H1N1 NO
+59498 Amanda Tucker Switzerland 50 MERS-COV YES 09-10-2014
+69287 Sarah Smith Switzerland 34 MERS-COV NO
+35860 Elizabeth Cordova Switzerland 76 MERS-COV YES 10-07-2008
+9080 Heather Mcdaniel Switzerland 74 FLU-2018 NO
+62159 Emily Rios Switzerland 56 H1N1 NO
+8420 Richard Richmond Switzerland 36 EVD NO
+56806 Amanda Chandler Switzerland 25 FLU-2018 YES 19-02-2005
+8828 Gary Gates Switzerland 15 H1N1 YES 03-10-2016
+29864 Bailey Proctor Switzerland 45 H1N1 YES 15-04-2019
+82539 Gina Estrada Switzerland 29 H1N1 YES 24-12-2000
+49338 Cameron Gregory Switzerland 67 H1N1 YES 10-06-2003
+60313 Kylie Flores Switzerland 58 EVD YES 16-11-2014
+48524 Luke Farrell Switzerland 38 EVD NO
+83272 Ronald Harper Switzerland 60 COVID-2019 YES 21-09-2012
+20632 Dean Townsend Switzerland 76 SARS-1 NO
+62756 Teresa Ortega Switzerland 49 EVD NO
+53912 Loretta Robinson Switzerland 52 SARS-1 YES 19-08-2019
+28674 Michelle Gonzales Switzerland 28 SARS-1 NO
+83801 Patricia Rogers Switzerland 38 SARS-COV-2 YES 24-06-2008
+19424 Jason Zuniga Switzerland 78 COVID-2019 YES 23-05-2018
+61517 Emily Johnson Switzerland 17 SARS-1 NO
+69694 Tony Cox Switzerland 75 COVID-2019 YES 11-01-2000
+19450 Noah Ferrell Switzerland 78 COVID-2019 NO
+12978 Amanda Thompson Switzerland 42 H1N1 YES 02-04-2001
+46884 Mark Lin Switzerland 65 COVID-2019 YES 30-10-2018
+56376 Patrick Farley Switzerland 24 H1N1 NO
+82627 Kathy Pollard Switzerland 51 SARS-COV-2 NO
+42646 Joshua Crawford Switzerland 47 MERS-COV NO
+42986 Rodney Ramirez Switzerland 62 SARS-1 NO
+73283 Lisa Diaz Switzerland 66 SARS-COV-2 YES 06-09-2008
+4704 Douglas Young Switzerland 71 SARS-1 NO
+81912 Ricky Randall Switzerland 51 MERS-COV YES 16-09-2016
+99190 Justin Young Switzerland 29 H1N1 NO
+65451 Frank Allen Switzerland 65 MERS-COV YES 16-02-2013
+55489 Joann Long Switzerland 51 FLU-2018 NO
+28237 Monica Barton Switzerland 71 COVID-2019 YES 25-06-2003
+84060 Nicholas Rodriguez Switzerland 52 EVD NO
+72219 Melvin Bell Switzerland 17 MERS-COV NO
+28417 Keith Cole Switzerland 34 FLU-2018 NO
+96774 Lisa Jenkins Switzerland 20 FLU-2018 YES 14-05-2014
+28932 Kayla Herrera Switzerland 65 FLU-2018 NO
+60715 Whitney Barr Switzerland 63 MERS-COV NO
+61419 Kenneth Anderson Switzerland 50 SARS-1 YES 30-03-2010
+71067 Erik Baker Switzerland 15 EVD NO
+75191 Miranda Barnes Switzerland 74 H1N1 YES 19-05-2016
+38351 Keith Lawrence Switzerland 25 SARS-COV-2 NO
+48717 Andrea Schroeder Switzerland 28 EVD NO
+12634 Hannah Gonzalez Switzerland 27 MERS-COV NO
+78243 Steven Fernandez Switzerland 53 FLU-2018 YES 16-12-2008
+71767 Connie Williams Switzerland 55 FLU-2018 NO
+57026 Steven Munoz Switzerland 44 FLU-2018 YES 23-02-2018
+1463 Stephanie Jimenez Switzerland 44 FLU-2018 YES 29-05-2012
+358 Hannah Sullivan Switzerland 30 MERS-COV YES 26-03-2020
+51772 Patrick Brown Switzerland 19 COVID-2019 NO
+50731 Christopher Barnes Switzerland 59 SARS-1 YES 18-03-2013
+48227 Kimberly Ortega Switzerland 19 COVID-2019 YES 27-09-2001
+60202 Clinton Hicks Switzerland 60 EVD NO
+62099 Glen Mcclure Switzerland 50 SARS-1 YES 06-05-2012
+12753 Deborah Alexander Switzerland 29 SARS-1 YES 18-01-2008
+65751 Marie Gay Switzerland 48 H1N1 NO
+46595 Karen Park Switzerland 69 H1N1 YES 04-02-2015
+60048 Loretta Martin Switzerland 71 EVD YES 04-09-2014
+51845 Earl Huff Switzerland 79 COVID-2019 NO
+33420 Christine Fitzpatrick Switzerland 50 FLU-2018 YES 13-12-2008
+91940 Tammy Garcia Switzerland 68 MERS-COV NO
+88795 Monica Shaw Switzerland 62 SARS-COV-2 YES 31-12-2001
+61640 Thomas Zuniga Switzerland 44 FLU-2018 NO
+5513 Katie Byrd Switzerland 15 SARS-COV-2 NO
+11157 Samantha Palmer Switzerland 28 SARS-COV-2 NO
+890 Victor Munoz Switzerland 62 SARS-1 YES 26-04-2015
+17634 Michael Henderson Switzerland 54 EVD NO
+49093 Phillip Austin Switzerland 15 SARS-1 NO
+45676 Valerie Morales Switzerland 15 MERS-COV YES 11-10-2002
+75411 Margaret Santana Switzerland 50 SARS-1 YES 11-02-2000
+27567 Marcus Fischer Switzerland 77 FLU-2018 YES 16-03-2015
+7019 Brenda White Switzerland 10 EVD NO
+29153 Olivia Morrow Switzerland 40 SARS-COV-2 NO
+81955 Pamela Bryant Switzerland 53 H1N1 YES 09-08-2020
+34627 Jason Lawson Switzerland 23 EVD YES 30-07-2001
+2845 Victoria Jackson Switzerland 26 H1N1 NO
+5935 Kelly Sheppard Switzerland 34 SARS-COV-2 YES 02-10-2011
+27737 Pamela Johnson Switzerland 49 EVD YES 16-10-2012
+93933 Anna Huang Switzerland 75 MERS-COV YES 06-08-2011
+71357 Matthew Robertson Switzerland 14 H1N1 NO
+99694 Melissa Frey Switzerland 56 H1N1 NO
+16574 Jared Johnson Switzerland 18 EVD NO
+98443 Mark Fields Switzerland 69 SARS-1 NO
+60219 Thomas Daniels Switzerland 43 SARS-1 YES 06-03-2002
+98590 Meagan Hill Switzerland 55 SARS-COV-2 NO
+96277 Denise Lozano Switzerland 70 MERS-COV YES 12-06-2018
+41322 Douglas Warner Switzerland 49 H1N1 NO
+91781 Christopher Hernandez Switzerland 31 EVD NO
+36390 Alicia Brady Switzerland 19 SARS-1 YES 15-10-2018
+37832 David Mendez Switzerland 39 EVD NO
+5746 Anthony Valenzuela Switzerland 13 FLU-2018 YES 09-02-2020
+93124 Joshua Wilkerson Switzerland 25 SARS-COV-2 YES 14-11-2019
+6261 Rose Oneill Switzerland 51 SARS-1 YES 18-12-2000
+75906 Clinton Watson Switzerland 33 H1N1 NO
+62074 David Reed Switzerland 61 COVID-2019 YES 08-07-2010
+33242 Steven Rodriguez Switzerland 49 COVID-2019 YES 10-04-2014
+75784 Melissa Cook Switzerland 43 FLU-2018 NO
+16374 Sherry Smith Switzerland 22 H1N1 YES 06-04-2013
+8349 Jordan Palmer Switzerland 31 SARS-1 NO
+76747 Bruce Rodriguez Switzerland 36 MERS-COV YES 21-08-2012
+93211 Stacey Smith Switzerland 36 FLU-2018 NO
+17214 Karen Cruz Switzerland 22 FLU-2018 NO
+27399 Daniel Scott Switzerland 71 MERS-COV YES 21-12-2010
+52142 Jesus Ortiz Switzerland 20 FLU-2018 NO
+40969 Eric Diaz Switzerland 48 EVD YES 20-09-2012
+84614 Ryan Jenkins Switzerland 21 COVID-2019 YES 04-03-2003
+81585 Tara Dawson Switzerland 74 FLU-2018 YES 12-01-2015
+800 Lauren Wilson Switzerland 18 MERS-COV NO
+18828 Sharon Lopez Switzerland 26 FLU-2018 YES 31-01-2011
+75466 Sheri Morris Switzerland 38 FLU-2018 NO
+15110 Daniel Gutierrez Switzerland 18 SARS-COV-2 YES 19-10-2004
+26524 Victoria Romero Switzerland 17 FLU-2018 NO
+70767 Melissa Moran Switzerland 26 SARS-1 YES 28-04-2011
+62890 Ronald Holden Switzerland 62 MERS-COV YES 19-05-2007
+44685 Kenneth Reynolds Switzerland 19 EVD NO
+15080 Chelsea Russell Switzerland 20 EVD NO
+91011 Thomas Giles Switzerland 52 SARS-COV-2 NO
+95549 Justin Miller Switzerland 79 H1N1 YES 01-04-2001
+82736 Robin Freeman Switzerland 56 H1N1 YES 29-04-2020
+22119 Andre Taylor Switzerland 20 H1N1 YES 24-11-2019
+71807 Bethany Noble Switzerland 51 EVD NO
+77132 Laura Richard Switzerland 46 SARS-COV-2 YES 04-08-2003
+81523 Lawrence Galvan Switzerland 60 COVID-2019 YES 11-08-2006
+70132 Nicole Gonzalez Switzerland 16 FLU-2018 NO
+22739 Amber Cummings Switzerland 64 MERS-COV YES 12-01-2008
+28688 Joseph Bradley Switzerland 57 COVID-2019 YES 19-10-2016
+32009 Rebecca Henderson Switzerland 10 FLU-2018 YES 08-11-2017
+57092 Tricia Ramos Switzerland 15 H1N1 NO
+23564 Hunter Nichols Switzerland 41 COVID-2019 NO
+41702 Timothy Anderson Switzerland 19 FLU-2018 NO
+4024 Kimberly Jones Switzerland 41 COVID-2019 YES 15-05-2005
+65274 Jessica Rocha Switzerland 28 EVD NO
+70661 Chad White Switzerland 58 MERS-COV YES 25-10-2011
+66866 Nicole Casey Switzerland 75 EVD YES 24-08-2015
+44637 Whitney Nunez Switzerland 32 SARS-COV-2 NO
+6354 Lisa Allison Switzerland 24 EVD NO
+68538 Amy Ramos Switzerland 11 EVD NO
+56097 Kevin Young Switzerland 64 MERS-COV YES 04-06-2010
+37383 Douglas Daniel Switzerland 45 SARS-1 NO
+16057 Benjamin Griffith Switzerland 73 COVID-2019 NO
+3283 Patricia Richmond Switzerland 32 COVID-2019 NO
+85844 Paul Sullivan Switzerland 40 FLU-2018 NO
+7643 April Thomas Switzerland 65 SARS-1 YES 27-07-2016
+38689 Oscar Anthony Switzerland 35 FLU-2018 NO
+82595 Elizabeth Martinez Switzerland 35 EVD NO
+61729 Melissa Gutierrez Switzerland 70 FLU-2018 YES 17-05-2005
+14545 Leslie Stone Switzerland 41 SARS-1 NO
+7487 Patricia Willis Switzerland 43 MERS-COV NO
+47778 Christina Greer Switzerland 34 EVD YES 03-05-2000
+49994 Sabrina Swanson Switzerland 11 EVD YES 06-12-2005
+64309 Peter Baker Switzerland 57 SARS-1 YES 18-07-2014
+94461 Jack Ramirez Switzerland 16 COVID-2019 NO
+67772 Robert Taylor Switzerland 34 FLU-2018 NO
+40222 Patricia Wilson Switzerland 43 SARS-COV-2 NO
+54882 Nicole Dean Switzerland 28 SARS-1 YES 11-08-2006
+76001 Rachel Ramsey Switzerland 52 EVD YES 23-10-2020
+35412 Debra Cuevas Switzerland 71 FLU-2018 YES 13-03-2000
+52978 Lauren Garcia Switzerland 46 MERS-COV NO
+79635 Alice Brown Switzerland 36 EVD YES 21-05-2011
+76432 David Houston Switzerland 78 SARS-COV-2 YES 17-11-2000
+57751 Scott Taylor Switzerland 64 EVD YES 19-01-2010
+30606 Jennifer Rodriguez Switzerland 38 H1N1 YES 23-08-2004
+83980 John Fernandez Switzerland 27 EVD NO
+9929 Alexander Jackson Switzerland 69 FLU-2018 YES 02-12-2016
+4344 Randy Martinez Switzerland 18 SARS-COV-2 YES 24-10-2007
+11056 Michelle Taylor Switzerland 76 COVID-2019 YES 18-04-2007
+74276 Steve Patton Switzerland 77 SARS-COV-2 YES 28-10-2015
+69659 Jeremy Snow Switzerland 29 SARS-COV-2 NO
+6416 Patrick Jones Switzerland 15 COVID-2019 NO
+98469 Mark Gomez Switzerland 12 EVD YES 16-07-2016
+45568 David Moore Switzerland 68 FLU-2018 YES 14-11-2004
+94242 Matthew Davies Switzerland 11 H1N1 NO
+61303 Spencer Jackson Switzerland 70 H1N1 NO
+65553 Sharon Ferrell Switzerland 23 EVD YES 13-07-2017
+6946 Dustin Price Switzerland 13 H1N1 NO
+47613 Lisa Khan Switzerland 30 COVID-2019 YES 27-06-2014
+77741 Cheyenne Reed Switzerland 32 COVID-2019 NO
+16466 Deanna Johnson Switzerland 53 SARS-COV-2 NO
+48776 James Wilkins Switzerland 63 EVD YES 09-02-2015
+60672 Erik Garcia Switzerland 21 MERS-COV YES 24-08-2006
+16519 Donna Parker Switzerland 56 SARS-1 YES 03-01-2021
+76303 Catherine Lewis Switzerland 79 FLU-2018 YES 01-04-2006
+37028 Garrett Collins Switzerland 19 MERS-COV NO
+9453 Jenna Hurley Switzerland 47 SARS-1 YES 29-05-2020
+81990 Shelby Cain Switzerland 58 EVD NO
+20914 Antonio Johnson Switzerland 10 COVID-2019 YES 25-01-2003
+14569 Teresa Brown Switzerland 68 SARS-COV-2 NO
+76938 Tara Huang Switzerland 12 COVID-2019 NO
+83435 Jordan Mclaughlin Switzerland 63 FLU-2018 YES 09-11-2005
+10237 Heather Martin Switzerland 19 COVID-2019 YES 23-08-2008
+31392 Alex Walker Switzerland 39 MERS-COV YES 17-03-2007
+43721 Ashley Santos Switzerland 51 FLU-2018 YES 29-12-2008
+18323 Kimberly Gordon Switzerland 30 MERS-COV NO
+86923 Miguel Joyce Switzerland 12 H1N1 NO
+84818 Larry Cohen Switzerland 34 SARS-1 NO
+25199 Frank Coleman Switzerland 63 SARS-1 YES 12-11-2003
+56324 Debra Crosby Switzerland 38 EVD YES 05-04-2008
+56431 Steven Davis Switzerland 79 SARS-1 YES 30-07-2002
+92325 Vanessa Hughes Switzerland 26 H1N1 YES 22-10-2010
+5681 Ronald Williams Switzerland 47 FLU-2018 NO
+44467 Daniel White Switzerland 22 H1N1 YES 06-08-2011
+29211 Scott Christian Switzerland 12 SARS-1 NO
+96735 Marie Ali Switzerland 29 FLU-2018 YES 14-11-2002
+13059 Brianna Russell Switzerland 57 FLU-2018 YES 23-04-2017
+52866 Tina Smith Switzerland 53 COVID-2019 NO
+15773 Francis Peterson Switzerland 40 MERS-COV YES 01-11-2016
+45525 Rebecca Rodriguez Switzerland 50 EVD YES 22-09-2001
+48286 Daniel Ritter Switzerland 32 FLU-2018 YES 26-05-2019
+23785 Lisa Jones Switzerland 76 EVD YES 01-12-2003
+14475 Mary Williams Switzerland 30 EVD NO
+93283 David Larson Switzerland 16 COVID-2019 NO
+2563 Arthur Adams Switzerland 14 SARS-COV-2 NO
+78030 Kristi Mcdaniel Switzerland 27 COVID-2019 NO
+36509 Tyler King Switzerland 13 FLU-2018 YES 04-02-2000
+1733 Carl Diaz Switzerland 14 H1N1 YES 06-01-2011
+33030 Edwin Cortez Switzerland 11 H1N1 NO
+98201 Robert Hall Switzerland 26 COVID-2019 NO
+57944 John Thompson Switzerland 29 SARS-1 YES 02-10-2014
+35361 Julie Molina Switzerland 24 FLU-2018 NO
+17144 Jason Sanchez Switzerland 54 SARS-1 NO
+43678 William Mitchell Switzerland 77 SARS-COV-2 NO
+21348 Thomas Bell Switzerland 60 SARS-1 NO
+65833 Gabriel Lopez Switzerland 36 MERS-COV YES 11-12-2011
+59660 Alexander Clark Switzerland 61 SARS-COV-2 YES 28-01-2002
+70512 Heidi Austin Switzerland 31 COVID-2019 YES 25-03-2014
+26390 Gregory Rubio Switzerland 60 SARS-1 YES 11-11-2019
+69822 Samantha Rios Switzerland 66 COVID-2019 NO
+55103 James Thompson Switzerland 75 H1N1 YES 21-02-2000
+66489 Randy Thomas Switzerland 74 MERS-COV YES 13-08-2001
+26932 David Huynh Switzerland 22 MERS-COV YES 10-02-2000
+13221 Adrienne Nelson Switzerland 43 H1N1 NO
+51925 David Jordan Switzerland 33 MERS-COV YES 03-03-2020
+20482 Thomas Steele Switzerland 79 H1N1 YES 26-12-2014
+95625 Kristin Jefferson Switzerland 58 H1N1 NO
+28314 Christine Nelson Switzerland 74 H1N1 YES 21-07-2016
+40898 Kathleen Lopez Switzerland 18 MERS-COV YES 17-02-2000
+68454 Michelle Levine Switzerland 63 MERS-COV NO
+86412 Thomas Zimmerman Switzerland 37 MERS-COV NO
+64468 Teresa Hawkins Switzerland 11 FLU-2018 NO
+10840 Angel Suarez Switzerland 25 EVD NO
+37914 John Santana Switzerland 65 H1N1 YES 28-04-2008
+7484 Rachael Hodge Switzerland 47 H1N1 YES 23-02-2019
+99339 Joseph Morales Switzerland 58 SARS-COV-2 NO
+80099 Tina Allen Switzerland 38 EVD YES 29-05-2016
+14985 Susan Sweeney Switzerland 43 FLU-2018 NO
+7087 Barbara Brown Switzerland 39 EVD YES 27-11-2014
+12025 Jeffery Lopez Switzerland 70 SARS-COV-2 NO
+60578 Amanda Hughes Switzerland 54 SARS-COV-2 NO
+93031 Jeffrey Li Switzerland 35 EVD YES 26-06-2006
+36269 Alexandra Bradley Switzerland 24 MERS-COV YES 27-12-2019
+20067 Stephanie Cox Switzerland 48 MERS-COV NO
+32933 Craig Jackson Switzerland 65 MERS-COV YES 04-05-2009
+51066 Aaron Powell Switzerland 15 MERS-COV NO
+16173 Randy Griffin Switzerland 35 FLU-2018 YES 05-11-2007
+2883 Ryan Gonzalez Switzerland 66 SARS-1 YES 07-03-2016
+32922 Benjamin Powers Switzerland 76 MERS-COV NO
+93137 Tammy Martinez Switzerland 73 SARS-1 NO
+81217 Kristie Carlson Switzerland 37 FLU-2018 YES 30-11-2017
+83240 Kimberly Rogers Switzerland 57 SARS-COV-2 YES 13-06-2009
+35880 Adam Johnson Switzerland 59 SARS-1 YES 25-12-2015
+4691 Stacey Jenkins Switzerland 48 H1N1 YES 05-11-2003
+66351 Johnathan Henderson Switzerland 25 MERS-COV NO
+34180 Dillon Thompson Switzerland 34 MERS-COV YES 31-12-2007
+11035 Mary Blair Switzerland 26 SARS-COV-2 YES 22-04-2017
+13811 Jamie Powell Switzerland 72 EVD NO
+7329 Samantha Villegas Switzerland 35 H1N1 NO
+2141 Karina Montoya Switzerland 74 H1N1 YES 02-04-2013
+1930 Michael Vega Switzerland 38 FLU-2018 NO
+33348 Thomas Ortega Switzerland 24 SARS-COV-2 NO
+32857 Angela Dawson Switzerland 13 EVD YES 26-01-2019
+24467 Nancy Boyd Switzerland 55 SARS-COV-2 YES 11-03-2010
+88585 Amanda Vega Switzerland 10 MERS-COV YES 30-03-2018
+36475 Joe Lee Switzerland 75 H1N1 NO
+39608 Stacy Gomez Switzerland 72 COVID-2019 YES 30-12-2020
+45991 Justin Callahan Switzerland 49 SARS-1 YES 26-03-2004
+40263 Jennifer Walker Switzerland 41 EVD NO
+7007 Yvette Wallace Switzerland 13 FLU-2018 YES 18-05-2014
+62885 Andrew Williams Switzerland 30 SARS-1 NO
+67407 Douglas Harris Switzerland 55 SARS-COV-2 NO
+2937 Michael Sloan Switzerland 16 MERS-COV NO
+43596 Stephanie Simmons Switzerland 51 FLU-2018 NO
+31236 Karen Trujillo Switzerland 57 EVD NO
+31397 Dana Liu Switzerland 41 H1N1 YES 09-09-2007
+11751 Jessica Santos Switzerland 12 COVID-2019 YES 28-09-2007
+4360 Benjamin Evans Switzerland 66 EVD YES 15-06-2009
+35092 Christine Bass Switzerland 11 COVID-2019 YES 12-05-2008
+34726 Chad Wood Switzerland 10 SARS-COV-2 YES 21-06-2016
+13363 Tyler Jefferson Switzerland 39 MERS-COV YES 12-07-2007
+83748 Angela Doyle Switzerland 60 EVD YES 14-09-2002
+89033 Teresa Anderson Switzerland 69 SARS-COV-2 NO
+63849 David Parks Switzerland 65 COVID-2019 YES 31-08-2004
+38875 Joseph Oliver Switzerland 52 MERS-COV NO
+67137 Sandy Hill Switzerland 30 EVD NO
+21408 Julie Young Switzerland 60 COVID-2019 YES 09-05-2020
+91862 Rachel Patrick Switzerland 65 SARS-1 YES 07-08-2003
+86401 Destiny Galvan Switzerland 37 FLU-2018 YES 19-10-2011
+36389 Alexander Robinson Switzerland 40 H1N1 YES 26-12-2019
+83406 Tami Moore Switzerland 69 FLU-2018 NO
+59281 Claire Atkins Switzerland 10 SARS-COV-2 NO
+19581 Bryan Stone Switzerland 39 H1N1 NO
+85225 Kristine Williams Switzerland 72 MERS-COV NO
+35117 Amy Harmon Switzerland 24 EVD NO
+33180 Sean Young Switzerland 35 FLU-2018 NO
+97537 Brandy Freeman Switzerland 68 SARS-1 YES 24-11-2008
+15727 Danielle Taylor Switzerland 58 H1N1 YES 20-06-2006
+19741 Curtis Martinez Switzerland 12 SARS-1 YES 13-10-2015
+13330 Stacy Cannon Switzerland 28 SARS-1 NO
+32541 Tamara Abbott Switzerland 32 EVD NO
+92892 Robert Wilson Switzerland 69 H1N1 NO
+50582 John Kramer Switzerland 27 H1N1 NO
+77666 Joe Kennedy Switzerland 50 EVD YES 21-09-2010
+65587 Julie Owens Switzerland 33 EVD YES 07-09-2011
+74472 Alyssa Vega Switzerland 21 FLU-2018 YES 26-12-2006
+41573 Bailey Ford Switzerland 16 FLU-2018 YES 24-02-2001
+65838 Rodney Thompson Switzerland 19 FLU-2018 NO
+59258 Maria Andersen Switzerland 13 COVID-2019 YES 11-09-2012
+58086 Jeremy Hill Switzerland 31 SARS-COV-2 NO
+73118 Mary Green Switzerland 37 SARS-1 YES 04-05-2014
+86800 Judith Thompson Switzerland 42 COVID-2019 NO
+78587 Michael Weiss Switzerland 26 MERS-COV YES 20-11-2017
+23861 Christina Dickson Switzerland 64 SARS-1 NO
+81771 Angela Lowe Switzerland 13 SARS-1 YES 14-09-2019
+81584 Samuel Moss Switzerland 11 EVD NO
+1995 Bradley Riley Switzerland 44 EVD YES 18-07-2000
+66129 Pamela Hill Switzerland 25 SARS-1 YES 14-07-2008
+50087 Reginald Gibson Switzerland 62 SARS-1 NO
+84040 Stephen Medina Switzerland 26 SARS-1 YES 05-09-2019
+2570 Susan Romero Switzerland 43 SARS-COV-2 NO
+49353 Angela Perry Switzerland 12 H1N1 NO
+87233 Lori Palmer Switzerland 34 EVD YES 09-01-2001
+81958 Kevin Hill Switzerland 14 SARS-COV-2 NO
+95017 Michael Brown Switzerland 55 SARS-COV-2 NO
+76149 Gina Cortez Switzerland 25 MERS-COV NO
+95397 Emily Owens Switzerland 17 SARS-1 YES 26-11-2002
+70136 Christopher Daniels Switzerland 35 COVID-2019 NO
+83413 Kristopher Mcdonald Switzerland 34 MERS-COV NO
+6640 Kelly Atkins Switzerland 11 COVID-2019 YES 23-10-2003
+55242 Sabrina Mills Switzerland 14 SARS-COV-2 NO
+50790 Joseph Marsh Switzerland 13 SARS-1 NO
+28543 Ryan Jones Switzerland 58 EVD NO
+71537 Jeffrey Nguyen Switzerland 57 EVD YES 06-09-2006
+49107 Christina Sullivan Switzerland 60 FLU-2018 YES 20-10-2005
+59112 Brandi Jones Switzerland 54 COVID-2019 NO
+73838 Whitney Hunter Switzerland 76 COVID-2019 YES 12-02-2009
+61196 Misty Tucker Switzerland 68 COVID-2019 YES 25-01-2004
+9009 Sara Sheppard Switzerland 36 H1N1 YES 10-03-2016
+65186 Edward Griffin Switzerland 48 COVID-2019 YES 02-08-2020
+33499 Jennifer Garner Switzerland 71 MERS-COV YES 01-02-2007
+89392 Joseph Hardin Switzerland 75 SARS-COV-2 YES 30-08-2005
+10777 Christina Evans Switzerland 54 MERS-COV YES 04-04-2005
+35929 Christopher Lewis Switzerland 11 SARS-1 YES 11-08-2003
+42283 William Green Switzerland 60 H1N1 NO
+93244 Emily Li Switzerland 24 COVID-2019 YES 09-09-2015
+72602 Kelly Davis Switzerland 61 EVD YES 16-01-2019
+13770 Christopher Fernandez Switzerland 18 H1N1 YES 13-03-2002
+64168 Brian Williams Switzerland 38 H1N1 YES 01-07-2020
+38825 Christine Perez Switzerland 75 H1N1 NO
+63911 Sarah Parker Switzerland 54 EVD YES 02-01-2014
+39953 Matthew Ross Switzerland 10 SARS-COV-2 NO
+44858 Arthur Franklin Switzerland 43 FLU-2018 NO
+88983 Alex Stanley Switzerland 72 EVD YES 29-11-2013
+74562 Lori Simmons Switzerland 75 SARS-1 YES 13-07-2010
+14073 Jennifer Sullivan Switzerland 60 FLU-2018 YES 25-09-2018
+90959 Matthew Chapman Switzerland 55 SARS-1 NO
+15557 Kevin Clements Switzerland 69 SARS-COV-2 YES 29-05-2010
+1187 Brandi Schroeder Switzerland 58 FLU-2018 NO
+30021 Christopher Gonzalez Switzerland 38 FLU-2018 NO
+56467 Javier Joseph Switzerland 23 COVID-2019 NO
+69670 Hayley Scott Switzerland 73 SARS-1 NO
+39343 Robin Schmitt Switzerland 40 EVD YES 10-05-2004
+3759 Heather Fitzgerald Switzerland 50 COVID-2019 YES 21-04-2010
+45624 Tracy Castaneda Switzerland 57 FLU-2018 YES 14-11-2011
+42613 Diane Jones Switzerland 20 SARS-1 NO
+426 Susan Huff Switzerland 70 H1N1 NO
+84688 Cody Parsons Switzerland 74 MERS-COV NO
+62609 Elaine Ross Switzerland 68 FLU-2018 YES 12-12-2011
+90923 Courtney Murphy Switzerland 21 MERS-COV NO
+24025 Brenda Baker Switzerland 57 SARS-1 YES 11-06-2003
+98586 Jenna Hamilton Switzerland 19 H1N1 NO
+91726 Vanessa Thomas Switzerland 45 SARS-COV-2 YES 02-11-2007
+46330 Eileen Kelly Switzerland 76 SARS-1 NO
+67524 Jennifer Hensley Switzerland 74 SARS-1 NO
+87756 Jacob Nicholson Switzerland 75 FLU-2018 YES 31-12-2013
+11546 Jennifer Smith Switzerland 25 COVID-2019 NO
+37021 Joseph Leblanc Switzerland 75 EVD NO
+78033 Michaela Hernandez Switzerland 69 EVD YES 08-06-2008
+31777 Sara Nichols Switzerland 66 FLU-2018 NO
+70759 Adriana Gibson Switzerland 32 H1N1 NO
+19381 Rebecca Rose Switzerland 15 EVD YES 24-09-2001
+76451 Angela Silva Switzerland 58 H1N1 YES 13-06-2011
+5076 Brittany Sherman Switzerland 79 MERS-COV NO
+31178 Samantha Perry Switzerland 75 SARS-COV-2 NO
+97125 Edward Woods Switzerland 23 MERS-COV YES 04-06-2010
+68893 Randall Pitts Switzerland 75 FLU-2018 NO
+83263 Juan Smith Switzerland 16 H1N1 NO
+23250 Robert Pena Switzerland 65 SARS-COV-2 NO
+33292 Emily Robbins Switzerland 76 MERS-COV YES 13-11-2001
+26926 Tanya Washington Switzerland 31 MERS-COV NO
+61921 Tyler Jenkins Switzerland 51 COVID-2019 YES 07-04-2012
+10667 Annette Edwards Switzerland 57 H1N1 NO
+80906 Jason Ray Switzerland 73 MERS-COV YES 25-10-2007
+7905 Fernando Erickson Switzerland 40 SARS-1 YES 13-01-2013
+95527 Peter Salinas Switzerland 45 COVID-2019 YES 10-11-2013
+95238 Timothy Rosario Switzerland 78 H1N1 NO
+54303 William Harrell Switzerland 11 H1N1 NO
+10196 Linda Morgan Switzerland 53 SARS-1 NO
+33908 Daniel Brooks Switzerland 47 FLU-2018 YES 18-11-2013
+68619 Gregory Shepherd Switzerland 19 FLU-2018 YES 27-12-2013
+79014 Linda Estes Switzerland 51 FLU-2018 YES 14-04-2008
+28859 Jennifer Dixon Switzerland 20 SARS-COV-2 YES 06-12-2018
+97671 Jasmine Olson Switzerland 40 MERS-COV NO
+12970 Jamie Hardy Switzerland 35 EVD YES 29-03-2007
+27039 Anthony Smith Switzerland 32 SARS-1 NO
+35927 Kelsey Pitts Switzerland 53 MERS-COV NO
+45934 Kenneth Sherman Switzerland 48 SARS-COV-2 NO
+18933 Sarah Zhang Switzerland 50 MERS-COV NO
+91297 Sherri Huerta Switzerland 48 FLU-2018 YES 08-10-2012
+10103 Meagan Jennings Switzerland 51 SARS-COV-2 NO
+98524 Sarah Nguyen Switzerland 24 H1N1 YES 24-03-2019
+46198 Mark Griffin Switzerland 48 SARS-1 NO
+8991 Lori Wiggins Switzerland 54 H1N1 NO
+18162 Taylor Burton Switzerland 36 FLU-2018 NO
+82851 Stephanie Lambert Switzerland 10 H1N1 NO
+18840 John Collins Switzerland 39 SARS-COV-2 YES 30-09-2020
+25669 Faith Nichols Switzerland 10 FLU-2018 YES 04-09-2009
+46443 Joseph Gardner Switzerland 12 EVD NO
+24637 Michelle Gillespie Switzerland 49 EVD NO
+13993 Mindy Wilcox Switzerland 74 SARS-1 YES 07-08-2002
+70342 Lindsey Rojas Switzerland 70 EVD YES 10-08-2014
+32925 Jose Herrera Switzerland 72 EVD YES 09-10-2016
+72409 Nicholas Marsh Switzerland 29 SARS-COV-2 YES 01-01-2011
+35179 Levi Baker Switzerland 74 COVID-2019 YES 18-01-2015
+93201 Matthew Walton Switzerland 15 EVD YES 11-11-2005
+7718 Michelle Mercado Switzerland 23 SARS-1 NO
+89628 Joe Davidson Switzerland 55 H1N1 NO
+72725 Gina Brown Switzerland 14 SARS-1 NO
+16102 Robert Francis Switzerland 76 SARS-COV-2 NO
+21619 Christine Olson Switzerland 18 SARS-COV-2 YES 07-06-2012
+93743 Teresa Oliver Switzerland 60 H1N1 YES 28-07-2018
+7751 Patrick Reilly Switzerland 32 H1N1 NO
+48302 Barry Oneill Switzerland 22 COVID-2019 NO
+19131 David Jones Switzerland 12 FLU-2018 YES 14-03-2012
+67423 Wendy Brown Switzerland 16 H1N1 NO
+30543 Chloe Cox Switzerland 13 EVD YES 14-07-2009
+51150 Donald Rubio Switzerland 70 H1N1 YES 06-07-2013
+59626 Julie Owens Switzerland 78 MERS-COV YES 18-10-2013
+16059 Elizabeth Hernandez Switzerland 20 MERS-COV YES 25-10-2014
+36177 Erin Benson Switzerland 75 MERS-COV YES 21-07-2005
+32803 Bryan Patton Switzerland 54 MERS-COV YES 01-02-2004
+58610 Tammy Young Switzerland 18 COVID-2019 NO
+29409 Paul Dean Switzerland 36 SARS-1 YES 26-03-2013
+76929 Kaitlyn Garcia Switzerland 40 MERS-COV YES 21-12-2008
+11554 Taylor Webb Switzerland 22 EVD NO
+34272 Karen Arnold Switzerland 47 COVID-2019 YES 02-07-2015
+89716 Anthony Johnson Switzerland 75 H1N1 YES 16-01-2005
+29798 Benjamin Lopez Switzerland 27 H1N1 NO
+79127 Ashley Kim Switzerland 27 COVID-2019 NO
+21295 Robert Lewis Switzerland 65 FLU-2018 NO
+66469 Luis Marshall Switzerland 60 SARS-1 YES 15-07-2012
+19294 Brenda Rogers Switzerland 41 MERS-COV NO
+46058 Molly Salazar Switzerland 79 H1N1 NO
+43818 Jacob Young Switzerland 40 COVID-2019 YES 20-05-2004
+90704 Caleb Tucker Switzerland 37 MERS-COV NO
+12674 Bill Walls Switzerland 58 H1N1 NO
+27492 Timothy Guzman Switzerland 26 SARS-1 YES 09-07-2003
+77145 Douglas Barton Switzerland 26 COVID-2019 NO
+70746 Zachary Lane Switzerland 35 H1N1 YES 13-09-2005
+62227 James Ewing Switzerland 54 EVD NO
+90961 Amanda Petty Switzerland 63 SARS-COV-2 NO
+12247 Laura Williams Switzerland 44 H1N1 NO
+73223 Dustin Thompson Switzerland 10 H1N1 YES 10-12-2008
+22359 Carly Allison Switzerland 37 H1N1 NO
+99947 Suzanne Moore Switzerland 66 H1N1 NO
+78958 Edward Sanchez Switzerland 39 SARS-COV-2 NO
+95674 Robin Santiago Switzerland 73 COVID-2019 NO
+93525 Tammy Lopez Switzerland 68 SARS-COV-2 YES 28-03-2003
+36796 Robert Moran Switzerland 58 SARS-1 NO
+48662 Heather Peterson Switzerland 54 SARS-COV-2 YES 01-11-2004
+51409 Samantha Miller Switzerland 20 MERS-COV YES 02-03-2016
+22017 Danny Schneider Switzerland 74 MERS-COV NO
+28913 Joseph Conley Switzerland 59 H1N1 YES 19-03-2007
+97300 Tamara Mcdonald Switzerland 72 COVID-2019 NO
+52648 Amanda Howard Switzerland 12 EVD YES 14-06-2010
+66937 Benjamin Nelson Switzerland 18 MERS-COV YES 29-01-2011
+28214 Nathan Herrera Switzerland 52 SARS-1 NO
+44698 Benjamin Anderson Switzerland 61 MERS-COV NO
+35971 Patricia Collins Switzerland 40 FLU-2018 NO
+8827 Brian Herrera Switzerland 78 COVID-2019 YES 15-08-2003
+28946 Charles Garcia Switzerland 73 EVD YES 20-08-2006
+82699 Sharon Dominguez Switzerland 58 FLU-2018 YES 30-09-2001
+6692 Johnny Alvarado Switzerland 31 FLU-2018 YES 24-04-2000
+77706 Lauren Morales Switzerland 71 H1N1 YES 10-04-2017
+60739 Robert Lopez Switzerland 18 H1N1 YES 31-10-2017
+22711 Brandon Duran Switzerland 54 FLU-2018 YES 12-11-2018
+4472 Judy Lopez Switzerland 42 EVD YES 18-09-2005
+96516 Amanda Neal Switzerland 36 H1N1 YES 18-04-2019
+61639 Mark Riley Switzerland 43 FLU-2018 NO
+40651 Kyle Rogers Switzerland 62 MERS-COV YES 25-04-2013
+59437 Katie Johnson Switzerland 49 COVID-2019 YES 03-07-2014
+75277 Kenneth Atkinson Switzerland 32 COVID-2019 NO
+6517 Patrick Jackson Switzerland 51 SARS-1 NO
+90002 Marcus Dawson Switzerland 12 COVID-2019 NO
+80894 Sarah Clayton Switzerland 41 MERS-COV YES 29-12-2017
+80422 Bridget Lawrence Switzerland 67 H1N1 NO
+42781 Paul Rodriguez Switzerland 16 SARS-COV-2 YES 27-07-2016
+22122 Lindsey Johnson Switzerland 39 EVD NO
+74912 Isaac Fox Switzerland 10 EVD NO
+43380 Stephen Ayers Switzerland 28 H1N1 NO
+69345 Lauren Smith Switzerland 62 SARS-1 YES 30-11-2006
+49429 Cathy Serrano Switzerland 68 MERS-COV YES 17-04-2015
+49733 Kelly Doyle Switzerland 56 H1N1 YES 05-02-2001
+31954 Ashley Lindsey Switzerland 48 H1N1 YES 20-07-2009
+1015 Joseph Gomez Switzerland 64 FLU-2018 YES 28-02-2018
+98679 Elizabeth Jackson Switzerland 41 SARS-COV-2 YES 05-11-2007
+1448 Matthew Barron Switzerland 74 MERS-COV YES 28-07-2020
+35090 Stephen Yu Switzerland 30 FLU-2018 YES 29-10-2010
+79188 Katrina Singleton Switzerland 79 EVD YES 23-06-2002
+56799 Ellen Soto Switzerland 35 H1N1 YES 10-02-2015
+28649 Sierra Smith Switzerland 13 EVD YES 13-09-2000
+42891 Jennifer Wise Switzerland 48 FLU-2018 NO
+37893 Jason Rocha Switzerland 19 EVD NO
+30220 Nichole Cole Switzerland 10 EVD YES 20-09-2009
+55173 Jean Floyd Switzerland 38 SARS-COV-2 YES 17-12-2002
+74057 John Nguyen Switzerland 32 SARS-1 YES 26-06-2009
+82681 Scott Johnson Switzerland 44 SARS-1 YES 27-11-2012
+15030 Allison Williams Switzerland 10 FLU-2018 YES 18-01-2015
+74274 Samuel Henry Switzerland 70 EVD NO
+11953 Troy Johnson Switzerland 19 EVD NO
+97585 Emma Pacheco Switzerland 15 MERS-COV NO
+65366 Wendy Walker Switzerland 68 FLU-2018 NO
+70017 Donna Garcia Switzerland 64 EVD NO
+44817 Jeffery Steele Switzerland 41 SARS-1 YES 28-12-2014
+24764 Johnny Zimmerman Switzerland 15 COVID-2019 NO
+10952 Joseph Benjamin Switzerland 36 H1N1 YES 14-01-2020
+77945 Jennifer Young Switzerland 37 SARS-COV-2 YES 06-01-2003
+76422 Sharon Perez Switzerland 19 SARS-COV-2 YES 14-12-2018
+58534 Matthew Martinez Switzerland 39 SARS-1 YES 08-02-2017
+16826 Harold Green Switzerland 43 EVD YES 06-04-2019
+41110 Gina Williams Switzerland 45 MERS-COV YES 27-03-2006
+27058 Robert Scott Switzerland 74 COVID-2019 NO
+84105 Justin Snyder Switzerland 22 COVID-2019 YES 27-09-2019
+40185 Daniel Soto Switzerland 13 SARS-COV-2 NO
+73289 Nancy Knight Switzerland 11 SARS-COV-2 YES 18-09-2010
+2376 Kirsten Sandoval Switzerland 62 H1N1 YES 16-05-2001
+74647 Melinda Burke Switzerland 68 H1N1 NO
+33086 Debra Evans Switzerland 28 EVD NO
+62741 Richard Johnston Switzerland 70 FLU-2018 YES 26-01-2000
+46601 Andrea Peters Switzerland 51 SARS-1 YES 13-08-2020
+26485 Nicholas Arellano Switzerland 27 FLU-2018 YES 01-07-2010
+67119 Eric Baker Switzerland 21 SARS-1 YES 30-12-2010
+30073 Leah Riley Switzerland 25 FLU-2018 YES 29-11-2010
+92916 John Dawson Switzerland 62 SARS-1 NO
+2148 Sarah King Switzerland 15 H1N1 YES 26-02-2008
+72209 Cynthia Smith Switzerland 61 SARS-COV-2 NO
+51784 Laura White Switzerland 70 MERS-COV NO
+88262 Rebekah Williams Switzerland 12 FLU-2018 NO
+53724 Kiara Smith Switzerland 65 SARS-COV-2 YES 15-07-2011
+46245 Richard Duran Switzerland 22 FLU-2018 YES 22-10-2018
+97637 Brooke Lyons Switzerland 17 FLU-2018 YES 09-01-2016
+99788 Donna Flynn Switzerland 48 FLU-2018 NO
+1129 Daniel White Switzerland 61 SARS-COV-2 NO
+51073 Mark Meadows Switzerland 34 COVID-2019 YES 05-12-2004
+88541 Sandra Cruz Switzerland 61 SARS-COV-2 YES 24-08-2011
+7189 Steven Acosta Switzerland 71 SARS-1 NO
+20440 Lynn Atkinson Switzerland 75 COVID-2019 NO
+55643 Sarah Adams Switzerland 33 EVD YES 17-06-2020
+70649 Kyle Walters Switzerland 67 H1N1 YES 03-08-2003
+67166 Madison Watkins Switzerland 45 COVID-2019 YES 12-12-2016
+3664 Regina Smith Switzerland 24 EVD NO
+26931 Angel Smith Switzerland 58 H1N1 YES 08-11-2001
+13295 Alexander Bradley Switzerland 49 SARS-1 NO
+37140 Katherine Cook Switzerland 73 FLU-2018 NO
+92367 Vickie Mcgee Switzerland 41 SARS-COV-2 YES 05-04-2018
+54748 Kenneth Mckenzie Switzerland 58 EVD YES 23-12-2016
+29826 Laura Davis Switzerland 76 SARS-COV-2 NO
+55727 Robert Jones Switzerland 20 SARS-1 YES 02-08-2008
+30469 Lance Ramirez Switzerland 34 SARS-1 YES 26-06-2000
+13255 Eric Morton Switzerland 49 SARS-1 NO
+84457 Kelly Hall Switzerland 42 EVD YES 27-05-2013
+97261 Thomas Thompson Switzerland 77 SARS-COV-2 NO
+65088 Jason Torres Switzerland 24 SARS-COV-2 NO
+74023 Robert Reed Switzerland 21 H1N1 NO
+9084 Ronnie Jackson Switzerland 32 SARS-1 YES 14-09-2013
+44108 Melissa Sanders Switzerland 64 SARS-1 NO
+53179 Michael Lewis Switzerland 15 COVID-2019 NO
+58643 Morgan Anderson Switzerland 23 SARS-1 NO
+36882 Judith Jensen Switzerland 49 SARS-COV-2 NO
+28415 Daniel Gonzalez Switzerland 69 FLU-2018 NO
+76672 Joshua Gibson Switzerland 55 SARS-COV-2 NO
+16197 Gina Vasquez Switzerland 71 COVID-2019 NO
+37970 Lisa Cooper Switzerland 62 SARS-1 YES 02-10-2017
+670 Mary Franklin Switzerland 64 SARS-COV-2 YES 09-01-2013
+83002 Nathan Jones Switzerland 31 SARS-1 NO
+42412 Meghan Richard Switzerland 59 COVID-2019 YES 03-04-2011
+49128 Danielle Miller Switzerland 54 FLU-2018 YES 12-05-2006
+9000 Gloria Thompson Switzerland 48 SARS-1 NO
+22366 Anne Garrison Switzerland 55 COVID-2019 YES 23-01-2018
+16923 Tiffany Hunter Switzerland 16 COVID-2019 YES 22-07-2011
+10085 Jaime Chan Switzerland 61 EVD NO
+11183 Alyssa Gordon Switzerland 30 MERS-COV NO
+43793 Robert Banks Switzerland 37 FLU-2018 NO
+48685 Michael Mejia Switzerland 75 H1N1 YES 15-07-2020
+32318 Derek Richardson Switzerland 32 EVD NO
+8303 Edward Melton Switzerland 21 FLU-2018 YES 19-05-2003
+73731 Anthony Rosario Switzerland 73 MERS-COV NO
+16850 Samuel Davis Switzerland 28 FLU-2018 YES 18-11-2016
+95557 Caitlin Rodriguez Switzerland 63 SARS-COV-2 NO
+86373 Molly Williams Switzerland 56 MERS-COV YES 12-06-2012
+89833 Rachel Horn Switzerland 22 SARS-1 NO
+22783 Samuel King Switzerland 66 SARS-1 NO
+42558 Anthony Richardson Switzerland 68 SARS-1 YES 04-07-2015
+23922 Makayla Kelly Switzerland 77 H1N1 YES 29-10-2017
+27637 Vickie Cole Switzerland 17 FLU-2018 NO
+9144 Timothy Crawford Switzerland 16 EVD YES 26-09-2006
+76703 Samantha Wade Switzerland 27 MERS-COV YES 28-03-2011
+91000 Jared Schmidt Switzerland 50 MERS-COV NO
+4289 Alicia Ewing Switzerland 72 H1N1 NO
+55957 Kevin Cook Switzerland 17 SARS-COV-2 YES 20-02-2010
+23320 Steven Cardenas Switzerland 78 SARS-COV-2 YES 01-12-2005
+5061 Jamie Ortiz Switzerland 71 MERS-COV NO
+24134 David Perez Switzerland 40 EVD NO
+99574 Martha Rodriguez Switzerland 48 H1N1 NO
+19515 Robert Walton Switzerland 22 H1N1 NO
+50162 Gregory Walters Switzerland 30 SARS-1 YES 03-03-2013
+70722 Diane Jones Switzerland 47 EVD YES 13-02-2012
+94936 Sherri Anthony Switzerland 28 FLU-2018 YES 22-05-2013
+1067 William Acosta Switzerland 37 EVD NO
+87337 Jennifer Meza Switzerland 79 FLU-2018 YES 02-10-2001
+76321 Thomas Gibbs Switzerland 26 SARS-1 YES 11-12-2012
+41497 Darren Marshall Switzerland 52 MERS-COV NO
+81416 Daniel Christensen Switzerland 51 FLU-2018 NO
+46836 Samuel Ramirez Switzerland 17 EVD YES 09-06-2020
+24470 Carolyn Hunt Switzerland 32 EVD NO
+25571 Joel West Switzerland 71 FLU-2018 YES 26-12-2019
+11652 Kyle Boyd Switzerland 66 EVD NO
+32346 Daniel Houston Switzerland 29 COVID-2019 NO
+49668 Kimberly Olsen Switzerland 77 H1N1 YES 27-11-2017
+6115 Nicole Schmidt Switzerland 18 SARS-COV-2 YES 22-10-2001
+52239 Amanda Gonzalez Switzerland 39 MERS-COV YES 31-08-2019
+23679 Melissa Chase Switzerland 74 H1N1 NO
+80034 Diane Harris Switzerland 11 H1N1 NO
+16978 Daniel Wells Switzerland 33 MERS-COV NO
+30103 Justin Lynn Switzerland 21 SARS-COV-2 YES 10-07-2016
+53201 Deborah Smith Switzerland 36 SARS-COV-2 YES 09-09-2007
+38144 Scott Franklin Switzerland 41 FLU-2018 YES 27-10-2016
+7516 Nicole Williams Switzerland 76 SARS-1 YES 24-07-2007
+62842 Lindsay Mccarty Switzerland 67 MERS-COV YES 21-08-2008
+92128 Michelle Perry Switzerland 64 FLU-2018 NO
+22333 Felicia Thompson Switzerland 77 FLU-2018 YES 01-10-2019
+81662 Michelle Chan Switzerland 69 EVD YES 19-02-2006
+43244 Brianna Morris Switzerland 18 MERS-COV NO
+76694 Rachel Mendez Switzerland 62 EVD NO
+96610 Renee Mcgee Switzerland 67 SARS-1 NO
+44277 Shawn Hall Switzerland 68 SARS-COV-2 YES 08-02-2013
+57720 Connor Medina Switzerland 61 FLU-2018 NO
+80350 Angelica Aguilar Switzerland 34 H1N1 NO
+34636 Emily Robbins Switzerland 70 MERS-COV NO
+33653 Morgan Gonzalez Switzerland 56 FLU-2018 NO
+23224 Oscar Jackson Switzerland 71 COVID-2019 NO
+51943 Andrew Cobb Switzerland 66 EVD YES 05-10-2002
+51216 Roger Baker Switzerland 35 SARS-1 NO
+8688 Dana Klein Switzerland 27 SARS-1 YES 22-05-2005
+92759 Mary Holloway Switzerland 68 H1N1 YES 18-06-2012
+63434 John Russell Switzerland 50 MERS-COV NO
+10308 Jason Bennett Switzerland 25 MERS-COV NO
+9158 Kenneth Hernandez Switzerland 35 H1N1 YES 08-02-2002
+85711 Madison Neal Switzerland 54 FLU-2018 NO
+25827 Dylan Roberts Switzerland 57 SARS-1 YES 10-11-2018
+10068 Lucas Griffin Switzerland 39 COVID-2019 YES 03-02-2010
+42734 Marco Bender Switzerland 49 COVID-2019 YES 15-03-2018
+59966 Wendy Martinez Switzerland 22 EVD NO
+75896 Ronald Garcia Switzerland 75 MERS-COV YES 08-06-2020
+38829 Rachel Yoder Switzerland 37 COVID-2019 NO
+90125 Tonya Moore Switzerland 19 SARS-COV-2 YES 13-06-2015
+5102 Sarah Montgomery Switzerland 48 FLU-2018 YES 30-07-2012
+11491 Michael Johnson Switzerland 22 COVID-2019 YES 25-10-2019
+14266 Michelle Richard Switzerland 70 SARS-1 NO
+65326 Heather Garcia Switzerland 12 COVID-2019 YES 22-11-2009
+24415 Lauren Evans Switzerland 55 SARS-COV-2 NO
+60253 Anthony Cook Switzerland 55 MERS-COV NO
+54846 Jessica Brown Switzerland 25 EVD YES 03-04-2011
+77886 John King Switzerland 77 SARS-1 YES 30-06-2006
+98246 Angelica Davis Switzerland 60 COVID-2019 NO
+70482 Carol Garcia Switzerland 69 EVD YES 24-11-2014
+80504 Robert Schmidt Switzerland 37 EVD NO
+14729 Sheryl Williamson Switzerland 21 COVID-2019 YES 03-11-2012
+96970 Pamela Preston Switzerland 69 MERS-COV NO
+36019 Michelle Smith Switzerland 62 EVD YES 17-08-2002
+84384 Todd Jensen Switzerland 57 FLU-2018 NO
+26505 Todd Diaz Switzerland 68 H1N1 NO
+33612 Shawn Brown Switzerland 23 MERS-COV NO
+91677 Jose Ayers Switzerland 56 H1N1 YES 30-01-2006
+64491 Johnny Christensen Switzerland 26 MERS-COV YES 09-04-2011
+97751 Kristin Romero Switzerland 60 FLU-2018 YES 04-03-2018
+54626 Crystal Reynolds Switzerland 42 SARS-1 NO
+36447 Desiree Coleman Switzerland 35 SARS-COV-2 YES 07-09-2005
+23185 Dana White Switzerland 62 MERS-COV NO
+89880 Mackenzie Hansen Switzerland 69 SARS-COV-2 NO
+78727 Andrea Thomas Switzerland 13 EVD YES 21-10-2006
+98634 Mathew Fernandez Switzerland 44 SARS-1 NO
+97682 Lauren Reynolds Switzerland 18 EVD NO
+57538 Lisa Fleming Switzerland 36 SARS-1 NO
+40528 Todd Ellis Switzerland 45 SARS-COV-2 NO
+13556 Benjamin Bowers Switzerland 12 SARS-COV-2 NO
+19226 Ronald Harris Switzerland 37 H1N1 YES 05-03-2002
+70877 Robert Strickland Switzerland 27 H1N1 NO
+46257 Jeffrey Watkins Switzerland 43 EVD NO
+16254 Amber Sanders Switzerland 15 MERS-COV YES 28-09-2015
+14180 Gina Allen Switzerland 59 MERS-COV NO
+37743 Matthew Campbell Switzerland 52 SARS-1 YES 12-10-2009
+95306 David Scott Switzerland 26 H1N1 YES 29-03-2004
+70795 Steven Ortega Switzerland 66 FLU-2018 YES 02-02-2015
+79434 Matthew Gaines Switzerland 45 SARS-1 YES 11-12-2007
+12997 Bridget Robinson Switzerland 34 MERS-COV YES 14-12-2010
+34087 Kimberly Smith Switzerland 43 SARS-COV-2 NO
+7115 Renee Kelly Switzerland 69 SARS-1 NO
+92397 Zachary King Switzerland 49 SARS-1 YES 16-03-2010
+97245 Brooke Greene Switzerland 48 EVD YES 05-07-2019
+96204 Erin Rodriguez Switzerland 23 SARS-1 NO
+12134 James Watkins Switzerland 61 MERS-COV YES 12-02-2009
+90319 Nicole Miller Switzerland 48 SARS-1 NO
+67643 Peggy Reeves Switzerland 46 MERS-COV YES 15-12-2016
+48000 Christine Pratt Switzerland 45 FLU-2018 NO
+99871 Kimberly Schwartz Switzerland 70 FLU-2018 NO
+10721 Derrick Johnson Switzerland 36 MERS-COV YES 23-09-2002
+39144 Maxwell Long Switzerland 57 H1N1 YES 29-04-2016
+6426 Mary Jones Switzerland 77 SARS-COV-2 NO
+33897 Clinton Johnson Switzerland 61 FLU-2018 NO
+4496 Jenny Anderson Switzerland 27 SARS-COV-2 NO
+92196 Stephen Gilbert Switzerland 41 H1N1 NO
+18160 Francisco Williams Switzerland 39 SARS-COV-2 NO
+30316 Kyle Watson Switzerland 56 SARS-1 YES 01-03-2012
+51278 Jason Brown Switzerland 61 MERS-COV YES 06-09-2003
+41657 Karen Jackson Switzerland 70 H1N1 YES 09-10-2015
+49330 Amy Thompson Switzerland 72 SARS-1 YES 17-01-2017
+23251 Jerry Kelly Switzerland 49 SARS-COV-2 YES 25-01-2000
+91830 Adam Smith Switzerland 55 MERS-COV YES 09-06-2017
+46270 Ronald Kelley Switzerland 21 MERS-COV NO
+75230 Jeffrey Lewis Switzerland 51 COVID-2019 NO
+77223 Carol James Switzerland 22 H1N1 NO
+50678 Lisa Burton Switzerland 62 H1N1 YES 08-12-2015
+31354 Lauren Jackson Switzerland 20 SARS-COV-2 YES 02-11-2002
+41901 Matthew Mora Switzerland 63 SARS-COV-2 NO
+61643 Megan Murphy Switzerland 15 FLU-2018 NO
+55947 Adam Rios Switzerland 46 SARS-COV-2 YES 16-06-2018
+96311 Gregory Jones Switzerland 49 COVID-2019 NO
+53047 Michelle Hunt Switzerland 36 EVD NO
+91840 Luis Jenkins Switzerland 55 MERS-COV YES 05-06-2004
+2303 Brian Gibson Switzerland 44 EVD YES 06-06-2016
+42276 Jason Roberson Switzerland 61 EVD NO
+15865 Louis Gordon Switzerland 48 FLU-2018 YES 13-04-2003
+53801 Gary Willis Switzerland 12 SARS-1 YES 15-02-2003
+62242 Michael Brown Switzerland 74 MERS-COV NO
+64080 Nicholas Meza Switzerland 33 COVID-2019 NO
+45837 Emily Dickson Switzerland 55 MERS-COV NO
+18364 Brady Rios Switzerland 71 H1N1 YES 01-11-2003
+92805 Annette Black Switzerland 61 COVID-2019 YES 30-01-2018
+25079 Michael Vega Switzerland 62 COVID-2019 NO
+78966 Austin Jones Switzerland 28 COVID-2019 YES 20-10-2018
+42174 Carlos Harvey Switzerland 35 EVD NO
+43266 Erik Daniels Switzerland 49 EVD YES 17-02-2004
+60710 Paul Villa Switzerland 37 FLU-2018 YES 15-05-2015
+73718 David Burch Switzerland 40 COVID-2019 NO
+17555 Hannah Smith Switzerland 30 SARS-COV-2 NO
+57693 Ronald Williams Switzerland 78 MERS-COV NO
+23298 Kurt Jones Switzerland 46 FLU-2018 NO
+68621 Jenny Brown Switzerland 67 SARS-COV-2 YES 02-01-2014
+89958 Gabrielle Roberts Switzerland 18 COVID-2019 YES 31-03-2016
+14961 Nicole Cain Switzerland 43 EVD YES 13-02-2014
+63399 Christopher Buckley Switzerland 51 SARS-1 YES 23-02-2002
+16392 Corey Gray Switzerland 38 MERS-COV YES 25-01-2006
+39380 Danielle French Switzerland 59 FLU-2018 NO
+61268 Christopher Bowman Switzerland 30 COVID-2019 NO
+87853 Jason Hall Switzerland 69 EVD NO
+58636 Christy Hill Switzerland 39 SARS-COV-2 NO
+30132 Margaret Thompson Switzerland 13 MERS-COV YES 23-02-2006
+1491 Teresa Kelley Switzerland 47 H1N1 YES 12-07-2007
+74439 Johnathan Barrett Switzerland 71 SARS-COV-2 YES 12-05-2000
+27297 Karina Wright Switzerland 56 COVID-2019 YES 28-12-2011
+75954 Melissa Adams Switzerland 23 SARS-COV-2 NO
+30097 Aaron Diaz Switzerland 53 EVD NO
+53891 Jose Fuller Switzerland 23 H1N1 NO
+27359 Connie Wong Switzerland 62 MERS-COV YES 25-08-2008
+31004 Paul Reynolds Switzerland 56 MERS-COV YES 15-12-2004
+81407 Elizabeth Chen Switzerland 78 MERS-COV YES 18-12-2005
+57682 Nathan Maxwell Switzerland 64 SARS-1 YES 19-12-2015
+87006 Robert Gates Switzerland 43 EVD NO
+70704 Ashley Dillon Switzerland 60 EVD NO
+13728 Sarah Jacobson Switzerland 35 H1N1 NO
+98930 Karen Randall Switzerland 22 MERS-COV NO
+23689 Amanda Curtis Switzerland 45 SARS-COV-2 YES 29-01-2006
+49357 Christine Webster Switzerland 60 H1N1 NO
+73064 Samuel Holden Switzerland 74 FLU-2018 YES 10-01-2012
+80202 Rebecca Hunter Switzerland 19 COVID-2019 YES 30-07-2012
+9267 Michael Wright Switzerland 19 FLU-2018 NO
+57959 Jacob Strickland Switzerland 44 SARS-COV-2 NO
+86573 Mark Montgomery Switzerland 48 SARS-COV-2 YES 12-10-2008
+69493 Christopher Henderson Switzerland 75 FLU-2018 NO
+96745 Philip Brooks Switzerland 55 EVD YES 01-04-2017
+50075 Michael Ross Switzerland 23 SARS-COV-2 NO
+90935 Curtis Ortega Switzerland 56 EVD YES 06-07-2008
+43264 Kimberly Thompson Switzerland 66 FLU-2018 YES 20-01-2018
+26514 Donald Parks Switzerland 44 FLU-2018 NO
+68636 Erik Oconnell Switzerland 23 FLU-2018 YES 24-03-2012
+60911 Chris Cummings Switzerland 68 SARS-COV-2 NO
+56877 Trevor Burch Switzerland 19 SARS-1 YES 19-02-2019
+83636 John Trujillo Switzerland 20 SARS-COV-2 YES 11-04-2014
+17959 Brittany Barnes Switzerland 52 SARS-COV-2 NO
+86843 Christian Kirby Switzerland 37 SARS-1 YES 12-08-2000
+78099 Shelly Wilkins Switzerland 10 SARS-COV-2 YES 08-11-2014
+82676 Misty Leonard Switzerland 56 SARS-1 YES 04-10-2004
+79148 Pamela Spencer Switzerland 57 SARS-COV-2 NO
+82879 George West Switzerland 50 FLU-2018 YES 20-09-2018
+30806 Valerie Fisher Switzerland 77 SARS-1 NO
+33763 Megan Mckee Switzerland 64 FLU-2018 NO
+6959 Thomas Hayes Switzerland 66 FLU-2018 YES 10-10-2005
+87044 Suzanne Johns Switzerland 69 MERS-COV NO
+76071 Ashley Davis Switzerland 54 EVD NO
+28615 Candice Hamilton Switzerland 64 SARS-1 NO
+69764 Robert Bishop Switzerland 75 FLU-2018 YES 12-10-2002
+57813 Denise Payne Switzerland 59 EVD NO
+84788 Joshua Kerr Switzerland 78 SARS-1 NO
+21960 Susan Mueller Switzerland 19 SARS-COV-2 NO
+39642 Michele Pratt Switzerland 49 MERS-COV YES 02-05-2005
+63541 Nicholas Allen Switzerland 49 MERS-COV NO
+33148 Angel Evans Switzerland 59 SARS-1 NO
+5437 Allison Estrada Switzerland 36 MERS-COV YES 01-02-2017
+28719 William Hart Switzerland 75 FLU-2018 NO
+87471 Kelsey Byrd Switzerland 10 SARS-COV-2 YES 16-07-2005
+68422 Lisa Moore Switzerland 54 MERS-COV YES 20-12-2016
+90265 Joshua Liu Switzerland 76 EVD NO
+4915 Kelly Riley Switzerland 29 MERS-COV YES 17-12-2003
+87621 Kristen Gonzalez Switzerland 43 COVID-2019 YES 29-01-2005
+2305 John Duncan Switzerland 20 SARS-COV-2 YES 02-04-2017
+84553 Jodi Walsh Switzerland 29 COVID-2019 YES 04-11-2016
+36688 Gregory Chapman Switzerland 13 COVID-2019 YES 19-01-2012
+40102 Matthew Travis Switzerland 55 FLU-2018 YES 03-02-2000
+83808 Craig Webb Switzerland 64 SARS-1 YES 19-02-2021
+85550 Tiffany Saunders Switzerland 60 SARS-1 YES 07-09-2017
+820 Gregory Wiggins Switzerland 33 SARS-1 NO
+73141 Christopher Hardin Switzerland 30 FLU-2018 YES 06-02-2002
+50922 Kayla Norris Switzerland 71 FLU-2018 NO
+42515 David Morrison Switzerland 40 FLU-2018 NO
+63938 Rebekah Tran Switzerland 76 COVID-2019 YES 22-11-2014
+92824 Andrea Joseph Switzerland 22 H1N1 YES 27-09-2009
+33382 Melissa Johnson Switzerland 22 COVID-2019 NO
+60312 Rebecca Hammond Switzerland 32 COVID-2019 NO
+28823 Frances Smith Switzerland 64 EVD YES 19-01-2008
+49911 Samantha Chambers Switzerland 33 COVID-2019 YES 09-12-2002
+90983 Sabrina Gregory Switzerland 74 SARS-1 YES 08-06-2016
+54787 Andrew Freeman Switzerland 41 MERS-COV NO
+799 Eric Robbins Switzerland 35 EVD NO
+41802 Mary Fox Switzerland 52 COVID-2019 YES 19-04-2004
+39725 Heather Walker Switzerland 43 COVID-2019 YES 22-03-2007
+69188 Emily Larson Switzerland 51 EVD YES 15-12-2007
+10541 Eddie Mayer Switzerland 14 SARS-COV-2 NO
+46860 Nathaniel Harris Switzerland 46 MERS-COV YES 25-05-2008
+5312 Diana Chavez Switzerland 21 H1N1 NO
+78568 Kyle Burton Switzerland 52 EVD YES 06-03-2002
+53200 Sarah Mcdonald Switzerland 46 FLU-2018 YES 20-01-2019
+40845 Monica Ortiz Switzerland 63 H1N1 NO
+88859 Joseph Golden Switzerland 29 FLU-2018 NO
+49002 Leonard Evans Switzerland 42 H1N1 NO
+26043 Patrick Young Switzerland 43 EVD NO
+79177 Anthony Hampton Switzerland 18 FLU-2018 YES 22-06-2015
+67310 Amy Booth Switzerland 38 H1N1 NO
+69317 Samuel Jacobs Switzerland 32 COVID-2019 NO
+47609 Patricia Aguilar Switzerland 31 SARS-1 NO
+3499 Brad Banks Switzerland 59 H1N1 YES 14-02-2021
+82393 Maurice Howell Switzerland 27 FLU-2018 NO
+88616 Cynthia Mayo Switzerland 58 SARS-COV-2 YES 30-11-2017
+80722 Joseph Combs Switzerland 50 SARS-COV-2 YES 21-05-2014
+36276 Caitlyn Wright Switzerland 22 H1N1 YES 07-05-2013
+78234 Joseph Nelson Switzerland 19 SARS-1 YES 20-11-2001
+9834 Ashley Bond Switzerland 10 FLU-2018 YES 19-07-2007
+21924 William Hunt Switzerland 64 SARS-1 NO
+23523 Derrick Farley Switzerland 76 SARS-1 NO
+89691 Eric Peterson Switzerland 62 MERS-COV YES 18-02-2002
+92613 Jesse Campos Switzerland 73 EVD NO
+49209 Cindy Huang Switzerland 64 COVID-2019 NO
+32112 Angela Taylor Switzerland 20 COVID-2019 YES 17-02-2007
+58587 James Harrington Switzerland 71 SARS-COV-2 YES 18-08-2017
+28879 Brittany Martinez Switzerland 49 COVID-2019 YES 15-02-2014
+7827 Daniel Boyd Switzerland 51 MERS-COV NO
+68987 Jennifer Potter Switzerland 23 EVD NO
+31068 Elizabeth Meyer Switzerland 77 COVID-2019 NO
+23993 Joann Morris Switzerland 65 SARS-1 NO
+65223 Isaac Bernard Switzerland 48 H1N1 YES 05-02-2011
+97266 Christian Farley Switzerland 66 COVID-2019 NO
+34407 Jessica Henderson Switzerland 15 H1N1 YES 27-05-2000
+45387 Shawn Hardy Switzerland 30 SARS-1 NO
+37047 Kristen Moyer Switzerland 44 H1N1 YES 30-11-2005
+11093 Brenda Alvarez Switzerland 26 H1N1 NO
+23286 Krista Gibson Switzerland 36 SARS-1 YES 21-03-2016
+97109 Angela Sullivan Switzerland 31 SARS-COV-2 YES 17-10-2014
+91210 Pamela Pierce Switzerland 27 SARS-1 YES 03-07-2007
+7588 Emily Townsend Switzerland 57 FLU-2018 YES 05-05-2016
+14610 Mitchell Dean Switzerland 37 COVID-2019 YES 28-03-2012
+17858 Ryan Stewart Switzerland 75 SARS-COV-2 NO
+24935 Keith Morris Switzerland 65 SARS-1 NO
+28095 Brandon Campbell Switzerland 52 EVD YES 28-04-2002
+88425 John Bradley Switzerland 52 MERS-COV NO
+17928 Robert Smith Switzerland 59 H1N1 NO
+26399 Andrew Dickson Switzerland 51 SARS-1 YES 03-07-2020
+34122 Benjamin Ward Switzerland 34 SARS-1 NO
+13183 Cindy Vargas Switzerland 45 FLU-2018 YES 18-05-2002
+74381 April Stein Switzerland 26 MERS-COV NO
+16777 Benjamin Holt Switzerland 61 SARS-1 NO
+1910 Matthew Smith Switzerland 56 COVID-2019 NO
+63787 Susan Henry Switzerland 31 EVD YES 09-11-2013
+11859 Jeremy Carroll Switzerland 41 EVD YES 17-11-2002
+26925 Michele Cook Switzerland 62 FLU-2018 YES 01-11-2003
+80275 Jodi Cantu Switzerland 25 COVID-2019 YES 06-02-2009
+29594 Christina Paul Switzerland 51 H1N1 YES 07-11-2020
+59896 Susan Carroll Switzerland 75 FLU-2018 NO
+61628 Kelly Powell Switzerland 68 SARS-1 NO
+51495 Tiffany Spencer Switzerland 36 FLU-2018 NO
+44111 Janet Ball Switzerland 51 MERS-COV YES 28-01-2006
+82004 Michael Arnold Switzerland 15 MERS-COV YES 13-03-2005
+23868 Taylor Moore Switzerland 64 SARS-COV-2 NO
+5684 Jason Keith Switzerland 28 SARS-COV-2 YES 01-07-2008
+61854 Anna Alexander Switzerland 21 MERS-COV NO
+11270 Kristen Miller Switzerland 19 FLU-2018 NO
+35233 Tracy Mathews Switzerland 30 MERS-COV YES 01-07-2002
+5335 Edward Dickerson Switzerland 43 EVD NO
+77263 Rachael Wilson Switzerland 38 SARS-1 NO
+88869 Jeffrey Miller Switzerland 79 EVD YES 27-04-2008
+46037 Ana Baird Switzerland 14 MERS-COV NO
+88886 Michael Chen Switzerland 28 FLU-2018 NO
+5291 Lisa Palmer Switzerland 34 FLU-2018 NO
+28563 Nicole Barrett Switzerland 25 EVD NO
+15856 Robert Farmer Switzerland 22 H1N1 YES 06-08-2020
+88380 Jenna Johnson Switzerland 16 SARS-COV-2 NO
+45175 Henry Lowe Switzerland 39 H1N1 YES 09-07-2001
+90402 Kimberly Zimmerman Switzerland 60 H1N1 YES 26-10-2013
+56370 Keith Schultz Switzerland 37 FLU-2018 YES 15-04-2001
+22611 Derek Snyder Switzerland 57 MERS-COV YES 06-04-2010
+32163 Christian Evans Switzerland 65 H1N1 NO
+29529 Elizabeth Perez Switzerland 71 FLU-2018 NO
+27512 Kyle Hampton Switzerland 12 FLU-2018 YES 15-11-2006
+27271 Timothy Brooks Switzerland 68 EVD YES 21-03-2007
+63672 Robert David Switzerland 29 MERS-COV YES 06-05-2001
+88988 Stephen Swanson Switzerland 64 MERS-COV YES 22-01-2016
+69939 Samantha Shepherd Switzerland 61 MERS-COV YES 30-12-2010
+7698 Desiree Mendoza Switzerland 54 MERS-COV YES 05-09-2014
+27734 Julia Jennings Switzerland 62 H1N1 NO
+4847 Brandi Blake Switzerland 11 EVD NO
+1357 Richard Clay Switzerland 45 SARS-COV-2 NO
+89056 Daniel Holloway Switzerland 37 MERS-COV NO
+73094 Ricky Bauer Switzerland 79 FLU-2018 NO
+64219 Emily Patterson Switzerland 44 SARS-COV-2 NO
+52764 Jerry Wright Switzerland 66 EVD YES 27-05-2000
+54193 Joshua Walker Switzerland 16 SARS-COV-2 YES 29-11-2000
+12593 Robert Mclean Switzerland 19 H1N1 YES 21-09-2017
+27759 John Long Switzerland 17 MERS-COV NO
+84349 Carl Brown Switzerland 43 MERS-COV NO
+27422 Jason Wells Switzerland 70 FLU-2018 NO
+3009 Tara Downs Switzerland 76 SARS-1 YES 20-01-2008
+86068 Daniel Bonilla Switzerland 16 H1N1 NO
+44667 Frederick Jones Switzerland 53 H1N1 YES 27-10-2003
+49285 Timothy Compton Switzerland 14 H1N1 YES 11-05-2004
+83970 Jimmy Ramsey Switzerland 45 MERS-COV YES 15-07-2014
+10295 Kenneth Soto Switzerland 45 COVID-2019 NO
+74229 Clinton Burns Switzerland 39 SARS-1 NO
+75938 Charles Shepard Switzerland 15 SARS-COV-2 NO
+8576 Andrea Sanders Switzerland 35 EVD NO
+92843 David Todd Switzerland 35 SARS-COV-2 NO
+16268 Shelley Deleon Switzerland 40 EVD YES 08-03-2008
+5838 Melinda Powers Switzerland 36 FLU-2018 YES 17-11-2007
+51867 Kenneth Baxter Switzerland 68 MERS-COV NO
+78355 Anna Warner Switzerland 72 SARS-1 NO
+12423 Adrian Gordon Switzerland 15 COVID-2019 YES 07-07-2018
+4787 Elizabeth Rosales Switzerland 18 SARS-1 NO
+43414 Rachel Roth Switzerland 19 MERS-COV NO
+44251 Juan Jones Switzerland 38 H1N1 YES 17-04-2017
+99038 Christopher Elliott Switzerland 34 EVD YES 08-06-2010
+92266 Justin Jacobson Switzerland 23 MERS-COV YES 03-06-2001
+12824 Chad Brown Switzerland 46 MERS-COV YES 11-12-2006
+2757 Anthony Ramos Switzerland 14 SARS-COV-2 YES 30-12-2011
+8164 Kelly Baker Switzerland 36 MERS-COV NO
+20170 Clifford Mullen Switzerland 36 COVID-2019 YES 08-08-2016
+23393 Dale Lewis Switzerland 72 EVD NO
+32468 Becky Henderson Switzerland 44 SARS-COV-2 NO
+39361 Robert Rios Switzerland 12 FLU-2018 NO
+92999 Jesse Williams Switzerland 20 SARS-1 NO
+95184 Alan Kirk Switzerland 59 H1N1 NO
+22106 Dennis Bailey Switzerland 57 EVD YES 26-10-2005
+95386 Kristina Mann Switzerland 45 COVID-2019 NO
+55860 Aaron Hicks Switzerland 24 COVID-2019 NO
+94466 Wanda Thompson Switzerland 31 EVD YES 08-04-2010
+72033 Diane Chaney Switzerland 28 COVID-2019 YES 03-06-2009
+24501 Amanda Morris Switzerland 49 FLU-2018 NO
+7601 Katie Singh Switzerland 25 MERS-COV YES 26-09-2013
+15839 David Hutchinson Switzerland 22 COVID-2019 YES 16-10-2020
+6234 Amy Hall Switzerland 26 FLU-2018 NO
+60853 Christina Gomez Switzerland 40 FLU-2018 YES 08-07-2020
+97038 Adriana Mcguire Switzerland 79 EVD YES 24-10-2005
+73075 Stephanie Garza Switzerland 77 MERS-COV YES 16-09-2006
+73945 Yvonne Mendoza Switzerland 78 COVID-2019 YES 27-10-2004
+19575 Wendy Odom Switzerland 48 H1N1 NO
+63813 Cheryl Lowery Switzerland 47 SARS-COV-2 YES 22-09-2006
+79354 Cathy Santos Switzerland 26 H1N1 NO
+20950 Sabrina Brown Switzerland 66 H1N1 NO
+43953 Nathan Collins Switzerland 63 SARS-1 NO
+18342 Paula Schmidt Switzerland 73 H1N1 YES 22-11-2000
+39437 Lacey Shelton Switzerland 58 H1N1 YES 20-12-2000
+59329 Troy Keller Switzerland 56 SARS-COV-2 NO
+14184 Jennifer Williams Switzerland 17 FLU-2018 NO
+5832 Samantha Gilmore Switzerland 42 COVID-2019 YES 09-10-2005
+54239 John Craig Switzerland 69 SARS-1 NO
+47654 Charlotte Hanson Switzerland 76 FLU-2018 YES 18-11-2001
+69833 Kara Gilbert Switzerland 59 COVID-2019 YES 27-08-2004
+53667 James York Switzerland 48 SARS-1 YES 29-05-2017
+63258 Emily Morgan Switzerland 28 SARS-1 NO
+54279 Christina Hill Switzerland 55 SARS-COV-2 NO
+40255 Ashley Cook Switzerland 25 MERS-COV YES 11-11-2002
+42369 Michael Bailey Switzerland 34 SARS-1 NO
+29093 Brianna Walker Switzerland 64 FLU-2018 YES 09-03-2007
+34240 Lori Weiss Switzerland 34 H1N1 NO
+89248 Stephen Smith Switzerland 74 FLU-2018 NO
+65279 Sheila Green Switzerland 76 COVID-2019 NO
+4298 Tina Bryan Switzerland 10 FLU-2018 NO
+3175 Louis Hart Switzerland 31 FLU-2018 YES 08-02-2013
+2882 Meagan Mckay Switzerland 41 SARS-COV-2 YES 02-11-2013
+93672 Matthew Lee Switzerland 57 SARS-1 NO
+11598 Teresa Collier Switzerland 66 SARS-1 NO
+71788 James Allen Switzerland 45 SARS-1 NO
+25519 Amanda Mccormick Switzerland 21 MERS-COV YES 13-08-2008
+73053 Jessica Warner Switzerland 22 COVID-2019 YES 26-08-2016
+39601 Linda Johnson Switzerland 79 FLU-2018 NO
+76251 Ashlee Burnett Switzerland 35 EVD NO
+83045 Lawrence Bennett Switzerland 61 SARS-COV-2 YES 11-01-2015
+87715 Jack Padilla Switzerland 18 MERS-COV YES 21-01-2018
+64874 Michelle Myers Switzerland 25 H1N1 NO
+80970 Robert Bowen Switzerland 75 H1N1 NO
+79989 Amanda Mcintyre Switzerland 36 COVID-2019 YES 15-07-2012
+12526 James Garcia Switzerland 74 EVD NO
+88528 Russell Harris Switzerland 72 FLU-2018 NO
+26314 Jacob Davis Switzerland 14 SARS-1 YES 10-07-2003
+20877 Amanda Patel Switzerland 16 COVID-2019 NO
+47979 Cindy Carr Switzerland 13 SARS-1 YES 10-01-2009
+23797 Adrian Walls Switzerland 25 EVD YES 26-04-2004
+30351 Sandra Miller Switzerland 24 SARS-1 YES 17-06-2017
+72087 Adam Lopez Switzerland 58 COVID-2019 YES 12-02-2008
+28444 Crystal Allen Switzerland 69 MERS-COV NO
+28073 Nicole Deleon Switzerland 22 EVD NO
+65548 Michael Finley Switzerland 62 SARS-COV-2 YES 06-02-2014
+83348 Adam Mccormick Switzerland 22 H1N1 NO
+82381 Jennifer Steele Switzerland 51 SARS-1 YES 06-12-2015
+69575 Daniel Jacobs Switzerland 22 COVID-2019 NO
+30470 Belinda Silva Switzerland 28 SARS-COV-2 NO
+82963 Kristen Carter Switzerland 66 COVID-2019 YES 29-10-2002
+9582 Jessica Wood Switzerland 33 EVD YES 05-02-2016
+51327 Paula Long Switzerland 55 SARS-1 YES 11-05-2018
+47967 Grant Armstrong Switzerland 69 EVD NO
+54305 Timothy Lucas Switzerland 49 EVD YES 29-05-2011
+69998 Courtney Bailey Switzerland 71 MERS-COV YES 21-11-2007
+6067 Connor Yates Switzerland 66 FLU-2018 NO
+53136 Jennifer Herrera Switzerland 56 EVD NO
+2184 Brett Carson Switzerland 18 EVD NO
+39684 Jacob Lee Switzerland 44 FLU-2018 NO
+46065 Nicole Miles Switzerland 53 COVID-2019 YES 28-06-2012
+2421 Robert Ruiz Switzerland 48 FLU-2018 YES 23-01-2010
+44727 Kevin Elliott Switzerland 72 EVD NO
+6957 Sheila Simon Switzerland 59 MERS-COV YES 17-12-2019
+55293 Tammy Smith Switzerland 26 EVD NO
+83899 Sean Snow Switzerland 64 SARS-COV-2 NO
+97603 Donald Hess Switzerland 36 MERS-COV NO
+85915 Robin Martinez Switzerland 48 COVID-2019 NO
+15014 Michael Huynh Switzerland 15 MERS-COV NO
+7118 Meghan Roberts Switzerland 57 SARS-COV-2 NO
+96357 Joshua Woods Switzerland 40 EVD YES 04-06-2018
+26184 Charles Wright Switzerland 62 MERS-COV YES 03-02-2014
+72852 Alexandra Green Switzerland 43 SARS-1 NO
+88319 Jeremy Wong Switzerland 37 H1N1 NO
+41707 Rachel Dunlap Switzerland 70 MERS-COV NO
+69811 Matthew Adams Switzerland 16 SARS-1 YES 02-12-2007
+73697 Sherri Garza Switzerland 61 FLU-2018 NO
+93429 Sarah Weber Switzerland 73 SARS-1 NO
+69947 Amanda Flores Switzerland 72 H1N1 NO
+8622 Daniel Martin Switzerland 46 COVID-2019 NO
+16678 Kristine Galloway Switzerland 57 H1N1 YES 11-03-2002
+34531 Lori Serrano Switzerland 56 SARS-COV-2 YES 02-05-2016
+4325 Angela Parker Switzerland 38 FLU-2018 NO
+93003 Amy Hahn Switzerland 46 H1N1 NO
+94706 Bryan Hicks Switzerland 37 H1N1 YES 19-09-2012
+49719 Michelle Nichols Switzerland 17 EVD YES 23-05-2016
+40000 John Smith Switzerland 62 COVID-2019 YES 08-07-2011
+37931 Victoria Harrington Switzerland 20 H1N1 YES 08-07-2013
+39759 Adam Marsh Switzerland 13 EVD YES 22-07-2001
+13812 Elizabeth Mcintosh Switzerland 47 SARS-COV-2 YES 24-08-2006
+67946 Michael Castillo Switzerland 43 COVID-2019 YES 16-03-2019
+41951 Reginald Stewart Switzerland 18 EVD NO
+24865 Ian Roberts Switzerland 51 SARS-COV-2 YES 22-12-2002
+24299 Jackie Thomas Switzerland 26 MERS-COV NO
+85021 Cynthia Garcia Switzerland 79 SARS-1 NO
+60839 Brian Smith Switzerland 72 MERS-COV NO
+25467 William Smith Switzerland 74 H1N1 NO
+43830 Levi Saunders Switzerland 65 H1N1 NO
+69900 Carrie Hall Switzerland 34 SARS-COV-2 YES 04-05-2012
+60398 Carrie Dawson Switzerland 18 EVD NO
+51684 Eric Bradley Switzerland 62 SARS-1 NO
+39087 Felicia Parker Switzerland 59 MERS-COV YES 14-01-2007
+10306 Gabriel Moody Switzerland 12 SARS-1 NO
+49038 Julie Hill Switzerland 71 FLU-2018 YES 29-08-2013
+99649 Vernon Johnson Switzerland 32 H1N1 YES 24-12-2011
+97173 Anna Long Switzerland 13 COVID-2019 NO
+28346 Crystal Miller Switzerland 35 SARS-COV-2 NO
+65808 Alyssa Nielsen Switzerland 63 COVID-2019 NO
+25194 Angela Lopez Switzerland 66 EVD YES 30-08-2014
+44606 Megan Evans Switzerland 27 MERS-COV NO
+75511 Eric Phillips Switzerland 75 FLU-2018 YES 05-11-2007
+49352 Monique Simpson Switzerland 57 MERS-COV YES 23-01-2018
+53312 Sarah Lucas Switzerland 56 SARS-COV-2 NO
+76588 William Moore Switzerland 61 SARS-COV-2 YES 21-03-2001
+98849 Amanda Petersen Switzerland 62 H1N1 YES 26-10-2016
+51389 Francisco Pacheco Switzerland 50 SARS-1 NO
+54346 Claire King Switzerland 28 FLU-2018 NO
+39307 James Walker Switzerland 62 SARS-1 YES 23-02-2008
+80764 Kristy West Switzerland 12 FLU-2018 YES 04-07-2018
+93841 Kelly Wiley Switzerland 44 H1N1 YES 01-08-2004
+73384 Shelby Strickland Switzerland 11 SARS-COV-2 NO
+54275 Cody Fitzgerald Switzerland 11 H1N1 NO
+299 Crystal Wood Switzerland 15 MERS-COV YES 17-04-2019
+5160 Joseph Horn Switzerland 48 COVID-2019 YES 18-09-2017
+32323 Charles Garcia Switzerland 35 SARS-COV-2 YES 21-09-2002
+19012 Tina Schwartz Switzerland 43 COVID-2019 NO
+89837 Annette Serrano Switzerland 78 MERS-COV YES 20-11-2001
+8957 Travis Jordan Switzerland 49 COVID-2019 YES 21-07-2016
+50041 Gail Rodriguez Switzerland 65 FLU-2018 YES 13-09-2009
+90041 Vicki Barnes Switzerland 16 FLU-2018 YES 07-12-2002
+25881 Vanessa Henry Switzerland 55 H1N1 NO
+89207 Chad Ford Switzerland 78 H1N1 NO
+6328 Chad Huang Switzerland 16 SARS-COV-2 YES 08-07-2011
+31936 Jason Todd Switzerland 65 COVID-2019 YES 25-04-2008
+72157 Angela Russell Switzerland 22 SARS-1 NO
+49168 Christopher Brown Switzerland 24 H1N1 NO
+45429 Mary Ramirez Switzerland 15 MERS-COV NO
+75741 Isabel Barker Switzerland 60 EVD YES 20-11-2017
+86112 Jade Martin Switzerland 11 H1N1 NO
+93558 Caitlin Saunders Switzerland 10 FLU-2018 NO
+28120 Devin Montes Switzerland 10 SARS-COV-2 YES 04-08-2015
+45536 Kirsten Allen Switzerland 61 SARS-1 NO
+51604 Levi Mitchell Switzerland 53 SARS-1 NO
+52064 Michael Brown Switzerland 34 FLU-2018 NO
+3416 Kevin Mathews Switzerland 31 MERS-COV YES 18-12-2010
+70821 Mark Jennings Switzerland 21 EVD NO
+15497 Sarah Michael Switzerland 28 EVD NO
+79991 Peter Newton Switzerland 26 FLU-2018 YES 31-12-2000
+79771 Lori Rubio Switzerland 74 MERS-COV NO
+63767 Melanie Miller Switzerland 30 H1N1 YES 29-06-2011
+96582 Melinda Johnson Switzerland 43 SARS-1 NO
+14339 Kaitlin Ibarra Switzerland 35 SARS-COV-2 NO
+63272 Julie Snow Switzerland 20 SARS-COV-2 NO
+87576 Alexander Carpenter Switzerland 50 SARS-1 YES 15-05-2007
+198 Matthew Blackwell Switzerland 62 EVD YES 10-11-2000
+38549 Rodney Clark Switzerland 24 H1N1 NO
+63419 Keith Weaver Switzerland 12 SARS-COV-2 YES 30-07-2011
+18235 Wesley Gross Switzerland 40 MERS-COV YES 11-07-2003
+92741 Mary Shea Switzerland 72 MERS-COV NO
+98817 Brent Whitney Switzerland 54 H1N1 NO
+82187 Alison Gomez Switzerland 46 H1N1 NO
+36887 Kimberly Ferguson Switzerland 40 SARS-1 YES 02-04-2009
+80067 Reginald Walker Switzerland 30 SARS-1 NO
+91668 Samuel Martin Switzerland 30 FLU-2018 YES 14-03-2014
+13157 Victoria Beck Switzerland 56 FLU-2018 NO
+66389 Jenna Mcclain Switzerland 77 SARS-COV-2 NO
+63825 Thomas Murphy Switzerland 55 EVD YES 26-08-2014
+42853 Joe Leonard Switzerland 48 EVD NO
+24649 Cassandra Williams Switzerland 19 FLU-2018 YES 18-08-2007
+79288 Amanda Spence Switzerland 68 FLU-2018 YES 31-07-2011
+97010 Russell King Switzerland 23 SARS-1 NO
+43565 Kevin Landry Switzerland 33 COVID-2019 YES 28-05-2006
+16506 Christopher Lopez Switzerland 64 EVD YES 14-10-2005
+11547 Robert Ellis Switzerland 52 SARS-COV-2 NO
+89764 Jill Smith Switzerland 27 SARS-1 NO
+61369 Steven Campbell Switzerland 39 COVID-2019 YES 04-11-2015
+86577 Andre Peters Switzerland 62 MERS-COV NO
+10631 Anna Mendoza Switzerland 44 H1N1 YES 25-12-2015
+92819 Mark Hess Switzerland 36 EVD NO
+96799 James Baker Switzerland 38 FLU-2018 YES 26-03-2012
+38811 Cindy Howard Switzerland 19 FLU-2018 YES 23-05-2001
+51429 Jeff Walls Switzerland 19 SARS-COV-2 NO
+16444 Joshua Sherman Switzerland 63 H1N1 YES 23-09-2008
+22557 Kyle Huang Switzerland 70 MERS-COV YES 31-10-2010
+95890 Sean Petersen Switzerland 22 H1N1 YES 08-02-2011
+25801 Gordon Page Switzerland 32 SARS-COV-2 NO
+66354 Kathryn Winters Switzerland 72 SARS-COV-2 YES 23-12-2019
+29962 Michael Wood Switzerland 49 SARS-COV-2 YES 27-01-2019
+9404 Jennifer Singleton Switzerland 67 SARS-1 NO
+17521 Jon Evans Switzerland 15 SARS-COV-2 YES 25-12-2006
+3348 Nicholas Gamble Switzerland 61 SARS-COV-2 YES 25-12-2013
+70914 Michele Guzman Switzerland 76 SARS-COV-2 YES 05-02-2010
+56198 Monica Hanson Switzerland 56 EVD YES 21-06-2000
+12820 Victor Jones Switzerland 22 SARS-COV-2 NO
+81286 Kyle Graves Switzerland 33 FLU-2018 YES 26-01-2005
+19299 Timothy Moore Switzerland 42 COVID-2019 YES 11-06-2015
+94769 Amy Price Switzerland 15 MERS-COV NO
+54544 Joanne Hudson Switzerland 58 SARS-1 YES 11-11-2006
+41478 Rodney Nguyen Switzerland 67 COVID-2019 NO
+17800 Theresa Munoz Switzerland 20 FLU-2018 YES 24-06-2009
+3607 Lindsey Vaughn Switzerland 61 SARS-COV-2 YES 03-04-2018
+60971 Zachary Smith Switzerland 76 COVID-2019 NO
+24518 Emily Miller Switzerland 71 H1N1 NO
+22908 Michael Sandoval Switzerland 73 COVID-2019 YES 04-03-2017
+17568 Andrew Delacruz Switzerland 54 COVID-2019 YES 03-09-2008
+11132 Eric Wilson Switzerland 61 SARS-1 NO
+87221 Nathan Washington Switzerland 32 SARS-COV-2 YES 03-05-2017
+3654 Brian Alvarez Switzerland 41 SARS-COV-2 YES 26-09-2020
+44456 Lisa French Switzerland 32 SARS-1 NO
+86048 Tom Murphy Switzerland 64 COVID-2019 YES 23-06-2019
+82959 Mackenzie Ellis Switzerland 38 MERS-COV YES 16-04-2020
+30557 Kenneth Bailey Switzerland 20 FLU-2018 YES 21-03-2008
+76585 Robert Jenkins Switzerland 79 COVID-2019 YES 22-02-2009
+9270 Megan Castillo Switzerland 36 SARS-1 YES 26-11-2002
+94509 Roger Lee Switzerland 29 SARS-COV-2 NO
+37829 Anthony Brown Switzerland 64 SARS-COV-2 YES 18-07-2001
+41955 Jessica Watson Switzerland 34 COVID-2019 NO
+84551 Stephanie Perez Switzerland 65 FLU-2018 NO
+21560 Christopher Robertson Switzerland 32 MERS-COV YES 04-11-2012
+11474 Jill Benjamin Switzerland 39 FLU-2018 NO
+79384 Vickie Potter Switzerland 78 SARS-COV-2 NO
+65070 Megan Stewart Switzerland 31 H1N1 NO
+89530 Jacqueline Garza Switzerland 37 SARS-1 NO
+10282 Ashley Whitney Switzerland 49 COVID-2019 NO
+81306 Kimberly Lewis Switzerland 31 SARS-COV-2 YES 03-09-2008
+32146 Julie Sullivan Switzerland 56 COVID-2019 YES 19-09-2013
+81802 Susan Juarez Switzerland 23 EVD YES 21-05-2005
+88621 Diana Sherman Switzerland 39 FLU-2018 NO
+78197 Andrea Gonzalez Switzerland 19 FLU-2018 YES 11-03-2019
+15026 Joel Rhodes Switzerland 10 SARS-COV-2 NO
+25875 Jose Herring Switzerland 77 EVD YES 18-10-2011
+85608 Robert Medina Switzerland 15 EVD YES 12-08-2011
+87308 Roger Smith Switzerland 18 MERS-COV NO
+1698 John Hart Switzerland 45 EVD YES 18-05-2000
+87858 Kristin Clark Switzerland 71 SARS-1 NO
+35031 Vincent Bolton Switzerland 11 COVID-2019 NO
+82442 Kelly Palmer Switzerland 37 MERS-COV NO
+35626 Michelle Simpson Switzerland 15 H1N1 YES 25-02-2005
+24391 Elizabeth Ruiz Switzerland 52 COVID-2019 NO
+95645 David Pace Switzerland 14 COVID-2019 YES 21-03-2005
+27327 Joel Martinez Switzerland 37 MERS-COV NO
+71297 Gary Robertson Switzerland 29 MERS-COV NO
+80035 John Thompson Switzerland 12 EVD NO
+61850 Laura Mcgee Switzerland 62 COVID-2019 YES 18-04-2018
+76889 Anthony Conrad Switzerland 20 SARS-1 YES 14-09-2013
+11154 Stephanie Hill Switzerland 45 SARS-COV-2 YES 22-02-2005
+36909 Elizabeth Conrad Switzerland 10 MERS-COV NO
+86516 Bruce Taylor Switzerland 12 H1N1 YES 16-02-2020
+6424 Jennifer Calhoun Switzerland 35 SARS-1 YES 10-04-2020
+17812 Kimberly Chapman Switzerland 44 COVID-2019 YES 14-02-2010
+7504 Tiffany Hamilton Switzerland 30 COVID-2019 NO
+54130 Stacy Butler Switzerland 25 COVID-2019 YES 07-03-2009
+34000 Anthony Lee Switzerland 40 FLU-2018 YES 15-06-2002
+52833 Eric Gould Switzerland 56 COVID-2019 YES 23-01-2018
+98566 Christopher Thomas Switzerland 44 SARS-1 NO
+8401 Gregory Thompson Switzerland 19 SARS-COV-2 NO
+4857 Janet Knight Switzerland 45 EVD NO
+40525 Adrian May Switzerland 42 SARS-COV-2 YES 26-03-2014
+37104 Edward Coleman Switzerland 54 SARS-COV-2 YES 08-10-2004
+14938 Mario Sanders Switzerland 22 SARS-COV-2 NO
+60516 Hector Rubio Switzerland 38 SARS-COV-2 NO
+80924 Jay White Switzerland 28 MERS-COV YES 23-10-2000
+96627 Bradley Lowe Switzerland 66 COVID-2019 YES 29-05-2011
+82305 Jackson Knapp Switzerland 43 FLU-2018 NO
+8845 Matthew Anderson Switzerland 12 MERS-COV YES 04-11-2015
+97939 Claire Jones Switzerland 67 COVID-2019 YES 22-11-2017
+7326 Sarah Reilly Switzerland 62 EVD NO
+19140 Gabriella Nolan Switzerland 12 SARS-COV-2 NO
+77093 Daniel Moore Switzerland 59 COVID-2019 NO
+74995 Daniel Anderson Switzerland 44 MERS-COV YES 29-10-2008
+87213 James Greene Switzerland 14 SARS-1 YES 26-06-2004
+66418 Lori Mendez Switzerland 72 SARS-1 NO
+46226 Alexandra Nelson Switzerland 52 SARS-1 NO
+17405 Lori Nunez Switzerland 13 SARS-COV-2 NO
+91564 Cindy Duke Switzerland 14 SARS-1 NO
+27099 Randall James Switzerland 55 FLU-2018 NO
+36900 Jennifer Brown Switzerland 15 FLU-2018 NO
+76318 Michael Harris Switzerland 43 SARS-COV-2 NO
+42644 Andre Velazquez Switzerland 17 FLU-2018 NO
+50382 Paul Evans Switzerland 39 EVD YES 05-09-2009
+87167 David Wallace Switzerland 21 H1N1 NO
+25833 Aaron Cooper Switzerland 29 FLU-2018 YES 14-05-2010
+64327 Michelle Solis Switzerland 19 EVD YES 08-04-2019
+76906 Michele Richardson Switzerland 37 MERS-COV YES 19-02-2007
+49289 Frederick Cherry Switzerland 45 COVID-2019 NO
+52830 Denise Wilson Switzerland 19 MERS-COV YES 14-05-2018
+48599 Clayton Evans Switzerland 30 SARS-COV-2 NO
+93668 Carol Kim Switzerland 38 EVD NO
+5214 Bianca Snyder Switzerland 68 EVD YES 02-11-2018
+93505 Jennifer Baker Switzerland 39 SARS-1 YES 06-04-2013
+68509 Craig Brown Switzerland 29 H1N1 YES 14-10-2007
+50990 Bryan Williams Switzerland 63 FLU-2018 NO
+82559 Dylan Harris Switzerland 56 FLU-2018 YES 28-08-2015
+97368 Steven Smith Switzerland 34 FLU-2018 NO
+62023 Kaylee Miller Switzerland 73 SARS-COV-2 NO
+7214 Sarah Vega Switzerland 60 H1N1 NO
+94558 Joyce Fitzpatrick Switzerland 49 MERS-COV NO
+58933 Jessica White Switzerland 77 SARS-COV-2 NO
+91268 Julie Mcdaniel Switzerland 15 FLU-2018 NO
+25045 Alejandro Smith Switzerland 36 H1N1 YES 12-05-2016
+12879 Tracy Kemp Switzerland 49 FLU-2018 NO
+3025 Jody Armstrong Switzerland 36 MERS-COV YES 18-11-2015
+29188 Brenda Jenkins Switzerland 20 SARS-1 YES 26-09-2005
+53951 Teresa Hamilton Switzerland 26 SARS-COV-2 NO
+36410 Michele Franco Switzerland 38 FLU-2018 YES 14-02-2007
+55915 Daniel Parker Switzerland 49 MERS-COV NO
+12435 Jerry Thompson Switzerland 18 H1N1 YES 22-05-2019
+20500 Jesse Pugh Switzerland 77 EVD NO
+67367 Christopher Romero Switzerland 56 H1N1 YES 10-04-2003
+22550 Christopher Spencer Switzerland 64 FLU-2018 NO
+40132 Michelle Perez Switzerland 43 MERS-COV NO
+43826 Richard Bentley Switzerland 39 EVD NO
+24751 Jose Sexton Switzerland 32 FLU-2018 YES 08-11-2015
+70424 David Watson Switzerland 15 EVD NO
+6977 Denise Conway Switzerland 47 COVID-2019 YES 16-05-2020
+87579 Thomas Jones Switzerland 58 SARS-1 YES 17-03-2004
+65411 Mark Harrington Switzerland 42 MERS-COV YES 20-07-2010
+40951 Charles Booker Switzerland 51 EVD YES 27-08-2008
+77111 Paul Edwards Switzerland 77 MERS-COV NO
+97900 Tim Cardenas Switzerland 37 EVD YES 25-12-2016
+84328 Zachary Bell Switzerland 67 H1N1 YES 05-06-2001
+29044 Jesse Richardson Switzerland 12 MERS-COV NO
+31736 Scott Davis Switzerland 69 FLU-2018 YES 14-11-2005
+97316 Christopher Cooper Switzerland 17 H1N1 NO
+6102 Susan Mills Switzerland 54 SARS-COV-2 NO
+13328 Tonya Berg Switzerland 43 SARS-COV-2 NO
+96000 Richard Schneider Switzerland 24 COVID-2019 YES 18-03-2002
+75588 Brittany Mitchell Switzerland 52 EVD YES 13-12-2010
+83828 Joseph Ryan Switzerland 43 FLU-2018 YES 03-02-2019
+25582 Megan Jones Switzerland 73 SARS-COV-2 YES 04-07-2019
+92867 Cheryl Johnson Switzerland 30 H1N1 YES 04-11-2017
+74787 Mackenzie Travis Switzerland 22 FLU-2018 YES 26-10-2016
+99641 Jordan Collins Switzerland 41 SARS-1 YES 07-02-2015
+20646 Audrey Boyer Switzerland 69 FLU-2018 YES 19-02-2015
+32871 Shane Hunter Switzerland 75 EVD NO
+17537 Kevin Short Switzerland 45 SARS-COV-2 YES 28-09-2001
+99942 Carol Schultz Switzerland 53 EVD YES 19-12-2008
+37548 Christopher Singh Switzerland 21 EVD YES 24-04-2002
+97767 Elizabeth Roman Switzerland 33 SARS-1 NO
+43903 Angela Fleming Switzerland 32 FLU-2018 NO
+80988 Danielle Edwards Switzerland 42 MERS-COV YES 03-09-2009
+40682 Miguel Adams Switzerland 42 MERS-COV YES 16-03-2020
+25755 Scott Singh Switzerland 61 MERS-COV YES 06-11-2015
+40811 Ashley Edwards Switzerland 59 MERS-COV YES 15-11-2013
+57108 Isaiah Hughes Switzerland 26 EVD NO
+14357 Brittany Haynes Switzerland 16 MERS-COV NO
+29724 Ryan Taylor Switzerland 56 MERS-COV YES 20-01-2016
+73843 Denise Martinez Switzerland 17 MERS-COV YES 05-10-2013
+57336 Kelly Mclean Switzerland 28 FLU-2018 YES 03-06-2014
+93043 Justin Colon Switzerland 41 SARS-COV-2 NO
+80627 Henry Owens Switzerland 39 EVD YES 14-09-2009
+6361 Linda Hudson Switzerland 54 MERS-COV NO
+29543 Tina Reyes Switzerland 60 EVD YES 28-04-2013
+92004 Jason Escobar Switzerland 29 SARS-COV-2 NO
+18506 Sandra Chapman Switzerland 20 SARS-COV-2 NO
+95450 Albert Clark Switzerland 58 EVD YES 15-04-2017
+63057 Veronica Oconnell Switzerland 36 FLU-2018 YES 31-05-2015
+94677 Maria Stafford Switzerland 75 H1N1 YES 09-03-2006
+27312 Derrick Rice Switzerland 71 SARS-COV-2 YES 08-02-2004
+51728 Michael Hill Switzerland 78 MERS-COV YES 19-03-2014
+64526 Susan King Switzerland 79 SARS-COV-2 YES 25-09-2006
+44067 Christina Gonzales Switzerland 31 SARS-1 YES 25-05-2016
+32651 Marcus Miller Switzerland 22 MERS-COV YES 13-03-2021
+71084 Linda Jones Switzerland 16 COVID-2019 NO
+24839 Henry Powell Switzerland 70 EVD NO
+7112 Amanda Morrow Switzerland 61 COVID-2019 YES 24-09-2011
+67412 Shawn Jacobson Switzerland 50 COVID-2019 YES 24-02-2009
+58525 Paula Ibarra Switzerland 32 FLU-2018 NO
+45544 Shawn Dixon Switzerland 78 SARS-1 NO
+57503 Angela Mcconnell Switzerland 55 EVD NO
+196 Nicholas Garcia Switzerland 48 COVID-2019 YES 15-08-2014
+90457 Destiny King Switzerland 10 SARS-1 YES 25-12-2009
+44480 Latoya Romero Switzerland 16 H1N1 NO
+34026 Gerald Dennis Switzerland 51 MERS-COV NO
+21640 Jenna Lewis Switzerland 53 SARS-COV-2 YES 29-04-2004
+65195 Ronald Grant Switzerland 65 H1N1 YES 03-07-2008
+56677 Christina Sims Switzerland 64 COVID-2019 YES 15-08-2014
+20038 Anna Sutton Switzerland 39 H1N1 NO
+80874 Jessica Miller Switzerland 15 EVD YES 14-12-2012
+57632 Kevin Cruz Switzerland 41 H1N1 YES 23-05-2019
+56206 Maria Turner Switzerland 53 COVID-2019 YES 11-09-2020
+89794 Gregory Smith Switzerland 65 COVID-2019 YES 29-07-2013
+2283 Robert Franklin Switzerland 21 SARS-COV-2 NO
+56535 Melissa Wright Switzerland 73 FLU-2018 YES 21-04-2015
+79395 Elizabeth May Switzerland 67 EVD YES 25-07-2016
+95967 Derek Graham Switzerland 49 MERS-COV YES 08-11-2016
+3700 Lindsay Jackson Switzerland 61 COVID-2019 NO
+22540 Christopher Long Switzerland 58 EVD NO
+27746 Randall Norman Switzerland 73 FLU-2018 YES 29-04-2015
+15200 Evan Sullivan Switzerland 17 SARS-1 NO
+62531 Alan Adkins Switzerland 23 MERS-COV YES 31-07-2015
+1346 Sara Merritt Switzerland 10 COVID-2019 NO
+59659 Sherry Chaney Switzerland 61 MERS-COV NO
+86798 Michael Taylor Switzerland 13 SARS-1 NO
+33871 Felicia Wong Switzerland 34 MERS-COV YES 12-09-2015
+96032 Lauren Jones Switzerland 12 EVD YES 20-06-2000
+45199 Mark Burton Switzerland 71 EVD YES 17-09-2004
+49725 Louis Foster Switzerland 16 MERS-COV YES 14-11-2011
+65282 Dana Peters Switzerland 32 SARS-1 NO
+68933 Aaron Martinez Switzerland 40 H1N1 YES 05-02-2007
+73752 Matthew Austin Switzerland 21 SARS-1 NO
+69773 Gary Clark Switzerland 36 H1N1 YES 27-05-2012
+70442 Christina Cooper Switzerland 19 H1N1 NO
+18938 Jacqueline Delgado Switzerland 49 SARS-COV-2 NO
+38110 Allen Baker Switzerland 67 SARS-1 YES 24-01-2013
+27780 William Schultz Switzerland 72 SARS-COV-2 YES 28-07-2006
+99268 Jerry Hayes Switzerland 59 FLU-2018 YES 21-10-2017
+97343 Elizabeth Buckley Switzerland 52 EVD YES 18-12-2008
+50250 Charlene Mcmahon Switzerland 20 MERS-COV YES 08-07-2009
+31438 Jill Sharp Switzerland 74 EVD YES 08-01-2015
+19128 Jacob Cooper Switzerland 79 MERS-COV NO
+74312 Carrie Kramer Switzerland 37 SARS-1 NO
+88026 Claire Morgan Switzerland 13 EVD YES 19-09-2000
+89012 Peter Coleman Switzerland 27 SARS-COV-2 NO
+91565 Larry Kelley Switzerland 66 FLU-2018 NO
+18185 Gregory Gomez Switzerland 76 H1N1 YES 29-05-2000
+37811 Sandra Nicholson Switzerland 29 H1N1 YES 04-11-2005
+954 Melanie Rivera Switzerland 24 FLU-2018 NO
+32489 Madison Frank Switzerland 38 COVID-2019 NO
+86418 James Medina Switzerland 25 H1N1 YES 10-08-2020
+66832 Anthony Oneal Switzerland 26 EVD NO
+59746 Robert Trevino Switzerland 73 FLU-2018 NO
+19225 Anne Hartman Switzerland 67 EVD NO
+2381 Phyllis Douglas Switzerland 48 SARS-1 YES 16-10-2016
+2560 Jennifer Hunt Switzerland 73 SARS-1 YES 23-10-2003
+88415 Katherine Dalton Switzerland 38 SARS-COV-2 NO
+89358 Bridget Martinez Switzerland 73 SARS-COV-2 NO
+51583 Daniel Cook Switzerland 40 MERS-COV YES 11-06-2019
+77543 Thomas Boyd Switzerland 30 H1N1 NO
+47661 Alexandra Davis Switzerland 72 H1N1 YES 12-07-2012
+9472 Isabel Savage Switzerland 19 SARS-1 NO
+42689 Kristi Thompson Switzerland 76 FLU-2018 NO
+25996 Eddie Dixon Switzerland 69 COVID-2019 YES 28-12-2019
+61936 Chad Peterson Switzerland 64 SARS-1 YES 06-09-2008
+6634 David Medina Switzerland 74 COVID-2019 NO
+98945 Katherine Montoya Switzerland 68 MERS-COV YES 17-03-2002
+68840 Randy Garcia Switzerland 71 MERS-COV YES 26-01-2003
+33313 Jacob Walker Switzerland 26 EVD YES 11-11-2005
+94199 Stanley Lyons Switzerland 16 H1N1 YES 21-07-2006
+88152 Rebecca Bell Switzerland 65 SARS-COV-2 NO
+57029 Mark Cruz Switzerland 27 MERS-COV YES 08-05-2018
+72898 Ariana Huerta Switzerland 29 H1N1 NO
+21893 Adam Campbell Switzerland 19 FLU-2018 YES 01-07-2010
+59224 Patrick Nicholson Switzerland 16 SARS-1 NO
+35961 Todd May Switzerland 31 MERS-COV NO
+74093 Adam Livingston Switzerland 60 MERS-COV NO
+44310 Dean Wall Switzerland 52 COVID-2019 NO
+79230 Rebekah Garcia Switzerland 52 FLU-2018 NO
+97897 Dustin Melton Switzerland 76 SARS-COV-2 YES 06-01-2005
+68160 Steven Beck Switzerland 45 COVID-2019 YES 02-06-2003
+7199 Justin Neal Switzerland 72 MERS-COV YES 28-08-2008
+15553 Raymond Martinez Switzerland 74 EVD NO
+79398 Justin Brooks Switzerland 58 COVID-2019 NO
+8760 Rebecca Evans Switzerland 35 EVD NO
+14440 Andrea Smith Switzerland 40 H1N1 YES 05-04-2003
+38681 Vanessa Gonzales Switzerland 61 MERS-COV YES 19-04-2014
+7034 Travis Washington Switzerland 40 EVD NO
+4544 Joshua Wall Switzerland 21 SARS-1 YES 23-04-2018
+12116 Larry Chandler Switzerland 70 FLU-2018 NO
+61579 Samantha Smith Switzerland 28 MERS-COV YES 13-08-2008
+38006 Charles Fischer Switzerland 65 SARS-COV-2 YES 01-01-2014
+14540 Todd Hayes Switzerland 49 MERS-COV YES 27-09-2008
+216 Shelly Huerta Switzerland 29 H1N1 YES 10-03-2007
+60814 Amanda Smith Switzerland 32 H1N1 YES 29-12-2011
+88506 Amanda Miller Switzerland 76 FLU-2018 NO
+58654 Summer Galvan Switzerland 74 EVD NO
+79409 Kelly Tate Switzerland 31 SARS-COV-2 NO
+35415 Stephen Anderson Switzerland 36 SARS-COV-2 NO
+17714 Darren Lewis Switzerland 20 H1N1 NO
+25524 Brooke Taylor Switzerland 65 H1N1 NO
+80039 Justin Ford Switzerland 64 EVD YES 07-06-2014
+44499 Brian Ryan Switzerland 65 H1N1 YES 10-11-2011
+77330 Joseph Griffith Switzerland 11 MERS-COV NO
+58763 David Robinson Switzerland 68 H1N1 YES 20-12-2015
+95708 Lauren Terrell Switzerland 17 COVID-2019 YES 25-01-2009
+98400 Abigail Yu Switzerland 63 SARS-COV-2 NO
+12882 James Hinton Switzerland 57 SARS-COV-2 NO
+34800 Noah Harris Switzerland 24 SARS-1 YES 11-06-2019
+98461 Cameron Allen Switzerland 47 FLU-2018 YES 03-05-2014
+12883 Kristin Hays Switzerland 19 EVD NO
+19759 Kelli Kidd Switzerland 57 H1N1 NO
+49313 Joseph Wood Switzerland 13 FLU-2018 YES 01-11-2017
+72492 Stephanie Everett Switzerland 41 COVID-2019 NO
+55585 Cindy Williams Switzerland 15 COVID-2019 NO
+33196 Daniel White Switzerland 53 COVID-2019 NO
+92966 Gabriel Cantu Switzerland 35 SARS-COV-2 NO
+45990 Timothy Valencia Switzerland 53 COVID-2019 YES 17-11-2013
+21107 Ray Fox Switzerland 36 H1N1 YES 27-01-2020
+9490 Aaron Moore Switzerland 16 SARS-1 YES 30-04-2012
+48005 Emily Ferguson Switzerland 36 H1N1 NO
+78367 Jaime Davis Switzerland 12 SARS-1 YES 02-02-2009
+68681 Casey Gonzalez Switzerland 17 MERS-COV NO
+30998 Jermaine Gonzalez Switzerland 46 EVD YES 20-06-2014
+22660 David Craig Switzerland 24 MERS-COV NO
+40832 Mark Montgomery Switzerland 79 H1N1 YES 27-05-2016
+43107 Jessica Smith Switzerland 40 EVD YES 03-03-2017
+11001 Richard Clark Switzerland 66 H1N1 NO
+14143 Andrew Bailey Switzerland 38 SARS-1 YES 31-07-2013
+25556 Brian Fowler Switzerland 16 FLU-2018 YES 30-08-2019
+56929 Carolyn Carey Switzerland 54 FLU-2018 YES 09-05-2004
+77670 Melinda Cortez Switzerland 29 FLU-2018 YES 05-12-2005
+51783 Nathan Miller Switzerland 12 SARS-1 NO
+10930 Chelsea Gonzalez Switzerland 50 SARS-COV-2 NO
+36073 Carol Mccarthy Switzerland 52 MERS-COV NO
+54266 Emma Blake Switzerland 45 MERS-COV NO
+83878 Michael Brown Switzerland 16 SARS-COV-2 NO
+15902 Eric Smith Switzerland 66 EVD NO
+9623 Debra Lane Switzerland 63 SARS-COV-2 YES 31-05-2007
+23398 Robert Blackburn Switzerland 66 SARS-COV-2 NO
+71035 Dorothy Blackburn Switzerland 56 EVD NO
+29450 Lawrence Solis Switzerland 17 H1N1 NO
+95452 David Moran Switzerland 73 FLU-2018 NO
+77881 Jennifer Moore Switzerland 64 H1N1 NO
+73966 Meredith Wilkins Switzerland 65 SARS-COV-2 NO
+31907 Matthew Glenn Switzerland 70 FLU-2018 NO
+31591 Nicholas Miller Switzerland 71 H1N1 NO
+7653 Marissa Sanchez Switzerland 45 EVD NO
+42726 Joshua Crawford Switzerland 41 MERS-COV NO
+65844 Timothy Williamson Switzerland 47 EVD YES 19-01-2009
+84138 Richard Lam Switzerland 29 EVD NO
+73835 Madison Wood Switzerland 46 H1N1 NO
+4576 Danielle Schneider Switzerland 73 SARS-1 NO
+42968 Karen Flowers Switzerland 32 EVD NO
+32188 William Zavala Switzerland 17 EVD YES 01-07-2018
+407 Ryan Horton Switzerland 53 EVD YES 04-01-2013
+95258 Daniel Johnson Switzerland 15 SARS-1 YES 12-02-2014
+14158 William Fox Switzerland 71 MERS-COV YES 13-03-2008
+5670 Christian Rasmussen Switzerland 32 SARS-COV-2 YES 04-08-2012
+98036 Patricia Franklin Switzerland 13 H1N1 YES 19-04-2020
+97829 Jodi Reeves Switzerland 63 H1N1 YES 09-01-2012
+91761 Vanessa Harris Switzerland 54 COVID-2019 NO
+22127 Christine Russell Switzerland 23 SARS-COV-2 YES 22-04-2012
+30546 William Hall Switzerland 36 COVID-2019 YES 11-05-2009
+28146 Cody Summers Switzerland 39 H1N1 NO
+90572 Pamela Owens Switzerland 41 SARS-COV-2 NO
+13614 Maria Johnson Switzerland 27 SARS-COV-2 YES 03-01-2003
+24204 Randy Scott Switzerland 75 SARS-COV-2 NO
+25694 Sara Taylor Switzerland 65 EVD YES 26-02-2007
+76139 Daniel Turner Switzerland 62 FLU-2018 NO
+12200 Samantha Cordova Switzerland 29 COVID-2019 NO
+69664 Christy Joyce Switzerland 50 FLU-2018 NO
+57826 Robert Hendricks Switzerland 41 EVD NO
+28238 Caitlin Richardson Switzerland 67 FLU-2018 YES 01-10-2011
+36807 Joseph Smith Switzerland 71 COVID-2019 YES 17-06-2001
+29950 Lauren Goodman Switzerland 52 FLU-2018 YES 10-06-2013
+66718 Steve Schultz Switzerland 51 MERS-COV YES 07-06-2004
+69316 David Brock Switzerland 73 SARS-1 NO
+8634 Tiffany Jackson Switzerland 40 MERS-COV YES 17-12-2006
+86926 Benjamin Lyons Switzerland 21 H1N1 NO
+18768 Katie Gregory Switzerland 10 SARS-1 NO
+56345 Juan Brown Switzerland 38 FLU-2018 YES 25-03-2020
+1740 Benjamin Daniel Switzerland 54 SARS-COV-2 YES 05-07-2009
+25829 Natalie Henry Switzerland 33 EVD YES 23-12-2006
+25804 Diane Neal Switzerland 41 EVD YES 03-11-2013
+33115 Michael Johns Switzerland 78 FLU-2018 NO
+36587 James Chandler Switzerland 60 H1N1 YES 08-07-2016
+75564 Megan Sutton Switzerland 13 FLU-2018 YES 22-09-2019
+25322 Jesse Clark Switzerland 22 SARS-1 NO
+59542 Amanda Hunt Switzerland 70 FLU-2018 YES 13-05-2006
+81469 Johnny Warner Switzerland 40 MERS-COV NO
+26350 Jamie Chapman Switzerland 25 MERS-COV YES 04-08-2003
+30363 Cody Phillips Switzerland 33 H1N1 YES 01-01-2010
+94702 Brian Cooper Switzerland 25 MERS-COV YES 22-05-2020
+6642 Jennifer Jordan Switzerland 11 MERS-COV YES 11-02-2014
+57915 Jessica Harris Switzerland 34 FLU-2018 NO
+75876 Richard Moreno Switzerland 73 MERS-COV NO
+10415 Christopher Franklin Switzerland 29 H1N1 YES 29-01-2002
+16778 Dylan Pruitt Switzerland 52 FLU-2018 NO
+28008 Shawna Walker Switzerland 30 MERS-COV YES 30-01-2010
+28334 Kevin Potter Switzerland 47 H1N1 YES 26-08-2004
+92089 Jason Jones Switzerland 22 H1N1 YES 27-11-2009
+8313 Benjamin Miller Switzerland 21 H1N1 YES 19-09-2020
+82724 Sean Cummings Switzerland 46 SARS-COV-2 YES 08-02-2015
+11022 April Turner Switzerland 54 SARS-1 NO
+56411 Adam Fox Switzerland 73 MERS-COV YES 14-02-2012
+76591 Elizabeth Bartlett Switzerland 26 SARS-COV-2 NO
+6750 John Johnson Switzerland 46 EVD NO
+63033 Richard Pittman Switzerland 32 COVID-2019 YES 20-05-2020
+92750 Lisa Daugherty Switzerland 32 FLU-2018 YES 13-06-2010
+1959 Stephanie Harris Switzerland 29 EVD NO
+69530 Bradley Gregory Switzerland 79 SARS-1 NO
+91847 Alicia Wilson Switzerland 64 SARS-COV-2 YES 17-10-2016
+11820 Bruce Thomas Switzerland 14 H1N1 NO
+99681 Jacqueline Atkinson Switzerland 40 H1N1 YES 27-11-2016
+46003 Kiara Griffin Switzerland 78 SARS-1 YES 22-09-2000
+6974 Judith Bauer Switzerland 58 MERS-COV NO
+82341 Angelica Wong Switzerland 26 SARS-COV-2 NO
+37448 Gary Patel Switzerland 49 SARS-1 NO
+97394 David Blankenship Switzerland 12 SARS-1 YES 08-06-2012
+79026 Ann Aguilar Switzerland 40 MERS-COV NO
+65421 Joseph Bullock Switzerland 21 H1N1 NO
+86305 Louis Haynes Switzerland 63 MERS-COV YES 17-07-2019
+90349 Kimberly Mcbride Switzerland 73 H1N1 NO
+40432 Katelyn Montoya Switzerland 27 EVD NO
+89283 Matthew Meyers Switzerland 18 SARS-1 YES 03-02-2009
+33215 Peter Gonzalez Switzerland 29 FLU-2018 YES 03-04-2017
+92652 Stephanie Bailey Switzerland 69 MERS-COV YES 16-08-2014
+82505 Justin Cohen Switzerland 20 MERS-COV NO
+38787 Haley Carlson Switzerland 59 FLU-2018 NO
+17915 Joel Cook Switzerland 37 SARS-1 NO
+62400 Jacob Gomez Switzerland 27 EVD YES 11-03-2006
+24481 Allison Brown Switzerland 70 COVID-2019 NO
+67994 Cynthia Owens Switzerland 74 FLU-2018 NO
+71909 Kayla Bird Switzerland 32 SARS-COV-2 YES 27-12-2014
+82403 Lori Chang Switzerland 59 H1N1 YES 25-09-2004
+31852 David Flores Switzerland 76 SARS-COV-2 YES 16-08-2015
+69302 David Meyer Switzerland 44 COVID-2019 YES 15-11-2008
+29777 Amber Roy Switzerland 11 FLU-2018 YES 15-05-2000
+22883 Louis Vincent Switzerland 30 FLU-2018 YES 11-01-2009
+3353 Ashley Wright Switzerland 32 H1N1 NO
+47440 Nicole Savage Switzerland 27 COVID-2019 YES 15-07-2005
+64924 Brandon Taylor Switzerland 25 SARS-1 NO
+52686 Jennifer Ross Switzerland 64 FLU-2018 NO
+50845 Jessica Mills Switzerland 71 FLU-2018 NO
+52690 Ana Cummings Switzerland 33 SARS-COV-2 YES 08-10-2016
+49965 Alyssa Medina Switzerland 11 EVD NO
+90678 Melissa Lane Switzerland 54 SARS-COV-2 NO
+84120 Randy Foster Switzerland 47 COVID-2019 YES 30-09-2001
+85245 Caroline Mccoy Switzerland 68 H1N1 YES 21-10-2009
+22056 Jenna Knight Switzerland 68 MERS-COV NO
+34151 Vanessa Peters Switzerland 63 MERS-COV YES 04-03-2018
+41666 Matthew Pineda Switzerland 36 FLU-2018 YES 08-09-2017
+94411 John Sharp Switzerland 22 MERS-COV YES 01-09-2006
+57930 Cynthia Holmes Switzerland 71 COVID-2019 YES 02-02-2007
+32795 Anthony Johnson Switzerland 71 FLU-2018 YES 16-02-2008
+39814 Kristen Rivera Switzerland 16 COVID-2019 NO
+16833 Timothy Mills Switzerland 50 FLU-2018 YES 23-08-2002
+93302 Christopher Nguyen Switzerland 24 FLU-2018 NO
+43213 Emma Benitez Switzerland 52 EVD NO
+57838 Margaret Miller Switzerland 30 SARS-COV-2 YES 10-01-2003
+92956 Lindsey Perez Switzerland 71 FLU-2018 YES 16-02-2018
+28622 Andrea Wood Switzerland 17 EVD YES 24-11-2002
+66171 Michael Donaldson Switzerland 60 EVD NO
+84171 Alfred Swanson Switzerland 59 FLU-2018 YES 12-02-2005
+59930 Anthony Davis Switzerland 30 H1N1 YES 10-10-2007
+80930 Lori Williams Switzerland 13 FLU-2018 YES 15-08-2000
+70035 Samantha Cruz Switzerland 27 SARS-COV-2 NO
+75184 Jon Valencia Switzerland 39 MERS-COV NO
+84539 Christina Lee Switzerland 16 SARS-COV-2 NO
+22076 Adam Rodriguez Switzerland 33 EVD YES 28-04-2003
+65453 John Johnson Switzerland 37 H1N1 YES 15-08-2014
+90429 Leslie Vaughn Switzerland 54 SARS-COV-2 YES 16-03-2003
+15296 Marcus Lopez Switzerland 34 COVID-2019 YES 22-10-2014
+39419 Mary Harris Switzerland 76 SARS-COV-2 YES 02-05-2007
+24848 Kelly Collins Switzerland 12 FLU-2018 NO
+22459 Rodney Owens Switzerland 69 FLU-2018 YES 13-12-2016
+2016 John White Switzerland 67 MERS-COV NO
+25257 Sean Marshall Switzerland 22 COVID-2019 NO
+11192 Alexandra Andrade Switzerland 78 SARS-COV-2 YES 14-01-2012
+30900 Tiffany Carter Switzerland 71 COVID-2019 YES 30-03-2004
+51884 Robert Lam Switzerland 54 SARS-COV-2 YES 21-03-2001
+11150 Bradley Sandoval Switzerland 34 MERS-COV YES 21-12-2006
+75130 Michelle Johnson Switzerland 10 H1N1 NO
+30176 James Palmer Switzerland 10 H1N1 NO
+27958 Mark Murphy Switzerland 29 FLU-2018 YES 26-11-2007
+59110 John Thompson Switzerland 46 SARS-COV-2 YES 08-08-2019
+40293 Destiny Harris Switzerland 57 SARS-1 YES 26-05-2015
+28684 Cynthia Rivera Switzerland 66 SARS-1 NO
+53272 William Cruz Switzerland 35 EVD NO
+49280 Shannon Hernandez Switzerland 64 MERS-COV YES 19-03-2003
+42457 Kendra Kim Switzerland 65 SARS-COV-2 NO
+48682 Meagan James Switzerland 57 SARS-COV-2 YES 11-01-2004
+68162 Justin Anderson Switzerland 76 SARS-COV-2 NO
+16672 Christopher Moore Switzerland 33 H1N1 NO
+64718 Jason Brown Switzerland 72 SARS-COV-2 YES 15-10-2014
+21949 Jeremy Good Switzerland 43 FLU-2018 YES 11-09-2006
+12318 Patrick Morrow Switzerland 13 MERS-COV NO
+74747 Michael Singleton Switzerland 26 EVD NO
+79862 Rebecca Cochran Switzerland 53 SARS-COV-2 NO
+61667 Matthew Marshall Switzerland 43 EVD YES 13-02-2001
+33782 Miranda Rivera Switzerland 64 COVID-2019 YES 11-09-2001
+19596 Curtis Barron Switzerland 61 FLU-2018 YES 03-08-2015
+97817 Ashlee Bishop Switzerland 68 SARS-COV-2 NO
+20207 Daniel Kelly Switzerland 37 MERS-COV NO
+98263 Jeffrey Ramirez Switzerland 61 EVD YES 19-08-2003
+70075 Dalton Stephenson Switzerland 16 COVID-2019 YES 30-11-2005
+95327 David Riley Switzerland 77 FLU-2018 YES 18-06-2004
+19 Rebecca Jones Switzerland 70 MERS-COV YES 30-07-2018
+65909 Donald Johnston Switzerland 50 SARS-1 YES 24-02-2016
+65830 Laura Graham Switzerland 60 EVD NO
+88282 Jason Burnett Switzerland 44 SARS-COV-2 NO
+61252 Ana Aguilar Switzerland 67 FLU-2018 YES 26-12-2016
+98031 Meredith Brown Switzerland 39 SARS-COV-2 YES 30-11-2005
+95971 Daniel Green Switzerland 25 EVD NO
+47090 Brenda Martinez Switzerland 33 H1N1 NO
+83262 Robin Hernandez Switzerland 56 SARS-1 YES 05-07-2011
+66337 Diana Perez Switzerland 25 SARS-COV-2 YES 19-03-2019
+96273 Natasha Sutton Switzerland 45 H1N1 YES 25-02-2005
+99301 Brandon Woods Switzerland 72 MERS-COV YES 12-09-2004
+9079 Monica Reynolds Switzerland 78 SARS-COV-2 NO
+38977 Tiffany Johnson Switzerland 10 SARS-1 NO
+74172 Arthur Blankenship Switzerland 57 FLU-2018 NO
+48289 Joshua Cooper Switzerland 20 H1N1 NO
+7941 Andrea Peterson Switzerland 44 COVID-2019 YES 19-02-2021
+74948 Patricia Perez Switzerland 10 MERS-COV YES 07-03-2013
+33014 David Smith Switzerland 63 EVD NO
+59918 Dan Ward Switzerland 64 EVD NO
+29735 Rachel Powers Switzerland 63 SARS-1 NO
+19809 Lauren Johnson Switzerland 34 COVID-2019 NO
+61150 Debra Dennis Switzerland 15 EVD YES 06-03-2020
+85661 Darin Gutierrez Switzerland 68 SARS-COV-2 YES 24-09-2013
+32383 Jesus Roberts Switzerland 10 COVID-2019 NO
+78924 William Thomas Switzerland 35 COVID-2019 NO
+8890 Lori Cooper Switzerland 20 SARS-COV-2 YES 24-04-2005
+31922 Megan Sanchez Switzerland 69 MERS-COV YES 21-10-2001
+22403 Jerry Moore Switzerland 53 SARS-COV-2 NO
+33127 Todd Miller Switzerland 15 COVID-2019 YES 19-04-2009
+22467 Mary Jackson Switzerland 56 MERS-COV NO
+36282 Carrie Taylor Switzerland 16 FLU-2018 YES 10-12-2013
+59009 Melinda Lee Switzerland 72 SARS-COV-2 NO
+73854 Danny Ewing Switzerland 12 SARS-1 YES 03-08-2019
+22115 Christopher Thompson Switzerland 28 SARS-COV-2 YES 13-08-2013
+26605 April Harding Switzerland 38 SARS-1 YES 28-07-2005
+20354 Teresa Keller Switzerland 44 FLU-2018 NO
+27710 Aaron Martinez Switzerland 22 SARS-1 YES 23-09-2014
+46363 Alexander Sandoval Switzerland 36 FLU-2018 NO
+10738 Kimberly Johnson Switzerland 72 EVD YES 01-05-2001
+74839 Amy Hoffman Switzerland 45 EVD YES 15-03-2016
+30481 Dominique Parker Switzerland 57 EVD NO
+66058 Amanda Morse Switzerland 68 SARS-1 NO
+65666 Christopher Guerrero Switzerland 66 FLU-2018 YES 15-09-2009
+9417 Kevin Brown Switzerland 29 MERS-COV NO
+87215 Nicholas Taylor Switzerland 76 H1N1 NO
+22587 Jennifer David Switzerland 67 SARS-COV-2 NO
+9341 Andrew Lang Switzerland 45 MERS-COV YES 29-06-2003
+62141 Christine Frey Switzerland 37 EVD NO
+4206 Kimberly Rasmussen Switzerland 20 COVID-2019 NO
+59036 Daniel Nguyen Switzerland 63 H1N1 YES 29-04-2009
+19413 Tyler Schaefer Switzerland 40 H1N1 YES 16-08-2011
+57822 Paula Stewart Switzerland 32 FLU-2018 YES 28-08-2015
+16089 Julie Brady Switzerland 33 MERS-COV YES 28-09-2012
+8583 Kevin Bennett Switzerland 27 MERS-COV NO
+65857 John Merritt Switzerland 18 H1N1 YES 20-02-2017
+64063 Jeanne Jenkins Switzerland 35 COVID-2019 YES 26-11-2016
+5716 Robert Brown Switzerland 23 H1N1 YES 21-01-2004
+58599 Samuel Dickerson Switzerland 45 SARS-1 NO
+68318 Theodore Hernandez Switzerland 15 EVD YES 23-03-2019
+38098 James Taylor Switzerland 32 MERS-COV NO
+28520 Joshua Salazar Switzerland 55 SARS-COV-2 YES 05-12-2015
+77100 Frank Tapia Switzerland 68 MERS-COV YES 11-02-2008
+66225 Stanley French Switzerland 69 COVID-2019 NO
+60450 Christopher Brown Switzerland 11 SARS-COV-2 YES 08-11-2013
+65875 Gerald King Switzerland 51 SARS-COV-2 NO
+21229 Dennis Cox Switzerland 68 H1N1 YES 19-09-2006
+37096 Heather Coleman Switzerland 72 EVD NO
+29896 Glenn Clark Switzerland 64 SARS-COV-2 YES 10-01-2020
+82521 Stacy Perez Switzerland 62 MERS-COV YES 02-12-2009
+63342 Mary Herman Switzerland 33 SARS-COV-2 YES 12-05-2006
+69380 James Hoffman Switzerland 42 FLU-2018 YES 17-02-2012
+2112 Joshua Strong Switzerland 44 MERS-COV NO
+2340 Alexandra Frazier Switzerland 34 MERS-COV YES 23-06-2012
+89480 Julie Edwards Switzerland 26 SARS-1 NO
+71452 Jonathan Guerrero Switzerland 38 H1N1 YES 19-10-2017
+34977 Tonya Fisher Switzerland 64 EVD YES 24-10-2018
+37897 Megan Alvarado Switzerland 38 SARS-1 NO
+72318 Allen Stout Switzerland 34 H1N1 YES 12-04-2001
+3809 Jacob Smith Switzerland 69 H1N1 NO
+96739 Chelsea Wallace Switzerland 10 FLU-2018 YES 09-05-2016
+94522 Johnathan Jackson Switzerland 35 H1N1 NO
+8198 Amanda Brown Switzerland 55 SARS-1 NO
+26157 Brittany Wheeler Switzerland 35 EVD NO
+5985 Andrew Gutierrez Switzerland 76 SARS-COV-2 NO
+74402 Christina Contreras Switzerland 53 SARS-COV-2 NO
+27185 Sean Raymond Switzerland 67 FLU-2018 NO
+76391 Shelby Shepherd Switzerland 39 H1N1 NO
+92404 Kevin Johnson Switzerland 15 EVD NO
+61118 Jessica Gross Switzerland 17 SARS-COV-2 YES 12-08-2003
+40531 Jeffery Taylor Switzerland 79 EVD YES 11-03-2011
+3156 Kelly Cook Switzerland 32 SARS-COV-2 YES 13-01-2014
+91815 Karen Sanchez Switzerland 61 FLU-2018 YES 14-11-2014
+77299 Dale Garrett Switzerland 69 MERS-COV NO
+60699 Christopher Watkins Switzerland 67 EVD YES 15-11-2014
+80781 Andrew King Switzerland 34 SARS-1 NO
+51152 Thomas Mitchell Switzerland 77 H1N1 NO
+55624 Jason Powers Switzerland 40 MERS-COV YES 27-09-2009
+87415 Becky Vincent Switzerland 29 FLU-2018 YES 14-07-2010
+3471 Mark Perez Switzerland 57 MERS-COV YES 10-08-2017
+26727 Jessica Meyer Switzerland 34 H1N1 YES 12-09-2008
+61201 Douglas Hopkins Switzerland 29 FLU-2018 YES 27-11-2014
+83437 Katrina Johnson Switzerland 23 H1N1 NO
+68794 Marcus Miller Switzerland 47 SARS-1 NO
+58388 Julia White Switzerland 12 SARS-1 NO
+79872 Thomas Levine Switzerland 46 COVID-2019 YES 19-10-2006
+41636 Tyler Ramirez Switzerland 37 COVID-2019 NO
+26527 Denise Porter Switzerland 36 EVD YES 23-06-2010
+47523 David Green Switzerland 45 SARS-1 YES 13-03-2008
+17787 Eric Torres Switzerland 58 H1N1 YES 12-01-2020
+52402 Mike Carney Switzerland 43 SARS-COV-2 YES 27-05-2012
+21691 Matthew Olsen Switzerland 78 SARS-1 YES 05-06-2001
+13355 Patricia Mills Switzerland 32 H1N1 NO
+95291 Sarah Scott Switzerland 46 SARS-COV-2 YES 06-03-2011
+20797 Tiffany Riggs Switzerland 65 SARS-1 NO
+55877 Debra Cox Switzerland 79 COVID-2019 YES 01-01-2000
+46802 Melissa Smith Switzerland 73 H1N1 NO
+62479 Belinda Bryant Switzerland 59 H1N1 NO
+41399 Daniel Hopkins Switzerland 19 MERS-COV NO
+97686 Kristina Roberts Switzerland 11 SARS-1 YES 02-03-2021
+69897 Jason Ramirez Switzerland 36 SARS-COV-2 YES 03-04-2014
+5159 Timothy Jones Switzerland 56 SARS-1 NO
+62300 Eric Thompson Switzerland 39 SARS-1 YES 30-12-2016
+43966 Thomas Santiago Switzerland 24 SARS-1 YES 19-06-2015
+17682 Samuel Watson Switzerland 78 MERS-COV YES 08-12-2000
+16114 Kathleen Lyons Switzerland 55 SARS-COV-2 YES 24-12-2007
+41263 Tracy Austin Switzerland 24 COVID-2019 YES 02-06-2006
+37364 Jeffrey Young Switzerland 43 MERS-COV NO
+34214 Ashley Wise Switzerland 50 FLU-2018 YES 19-12-2015
+81844 Preston Patterson Switzerland 12 FLU-2018 NO
+78678 Joshua Hicks Switzerland 72 SARS-COV-2 YES 14-11-2008
+27712 Sonya Case Switzerland 54 FLU-2018 NO
+44864 Holly Myers Switzerland 78 COVID-2019 YES 08-11-2000
+62926 Jonathan Mathews Switzerland 39 SARS-1 YES 15-11-2004
+79056 Susan Ramirez Switzerland 10 SARS-1 YES 17-10-2020
+4092 Chad Sparks Switzerland 41 MERS-COV NO
+70980 Andrew Cruz Switzerland 75 MERS-COV NO
+99755 Danny Lucas Switzerland 68 SARS-1 YES 12-03-2019
+14218 Raymond Lee Switzerland 27 FLU-2018 NO
+79042 Stephanie Johnson Switzerland 45 COVID-2019 YES 05-09-2002
+66056 John Dixon Switzerland 45 EVD YES 15-07-2001
+888 Kayla Garcia Switzerland 53 FLU-2018 YES 24-10-2016
+53694 Elizabeth Lewis Switzerland 38 MERS-COV YES 23-06-2004
+85769 Linda Soto Switzerland 59 FLU-2018 YES 17-08-2012
+31441 Jeffrey Lewis Switzerland 27 EVD YES 24-03-2011
+46019 Thomas Middleton Switzerland 66 EVD YES 19-10-2012
+6463 Chase Clark Switzerland 44 SARS-1 YES 27-07-2015
+35885 Alicia Santiago Switzerland 58 H1N1 NO
+98006 Gary Patrick Switzerland 58 FLU-2018 YES 17-02-2011
+17089 Amanda Perry Switzerland 19 H1N1 YES 03-07-2003
+42823 Joshua Nichols Switzerland 23 SARS-1 YES 16-01-2021
+77388 Jane Hall Switzerland 13 SARS-1 YES 30-01-2001
+88609 Vanessa Tran Switzerland 21 EVD NO
+60180 Peter Douglas Switzerland 74 SARS-COV-2 NO
+64499 Melissa Robinson Switzerland 47 SARS-COV-2 NO
+19026 Justin Boyle Switzerland 36 MERS-COV YES 12-01-2010
+9234 Allison Bird Switzerland 53 SARS-1 NO
+7222 Jennifer Wilson Switzerland 37 EVD YES 23-01-2013
+19363 Casey Hawkins Switzerland 23 FLU-2018 YES 26-06-2004
+24734 Margaret Holmes Switzerland 58 EVD YES 23-02-2008
+74344 Krista Stevens Switzerland 34 EVD NO
+99927 Roberto Johnson Switzerland 58 SARS-1 YES 20-03-2003
+60303 John Cook Switzerland 16 H1N1 YES 28-06-2014
+35209 Jacob West Switzerland 63 FLU-2018 NO
+53507 Patrick Turner Switzerland 28 COVID-2019 NO
+39547 Dominique Costa Switzerland 49 COVID-2019 YES 07-04-2003
+25554 Ethan Holt Switzerland 24 EVD YES 19-04-2012
+69267 James Pena Switzerland 44 EVD YES 19-12-2010
+75652 Joshua Whitaker Switzerland 30 COVID-2019 YES 26-04-2010
+46839 Paul Carter Switzerland 31 SARS-COV-2 NO
+46304 Thomas Nichols Switzerland 18 SARS-1 NO
+17016 Colton Lin Switzerland 44 SARS-COV-2 NO
+99595 Michael Cervantes Switzerland 79 EVD YES 27-09-2002
+68825 Nathan Mueller Switzerland 12 FLU-2018 YES 21-05-2015
+39862 Tiffany George Switzerland 23 COVID-2019 YES 15-01-2005
+26381 Cristian Morales Switzerland 26 MERS-COV YES 13-06-2007
+41152 Catherine Price Switzerland 79 H1N1 YES 21-10-2003
+51333 Ryan White Switzerland 36 EVD YES 30-09-2006
+90479 Patrick Lowery Switzerland 64 SARS-COV-2 YES 18-08-2015
+71973 Eric Francis Switzerland 19 EVD NO
+9082 Anita Ward Switzerland 72 SARS-1 NO
+41251 Nicholas Wood Switzerland 56 SARS-1 YES 12-07-2013
+81080 Wanda Smith Switzerland 28 MERS-COV NO
+61428 Gerald Rodriguez Switzerland 42 EVD YES 15-10-2005
+87352 Anthony Anderson Switzerland 44 COVID-2019 YES 05-08-2019
+85939 Heather Mitchell Switzerland 50 MERS-COV NO
+17553 Robin Smith Switzerland 10 MERS-COV YES 22-07-2003
+45423 Andre Shea Switzerland 77 SARS-COV-2 NO
+31592 Anthony Roach Switzerland 50 COVID-2019 NO
+21621 Yvonne Buckley Switzerland 49 MERS-COV NO
+564 Barry Ford Switzerland 16 FLU-2018 YES 18-02-2008
+39670 Adam Gonzalez Switzerland 39 SARS-COV-2 NO
+76797 Julie White Switzerland 16 COVID-2019 NO
+47221 Michael Carroll Switzerland 67 H1N1 NO
+93389 Ashley Walsh Switzerland 48 SARS-COV-2 YES 17-11-2001
+53186 Jacob Wright Switzerland 24 COVID-2019 YES 15-07-2019
+39170 Troy Kennedy Switzerland 14 SARS-COV-2 YES 30-08-2017
+48109 Christina Peterson Switzerland 12 FLU-2018 YES 20-02-2012
+90614 Frederick King Switzerland 15 SARS-COV-2 NO
+23345 Benjamin Chandler Switzerland 14 EVD YES 05-02-2017
+55470 Kathryn Thompson Switzerland 46 SARS-1 YES 17-03-2007
+96116 Christina Murray Switzerland 38 EVD NO
+2616 Janet Smith Switzerland 29 SARS-COV-2 YES 06-09-2014
+77889 Brian Baker Switzerland 31 SARS-COV-2 NO
+73584 Jacob Johnson Switzerland 16 MERS-COV NO
+5122 Heidi Sexton Switzerland 42 SARS-1 NO
+12006 Christine Suarez Switzerland 78 FLU-2018 NO
+11231 Stacey Sullivan Switzerland 78 SARS-COV-2 NO
+88246 Craig Wiggins Switzerland 56 COVID-2019 NO
+61387 Albert Morgan Switzerland 23 EVD NO
+71175 Sandra Hawkins Switzerland 59 MERS-COV YES 20-10-2014
+48539 Brooke Perez Switzerland 57 H1N1 NO
+74992 Janice Ferrell Switzerland 34 SARS-COV-2 NO
+88327 Cody Fields Switzerland 13 H1N1 NO
+58466 Kari Taylor Switzerland 73 H1N1 NO
+90789 Brandy Morales Switzerland 31 FLU-2018 NO
+44815 Michael Garcia Switzerland 37 MERS-COV NO
+72931 Willie Koch Switzerland 67 H1N1 NO
+81853 Gary Williams Switzerland 11 EVD YES 03-11-2017
+24716 Michael Green Switzerland 53 COVID-2019 NO
+43753 Victor Bradley Switzerland 22 H1N1 NO
+7061 Jeremiah Jones Switzerland 59 SARS-COV-2 YES 16-12-2015
+51314 Brian Taylor Switzerland 57 COVID-2019 NO
+18239 Scott Brown Switzerland 73 MERS-COV YES 15-06-2008
+3462 Nicole Smith Switzerland 72 SARS-1 YES 18-11-2005
+19811 James Burns Switzerland 66 FLU-2018 NO
+71653 Brian Jones Switzerland 28 H1N1 YES 25-01-2009
+26842 Luke Crawford Switzerland 19 H1N1 YES 05-12-2006
+19067 James King Switzerland 53 SARS-COV-2 NO
+94916 Cynthia Todd Switzerland 59 COVID-2019 NO
+53504 Tara White Switzerland 28 H1N1 NO
+31170 John Mckenzie Switzerland 23 COVID-2019 NO
+96091 Karen Simpson Switzerland 45 FLU-2018 NO
+23234 Jennifer Holland Switzerland 31 FLU-2018 NO
+72598 Ryan Joseph Switzerland 59 SARS-1 YES 01-09-2014
+28561 Suzanne Thomas Switzerland 13 COVID-2019 YES 15-11-2019
+43212 Michael Adkins Switzerland 23 SARS-1 NO
+10713 Charles Valdez Switzerland 29 FLU-2018 YES 16-11-2000
+12562 Joseph Barnes Switzerland 17 SARS-1 YES 18-08-2012
+25878 Erin Bell Switzerland 12 SARS-1 YES 21-02-2015
+32957 William Peterson Switzerland 77 MERS-COV NO
+70558 Philip Huang Switzerland 77 MERS-COV NO
+68810 Darlene Wright Switzerland 31 COVID-2019 YES 11-01-2013
+11658 Michelle Duncan Switzerland 71 FLU-2018 YES 22-12-2012
+72639 Francis Vincent Switzerland 68 EVD NO
+24108 Karen Livingston Switzerland 23 FLU-2018 NO
+38699 Tanner Shelton Switzerland 57 COVID-2019 YES 22-04-2002
+63327 Patrick Mcclain Switzerland 37 SARS-1 YES 11-12-2012
+22921 Jeremy Brooks Switzerland 51 SARS-1 NO
+40186 Christie Prince Switzerland 25 FLU-2018 NO
+229 Nancy Johnston Switzerland 52 H1N1 NO
+36894 Christopher Rodriguez Switzerland 15 FLU-2018 YES 25-03-2000
+48741 Jennifer Stewart Switzerland 52 SARS-1 YES 09-04-2000
+78903 Rhonda Garner Switzerland 51 SARS-1 NO
+51179 Alexander Cohen Switzerland 23 COVID-2019 NO
+12587 Rita Pearson Switzerland 79 MERS-COV NO
+66855 Edward Alvarado Switzerland 33 COVID-2019 NO
+3730 Sherry Fernandez Switzerland 63 FLU-2018 NO
+68916 Sherri Sanchez Switzerland 79 FLU-2018 YES 08-09-2011
+73262 Bradley Shelton Switzerland 32 SARS-COV-2 YES 07-06-2006
+72443 Steven Evans Switzerland 62 EVD NO
+93011 Cory Jackson Switzerland 11 SARS-1 NO
+83292 Sarah Stone Switzerland 77 SARS-1 NO
+37983 Derek Ramsey Switzerland 20 EVD YES 22-03-2000
+71225 Jacqueline Cruz Switzerland 20 SARS-COV-2 NO
+51430 Stephen Cameron Switzerland 21 SARS-1 NO
+9012 Michael Sparks Switzerland 46 FLU-2018 NO
+67794 Ashlee Merritt Switzerland 69 SARS-1 YES 29-05-2002
+73144 Lisa Mills Switzerland 31 MERS-COV NO
+25429 Crystal Fisher Switzerland 62 MERS-COV NO
+22360 Whitney Williams Switzerland 65 EVD YES 12-10-2009
+58616 Mariah Clay Switzerland 75 COVID-2019 NO
+60282 Samantha Morales Switzerland 67 EVD YES 29-09-2015
+58442 Justin Hickman Switzerland 64 COVID-2019 YES 27-04-2003
+95007 Bradley Crawford Switzerland 30 MERS-COV NO
+20891 Erik Anderson Switzerland 25 MERS-COV YES 22-03-2017
+91943 Edward Nunez Switzerland 48 EVD YES 28-09-2013
+68493 Laura Nguyen Switzerland 68 MERS-COV YES 08-01-2000
+18708 Amber Wagner Switzerland 74 FLU-2018 NO
+783 Samantha Moore Switzerland 49 H1N1 YES 30-09-2011
+7043 Joseph Bowers Switzerland 41 EVD YES 28-10-2016
+59419 Benjamin Long Switzerland 66 H1N1 YES 18-11-2005
+70841 Crystal Webster Switzerland 27 FLU-2018 NO
+27378 Cassandra Parker Switzerland 38 SARS-COV-2 NO
+34755 James Ortiz Switzerland 10 SARS-1 NO
+68223 Haley Jimenez Switzerland 33 EVD YES 26-09-2015
+77994 Keith Dixon Switzerland 36 SARS-1 YES 20-01-2011
+16136 Jennifer Mccullough Switzerland 38 H1N1 NO
+74030 Eric Davis Switzerland 77 SARS-1 YES 08-12-2019
+20751 Nicole Cobb Switzerland 35 H1N1 YES 05-12-2005
+42749 Ronald Watson Switzerland 51 SARS-1 YES 26-04-2000
+38322 Melissa Sanders Switzerland 75 SARS-COV-2 YES 21-03-2011
+80270 James Lozano Switzerland 64 MERS-COV NO
+86990 Devin Johnson Switzerland 33 COVID-2019 NO
+65459 Brian Robinson Switzerland 59 H1N1 NO
+54170 Kelly White Switzerland 12 FLU-2018 YES 02-01-2002
+62964 Erica Gonzalez Switzerland 18 SARS-1 NO
+68291 Matthew Conley Switzerland 32 COVID-2019 NO
+46351 Amy David Switzerland 51 COVID-2019 YES 07-04-2008
+82586 Yesenia Lindsey Switzerland 35 SARS-COV-2 NO
+94362 Emily Williams Switzerland 51 MERS-COV YES 30-09-2001
+12805 Kari Eaton Switzerland 46 FLU-2018 NO
+51210 Jack Sullivan Switzerland 46 FLU-2018 YES 05-11-2001
+4348 Lisa Pearson Switzerland 54 COVID-2019 YES 04-02-2007
+41441 Michael Jones Switzerland 12 FLU-2018 NO
+52505 Wendy Cook Switzerland 32 SARS-1 YES 26-06-2003
+35375 Kelsey Jones Switzerland 24 EVD YES 28-06-2002
+27838 Kathryn Adams Switzerland 66 COVID-2019 YES 18-12-2004
+84939 Joshua Yates Switzerland 64 SARS-1 NO
+64954 Christopher Taylor Switzerland 68 H1N1 NO
+53300 Jennifer Carr Switzerland 55 SARS-1 NO
+16632 Eric White Switzerland 13 SARS-1 YES 21-10-2001
+35078 Natalie Cunningham Switzerland 46 SARS-1 NO
+76737 Dawn Montoya Switzerland 32 SARS-COV-2 YES 02-06-2010
+19929 Julia Vargas Switzerland 43 H1N1 NO
+67593 Trevor Turner Switzerland 36 MERS-COV NO
+92658 Timothy Bullock Switzerland 10 H1N1 NO
+92954 Julia Duncan Switzerland 42 H1N1 YES 12-09-2010
+40342 Christopher Morales Switzerland 32 FLU-2018 YES 11-04-2007
+7316 Shirley Warren Switzerland 75 FLU-2018 YES 30-12-2006
+60449 Michael Keller Switzerland 68 MERS-COV NO
+3928 Carly Johnson Switzerland 51 EVD NO
+53582 Jose Reynolds Switzerland 30 H1N1 NO
+31409 Todd Glover Switzerland 19 FLU-2018 NO
+34001 Lori Frederick Switzerland 61 SARS-1 YES 15-06-2012
+96466 Brian Clark Switzerland 22 EVD NO
+66848 Judith Mahoney Switzerland 19 H1N1 YES 10-11-2013
+68114 Timothy Williams Switzerland 33 SARS-COV-2 YES 11-12-2013
+69760 Angela Wagner Switzerland 72 H1N1 NO
+82839 Daniel Monroe Switzerland 78 FLU-2018 YES 24-08-2014
+69058 Traci Holmes Switzerland 20 SARS-COV-2 YES 12-07-2008
+59741 Timothy Middleton Switzerland 24 SARS-1 NO
+80589 Roy Shaw Switzerland 62 SARS-1 NO
+46526 Nathaniel Williams Switzerland 16 COVID-2019 YES 10-10-2006
+53622 Frank Miller Switzerland 26 SARS-COV-2 NO
+51569 Russell Green Switzerland 62 H1N1 YES 18-03-2002
+55661 Bradley Mcgee Switzerland 36 EVD NO
+59089 Robert Walters Switzerland 47 MERS-COV NO
+626 Ryan Ryan Switzerland 28 SARS-1 NO
+37111 Stephanie Curry Switzerland 29 EVD NO
+11717 Jose Ward Switzerland 14 MERS-COV NO
+55236 Daniel Winters Switzerland 51 SARS-1 YES 01-11-2005
+68185 Tracy Delgado Switzerland 66 H1N1 NO
+77505 Jeanette West Switzerland 18 SARS-COV-2 NO
+52511 James Church Switzerland 39 FLU-2018 NO
+65420 Brittany Warren Switzerland 69 EVD YES 14-05-2001
+80937 Jimmy Lowery Switzerland 27 SARS-COV-2 YES 10-03-2014
+25798 Joseph Braun Switzerland 45 H1N1 YES 15-05-2005
+66978 Diane Johnson Switzerland 38 EVD NO
+35290 Sandra Simon Switzerland 18 EVD NO
+44674 Lindsey Franklin Switzerland 33 EVD NO
+24616 Amanda Hall Switzerland 43 SARS-COV-2 YES 06-04-2011
+36376 Eric Cummings Switzerland 17 SARS-1 YES 23-11-2003
+86721 Glenda Fox Switzerland 76 MERS-COV NO
+56612 Amanda Young Switzerland 46 FLU-2018 YES 06-04-2018
+4408 Daniel Anderson Switzerland 35 EVD YES 28-06-2004
+45509 Joseph Roberts Switzerland 59 SARS-1 YES 14-08-2006
+38116 Matthew Gibson Switzerland 61 FLU-2018 YES 08-03-2010
+75248 Roger Thomas Switzerland 35 MERS-COV YES 05-07-2016
+48055 Elizabeth Reeves Switzerland 44 MERS-COV YES 17-02-2012
+68942 Brian Allen Switzerland 58 MERS-COV YES 11-12-2008
+54628 Dennis Buckley Switzerland 66 SARS-1 YES 13-05-2002
+3714 Timothy Hunt Switzerland 60 SARS-COV-2 YES 28-10-2008
+24368 Ashley Bullock Switzerland 61 SARS-1 NO
+6413 David Rowe Switzerland 29 MERS-COV NO
+99192 Alexandra Rodriguez Switzerland 60 COVID-2019 YES 14-02-2018
+24438 Julie Walsh Switzerland 38 SARS-COV-2 NO
+55532 Margaret Rose Switzerland 62 COVID-2019 NO
+66729 Allison Rowe Switzerland 33 SARS-COV-2 YES 07-11-2007
+11789 Shane Clarke Switzerland 68 MERS-COV YES 27-12-2007
+86183 David Hill Switzerland 20 EVD YES 10-10-2019
+87816 Kimberly Patel Switzerland 62 H1N1 NO
+40395 Albert Barton Switzerland 78 SARS-1 NO
+24052 Kelli Williams Switzerland 73 MERS-COV NO
+25106 Michelle Hernandez Switzerland 75 SARS-COV-2 YES 02-05-2005
+28370 Makayla Ross Switzerland 39 EVD NO
+17699 Tracy Chase Switzerland 42 SARS-COV-2 NO
+76943 Michael Moore Switzerland 38 COVID-2019 YES 10-09-2003
+46637 Randy Brown Switzerland 68 SARS-COV-2 NO
+54622 Michael Paul Switzerland 12 MERS-COV NO
+37616 Jenna Malone Switzerland 36 COVID-2019 NO
+61202 Mandy Vazquez Switzerland 29 COVID-2019 NO
+85310 Krystal Estrada Switzerland 33 MERS-COV YES 27-12-2005
+79252 Elizabeth Ballard Switzerland 12 H1N1 NO
+69895 Jodi Osborn Switzerland 61 SARS-COV-2 YES 12-04-2018
+5970 Lori Decker Switzerland 77 FLU-2018 YES 14-09-2012
+95380 Jennifer Thomas Switzerland 66 FLU-2018 YES 16-12-2003
+30937 Dawn Kramer Switzerland 77 SARS-COV-2 NO
+68972 Mckenzie Wagner Switzerland 45 MERS-COV NO
+13425 Joshua Shaw Switzerland 57 EVD NO
+80173 Andrew Hughes Switzerland 45 MERS-COV YES 25-06-2020
+61686 Katherine Cook Switzerland 75 EVD NO
+65674 Christopher Savage Switzerland 18 MERS-COV NO
+51297 Hannah Smith Switzerland 29 FLU-2018 YES 03-07-2014
+51700 Christopher Riley Switzerland 23 SARS-COV-2 YES 22-11-2019
+36004 Lynn Miller Switzerland 68 SARS-COV-2 NO
+33002 Denise Kelly Switzerland 53 SARS-COV-2 NO
+56782 Patrick Carrillo Switzerland 50 MERS-COV NO
+77412 Allison Ruiz Switzerland 42 SARS-1 NO
+48828 William Holmes Switzerland 58 MERS-COV NO
+49997 Kendra Cabrera Switzerland 73 COVID-2019 YES 14-04-2011
+19868 John Watts Switzerland 52 EVD YES 11-12-2013
+7325 David Snyder Switzerland 64 H1N1 NO
+20467 James Oliver Switzerland 57 H1N1 YES 01-07-2004
+64010 Ryan Torres Switzerland 25 EVD YES 17-06-2003
+54237 Samantha Potts Switzerland 19 MERS-COV YES 02-06-2019
+58717 April Francis Switzerland 36 SARS-1 NO
+39340 Justin Parker Switzerland 36 MERS-COV YES 01-06-2008
+71529 Philip Padilla Switzerland 43 H1N1 YES 22-02-2015
+2768 Christian Dillon Switzerland 46 MERS-COV YES 05-03-2005
+42713 Stephanie Harding Switzerland 33 EVD NO
+19904 Robert Zhang Switzerland 31 COVID-2019 NO
+34004 Victor Estrada Switzerland 32 SARS-COV-2 NO
+81230 John Brewer Switzerland 63 EVD NO
+10437 Crystal Ramos Switzerland 56 FLU-2018 NO
+42918 Kristen Anderson Switzerland 34 SARS-COV-2 YES 25-04-2001
+70239 Douglas Lee Switzerland 33 EVD NO
+89562 Donna Williams Switzerland 49 FLU-2018 NO
+44925 Adam Neal Switzerland 62 COVID-2019 YES 11-02-2010
+30583 Neil Douglas Switzerland 31 MERS-COV NO
+32050 Lisa Pham Switzerland 14 FLU-2018 YES 03-07-2016
+57437 Sean Davis Switzerland 72 MERS-COV NO
+78900 Ashley Douglas Switzerland 78 MERS-COV NO
+1100 Amy Allen Switzerland 68 H1N1 YES 05-12-2019
+6066 Cody Hobbs Switzerland 67 FLU-2018 NO
+51504 Isaiah Johnson Switzerland 17 FLU-2018 YES 19-10-2008
+44172 Jeremy Baxter Switzerland 63 EVD NO
+75247 Wyatt Munoz Switzerland 60 COVID-2019 NO
+58718 Jeremiah Thompson Switzerland 30 MERS-COV YES 09-08-2014
+10158 Deborah Miller Switzerland 42 FLU-2018 NO
+24928 Jeffrey Long Switzerland 18 EVD YES 30-04-2004
+43440 Jake Cunningham Switzerland 13 H1N1 YES 05-09-2012
+16328 Kayla Thompson Switzerland 60 FLU-2018 YES 20-07-2018
+34642 Catherine Keller Switzerland 31 MERS-COV YES 12-07-2014
+938 Ashley Murillo Switzerland 34 SARS-COV-2 YES 07-05-2018
+98055 Rachel Deleon Switzerland 55 SARS-COV-2 YES 14-02-2015
+64410 Elizabeth Allison Switzerland 56 MERS-COV NO
+42292 Anthony Lee Switzerland 44 SARS-COV-2 YES 02-05-2016
+14732 Sarah Mason Switzerland 57 SARS-1 NO
+82565 Nathan Harding Switzerland 35 SARS-1 NO
+48703 Crystal Vasquez Switzerland 35 EVD YES 11-08-2014
+36227 Nicole Rodriguez Switzerland 37 SARS-1 NO
+78744 Connor Lewis Switzerland 74 H1N1 NO
+54929 Michael Jackson Switzerland 52 MERS-COV NO
+94330 John Medina Switzerland 53 SARS-1 YES 25-11-2011
+91144 Craig Beard Switzerland 10 FLU-2018 YES 28-12-2019
+34496 Thomas Rose Switzerland 45 MERS-COV NO
+87188 Connor Clarke Switzerland 16 H1N1 YES 23-11-2003
+56958 Alicia Johnson Switzerland 70 SARS-COV-2 YES 26-01-2009
+8697 Jennifer Walter Switzerland 53 H1N1 NO
+27866 Derek Weiss Switzerland 49 H1N1 NO
+11492 Garrett Fox Switzerland 48 SARS-1 NO
+56883 Kara Clark Switzerland 42 H1N1 NO
+69561 Becky Kennedy Switzerland 44 H1N1 YES 18-05-2011
+91740 Jessica Archer Switzerland 58 COVID-2019 NO
+33338 John Alvarado Switzerland 54 FLU-2018 NO
+59108 Gary Smith Switzerland 48 MERS-COV YES 10-11-2009
+48862 Danielle Kline Switzerland 24 SARS-COV-2 YES 24-07-2002
+50247 Michaela Strickland Switzerland 54 SARS-1 NO
+34697 Heather Castillo Switzerland 52 SARS-COV-2 YES 08-04-2001
+74367 Angela Casey Switzerland 44 SARS-COV-2 NO
+4205 Robert Moon Switzerland 57 COVID-2019 YES 07-02-2015
+6200 Matthew Wiley Switzerland 64 H1N1 YES 22-11-2005
+34833 Todd Richmond Switzerland 47 SARS-COV-2 NO
+24475 Brandon Harrington Switzerland 23 FLU-2018 NO
+50460 Ryan Ritter Switzerland 75 SARS-COV-2 YES 14-09-2000
+94194 Christina Wilson Switzerland 22 FLU-2018 YES 05-09-2015
+5130 Alicia Hull Switzerland 57 SARS-COV-2 YES 11-08-2006
+42797 Jane Ball Switzerland 78 H1N1 NO
+48201 Melissa Woods Switzerland 23 SARS-1 YES 07-05-2015
+33739 Richard Fisher Switzerland 32 EVD NO
+84920 Tiffany Rhodes Switzerland 14 H1N1 YES 10-01-2000
+14855 Trevor Potter Switzerland 25 EVD NO
+59640 Destiny Graves Switzerland 30 SARS-1 YES 06-03-2013
+76182 Bobby Robinson Switzerland 44 SARS-COV-2 YES 03-01-2015
+98484 Ruben Pineda Switzerland 78 SARS-1 NO
+9935 Tyler Hayden Switzerland 59 H1N1 NO
+28196 Heather Rocha Switzerland 58 SARS-COV-2 NO
+66323 Kara Smith Switzerland 30 FLU-2018 YES 17-08-2007
+14460 Stephen Brown Switzerland 33 COVID-2019 YES 18-03-2016
+64406 Alec Terrell Switzerland 55 SARS-1 YES 13-09-2016
+7617 Robyn Miller Switzerland 54 SARS-1 YES 12-10-2007
+48059 Kevin Williamson Switzerland 51 MERS-COV NO
+9697 Luis Tyler Switzerland 15 FLU-2018 YES 10-02-2000
+62011 Alex Walters Switzerland 36 H1N1 YES 09-05-2012
+25746 Kim Wilson Switzerland 37 COVID-2019 NO
+67547 Benjamin Sanchez Switzerland 68 EVD YES 19-09-2011
+93900 Andrew Allison Switzerland 19 SARS-COV-2 YES 19-03-2014
+13404 Aaron Wright Switzerland 13 COVID-2019 YES 30-08-2000
+81627 Tyler Hernandez Switzerland 28 EVD NO
+15089 Oscar Mathis Switzerland 14 SARS-1 NO
+46284 Kevin Williams Switzerland 38 MERS-COV YES 07-11-2016
+79549 Michael Mendoza Switzerland 54 MERS-COV YES 03-11-2002
+3115 Jonathan Graham Switzerland 60 FLU-2018 YES 28-03-2000
+97631 Victoria Cain Switzerland 16 SARS-1 YES 25-11-2012
+23946 Melissa Burke Switzerland 71 COVID-2019 NO
+23678 Heather Ford Switzerland 76 MERS-COV YES 05-05-2004
+24618 Jamie Roberts Switzerland 62 FLU-2018 YES 06-07-2018
+33987 Danielle Vang Switzerland 31 FLU-2018 NO
+1519 Robert Gomez Switzerland 26 COVID-2019 YES 04-05-2003
+88741 Benjamin Camacho Switzerland 58 SARS-COV-2 NO
+36687 Sara Prince Switzerland 20 H1N1 YES 02-02-2018
+77447 George Lewis Switzerland 32 FLU-2018 NO
+11548 Ashley Smith Switzerland 51 EVD YES 13-10-2008
+51598 Carol Mccullough Switzerland 66 COVID-2019 NO
+57853 Amanda Martinez Switzerland 32 SARS-1 YES 31-07-2001
+96360 Veronica Richards Switzerland 23 MERS-COV YES 03-03-2014
+5971 Megan Clark Switzerland 44 H1N1 NO
+82216 Hunter Fletcher Switzerland 63 COVID-2019 NO
+23463 Kelly Mack Switzerland 38 H1N1 YES 06-05-2014
+96487 Brittany Wallace Switzerland 14 EVD YES 10-12-2001
+17735 Donald Morse Switzerland 33 H1N1 NO
+54863 Christina Reynolds Switzerland 11 FLU-2018 NO
+7805 Yvonne Kaiser Switzerland 77 MERS-COV YES 29-03-2004
+66804 Steven Dodson Switzerland 68 SARS-1 YES 01-07-2020
+92872 Rhonda Rogers Switzerland 51 EVD YES 25-05-2015
+17377 Dana Adams Switzerland 27 H1N1 NO
+54179 Olivia Simmons Switzerland 41 MERS-COV YES 02-06-2020
+29963 Rodney Mason Switzerland 30 SARS-COV-2 NO
+54143 Scott Gomez Switzerland 27 COVID-2019 NO
+71619 Luke Moreno Switzerland 51 SARS-COV-2 YES 25-12-2009
+16961 Kara Bennett Switzerland 68 SARS-1 NO
+19813 Andrew Walters Switzerland 29 COVID-2019 YES 28-07-2019
+87696 Bonnie Stevens Switzerland 78 COVID-2019 YES 10-11-2020
+72020 Wesley Frank Switzerland 43 SARS-1 YES 01-04-2016
+45139 Monica Yates Switzerland 11 FLU-2018 NO
+6830 Samantha Smith Switzerland 12 COVID-2019 NO
+3290 Jessica Lopez Switzerland 43 EVD YES 11-11-2006
+2058 Katie Smith Switzerland 53 COVID-2019 YES 12-01-2018
+86496 Jade Rosales Switzerland 76 MERS-COV YES 19-06-2003
+96952 Taylor Watson Switzerland 12 SARS-COV-2 YES 30-12-2018
+64428 Andrew Rhodes Switzerland 26 H1N1 YES 16-08-2010
+61014 Stephanie Nelson Switzerland 47 FLU-2018 YES 24-09-2014
+93104 Alexandra Johnson Switzerland 61 EVD YES 25-12-2005
+86353 Wayne Jackson Switzerland 34 SARS-1 YES 15-01-2017
+50773 Sara Stevens Switzerland 11 SARS-COV-2 YES 01-07-2001
+38881 Eric Cox Switzerland 53 MERS-COV NO
+6818 Amanda Lewis Switzerland 42 EVD YES 17-06-2001
+39233 Vickie Watkins Switzerland 27 SARS-COV-2 YES 05-10-2020
+31577 Daniel Peterson Switzerland 24 H1N1 NO
+18839 David Castaneda Switzerland 56 MERS-COV NO
+74737 Sean Rivera Switzerland 64 H1N1 NO
+93279 Debbie Williams Switzerland 64 SARS-1 NO
+85815 Lori Walker Switzerland 60 FLU-2018 NO
+41581 Sandra Rangel Switzerland 46 SARS-1 NO
+24982 Carlos Hart Switzerland 55 SARS-1 YES 25-10-2009
+36516 Megan Burnett Switzerland 39 COVID-2019 YES 29-10-2011
+86974 Elizabeth Jensen Switzerland 49 H1N1 NO
+34258 Joseph Dawson Switzerland 78 MERS-COV NO
+36854 Kristen Holmes Switzerland 11 COVID-2019 NO
+17864 Debra Butler Switzerland 48 MERS-COV NO
+5006 William Whitaker Switzerland 18 COVID-2019 YES 14-10-2009
+10606 Stephen Doyle Switzerland 16 EVD NO
+4430 Linda Black Switzerland 35 COVID-2019 YES 07-08-2015
+6037 Sean Anderson Switzerland 49 MERS-COV NO
+13638 Kayla Moore Switzerland 16 H1N1 NO
+76713 Craig Grimes Switzerland 61 FLU-2018 YES 31-07-2013
+10221 Lori Perez Switzerland 18 SARS-1 YES 26-12-2018
+55701 Connor Rogers Switzerland 36 SARS-COV-2 NO
+47972 Joshua Davis Switzerland 29 COVID-2019 YES 07-11-2019
+48072 Rachel Anderson Switzerland 36 MERS-COV YES 12-06-2016
+3269 Angela Smith Switzerland 56 COVID-2019 NO
+9531 Timothy Hernandez Switzerland 47 FLU-2018 NO
+11239 Adam Vasquez Switzerland 41 MERS-COV YES 03-06-2017
+53376 Cole Melendez Switzerland 60 H1N1 YES 04-10-2013
+84307 Marcus Patrick Switzerland 42 H1N1 YES 22-11-2020
+38215 Teresa Alexander Switzerland 74 COVID-2019 NO
+19923 David Lewis Switzerland 66 SARS-1 YES 31-10-2000
+9507 Meredith Webb Switzerland 33 SARS-1 YES 13-08-2007
+54182 Emily Vega Switzerland 23 FLU-2018 YES 18-01-2002
+29691 John Frazier Switzerland 16 SARS-1 YES 09-03-2008
+15429 Howard Hernandez Switzerland 20 SARS-COV-2 NO
+44751 Anne Smith Switzerland 17 FLU-2018 NO
+19925 Angela Sparks Switzerland 32 SARS-1 YES 09-10-2006
+99451 Timothy Collins Switzerland 78 FLU-2018 NO
+53874 John Dalton Switzerland 68 H1N1 NO
+78489 Anthony Beck Switzerland 40 MERS-COV NO
+15812 Christopher Stanley Switzerland 10 SARS-1 NO
+38556 Jonathan Smith Switzerland 55 SARS-COV-2 YES 07-03-2005
+38761 Stacie Bolton Switzerland 43 SARS-1 YES 01-01-2003
+51963 Jill Thompson Switzerland 42 SARS-COV-2 NO
+2013 Norman Blackwell Switzerland 39 FLU-2018 YES 15-03-2018

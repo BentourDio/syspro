@@ -1,0 +1,3335 @@
+69339 Robin Simmons Germany 37 FLU-2018 NO
+84725 Eric Elliott Germany 38 SARS-1 YES 21-03-2020
+40908 Denise Murphy Germany 25 FLU-2018 YES 11-04-2004
+94293 Seth Fletcher Germany 25 FLU-2018 YES 01-07-2005
+218 Ryan Crawford Germany 75 SARS-1 NO
+81238 Jonathan Estrada Germany 47 SARS-1 NO
+58377 Destiny Mullins Germany 53 MERS-COV YES 21-05-2004
+14928 Melissa Davis Germany 29 FLU-2018 NO
+61746 William Ramos Germany 42 COVID-2019 NO
+8652 Kristina Choi Germany 16 COVID-2019 YES 10-06-2011
+51027 Kim Cox Germany 61 COVID-2019 NO
+89117 Andrew Allison Germany 77 MERS-COV YES 31-12-2013
+93114 Susan Saunders Germany 36 FLU-2018 NO
+8776 Angela Parker Germany 13 FLU-2018 YES 02-02-2021
+7379 Glenn Long Germany 53 EVD YES 11-03-2002
+90034 Amy Pierce Germany 61 H1N1 YES 04-10-2006
+54921 Matthew Mccullough Germany 61 SARS-1 YES 09-03-2003
+28126 Christina Kirk Germany 67 EVD NO
+93490 Jamie Taylor Germany 78 FLU-2018 YES 28-03-2009
+4079 Yvonne Nguyen Germany 55 SARS-COV-2 YES 13-08-2020
+16382 Robert Meyer Germany 58 SARS-COV-2 YES 11-08-2019
+40997 Wendy Ibarra Germany 10 MERS-COV YES 24-10-2010
+26675 Christina Gallagher Germany 72 H1N1 NO
+27396 Timothy Martin Germany 57 EVD NO
+10912 Joshua Lewis Germany 69 H1N1 NO
+55587 Marcus Smith Germany 34 EVD YES 15-11-2012
+24498 Felicia Nelson Germany 59 H1N1 NO
+82971 John Gross Germany 27 COVID-2019 NO
+18405 Donald Salinas Germany 52 MERS-COV NO
+91914 Larry Harrison Germany 29 H1N1 NO
+38895 Jared Mcclain Germany 37 EVD YES 23-07-2012
+4150 Brian Wilkinson Germany 18 COVID-2019 NO
+52450 Luis Hoover Germany 57 SARS-COV-2 YES 02-09-2004
+82566 John Williams Germany 10 EVD NO
+11396 Mark Vasquez Germany 31 FLU-2018 YES 13-10-2008
+82496 Dominique Gilmore Germany 12 MERS-COV YES 12-11-2001
+77040 Karen Eaton Germany 21 EVD YES 26-11-2005
+60052 Samuel Khan Germany 54 FLU-2018 NO
+48820 Tina Powell Germany 18 COVID-2019 NO
+65707 Sarah Contreras Germany 57 COVID-2019 YES 31-03-2018
+89812 Nicole Gonzales Germany 31 SARS-COV-2 YES 28-05-2011
+91260 Anthony Gonzalez Germany 61 SARS-1 YES 12-08-2002
+89805 Javier Thompson Germany 50 FLU-2018 YES 04-01-2010
+33513 James Hernandez Germany 20 H1N1 NO
+32469 Samantha Williams Germany 48 COVID-2019 YES 26-04-2009
+44929 Lisa Moore Germany 47 H1N1 YES 03-06-2010
+1522 Tracy Lester Germany 71 H1N1 NO
+64056 Johnathan Stewart Germany 24 SARS-1 NO
+67187 Michael Burton Germany 47 EVD YES 04-12-2017
+62489 Kristen Elliott Germany 22 EVD YES 22-04-2006
+2191 Jessica Shaw Germany 25 SARS-1 YES 28-04-2001
+20214 Kevin Spence Germany 31 MERS-COV NO
+83829 Eric Boyer Germany 57 SARS-1 YES 20-02-2011
+60826 Jennifer Smith Germany 12 FLU-2018 YES 22-07-2001
+45649 Jason Terry Germany 72 EVD YES 30-09-2006
+70344 Robert Adams Germany 54 H1N1 YES 07-03-2009
+3796 Susan Ochoa Germany 30 SARS-COV-2 NO
+30139 Tiffany Torres Germany 22 H1N1 YES 01-02-2019
+20980 Richard Snow Germany 18 SARS-1 YES 17-09-2008
+96469 Kimberly Hampton Germany 43 MERS-COV YES 13-10-2009
+86699 Melissa Hopkins Germany 18 SARS-COV-2 YES 13-09-2005
+62952 Allison Schultz Germany 14 SARS-1 YES 27-06-2005
+20605 William Powell Germany 66 SARS-COV-2 NO
+95893 Alexander Saunders Germany 70 COVID-2019 YES 01-04-2020
+10417 Sherry Gonzalez Germany 68 FLU-2018 NO
+78020 Jeffrey Little Germany 13 H1N1 YES 25-11-2007
+89940 Emily Young Germany 24 SARS-1 NO
+29000 Danielle Bowers Germany 43 H1N1 YES 10-01-2020
+69847 Anna Alvarado Germany 61 FLU-2018 NO
+82983 Matthew Ortiz Germany 36 MERS-COV YES 20-09-2008
+39017 Luis Collins Germany 27 MERS-COV YES 14-04-2011
+95854 Jessica Johnston Germany 56 EVD NO
+51996 Jason Sullivan Germany 25 MERS-COV NO
+98414 Edward Bender Germany 60 SARS-COV-2 YES 30-12-2000
+57647 Cindy Jennings Germany 32 H1N1 NO
+74709 Michael Dean Germany 31 COVID-2019 NO
+21823 Mark Guzman Germany 18 H1N1 YES 05-01-2006
+78395 Courtney Orozco Germany 34 EVD NO
+67870 Richard Parrish Germany 37 EVD NO
+32454 Jill Cox Germany 73 MERS-COV NO
+95168 Robert Williams Germany 39 FLU-2018 NO
+77389 Tammy Salas Germany 72 EVD NO
+27892 Jason Goodman Germany 20 EVD NO
+14532 Edwin Nguyen Germany 63 SARS-1 NO
+42475 James Thomas Germany 38 SARS-1 YES 17-09-2006
+45339 Jeffrey Mendez Germany 46 SARS-1 NO
+89757 Todd Harris Germany 60 COVID-2019 YES 28-08-2003
+23900 Kimberly Johnson Germany 61 SARS-COV-2 YES 02-04-2019
+83183 Julian Warren Germany 13 H1N1 NO
+60902 Keith Singh Germany 24 MERS-COV NO
+19599 Robert Shaw Germany 75 SARS-1 NO
+17283 Charlene Shaw Germany 57 H1N1 YES 15-03-2011
+26078 James Salas Germany 44 SARS-1 NO
+55850 Richard Quinn Germany 37 SARS-COV-2 NO
+83901 Benjamin Wood Germany 35 MERS-COV YES 22-09-2019
+36372 Shannon Mathis Germany 50 MERS-COV NO
+54247 Tammy Paul Germany 13 FLU-2018 NO
+90576 Jennifer Cross Germany 74 COVID-2019 YES 19-01-2006
+79801 Shelly Green Germany 65 SARS-1 NO
+13892 Sharon Rodriguez Germany 28 H1N1 YES 25-05-2017
+95661 Christopher Jones Germany 29 FLU-2018 YES 23-07-2011
+39604 Rebekah Davis Germany 56 COVID-2019 YES 19-09-2018
+36536 Mark Poole Germany 27 COVID-2019 YES 27-01-2007
+97131 Karla Clark Germany 63 SARS-1 NO
+25847 Kylie Marks Germany 10 FLU-2018 NO
+11382 Taylor Newman Germany 25 H1N1 NO
+97884 Erin Sanders Germany 57 FLU-2018 NO
+32278 Ashley Martin Germany 28 COVID-2019 NO
+80885 Harold Brown Germany 62 SARS-1 YES 18-06-2003
+70531 Sean Raymond Germany 16 SARS-1 NO
+76967 Michael Obrien Germany 54 SARS-COV-2 YES 07-02-2001
+54554 Dana Dawson Germany 28 SARS-COV-2 YES 15-12-2008
+98756 Angela Dillon Germany 71 SARS-1 NO
+25838 Mary Kelly Germany 23 SARS-1 NO
+22172 Willie Short Germany 34 FLU-2018 NO
+40450 Adrian Higgins Germany 72 SARS-1 YES 09-04-2015
+57116 Ryan Martinez Germany 68 FLU-2018 NO
+96472 Lisa Dawson Germany 46 FLU-2018 NO
+12450 Christian Price Germany 63 COVID-2019 NO
+35704 Alicia Smith Germany 78 MERS-COV YES 05-09-2006
+41301 Gregory Williams Germany 12 EVD YES 25-07-2017
+73046 Kevin Merritt Germany 43 SARS-1 YES 07-11-2020
+6972 Gregory Carr Germany 38 MERS-COV NO
+10610 Jessica Gray Germany 61 SARS-COV-2 YES 20-01-2013
+58278 Cindy Campbell Germany 67 SARS-1 NO
+63462 Amanda Cook Germany 64 SARS-1 YES 15-01-2003
+82771 Lisa Graham Germany 44 COVID-2019 YES 22-03-2014
+82726 Mark Smith Germany 39 EVD YES 17-06-2016
+42868 Sara Garner Germany 14 FLU-2018 NO
+3359 Aaron Ballard Germany 26 SARS-1 NO
+53042 Tom Johnson Germany 29 H1N1 YES 11-06-2002
+84228 Daniel Herman Germany 71 COVID-2019 YES 02-03-2006
+51482 Timothy Davis Germany 79 FLU-2018 NO
+95714 Janice Lopez Germany 19 MERS-COV NO
+29214 Tony Watts Germany 55 COVID-2019 YES 15-06-2005
+60364 Joseph Barr Germany 66 SARS-COV-2 YES 19-02-2010
+84453 Jane Lewis Germany 59 H1N1 YES 22-02-2008
+92895 Denise Walker Germany 34 SARS-1 NO
+23425 John Schneider Germany 48 MERS-COV NO
+84301 Michael Roman Germany 41 SARS-COV-2 YES 14-06-2016
+66366 James Webb Germany 75 SARS-COV-2 YES 05-12-2014
+49428 Jacob Pham Germany 75 SARS-COV-2 NO
+91471 Shelby Miller Germany 14 FLU-2018 YES 10-08-2000
+48360 Amber Spencer Germany 22 FLU-2018 YES 10-11-2000
+81946 Tara Wyatt Germany 10 FLU-2018 YES 16-01-2016
+22 Zachary Hogan Germany 35 FLU-2018 NO
+99706 Thomas Sanchez Germany 17 EVD NO
+182 Eugene Parker Germany 16 FLU-2018 YES 17-05-2017
+26464 Kelly Ward Germany 52 SARS-COV-2 YES 23-04-2011
+43555 Taylor Berger Germany 14 COVID-2019 NO
+8572 Karen Stewart Germany 26 MERS-COV NO
+36143 Jacob Mckenzie Germany 54 FLU-2018 YES 01-05-2003
+33870 Stacey Gay Germany 59 H1N1 NO
+97842 Kevin Williams Germany 41 SARS-1 NO
+63579 Shane Odom Germany 40 H1N1 NO
+47451 Kenneth Bryant Germany 24 MERS-COV NO
+9879 Christopher White Germany 56 EVD NO
+36000 Cory Webb Germany 61 H1N1 NO
+97590 James Guzman Germany 46 MERS-COV NO
+95066 Matthew King Germany 26 EVD NO
+25210 Amanda Cunningham Germany 21 EVD NO
+73454 Allison Downs Germany 42 SARS-1 YES 01-03-2008
+92241 Kelsey Taylor Germany 35 SARS-COV-2 YES 25-02-2017
+22453 Robert Shepard Germany 58 H1N1 YES 29-12-2006
+56413 Kathy Fleming Germany 65 MERS-COV NO
+90587 Brian Yang Germany 27 MERS-COV NO
+44299 Jessica Walter Germany 13 FLU-2018 NO
+83920 Richard Mitchell Germany 18 COVID-2019 NO
+85763 Richard Williams Germany 50 FLU-2018 YES 19-12-2018
+74705 Pamela Pena Germany 35 MERS-COV NO
+70417 Kristy Diaz Germany 61 FLU-2018 NO
+70414 Laura Norris Germany 77 FLU-2018 NO
+29162 Laura Brown Germany 38 SARS-1 YES 10-01-2021
+3217 Edwin Brown Germany 55 EVD NO
+17945 April Morales Germany 44 SARS-COV-2 NO
+1652 Sherry Salazar Germany 12 FLU-2018 NO
+12000 Sarah Choi Germany 64 MERS-COV NO
+29509 Kevin Lopez Germany 56 SARS-COV-2 NO
+7015 Nina Henderson Germany 58 FLU-2018 YES 20-11-2010
+51838 Gregory Vega Germany 75 COVID-2019 NO
+62025 Nancy Smith Germany 47 SARS-1 YES 09-12-2017
+89965 Jaime Perez Germany 14 EVD YES 16-12-2017
+99304 Tammy Collins Germany 14 SARS-1 NO
+63499 Hayley Harrison Germany 30 MERS-COV YES 09-11-2001
+41682 Nathan Baldwin Germany 46 COVID-2019 NO
+1996 Robert Bullock Germany 13 EVD NO
+37947 Juan Rogers Germany 45 H1N1 NO
+27627 Heather Smith Germany 71 COVID-2019 NO
+15041 Robin Jordan Germany 17 FLU-2018 YES 26-09-2012
+67475 Peter Carlson Germany 54 SARS-1 YES 17-02-2004
+52112 Steven Barnett Germany 77 EVD YES 03-05-2019
+71757 Miguel Garcia Germany 68 SARS-COV-2 NO
+89287 Damon King Germany 16 FLU-2018 NO
+92854 Nichole Ho Germany 51 COVID-2019 NO
+60922 Drew Park Germany 10 SARS-COV-2 YES 08-06-2005
+32521 Megan Cox Germany 70 COVID-2019 NO
+43020 Bobby Nguyen Germany 13 SARS-COV-2 YES 27-01-2008
+88470 Tina Campbell Germany 16 SARS-1 NO
+39456 Patrick Odom Germany 72 MERS-COV YES 18-09-2009
+88164 Michael Griffith Germany 46 H1N1 YES 18-10-2008
+74360 Michael Proctor Germany 25 H1N1 NO
+30996 William Dudley Germany 35 SARS-COV-2 NO
+3924 Jessica Jacobs Germany 36 COVID-2019 YES 29-09-2006
+38709 Denise Johnson Germany 45 H1N1 NO
+44657 Justin Jackson Germany 67 COVID-2019 YES 18-02-2009
+27049 Sarah Washington Germany 64 SARS-COV-2 YES 02-01-2021
+87302 Robert Williams Germany 74 SARS-1 YES 18-09-2018
+44734 Gary Smith Germany 38 SARS-COV-2 YES 28-12-2008
+64555 Caleb Valenzuela Germany 21 EVD NO
+32737 Amber Taylor Germany 67 FLU-2018 NO
+13451 Nicole Jackson Germany 32 MERS-COV YES 26-10-2009
+1426 Sharon Blair Germany 62 FLU-2018 YES 09-07-2003
+32682 Shirley Madden Germany 13 MERS-COV YES 18-10-2008
+95046 Daryl Wilson Germany 63 SARS-COV-2 YES 15-12-2012
+80765 Kimberly Woods Germany 26 SARS-1 NO
+72360 Brenda Walker Germany 25 H1N1 NO
+57648 Mary Cunningham Germany 27 MERS-COV NO
+38827 Kim Griffin Germany 10 COVID-2019 YES 09-11-2005
+85735 Allison Davis Germany 71 MERS-COV YES 08-05-2000
+71999 Nancy Aguilar Germany 63 SARS-COV-2 YES 23-02-2017
+37882 Madison Johnson Germany 69 FLU-2018 NO
+91157 Jon Roberson Germany 16 EVD YES 16-05-2007
+63147 Sierra Reeves Germany 71 COVID-2019 NO
+23725 Sabrina Morales Germany 74 EVD YES 31-10-2019
+26301 Kathleen Ruiz Germany 76 COVID-2019 NO
+60506 Katie Armstrong Germany 28 MERS-COV NO
+2222 Juan Smith Germany 77 EVD NO
+17251 Jerry Smith Germany 22 MERS-COV YES 28-08-2010
+5067 Lisa Scott Germany 72 FLU-2018 YES 09-08-2017
+42723 Linda Smith Germany 55 SARS-COV-2 YES 24-12-2008
+4880 James Dunn Germany 72 COVID-2019 YES 12-12-2015
+80550 Jody Jenkins Germany 27 SARS-1 NO
+71420 Vanessa Greene Germany 75 SARS-1 YES 09-05-2011
+67393 David Gomez Germany 23 SARS-COV-2 YES 05-08-2007
+65597 Laura Stewart Germany 27 H1N1 YES 27-04-2008
+18114 John Bowen Germany 11 MERS-COV YES 17-11-2017
+26707 Lauren Lopez Germany 26 EVD NO
+19825 Michelle Lopez Germany 28 EVD NO
+7910 Lisa Johnson Germany 72 SARS-1 NO
+15259 Terri Garcia Germany 17 H1N1 NO
+60669 Jennifer Douglas Germany 20 H1N1 NO
+44830 Stephanie Webb Germany 38 SARS-1 YES 19-05-2019
+79705 Derrick Warner Germany 17 SARS-COV-2 NO
+3472 Raymond Mendoza Germany 27 FLU-2018 YES 18-04-2012
+71613 Donna Townsend Germany 56 MERS-COV NO
+10854 Debra Harris Germany 29 MERS-COV YES 16-02-2012
+47514 Dennis Marshall Germany 63 SARS-1 NO
+65895 Carl Bowman Germany 28 H1N1 NO
+20212 Michael Novak Germany 47 FLU-2018 YES 05-01-2003
+61722 Amy White Germany 22 MERS-COV YES 16-09-2017
+89390 Kayla Johnson Germany 20 MERS-COV YES 05-01-2015
+9045 Brian Cain Germany 75 SARS-COV-2 YES 03-03-2004
+4332 Seth Gilmore Germany 46 SARS-COV-2 YES 18-11-2020
+4287 John Martinez Germany 69 SARS-1 YES 04-02-2020
+70147 Thomas Williams Germany 18 SARS-1 YES 18-05-2020
+95746 Beth Cook Germany 22 COVID-2019 NO
+75625 Mitchell Lopez Germany 25 H1N1 YES 01-07-2019
+1370 Keith Hansen Germany 18 SARS-COV-2 YES 15-01-2016
+24398 Megan Kelly Germany 36 SARS-COV-2 YES 28-02-2008
+40926 David Butler Germany 27 EVD YES 22-08-2018
+91443 Heather Barnett Germany 79 SARS-COV-2 YES 22-04-2008
+23483 Andrew Lopez Germany 69 FLU-2018 NO
+43544 Leonard Harrell Germany 10 SARS-COV-2 YES 27-03-2015
+50082 Jennifer Anderson Germany 34 MERS-COV NO
+69843 Michele Robinson Germany 77 SARS-COV-2 NO
+18794 Heather Allen Germany 14 EVD NO
+16212 David Lowery Germany 25 SARS-1 YES 18-04-2015
+31742 Monica Ortiz Germany 40 SARS-COV-2 NO
+17059 Arthur Jackson Germany 21 FLU-2018 NO
+98761 Henry Baker Germany 42 SARS-COV-2 NO
+34847 Erika Fernandez Germany 32 MERS-COV YES 08-03-2015
+44687 Nancy Barnes Germany 14 MERS-COV YES 18-12-2008
+26796 Victoria Whitaker Germany 40 COVID-2019 NO
+83457 Cody Peck Germany 76 MERS-COV NO
+21185 Kenneth Forbes Germany 60 EVD YES 24-12-2009
+38703 Heather Cole Germany 20 H1N1 NO
+30301 John Johnson Germany 67 SARS-COV-2 YES 01-09-2014
+75197 Nathan Smith Germany 33 EVD NO
+16813 Aaron Reed Germany 57 SARS-COV-2 NO
+86505 Samuel Sandoval Germany 23 EVD YES 18-12-2002
+26540 Anthony Moon Germany 59 SARS-1 NO
+45636 Madison Hamilton Germany 77 COVID-2019 NO
+57303 Brittany Simpson Germany 16 H1N1 NO
+49824 Olivia Chung Germany 25 MERS-COV YES 19-11-2016
+57054 Christopher Johnson Germany 35 SARS-COV-2 NO
+18565 Paul Burgess Germany 24 SARS-COV-2 YES 04-04-2010
+55079 Glen Franco Germany 25 FLU-2018 NO
+64633 Gary Henson Germany 47 SARS-1 NO
+51619 Sandra Stevens Germany 49 H1N1 YES 09-07-2020
+482 Leroy Anderson Germany 79 SARS-COV-2 NO
+572 Jeffery Chavez Germany 79 SARS-COV-2 NO
+51948 Janice Hansen Germany 54 FLU-2018 NO
+46178 Paul Carter Germany 12 SARS-COV-2 NO
+931 Kristy Hammond Germany 19 EVD YES 06-12-2000
+76689 Diamond Rivera Germany 36 EVD NO
+89616 Tammy Bowen Germany 48 EVD YES 07-08-2003
+3478 Carol Roberson Germany 52 COVID-2019 NO
+29348 Joann Simmons Germany 51 COVID-2019 NO
+87768 Mark York Germany 14 SARS-COV-2 NO
+28611 Donna Sullivan Germany 13 COVID-2019 NO
+40875 Andrew Conley Germany 77 COVID-2019 NO
+12483 Christine Savage Germany 19 H1N1 YES 22-11-2015
+38729 Joshua Mullins Germany 20 SARS-COV-2 YES 06-02-2002
+2668 Jennifer James Germany 23 SARS-COV-2 NO
+47427 Roger Robinson Germany 79 SARS-1 NO
+9718 Pamela Johnson Germany 41 SARS-COV-2 NO
+75496 Sandra Fields Germany 53 EVD YES 01-12-2009
+80160 John Dixon Germany 31 FLU-2018 YES 29-08-2013
+64704 Kevin Davis Germany 39 COVID-2019 YES 15-07-2020
+7284 Chelsea Johnson Germany 46 COVID-2019 NO
+65322 Edward Bowen Germany 54 SARS-1 YES 13-06-2001
+17374 Derek Shields Germany 41 SARS-COV-2 NO
+74833 Tiffany Wang Germany 36 COVID-2019 NO
+48047 Amy Werner Germany 67 EVD YES 28-01-2016
+27147 Pamela Mcknight Germany 44 H1N1 YES 21-11-2015
+57523 Kathleen Morrison Germany 51 FLU-2018 NO
+52696 Jennifer Austin Germany 16 FLU-2018 YES 21-09-2020
+51824 Theresa Stephens Germany 26 MERS-COV YES 14-08-2013
+16550 Angela Ross Germany 47 MERS-COV YES 28-06-2001
+29280 Troy Walker Germany 18 H1N1 NO
+7109 David Edwards Germany 32 SARS-COV-2 YES 08-09-2020
+79023 Kevin Burns Germany 23 SARS-COV-2 YES 09-12-2003
+70658 Shane Collins Germany 70 MERS-COV NO
+85256 Jose Paul Germany 55 SARS-1 NO
+63107 Russell Crawford Germany 74 EVD YES 08-06-2006
+36788 Christian Cochran Germany 15 MERS-COV NO
+57938 Karen Fitzpatrick Germany 41 COVID-2019 NO
+3517 Peter Booth Germany 56 FLU-2018 NO
+97780 Theresa Brown Germany 79 MERS-COV YES 20-08-2013
+69468 William Conway Germany 12 MERS-COV NO
+71494 Nicole Contreras Germany 51 SARS-1 NO
+39935 Julie Hess Germany 22 COVID-2019 NO
+22582 Jessica Mccarthy Germany 31 FLU-2018 YES 19-01-2000
+70733 Sean Craig Germany 45 MERS-COV YES 20-09-2000
+8266 Kristen Campbell Germany 46 COVID-2019 YES 08-11-2000
+54694 Lisa Manning Germany 69 SARS-1 NO
+71989 Renee Gibbs Germany 35 H1N1 YES 30-03-2011
+52285 Anne Haas Germany 21 SARS-COV-2 YES 22-08-2009
+37068 Teresa Meadows Germany 56 FLU-2018 NO
+15871 Jessica Haley Germany 38 EVD NO
+17868 Christopher Hill Germany 51 EVD NO
+78393 Kathryn Fitzgerald Germany 46 MERS-COV YES 29-07-2003
+26382 Derrick Lara Germany 36 FLU-2018 NO
+86208 Madison Sandoval Germany 21 SARS-1 YES 14-02-2001
+70683 Kenneth Thomas Germany 63 MERS-COV YES 17-10-2016
+19139 Christy Garcia Germany 27 FLU-2018 NO
+31378 Elizabeth Williams Germany 71 COVID-2019 YES 23-09-2015
+46402 Brian Johnson Germany 61 EVD NO
+81935 Gavin Warner Germany 18 FLU-2018 YES 28-10-2008
+41674 Nathan Murphy Germany 51 MERS-COV YES 15-06-2019
+44474 Karen Trevino Germany 58 EVD YES 07-07-2018
+24805 Sharon Smith Germany 63 MERS-COV YES 29-03-2000
+71400 Jessica Henderson Germany 72 H1N1 NO
+72440 Matthew Steele Germany 67 FLU-2018 YES 05-06-2002
+61167 Michael Horton Germany 12 FLU-2018 NO
+30205 Laura Green Germany 25 H1N1 NO
+75380 John Wolfe Germany 58 COVID-2019 YES 03-07-2013
+36220 Anthony Shelton Germany 62 SARS-COV-2 NO
+57465 Craig Berry Germany 35 MERS-COV NO
+60430 Kevin Reeves Germany 26 MERS-COV YES 13-09-2005
+32789 Daniel Howard Germany 57 EVD NO
+75968 Micheal Wong Germany 79 COVID-2019 YES 25-03-2010
+39801 Samantha Griffin Germany 63 COVID-2019 NO
+34390 Donna Rivera Germany 76 H1N1 YES 27-06-2020
+90742 Ryan Arnold Germany 42 MERS-COV NO
+40405 Sean Lopez Germany 63 MERS-COV NO
+15972 Robert Berry Germany 33 SARS-1 NO
+16469 Philip Cruz Germany 48 SARS-1 NO
+24630 Thomas Leonard Germany 15 SARS-1 YES 19-09-2007
+384 Jennifer Allen Germany 36 COVID-2019 YES 17-05-2010
+4133 Cristian Bryant Germany 45 EVD NO
+65431 Diane Bartlett Germany 75 H1N1 YES 13-09-2002
+55959 Jodi Webb Germany 25 COVID-2019 YES 18-11-2000
+41766 Sara Knight Germany 56 SARS-COV-2 YES 18-02-2017
+73754 Danielle Robinson Germany 14 COVID-2019 YES 10-09-2012
+7491 Whitney Proctor Germany 40 EVD YES 30-09-2015
+98784 Nicholas Trujillo Germany 30 SARS-1 NO
+81703 Joshua Rodriguez Germany 74 SARS-COV-2 NO
+33459 James Gonzales Germany 20 EVD YES 15-10-2007
+27106 Debra Baker Germany 74 MERS-COV YES 17-09-2016
+54205 Ryan Ramsey Germany 18 FLU-2018 NO
+35261 Mary Brennan Germany 45 H1N1 NO
+83759 Robin Holland Germany 34 SARS-COV-2 YES 23-05-2017
+19023 Jose Lewis Germany 35 SARS-COV-2 NO
+7697 Jennifer Allen Germany 44 COVID-2019 NO
+69047 Mary Morrison Germany 54 EVD YES 25-01-2016
+73548 Roger Henry Germany 43 SARS-COV-2 YES 15-01-2009
+90502 Jeffrey Lopez Germany 14 FLU-2018 NO
+21169 Maria Stewart Germany 55 EVD YES 09-05-2003
+60556 Jenna Leach Germany 22 SARS-1 NO
+24296 Teresa Norton Germany 37 FLU-2018 NO
+98616 Martin Guzman Germany 25 EVD NO
+67806 Mark Rhodes Germany 57 MERS-COV NO
+64637 Kelsey Bailey Germany 27 SARS-COV-2 NO
+83533 David Jones Germany 19 H1N1 NO
+80618 Benjamin Johnson Germany 12 H1N1 NO
+3765 Matthew Gonzalez Germany 23 H1N1 NO
+26504 Lisa Nichols Germany 36 SARS-COV-2 YES 06-06-2007
+44143 Erin Thomas Germany 51 SARS-COV-2 NO
+66895 Laura Aguilar Germany 26 SARS-1 YES 17-11-2014
+58329 Lisa Roach Germany 34 EVD YES 16-01-2007
+328 James Lopez Germany 67 COVID-2019 NO
+71188 Lisa Chavez Germany 64 EVD YES 17-11-2007
+7241 Jamie Ross Germany 58 SARS-COV-2 YES 17-02-2006
+93532 Jessica Potts Germany 64 EVD YES 27-06-2019
+84645 Nicholas Myers Germany 22 FLU-2018 NO
+58147 Amber Jackson Germany 37 COVID-2019 NO
+89948 Jesus Vance Germany 49 COVID-2019 YES 30-05-2009
+64155 Monica Johnson Germany 70 SARS-1 YES 20-02-2003
+84884 Tara Ferrell Germany 30 SARS-1 YES 29-08-2000
+40839 Dana Glass Germany 19 EVD YES 01-10-2013
+59279 Christopher Brown Germany 70 EVD YES 03-01-2006
+54230 Janice Richardson Germany 46 FLU-2018 YES 14-06-2004
+83635 Nathan Ryan Germany 53 MERS-COV YES 12-03-2021
+14763 Michael Willis Germany 18 SARS-COV-2 YES 17-05-2000
+11067 Christopher Dillon Germany 45 H1N1 NO
+33999 Debbie Ball Germany 44 FLU-2018 YES 21-12-2017
+69337 Mark Oliver Germany 15 H1N1 NO
+32573 Joshua Smith Germany 13 SARS-1 YES 12-08-2020
+79268 Anne Murphy Germany 13 H1N1 YES 08-11-2012
+26011 Ashley Smith Germany 25 H1N1 NO
+5730 Tammy Reid Germany 29 MERS-COV NO
+71450 Jorge Henderson Germany 31 SARS-1 YES 22-06-2012
+33166 Tami Benson Germany 18 COVID-2019 YES 01-07-2016
+64452 Craig Smith Germany 70 FLU-2018 YES 09-07-2008
+95359 Raymond Garza Germany 61 FLU-2018 NO
+19879 Tiffany Reyes Germany 53 MERS-COV YES 22-12-2007
+10803 Emily Wells Germany 65 H1N1 NO
+64710 David Patton Germany 55 FLU-2018 NO
+5058 Jennifer Lynch Germany 75 EVD NO
+66711 Deborah Harris Germany 76 EVD YES 25-05-2018
+54575 Susan Evans Germany 64 FLU-2018 NO
+2639 Amber Jimenez Germany 74 COVID-2019 NO
+34817 Corey Arroyo Germany 46 H1N1 YES 29-09-2016
+76254 Mary Chavez Germany 37 SARS-COV-2 NO
+11423 Antonio Sherman Germany 50 FLU-2018 NO
+7848 David Martin Germany 76 H1N1 YES 09-11-2007
+46107 Sabrina Sims Germany 39 SARS-1 NO
+1349 Lynn Benjamin Germany 44 H1N1 YES 25-09-2014
+96670 Julie Little Germany 54 H1N1 YES 05-11-2008
+34645 Joshua Carroll Germany 70 H1N1 YES 29-09-2015
+80668 Billy Dyer Germany 61 EVD YES 12-04-2005
+8808 Chris Brooks Germany 25 COVID-2019 NO
+75745 Erin Jones Germany 67 FLU-2018 NO
+45222 James Stephenson Germany 64 SARS-COV-2 YES 23-12-2002
+29619 Kimberly Stanton Germany 39 MERS-COV YES 11-11-2007
+37934 Angela Reynolds Germany 46 SARS-COV-2 YES 11-02-2000
+8038 David Edwards Germany 40 COVID-2019 NO
+5885 Brandon Rivera Germany 78 SARS-COV-2 YES 14-10-2008
+24672 Timothy Sanders Germany 77 COVID-2019 NO
+88623 Joseph Watson Germany 67 FLU-2018 YES 01-03-2001
+90791 Michael Baldwin Germany 38 FLU-2018 YES 30-07-2006
+28871 Kathy Johnson Germany 16 EVD NO
+86879 Edward Perkins Germany 77 COVID-2019 NO
+7862 Robert Henry Germany 14 SARS-COV-2 NO
+22070 Ann Williams Germany 53 SARS-COV-2 NO
+55964 Lori Bailey Germany 52 H1N1 YES 22-12-2000
+24850 Patrick Mcclure Germany 59 SARS-COV-2 YES 18-09-2020
+88632 Chad Moore Germany 73 SARS-COV-2 YES 11-11-2008
+85871 Rebecca Pearson Germany 42 FLU-2018 YES 18-09-2020
+35634 Lawrence Hurley Germany 22 FLU-2018 YES 18-10-2012
+9209 Kathryn Lopez Germany 46 EVD YES 24-03-2004
+58254 Barbara Harvey Germany 58 FLU-2018 NO
+47334 Chad Thomas Germany 60 SARS-COV-2 YES 19-12-2018
+95581 David Shaffer Germany 15 MERS-COV NO
+27079 Nicolas Caldwell Germany 57 COVID-2019 YES 28-05-2003
+36170 Sarah Jimenez Germany 14 FLU-2018 YES 17-08-2017
+93172 Matthew Everett Germany 34 FLU-2018 NO
+14000 Jonathan Daugherty Germany 66 MERS-COV NO
+16629 April Clark Germany 20 EVD NO
+88105 Joseph Cooper Germany 46 EVD YES 15-03-2018
+15056 Brian Munoz Germany 40 COVID-2019 NO
+31962 David Evans Germany 18 SARS-COV-2 NO
+91742 Christopher Stone Germany 71 H1N1 NO
+58928 Tracy Valdez Germany 15 FLU-2018 YES 17-03-2009
+83532 Destiny Reynolds Germany 73 H1N1 YES 02-02-2016
+6578 Pamela Byrd Germany 21 H1N1 YES 12-07-2005
+95858 Jessica Fernandez Germany 61 SARS-1 NO
+11297 Keith Boyd Germany 44 H1N1 NO
+34564 Erika Patel Germany 10 SARS-COV-2 YES 19-06-2016
+4823 James Nelson Germany 14 SARS-COV-2 YES 12-12-2018
+93019 Katherine Nelson Germany 73 H1N1 YES 13-02-2007
+55217 Tina Chavez Germany 55 COVID-2019 YES 07-09-2012
+9968 Tina Hayes Germany 32 SARS-COV-2 YES 09-11-2020
+60680 Steven Crawford Germany 17 COVID-2019 NO
+57500 Teresa Rowe Germany 56 SARS-COV-2 YES 23-11-2011
+26879 Alejandro Johnson Germany 72 SARS-COV-2 NO
+85183 Timothy Schwartz Germany 17 EVD NO
+13652 Michael Caldwell Germany 62 FLU-2018 NO
+52182 Kristina Nunez Germany 58 EVD NO
+6636 Kathy Flores Germany 39 H1N1 NO
+3276 April Lee Germany 32 EVD NO
+20173 Victoria Walker Germany 37 H1N1 NO
+35601 William Scott Germany 56 FLU-2018 NO
+13410 Catherine Fleming Germany 36 SARS-COV-2 YES 18-09-2010
+8165 Jonathan Smith Germany 68 H1N1 YES 21-06-2014
+93714 Lori Smith Germany 24 MERS-COV NO
+41848 Angela Boyd Germany 74 EVD YES 14-03-2014
+93468 Brandon Johnson Germany 74 MERS-COV NO
+85677 Craig Gentry Germany 31 SARS-1 YES 13-04-2001
+31751 Sierra Stephens Germany 56 SARS-1 NO
+32080 Walter Glover Germany 63 FLU-2018 YES 20-09-2014
+71158 Joanne Anderson Germany 78 EVD NO
+88871 Jacqueline Nelson Germany 51 H1N1 YES 15-04-2017
+72579 Ryan White Germany 60 EVD YES 18-07-2002
+54454 Colleen Levine Germany 70 EVD YES 15-01-2006
+81652 Nicole Russell Germany 65 H1N1 YES 22-08-2006
+91916 Oscar Carroll Germany 74 EVD NO
+50740 Sandra Craig Germany 51 COVID-2019 YES 01-07-2014
+67686 Ryan Greene Germany 48 MERS-COV NO
+99687 Michael West Germany 29 FLU-2018 YES 27-06-2001
+87012 Eric Vazquez Germany 57 MERS-COV NO
+17017 Angela Lyons Germany 30 MERS-COV NO
+55040 Donald Daniels Germany 40 SARS-1 YES 05-01-2000
+18989 Jeffrey Gutierrez Germany 16 SARS-COV-2 YES 20-12-2007
+16332 James Harris Germany 19 EVD NO
+81406 Mark Kelley Germany 38 MERS-COV NO
+41983 Jessica Thompson Germany 11 MERS-COV NO
+96183 Shawn Patel Germany 10 MERS-COV YES 29-04-2020
+77146 Aaron Leon Germany 36 H1N1 NO
+42080 Patrick Hall Germany 71 EVD NO
+81754 Kathleen Graves Germany 52 SARS-1 YES 27-11-2015
+28651 Blake Cardenas Germany 31 FLU-2018 NO
+71674 Wayne Mclaughlin Germany 60 MERS-COV YES 17-08-2009
+80652 John Ramsey Germany 36 SARS-1 YES 01-08-2002
+45302 Leslie Rivas Germany 71 COVID-2019 NO
+48178 Jonathan Perkins Germany 47 H1N1 YES 29-01-2007
+67771 Amy Cooper Germany 26 EVD YES 09-09-2009
+19758 Susan Barnett Germany 70 MERS-COV YES 11-12-2008
+44622 Sarah Fernandez Germany 45 H1N1 NO
+53390 Stephanie Bennett Germany 66 H1N1 YES 23-08-2002
+83206 James Kaiser Germany 35 FLU-2018 YES 17-07-2004
+99124 Lawrence Allen Germany 57 SARS-1 NO
+1003 Austin Vazquez Germany 51 SARS-1 YES 02-06-2012
+72739 William Mills Germany 22 COVID-2019 YES 23-02-2010
+99130 Susan Padilla Germany 69 FLU-2018 YES 07-05-2015
+75393 Jimmy Davis Germany 40 FLU-2018 YES 13-11-2000
+59054 Austin Walker Germany 71 FLU-2018 NO
+46629 Kathleen Chandler Germany 61 SARS-1 YES 16-05-2017
+51917 Patrick Glenn Germany 55 SARS-1 NO
+90288 Erin Bass Germany 42 SARS-1 YES 24-05-2016
+57472 Kenneth Brown Germany 61 COVID-2019 YES 01-01-2015
+64001 Kimberly Jensen Germany 46 H1N1 NO
+74395 Darrell Thomas Germany 41 SARS-COV-2 YES 30-09-2013
+17397 Robert Ruiz Germany 33 SARS-COV-2 NO
+78331 Jennifer Miles Germany 28 SARS-1 NO
+53758 James Whitehead Germany 23 FLU-2018 NO
+30917 Theresa Martin Germany 59 FLU-2018 YES 10-12-2017
+85513 Jennifer Valencia Germany 37 H1N1 YES 16-03-2018
+32189 Michael Wyatt Germany 21 EVD NO
+91154 Megan Diaz Germany 59 SARS-COV-2 YES 11-08-2015
+88452 Brandon Rangel Germany 14 EVD YES 08-07-2013
+79355 Patricia White Germany 22 FLU-2018 NO
+15819 Joseph Collins Germany 45 EVD YES 09-05-2009
+17324 William Contreras Germany 23 H1N1 YES 21-10-2002
+49912 Joseph Giles Germany 64 FLU-2018 NO
+49360 Earl Williams Germany 22 COVID-2019 NO
+97548 Denise Bates Germany 31 FLU-2018 NO
+46018 Michelle Baker Germany 21 SARS-COV-2 NO
+37859 Cameron Hernandez Germany 79 COVID-2019 YES 07-05-2010
+89534 John Hamilton Germany 69 H1N1 NO
+56636 Catherine David Germany 23 EVD YES 25-02-2002
+70312 Rebecca Gates Germany 26 SARS-1 YES 17-07-2016
+67111 Jennifer Scott Germany 46 EVD NO
+92706 Paula Christian Germany 24 EVD NO
+893 Alan Miller Germany 77 SARS-COV-2 YES 11-05-2009
+76622 Brian Johnson Germany 58 SARS-1 NO
+21838 Connie Thompson Germany 48 EVD NO
+7391 Bryan Calhoun Germany 33 MERS-COV NO
+44133 Jason Tran Germany 10 MERS-COV NO
+10547 Ronald Mcdaniel Germany 39 EVD NO
+565 Melanie Edwards Germany 70 COVID-2019 YES 01-09-2003
+33634 Robert Miller Germany 40 H1N1 NO
+54150 Vanessa Banks Germany 10 EVD NO
+34250 Logan Johnson Germany 52 MERS-COV YES 31-12-2011
+14480 William Scott Germany 60 FLU-2018 YES 26-06-2008
+2451 Anna Griffin Germany 11 EVD NO
+75611 Gary Baker Germany 39 FLU-2018 YES 15-11-2004
+1363 Sheena Wilson Germany 11 H1N1 YES 10-06-2017
+93992 William Garcia Germany 33 COVID-2019 YES 09-05-2008
+7220 Andre Grant Germany 70 FLU-2018 YES 13-05-2008
+72842 Joseph Sanders Germany 26 COVID-2019 NO
+43848 Michael Zimmerman Germany 31 SARS-1 YES 30-04-2002
+34105 Barbara Baker Germany 33 COVID-2019 NO
+82 Aaron Hansen Germany 44 H1N1 YES 04-06-2011
+6320 Edward Brown Germany 62 MERS-COV NO
+20004 Wendy Cortez Germany 54 SARS-1 NO
+13930 Vanessa Dominguez Germany 35 MERS-COV NO
+74040 Martin Smith Germany 54 H1N1 YES 02-05-2005
+48363 Leslie Bailey Germany 17 SARS-COV-2 NO
+19640 Adrian Hudson Germany 36 SARS-1 NO
+36332 Bernard Brown Germany 21 SARS-COV-2 YES 03-10-2010
+47754 Christopher Peterson Germany 29 H1N1 NO
+34520 Clinton Barton Germany 36 COVID-2019 NO
+51257 Rachel Mora Germany 44 EVD YES 23-01-2021
+58651 Daniel Daugherty Germany 45 MERS-COV YES 28-10-2012
+29358 Amanda Kirby Germany 35 COVID-2019 NO
+21406 Brian Davis Germany 32 H1N1 NO
+55375 David King Germany 25 EVD NO
+25507 Melissa Baker Germany 11 COVID-2019 YES 11-06-2005
+72189 Marissa Gardner Germany 10 FLU-2018 YES 29-03-2012
+10456 Judy Kelley Germany 51 H1N1 NO
+27942 Monique Torres Germany 66 COVID-2019 NO
+19505 Tiffany Carter Germany 28 FLU-2018 YES 11-06-2011
+10497 James Chen Germany 67 MERS-COV YES 25-01-2020
+66879 Chelsea Mckee Germany 15 SARS-COV-2 YES 28-06-2003
+92876 Debra Long Germany 31 EVD YES 24-04-2002
+97004 Ryan Martin Germany 76 FLU-2018 NO
+73243 Melanie Gomez Germany 62 SARS-COV-2 YES 08-06-2014
+77983 Lisa Brandt Germany 46 SARS-COV-2 YES 29-11-2017
+59972 Tiffany Bowen Germany 19 H1N1 YES 03-01-2005
+91416 Brittany Wilson Germany 66 FLU-2018 NO
+40024 Christopher Dennis Germany 65 MERS-COV NO
+81626 Ian Moore Germany 23 MERS-COV YES 16-12-2011
+93082 Debbie Hawkins Germany 47 FLU-2018 YES 12-10-2002
+26937 Bradley Watson Germany 19 EVD YES 26-06-2016
+59354 Brandon Turner Germany 49 SARS-1 NO
+46000 Shane Hernandez Germany 69 COVID-2019 YES 24-02-2013
+18898 Jeffrey Hall Germany 66 MERS-COV YES 28-01-2002
+93792 Jason Nelson Germany 14 COVID-2019 YES 02-04-2009
+44616 Lawrence Wise Germany 59 SARS-1 YES 08-04-2011
+57863 Bobby Stewart Germany 29 EVD YES 23-12-2000
+52002 Matthew Carlson Germany 44 FLU-2018 NO
+37369 Michael Roach Germany 49 FLU-2018 YES 02-02-2021
+32371 Sean Johnson Germany 63 EVD NO
+1908 David Wilson Germany 66 H1N1 YES 08-03-2008
+13423 Gordon Raymond Germany 71 H1N1 NO
+15950 Dustin Quinn Germany 18 H1N1 YES 27-09-2018
+3690 Kiara Perez Germany 72 COVID-2019 NO
+88479 John Fields Germany 72 MERS-COV NO
+42435 Matthew Lewis Germany 39 EVD NO
+79914 Douglas Blankenship Germany 21 COVID-2019 YES 24-02-2008
+37999 Ian Thompson Germany 15 SARS-COV-2 NO
+66774 Brandon Kelly Germany 17 COVID-2019 YES 04-09-2009
+1939 James Hernandez Germany 51 SARS-1 NO
+49695 Cindy Johnson Germany 63 EVD NO
+5948 Thomas Powell Germany 61 FLU-2018 YES 06-10-2008
+55125 Jill Rubio Germany 58 H1N1 NO
+73648 Michelle Webster Germany 79 MERS-COV YES 03-09-2007
+72140 Elizabeth Woodward Germany 31 H1N1 YES 22-02-2000
+53283 Kevin Mccormick Germany 75 SARS-COV-2 NO
+43346 Devon Howell Germany 29 EVD NO
+83433 Tyler Gilbert Germany 18 COVID-2019 NO
+82440 Christopher Williams Germany 57 SARS-1 NO
+78940 Jennifer Mann Germany 29 H1N1 NO
+49910 Samantha Green Germany 68 MERS-COV NO
+2292 Laura Elliott Germany 15 H1N1 NO
+97048 Jennifer Vazquez Germany 72 SARS-1 NO
+9701 Jeffrey Ray Germany 37 SARS-COV-2 YES 31-12-2003
+85298 Michael Gill Germany 56 SARS-COV-2 YES 29-10-2015
+68832 Kyle Diaz Germany 70 MERS-COV NO
+60987 Timothy Johnson Germany 24 SARS-COV-2 YES 13-06-2015
+46800 James Davidson Germany 12 MERS-COV YES 22-02-2005
+26083 Lisa Henry Germany 65 SARS-COV-2 YES 03-11-2004
+90802 James Young Germany 44 SARS-1 YES 26-06-2001
+60126 Kari Long Germany 56 SARS-1 NO
+91302 Marcus Sullivan Germany 60 EVD YES 03-09-2020
+70560 Diane Walls Germany 76 SARS-1 YES 02-07-2007
+83244 Justin Mosley Germany 44 H1N1 NO
+41853 Anita Stone Germany 60 MERS-COV NO
+55256 Brian Gonzales Germany 68 H1N1 NO
+29633 Lori Tyler Germany 17 SARS-1 YES 08-05-2015
+92972 Patricia Palmer Germany 32 H1N1 NO
+53227 Samuel Hall Germany 67 MERS-COV NO
+78419 Crystal Petersen Germany 71 FLU-2018 NO
+71146 David Benson Germany 42 FLU-2018 YES 19-11-2003
+80251 Kenneth Clark Germany 12 SARS-COV-2 NO
+36378 James Gallegos Germany 15 MERS-COV NO
+70121 Kimberly Schroeder Germany 38 FLU-2018 YES 04-07-2000
+26409 Loretta Butler Germany 63 EVD YES 02-07-2003
+88645 Scott Herrera Germany 18 FLU-2018 YES 06-08-2000
+34728 Kimberly Turner Germany 38 H1N1 YES 01-04-2017
+80754 Emily Richards Germany 41 SARS-COV-2 NO
+36368 Nicole Thompson Germany 32 COVID-2019 YES 07-07-2014
+74286 Nicole Reyes Germany 67 SARS-COV-2 NO
+45882 Andrew Hanson Germany 58 MERS-COV YES 14-02-2002
+44487 Jacqueline Fletcher Germany 48 COVID-2019 YES 13-12-2008
+80432 Ashley Guerrero Germany 11 FLU-2018 NO
+57361 Bryan Jones Germany 76 MERS-COV YES 19-11-2010
+59662 Tiffany Boyer Germany 11 FLU-2018 YES 01-02-2001
+4955 Sarah Robertson Germany 57 SARS-COV-2 NO
+77780 Nicholas Velazquez Germany 10 EVD YES 06-08-2014
+19163 Tyler Ellison Germany 78 MERS-COV YES 28-12-2017
+44460 Mark Hall Germany 72 FLU-2018 YES 18-09-2012
+45748 Tammy Contreras Germany 34 FLU-2018 NO
+2347 Jim Rios Germany 25 SARS-1 NO
+37015 Amy Williams Germany 50 EVD YES 03-06-2013
+74089 Andrea Lopez Germany 44 COVID-2019 NO
+51029 Tyler Franco Germany 69 SARS-1 YES 19-10-2015
+17793 Melissa Woods Germany 21 MERS-COV NO
+32114 Daniel Smith Germany 74 SARS-COV-2 NO
+77378 Adam Herrera Germany 45 FLU-2018 NO
+23924 Pamela Page Germany 66 COVID-2019 YES 20-11-2018
+11805 Sheila Massey Germany 22 MERS-COV NO
+8402 James Bauer Germany 14 EVD YES 20-07-2003
+83625 Tracey Delgado Germany 59 SARS-COV-2 YES 03-12-2008
+29537 Glenn Payne Germany 63 SARS-COV-2 NO
+39620 Courtney Jenkins Germany 49 COVID-2019 NO
+62297 Sandra Moreno Germany 13 EVD NO
+15523 Devin Gonzalez Germany 78 COVID-2019 YES 25-06-2016
+55047 Kenneth West Germany 44 EVD YES 20-10-2008
+90107 Lori Newman Germany 22 COVID-2019 NO
+12062 Brian Jackson Germany 13 COVID-2019 NO
+86484 Thomas Jones Germany 34 EVD YES 17-06-2000
+54295 David Smith Germany 69 SARS-COV-2 NO
+6897 Kimberly Black Germany 29 FLU-2018 NO
+97364 Timothy Roberts Germany 77 SARS-1 NO
+68198 Eric Peterson Germany 60 MERS-COV YES 04-09-2017
+49902 Dean Haney Germany 62 SARS-COV-2 YES 20-01-2019
+14995 Kimberly Wilson Germany 44 MERS-COV YES 16-03-2015
+42006 Tonya Benitez Germany 29 SARS-COV-2 YES 27-09-2008
+61613 David Lindsey Germany 58 FLU-2018 YES 03-04-2001
+24288 Carla Harris Germany 69 EVD NO
+29751 Mark Lester Germany 78 MERS-COV YES 15-04-2018
+14967 Melissa Thomas Germany 46 MERS-COV NO
+47301 Jessica Wall Germany 16 COVID-2019 YES 05-07-2019
+26913 Michael Peterson Germany 30 SARS-COV-2 NO
+30957 Jennifer Reese Germany 17 EVD NO
+81348 Michael Scott Germany 61 H1N1 YES 29-09-2003
+22740 Paul Wood Germany 67 FLU-2018 NO
+52175 Ronald Dunn Germany 35 COVID-2019 NO
+41890 Victoria Anderson Germany 11 SARS-COV-2 YES 27-01-2004
+42273 Trevor Salinas Germany 69 SARS-1 NO
+48171 Kenneth Moore Germany 73 SARS-COV-2 NO
+70060 Erika Liu Germany 49 SARS-COV-2 NO
+18841 Corey Allison Germany 60 EVD NO
+73500 John Patterson Germany 72 COVID-2019 YES 06-11-2001
+72509 James Oconnor Germany 62 SARS-1 NO
+7659 Lisa Sanford Germany 17 SARS-COV-2 YES 06-02-2017
+65287 Harold Hernandez Germany 45 H1N1 NO
+86994 Dana Garcia Germany 21 COVID-2019 YES 18-05-2015
+46274 Aaron Cummings Germany 68 MERS-COV NO
+80292 Alicia Curry Germany 67 SARS-1 YES 21-10-2017
+58117 Michael Mcmahon Germany 39 SARS-COV-2 NO
+63871 Megan Davis Germany 68 MERS-COV NO
+69538 Eric Charles Germany 60 MERS-COV YES 24-04-2009
+27940 Sharon Merritt Germany 51 FLU-2018 NO
+17455 Gregory Browning Germany 55 SARS-1 YES 08-09-2009
+32625 Beth Serrano Germany 39 SARS-COV-2 YES 17-11-2008
+53725 Jose Lee Germany 23 H1N1 NO
+60865 Richard Nelson Germany 60 SARS-1 NO
+64973 Larry Compton Germany 73 MERS-COV NO
+72967 Darren James Germany 56 SARS-1 YES 22-11-2011
+10401 Christine Williams Germany 12 MERS-COV YES 04-02-2018
+291 Roy Wells Germany 56 SARS-1 YES 07-09-2003
+2638 Gregory Munoz Germany 30 EVD NO
+5560 Jonathan Brown Germany 24 SARS-COV-2 NO
+46476 Devon Cardenas Germany 17 SARS-COV-2 YES 12-09-2017
+6788 Richard Williams Germany 61 SARS-COV-2 NO
+89796 Jennifer Wilson Germany 46 MERS-COV NO
+93288 Katherine Best Germany 19 MERS-COV YES 23-11-2010
+9258 Paul Sanchez Germany 44 SARS-COV-2 YES 27-08-2002
+69266 Catherine Walker Germany 73 MERS-COV NO
+14831 Crystal Marquez Germany 21 H1N1 NO
+62719 Tracy Taylor Germany 61 MERS-COV YES 01-08-2012
+41921 Connor Tran Germany 72 SARS-1 YES 03-05-2002
+16472 Chad Acevedo Germany 31 SARS-COV-2 NO
+9375 Mandy Jensen Germany 45 EVD NO
+17730 Jacob Gross Germany 53 COVID-2019 YES 25-05-2015
+21022 Nicholas Bush Germany 32 EVD NO
+84963 John Stevens Germany 73 COVID-2019 YES 28-03-2009
+24938 Angela Ferguson Germany 24 MERS-COV NO
+60643 Shannon Rogers Germany 78 COVID-2019 NO
+60049 Dana Alexander Germany 68 MERS-COV YES 31-10-2004
+16868 Victoria Lawrence Germany 71 MERS-COV NO
+46417 John Nguyen Germany 14 MERS-COV YES 26-10-2006
+86152 Julia Smith Germany 14 EVD YES 10-08-2006
+68217 Karen Anderson Germany 57 COVID-2019 YES 28-02-2015
+55658 Troy Boyd Germany 60 MERS-COV YES 31-12-2002
+68940 Amanda West Germany 39 SARS-COV-2 NO
+15526 Tyler Hart Germany 52 COVID-2019 YES 27-01-2005
+52038 Jacob Garcia Germany 54 MERS-COV NO
+69329 Douglas Bishop Germany 52 COVID-2019 NO
+42131 Melinda Obrien Germany 22 FLU-2018 NO
+79021 Carrie Juarez Germany 23 H1N1 YES 12-05-2000
+32510 Benjamin Jones Germany 33 COVID-2019 YES 08-03-2005
+9330 Mark Floyd Germany 18 COVID-2019 NO
+89488 Jessica Hill Germany 59 SARS-COV-2 NO
+65905 Michael Johnson Germany 44 MERS-COV YES 14-12-2019
+66146 David Bennett Germany 15 SARS-COV-2 NO
+83793 Tracey Mcgee Germany 22 COVID-2019 YES 20-11-2020
+31822 Margaret Thomas Germany 11 FLU-2018 NO
+46845 Rachel Young Germany 67 MERS-COV NO
+2144 Angela Zimmerman Germany 15 MERS-COV YES 05-06-2006
+6930 Matthew Smith Germany 45 EVD NO
+70166 Tamara Fitzgerald Germany 56 SARS-1 NO
+74926 Jennifer Moore Germany 39 SARS-1 YES 30-12-2020
+44609 Alexander Beck Germany 31 FLU-2018 YES 22-05-2007
+34763 Charles Crosby Germany 44 H1N1 YES 26-01-2000
+87890 Jason Navarro Germany 38 H1N1 NO
+45342 Ryan Ortiz Germany 50 MERS-COV YES 16-09-2017
+28996 Carlos Carpenter Germany 21 MERS-COV YES 13-01-2005
+46071 Rachel Smith Germany 37 COVID-2019 YES 15-02-2008
+28188 Sarah Williams Germany 69 FLU-2018 NO
+42209 Fernando Reid Germany 57 SARS-COV-2 NO
+80314 Paige Anderson Germany 41 EVD NO
+36748 Amber Rios Germany 28 EVD NO
+37442 Kaitlyn Orozco Germany 79 COVID-2019 YES 16-12-2003
+56889 Ashley Harris Germany 19 COVID-2019 NO
+32962 April Bennett Germany 18 EVD YES 22-06-2020
+16316 Dennis Gonzalez Germany 61 H1N1 YES 27-07-2003
+60777 Denise King Germany 67 EVD YES 08-05-2000
+57631 Tammy Coleman Germany 68 FLU-2018 YES 18-12-2003
+90331 Donald Baker Germany 55 EVD YES 29-07-2004
+25463 Gabriel Cooper Germany 33 SARS-COV-2 YES 29-12-2008
+97892 Donna Robinson Germany 30 H1N1 YES 10-10-2016
+8169 Juan Velasquez Germany 41 COVID-2019 YES 15-01-2020
+85163 Lindsay Mcdonald Germany 49 SARS-COV-2 NO
+35597 Kirsten Taylor Germany 34 SARS-1 YES 21-04-2015
+64389 Audrey Santos Germany 59 MERS-COV YES 09-11-2020
+50713 Victor Miller Germany 43 H1N1 NO
+91855 Erin Crane Germany 65 MERS-COV YES 22-06-2007
+5613 Jacob Larson Germany 40 MERS-COV YES 16-01-2005
+84451 Ashlee Hoffman Germany 51 FLU-2018 NO
+86753 Dustin Herrera Germany 14 SARS-COV-2 YES 06-04-2014
+13072 Alicia Estrada Germany 51 H1N1 YES 12-01-2017
+90547 Robert Elliott Germany 32 COVID-2019 NO
+75039 Colleen West Germany 17 EVD YES 11-07-2004
+6210 Isabella Ramirez Germany 33 MERS-COV NO
+37277 Jesse Bishop Germany 52 H1N1 NO
+43005 Timothy Williams Germany 66 SARS-COV-2 YES 24-01-2012
+23557 Amy Lee Germany 63 SARS-1 NO
+94646 Dylan Gillespie Germany 72 SARS-1 YES 03-11-2003
+91127 David Wilcox Germany 21 SARS-1 NO
+1828 Larry Smith Germany 35 FLU-2018 NO
+11621 Douglas Davis Germany 25 MERS-COV YES 25-07-2005
+45762 Brian Johnson Germany 41 FLU-2018 YES 02-12-2001
+13987 Jennifer Johnson Germany 73 SARS-COV-2 NO
+70133 Carla Anderson Germany 64 FLU-2018 YES 06-06-2000
+32022 Michael Wang Germany 50 COVID-2019 YES 12-05-2014
+91663 Tammy Mason Germany 63 MERS-COV YES 03-07-2005
+88597 Matthew Cameron Germany 50 MERS-COV YES 12-01-2016
+91694 Samuel Morrison Germany 75 COVID-2019 NO
+84096 Michael Stephens Germany 66 H1N1 NO
+78495 Benjamin Martinez Germany 27 FLU-2018 YES 10-01-2021
+84964 Michael Williams Germany 47 COVID-2019 YES 09-05-2012
+13861 Derrick Madden Germany 15 SARS-COV-2 NO
+74960 Marc Wilson Germany 27 SARS-COV-2 NO
+92718 Sydney Gonzalez Germany 42 SARS-COV-2 NO
+14074 Daniel Li Germany 48 MERS-COV NO
+65951 Matthew Wagner Germany 76 EVD NO
+18824 Sharon Garcia Germany 23 FLU-2018 NO
+43648 Kathleen Simmons Germany 20 SARS-COV-2 YES 08-07-2012
+61624 Jesse Collins Germany 65 SARS-COV-2 NO
+2917 Brandon Kaufman Germany 73 COVID-2019 YES 01-09-2005
+82405 Heather Porter Germany 69 MERS-COV YES 16-01-2019
+17137 Kristin Ibarra Germany 63 MERS-COV YES 22-09-2011
+8788 Denise Peterson Germany 22 MERS-COV YES 31-10-2018
+8222 Melissa Price Germany 22 MERS-COV YES 15-01-2001
+46745 Brandon Smith Germany 63 MERS-COV YES 28-03-2009
+65565 Laura Rice Germany 33 COVID-2019 YES 28-08-2002
+68959 Paul Torres Germany 63 SARS-COV-2 YES 25-02-2008
+83732 Jeffery Gregory Germany 53 SARS-COV-2 NO
+74242 Ethan James Germany 47 SARS-1 NO
+49712 Kristopher Salinas Germany 68 COVID-2019 NO
+26366 Adam Rodriguez Germany 18 SARS-COV-2 NO
+48100 Michael Vaughn Germany 25 SARS-COV-2 YES 12-12-2000
+64284 Michael Smith Germany 29 MERS-COV NO
+98070 Brendan Pollard Germany 73 COVID-2019 NO
+15671 Nathan Davenport Germany 66 H1N1 YES 14-05-2013
+97032 Tyler Crosby Germany 56 COVID-2019 NO
+22040 Meghan Morales Germany 76 EVD NO
+80949 Thomas Miranda Germany 73 EVD YES 04-12-2017
+36825 Timothy Stafford Germany 11 SARS-COV-2 NO
+33284 Brittany Landry Germany 54 H1N1 NO
+30009 Courtney Clark Germany 49 MERS-COV YES 07-11-2003
+83534 Ashley Owens Germany 55 MERS-COV YES 30-03-2013
+60396 Michelle Underwood Germany 63 MERS-COV NO
+9951 Katie Chan Germany 24 SARS-1 YES 22-09-2016
+4683 Jill Gaines Germany 13 MERS-COV NO
+82390 Thomas Schwartz Germany 41 FLU-2018 NO
+14789 Matthew Williams Germany 79 SARS-COV-2 YES 24-06-2005
+8422 William Fitzgerald Germany 33 FLU-2018 NO
+20511 Cody Sanchez Germany 29 FLU-2018 NO
+7661 Heather Welch Germany 39 MERS-COV YES 27-09-2013
+87205 Bailey Bell Germany 20 MERS-COV YES 14-12-2001
+62994 Tiffany Jones Germany 58 SARS-1 YES 02-10-2004
+24704 Francis Stephens Germany 34 COVID-2019 NO
+97240 Joseph Bates Germany 60 COVID-2019 NO
+34320 Barbara Mcconnell Germany 24 H1N1 YES 07-11-2017
+2862 Mary Hart Germany 32 MERS-COV YES 23-03-2002
+52842 Jeffrey Trujillo Germany 10 EVD NO
+87780 Caitlin Hansen Germany 69 SARS-COV-2 YES 23-10-2007
+10130 Thomas Austin Germany 13 COVID-2019 NO
+80532 Timothy Bradford Germany 61 MERS-COV YES 05-02-2014
+85766 Linda Nielsen Germany 14 FLU-2018 YES 05-05-2017
+69140 Jose Walsh Germany 61 MERS-COV YES 04-06-2010
+91018 Suzanne Miller Germany 58 MERS-COV YES 22-01-2004
+81502 Amanda Turner Germany 62 FLU-2018 YES 17-02-2007
+25866 Michael Dorsey Germany 58 COVID-2019 NO
+31199 Melissa Coffey Germany 78 FLU-2018 YES 27-04-2001
+21231 Doris Shaw Germany 14 COVID-2019 NO
+98692 Whitney Hernandez Germany 67 COVID-2019 YES 10-01-2014
+71850 Nicole Ho Germany 72 MERS-COV NO
+67684 Daniel Love Germany 67 SARS-1 NO
+36403 Michelle Wilson Germany 44 SARS-1 YES 19-10-2005
+77548 David Riley Germany 78 FLU-2018 YES 01-12-2014
+5823 Stacy Valdez Germany 70 FLU-2018 NO
+85117 Linda Davis Germany 35 SARS-1 NO
+76006 Pamela Short Germany 50 FLU-2018 NO
+421 Bobby Cole Germany 72 SARS-COV-2 NO
+37439 Kyle Mccann Germany 37 COVID-2019 YES 05-07-2005
+11224 Emily Phillips Germany 10 EVD NO
+68461 Daniel Thompson Germany 71 MERS-COV NO
+26239 Mark Garner Germany 27 FLU-2018 NO
+51807 Alex Cowan Germany 27 COVID-2019 NO
+70835 Curtis Gibson Germany 68 H1N1 NO
+42737 Laura Johnson Germany 19 EVD YES 30-05-2010
+7374 Cynthia Baldwin Germany 78 MERS-COV YES 13-04-2013
+34404 Sydney Finley Germany 36 H1N1 NO
+330 Vincent Alvarez Germany 20 COVID-2019 YES 30-08-2012
+61944 Alexa Hopkins Germany 45 SARS-1 NO
+5563 Kimberly Burns Germany 38 MERS-COV YES 22-05-2013
+66475 Patricia Salazar Germany 62 EVD NO
+31529 John Brown Germany 49 EVD YES 26-11-2007
+40713 Elizabeth Sanchez Germany 23 EVD YES 06-01-2010
+129 Crystal Key Germany 33 MERS-COV YES 10-07-2018
+74320 Alison Castaneda Germany 35 FLU-2018 YES 26-04-2004
+68725 Barbara Durham Germany 65 SARS-COV-2 YES 19-08-2011
+20499 Ronald Burnett Germany 60 H1N1 YES 07-01-2003
+95608 Dawn Kelly Germany 19 SARS-1 YES 26-02-2006
+16152 Jacob Wang Germany 18 SARS-1 YES 06-11-2005
+74991 Maria Thomas Germany 61 SARS-COV-2 NO
+2135 Kristen Best Germany 28 MERS-COV NO
+16478 Nancy Anderson Germany 60 COVID-2019 NO
+61952 Emily Robinson Germany 28 SARS-1 NO
+44697 Jonathan Jones Germany 54 COVID-2019 NO
+49698 Zachary Valdez Germany 71 FLU-2018 NO
+43801 Roger Kim Germany 18 MERS-COV NO
+62980 Marie Odonnell Germany 39 SARS-COV-2 NO
+23180 Jose Rivera Germany 14 SARS-COV-2 YES 04-07-2011
+20131 Tammy Costa Germany 38 MERS-COV NO
+28455 Steven Byrd Germany 40 COVID-2019 NO
+32387 Crystal Williams Germany 13 H1N1 NO
+97868 Amanda Harris Germany 48 EVD NO
+96919 Alexis Decker Germany 24 EVD NO
+6006 Rhonda Jackson Germany 23 FLU-2018 YES 02-01-2018
+64198 Patrick Smith Germany 60 FLU-2018 YES 24-08-2013
+96734 Jason Herrera Germany 26 FLU-2018 NO
+27869 David Thomas Germany 11 SARS-COV-2 NO
+10224 Robert Mcdonald Germany 25 FLU-2018 YES 10-02-2000
+89453 Kevin Stewart Germany 65 FLU-2018 YES 06-02-2016
+80141 Sean Holland Germany 63 SARS-1 NO
+91166 Phillip Graham Germany 21 MERS-COV NO
+61049 Allison Price Germany 12 MERS-COV NO
+11850 Keith Brown Germany 33 H1N1 NO
+46924 Ashley Hamilton Germany 13 FLU-2018 NO
+71282 Amanda Marsh Germany 66 SARS-1 YES 19-07-2017
+40485 Rebecca Horton Germany 12 EVD NO
+83365 Christopher Delgado Germany 70 H1N1 NO
+87694 Johnny Turner Germany 17 COVID-2019 YES 30-11-2012
+13411 Michelle Saunders Germany 53 COVID-2019 NO
+85141 Julie Walter Germany 24 MERS-COV YES 25-06-2006
+4494 William Tyler Germany 24 EVD YES 20-03-2008
+92250 William Moody Germany 51 FLU-2018 NO
+74116 Marvin Martin Germany 44 SARS-COV-2 YES 17-09-2008
+75359 Melinda Hutchinson Germany 13 MERS-COV NO
+69662 Laura Gutierrez Germany 68 EVD YES 09-09-2011
+86196 Brandon Gardner Germany 26 MERS-COV NO
+9359 Howard Andersen Germany 68 SARS-1 NO
+1084 Dakota Robertson Germany 42 FLU-2018 NO
+81119 Brianna Lambert Germany 72 SARS-1 NO
+47647 Candice Hawkins Germany 32 MERS-COV YES 26-04-2017
+46411 Sarah Garcia Germany 30 MERS-COV NO
+68476 Michelle Allen Germany 46 SARS-1 NO
+51991 Christopher Rollins Germany 14 SARS-1 YES 19-05-2020
+10143 Wanda Rose Germany 58 FLU-2018 NO
+57069 Jeffrey Kirby Germany 40 H1N1 YES 04-12-2016
+70805 Kristina Saunders Germany 62 EVD NO
+69304 Samantha Mcintosh Germany 17 MERS-COV YES 14-05-2002
+14025 David Taylor Germany 72 SARS-1 YES 24-01-2005
+41995 Corey Gonzalez Germany 36 H1N1 NO
+22226 Mark Larsen Germany 45 SARS-COV-2 YES 09-10-2011
+92740 Thomas Campbell Germany 11 MERS-COV YES 24-09-2007
+75198 Diane Adams Germany 33 SARS-COV-2 YES 30-09-2005
+28400 Travis Rodriguez Germany 14 SARS-COV-2 NO
+6201 Donald Vasquez Germany 71 FLU-2018 NO
+78638 Desiree Watkins Germany 16 MERS-COV YES 03-01-2006
+19438 Alexander Harper Germany 63 H1N1 NO
+45060 Timothy Jones Germany 47 H1N1 YES 23-07-2014
+96167 Gail Barry Germany 67 EVD NO
+22157 Christopher Walton Germany 71 FLU-2018 YES 04-11-2001
+65334 Ruben Richardson Germany 54 MERS-COV NO
+58749 Mariah Ward Germany 46 H1N1 NO
+37630 Lucas Ross Germany 77 EVD NO
+84518 Cody Webb Germany 79 H1N1 YES 27-07-2010
+93196 Alejandro Johnson Germany 54 SARS-COV-2 YES 23-11-2001
+53247 Joseph Gaines Germany 15 EVD YES 24-01-2021
+48040 Mario Butler Germany 39 SARS-COV-2 NO
+52673 Rachel Byrd Germany 41 SARS-COV-2 YES 23-01-2009
+26690 Cindy Vega Germany 38 SARS-COV-2 YES 16-10-2006
+34210 Melanie Dunn Germany 16 EVD NO
+59474 Leslie Mccormick Germany 12 SARS-1 YES 12-09-2012
+5 Melvin Walker Germany 43 EVD NO
+47408 Susan Austin Germany 76 MERS-COV YES 01-02-2001
+45136 David Cox Germany 56 COVID-2019 YES 19-09-2015
+95022 Cheryl Werner Germany 65 SARS-1 NO
+47682 Amy Oconnor Germany 47 EVD NO
+62321 Robert Mayo Germany 34 SARS-1 NO
+64560 Monica Lopez Germany 71 FLU-2018 NO
+69618 Kathryn Tyler Germany 67 H1N1 YES 09-01-2013
+41238 Samuel Pierce Germany 56 FLU-2018 YES 10-04-2001
+82483 Larry Perez Germany 77 MERS-COV NO
+85837 Robert Jones Germany 24 H1N1 NO
+1683 Maria Gonzalez Germany 27 MERS-COV NO
+29110 Matthew Smith Germany 30 COVID-2019 YES 16-11-2014
+38719 Sandra Baker Germany 51 COVID-2019 NO
+36563 Leslie Boyle Germany 47 H1N1 NO
+67035 Kevin Leon Germany 39 SARS-1 NO
+29572 Spencer Gay Germany 25 MERS-COV YES 09-07-2011
+84234 Timothy Austin Germany 62 SARS-1 YES 12-04-2012
+35982 Randall Green Germany 23 EVD NO
+72268 Marcia Perkins Germany 48 SARS-COV-2 NO
+50121 Linda Stone Germany 51 FLU-2018 NO
+19248 Nancy Adams Germany 25 EVD NO
+22102 Heather Kim Germany 37 SARS-1 YES 15-08-2013
+57459 Sue Watkins Germany 34 MERS-COV NO
+92904 Cassandra Mosley Germany 37 FLU-2018 NO
+53537 David Harris Germany 51 MERS-COV NO
+2098 Danielle Walker Germany 65 H1N1 NO
+70090 Abigail Joseph Germany 16 H1N1 YES 23-05-2006
+41926 Ryan Morris Germany 45 EVD NO
+85480 Carlos Hawkins Germany 27 FLU-2018 YES 05-03-2014
+89006 Anthony Stewart Germany 71 SARS-1 NO
+24170 Jeffery Vazquez Germany 72 SARS-COV-2 YES 13-11-2006
+41815 Stephanie Duran Germany 11 H1N1 YES 25-03-2020
+71326 Michael Myers Germany 25 COVID-2019 YES 23-01-2013
+43461 Krystal Skinner Germany 46 EVD NO
+98310 Kelly Swanson Germany 66 SARS-COV-2 YES 23-04-2011
+39948 Cindy Sanders Germany 38 COVID-2019 NO
+35900 Darren Foster Germany 39 FLU-2018 NO
+46489 Frank Becker Germany 56 SARS-1 YES 09-10-2011
+53506 Jessica Ford Germany 76 MERS-COV NO
+85495 Juan Paul Germany 16 SARS-COV-2 YES 13-08-2001
+88805 Samantha Graham Germany 69 SARS-1 YES 27-12-2007
+9049 Stacey Smith Germany 38 SARS-1 NO
+648 Shannon Miller Germany 57 MERS-COV YES 19-02-2000
+22798 Crystal Haynes Germany 67 EVD NO
+44661 Robert Kramer Germany 13 H1N1 NO
+54481 Kayla Mendez Germany 32 MERS-COV NO
+46041 Jessica Neal Germany 20 SARS-1 YES 06-05-2005
+13810 Darlene Bennett Germany 53 EVD NO
+31645 Sarah Snyder Germany 11 COVID-2019 YES 19-08-2003
+78949 Alexandria Garcia Germany 40 SARS-COV-2 NO
+82609 Roy Rodriguez Germany 66 EVD NO
+27840 Diane Perkins Germany 60 H1N1 NO
+19055 Melissa Allen Germany 63 SARS-1 YES 03-04-2015
+56979 Sherri Juarez Germany 18 FLU-2018 NO
+90834 Brian Coleman Germany 16 SARS-COV-2 YES 07-02-2011
+92102 Matthew Coleman Germany 56 H1N1 NO
+26710 Charles Garcia Germany 57 FLU-2018 NO
+25044 Natasha Oneill Germany 28 EVD NO
+69975 David Campbell Germany 53 H1N1 YES 09-02-2017
+72041 Whitney Lewis Germany 13 MERS-COV NO
+892 Kimberly Williamson Germany 11 SARS-1 YES 04-06-2004
+41364 Dana Sullivan Germany 62 COVID-2019 NO
+47917 Tracy Beltran Germany 54 MERS-COV YES 17-02-2001
+32832 Cassandra Parker Germany 57 EVD NO
+99454 Mary Craig Germany 26 SARS-1 NO
+19018 Angela Williams Germany 48 MERS-COV YES 04-02-2007
+18522 John Gay Germany 44 EVD YES 08-11-2008
+1651 Rodney Reed Germany 54 H1N1 YES 22-02-2018
+16133 Brenda Martinez Germany 27 H1N1 YES 31-03-2003
+38282 Justin Gutierrez Germany 45 COVID-2019 YES 06-02-2007
+58803 Jenna Brady Germany 20 SARS-COV-2 NO
+26896 Hannah Lee Germany 57 EVD YES 29-01-2018
+24305 Luke Bell Germany 32 MERS-COV YES 20-09-2019
+3579 Rebecca Fuentes Germany 33 MERS-COV NO
+58472 Cole Colon Germany 31 SARS-COV-2 NO
+2213 Lance Henderson Germany 35 EVD NO
+34246 Eddie Diaz Germany 78 SARS-1 YES 15-05-2017
+95806 Tamara Crawford Germany 41 FLU-2018 NO
+25680 Patty Tate Germany 15 SARS-COV-2 NO
+27217 Rachel Rivera Germany 70 EVD YES 18-01-2013
+38918 Roy Hopkins Germany 41 MERS-COV NO
+18310 Jennifer Martin Germany 65 MERS-COV NO
+77615 Colleen Brandt Germany 61 COVID-2019 YES 16-08-2008
+47187 Timothy Smith Germany 39 H1N1 NO
+26905 Brittany Lawrence Germany 28 H1N1 YES 20-03-2008
+31618 Larry Mendoza Germany 57 MERS-COV YES 06-09-2016
+18900 Julian Peterson Germany 70 FLU-2018 NO
+37995 Andrew Thomas Germany 71 FLU-2018 YES 13-03-2020
+55036 Jose Kramer Germany 74 FLU-2018 YES 28-08-2013
+52404 David Peterson Germany 30 MERS-COV YES 15-02-2016
+12795 William Frank Germany 44 MERS-COV YES 21-09-2016
+20608 Patrick Mcdowell Germany 72 MERS-COV YES 06-08-2004
+18319 Jose Payne Germany 50 H1N1 NO
+85657 Christian Doyle Germany 54 SARS-COV-2 YES 14-04-2008
+53292 Michelle Davis Germany 22 FLU-2018 YES 08-09-2002
+5455 Catherine Berger Germany 31 EVD YES 09-06-2005
+89258 Susan Payne Germany 68 COVID-2019 NO
+5511 Stephen Wells Germany 48 SARS-1 YES 26-06-2017
+55773 Brandon Stein Germany 23 MERS-COV NO
+9883 Monica Horn Germany 45 SARS-1 YES 07-08-2018
+54888 Dawn Hanson Germany 32 MERS-COV YES 30-04-2001
+40981 Megan Lam Germany 17 SARS-COV-2 NO
+17740 Susan Herring Germany 32 SARS-1 NO
+74390 Juan Thompson Germany 59 COVID-2019 NO
+18958 Samantha Friedman Germany 70 H1N1 NO
+63934 Dylan Pope Germany 21 COVID-2019 NO
+75888 Heather Smith Germany 33 SARS-COV-2 NO
+30877 Vanessa Kelley Germany 55 SARS-COV-2 NO
+80653 Michael Booth Germany 24 SARS-COV-2 NO
+33421 Michael Carrillo Germany 61 H1N1 NO
+30050 Richard Orozco Germany 37 FLU-2018 NO
+15611 Adam Cook Germany 54 SARS-1 YES 10-12-2007
+32457 Joseph Wright Germany 49 EVD NO
+32466 Nicholas Ramos Germany 34 SARS-1 YES 15-07-2014
+8801 Ralph Kelly Germany 43 COVID-2019 NO
+75657 John Smith Germany 70 H1N1 YES 09-01-2012
+70652 April Bell Germany 63 H1N1 NO
+81600 Jacqueline Mccoy Germany 58 EVD NO
+80051 Dominique Williams Germany 68 COVID-2019 YES 12-01-2021
+39469 Stacey Kelly Germany 44 SARS-COV-2 NO
+35553 Kaitlyn Orozco Germany 59 H1N1 YES 03-08-2011
+43569 Steven Watts Germany 54 SARS-COV-2 NO
+52501 Bonnie Peterson Germany 56 SARS-1 NO
+76940 Chelsea Lyons Germany 59 FLU-2018 NO
+60742 Alan Thomas Germany 60 MERS-COV YES 17-12-2016
+29146 Craig Lopez Germany 28 SARS-1 YES 20-12-2001
+80565 David Dennis Germany 45 EVD NO
+41941 Belinda Dawson Germany 62 EVD NO
+30287 Kristina Reyes Germany 65 SARS-COV-2 NO
+86168 John Bennett Germany 71 MERS-COV YES 09-05-2011
+13335 David Jones Germany 78 FLU-2018 YES 04-02-2014
+37171 Lori Sampson Germany 16 SARS-COV-2 YES 24-05-2006
+65368 Jesse Beltran Germany 62 SARS-COV-2 YES 07-06-2011
+14095 Debra Armstrong Germany 57 COVID-2019 YES 08-02-2001
+54077 Adam Miller Germany 17 MERS-COV YES 27-01-2001
+51101 John Nixon Germany 75 MERS-COV YES 27-01-2008
+94428 Lance Austin Germany 20 FLU-2018 NO
+42730 Cynthia Hahn Germany 49 FLU-2018 YES 13-06-2006
+66864 Rebecca Horton Germany 37 SARS-1 NO
+37611 Christopher Pope Germany 66 FLU-2018 YES 17-12-2020
+93204 Dominique Gray Germany 25 SARS-1 NO
+51077 Melissa Maldonado Germany 65 SARS-COV-2 YES 20-04-2019
+15149 Melissa Burns Germany 23 MERS-COV NO
+35869 John Garza Germany 74 FLU-2018 YES 13-05-2010
+41499 Barbara Graham Germany 79 H1N1 YES 26-01-2009
+41080 Deborah Gomez Germany 37 FLU-2018 NO
+1599 Ernest Padilla Germany 48 MERS-COV NO
+20032 Elizabeth Jackson Germany 33 SARS-1 YES 12-03-2014
+98681 Lauren Fowler Germany 26 SARS-COV-2 YES 13-01-2008
+43766 Robin Calhoun Germany 22 MERS-COV YES 24-10-2006
+47431 Elizabeth Ford Germany 79 SARS-COV-2 YES 19-09-2004
+67081 Matthew Kim Germany 65 FLU-2018 NO
+64488 Michael Baker Germany 41 MERS-COV NO
+56638 Joseph Smith Germany 71 EVD YES 10-04-2011
+85428 Michael Zhang Germany 56 EVD NO
+56459 Jennifer Vega Germany 47 FLU-2018 YES 19-01-2018
+22161 Matthew Santos Germany 56 SARS-1 NO
+489 Nathan Stewart Germany 25 EVD NO
+95915 Taylor Walsh Germany 54 H1N1 YES 10-06-2016
+96669 Amanda Smith Germany 35 COVID-2019 NO
+93144 Brian Hernandez Germany 31 MERS-COV NO
+50839 Kari Garcia Germany 76 MERS-COV YES 09-08-2017
+68475 Thomas Stephens Germany 20 H1N1 NO
+83986 Vincent Carter Germany 58 FLU-2018 NO
+49851 Julia Walton Germany 77 MERS-COV YES 25-04-2009
+31040 Angela Barnes Germany 69 SARS-1 NO
+48590 Robert Russell Germany 42 MERS-COV YES 28-02-2016
+41337 Nicholas Scott Germany 23 FLU-2018 NO
+53606 Anthony Brown Germany 75 H1N1 YES 19-11-2016
+68830 Kyle Williams Germany 76 COVID-2019 YES 23-05-2003
+4960 Lori Martin Germany 54 EVD YES 13-09-2018
+45373 Gabriel Brown Germany 62 SARS-COV-2 NO
+57453 Lauren Ochoa Germany 46 MERS-COV NO
+16887 Alexandra Jones Germany 11 SARS-COV-2 YES 22-09-2000
+30242 Mary Mathis Germany 52 EVD YES 10-01-2015
+1810 Glen Kane Germany 51 SARS-COV-2 YES 08-06-2016
+10023 Larry Owen Germany 57 EVD NO
+83364 Patrick Arnold Germany 68 COVID-2019 NO
+90316 Nicole Oneal Germany 68 FLU-2018 YES 23-02-2004
+40192 Michael Morrison Germany 51 COVID-2019 NO
+45410 Rachel Perez Germany 38 MERS-COV NO
+83662 Charles Yates Germany 68 SARS-1 NO
+72420 Shawn Miller Germany 61 MERS-COV YES 11-06-2013
+21285 Joseph Reid Germany 20 SARS-1 YES 17-04-2013
+8542 Morgan Johnson Germany 78 H1N1 NO
+32884 Sierra Allison Germany 74 MERS-COV NO
+24991 Tina Jones Germany 75 SARS-1 NO
+81374 Nicholas Townsend Germany 64 SARS-1 NO
+37466 Elijah Knight Germany 41 SARS-1 NO
+81090 Sharon Garcia Germany 76 H1N1 YES 02-06-2014
+21310 Charlene Parker Germany 71 H1N1 NO
+76487 Michael Mccoy Germany 58 FLU-2018 NO
+40743 Derek Harvey Germany 29 SARS-1 YES 03-10-2011
+88985 Sandra Campbell Germany 40 SARS-1 YES 22-07-2015
+31282 Amber Smith Germany 74 SARS-COV-2 NO
+64953 Karla Good Germany 60 MERS-COV YES 15-05-2020
+80942 Philip Knox Germany 66 SARS-1 NO
+7258 Peggy Pearson Germany 18 COVID-2019 YES 14-01-2020
+33649 Diana Wagner Germany 45 COVID-2019 NO
+57520 Robert Rangel Germany 79 MERS-COV YES 02-08-2000
+72820 Patricia Walker Germany 72 EVD YES 13-05-2004
+47764 Debra Wolfe Germany 76 EVD NO
+56067 Rachel Stephens Germany 34 EVD NO
+85335 Tammy Walker Germany 68 H1N1 NO
+87693 Laura Warren Germany 52 SARS-COV-2 YES 07-06-2017
+46426 Jonathan Levine Germany 29 FLU-2018 NO
+23 Donald Welch Germany 48 FLU-2018 YES 16-03-2014
+20372 Walter Stark Germany 10 EVD YES 12-12-2000
+99567 Karen Mendoza Germany 49 SARS-COV-2 NO
+74234 Tammy Castaneda Germany 19 COVID-2019 NO
+89396 Lance Warner Germany 36 SARS-COV-2 YES 01-10-2004
+22594 Rick Coleman Germany 44 EVD YES 14-01-2007
+36184 Mary Cline Germany 52 MERS-COV NO
+64572 Sabrina Meadows Germany 29 FLU-2018 NO
+70985 James Wheeler Germany 35 FLU-2018 NO
+65741 Taylor Rose Germany 22 COVID-2019 NO
+41689 Laurie Clark Germany 73 EVD YES 23-03-2007
+63143 Cheryl Cook Germany 23 SARS-COV-2 NO
+1566 Nicholas Brown Germany 74 EVD NO
+68567 John Palmer Germany 65 COVID-2019 NO
+20391 Amanda Richardson Germany 40 FLU-2018 YES 19-06-2018
+12112 Curtis Anderson Germany 75 FLU-2018 NO
+36804 Ashley Simon Germany 49 SARS-COV-2 YES 27-06-2000
+85032 Stephanie Clark Germany 58 H1N1 NO
+85472 Todd Turner Germany 37 H1N1 YES 17-01-2014
+66152 Mark Short Germany 25 SARS-COV-2 NO
+38124 Tiffany May Germany 79 COVID-2019 YES 14-08-2005
+60558 Mario Moore Germany 47 H1N1 NO
+3821 Scott Collins Germany 55 SARS-1 YES 27-10-2002
+17121 Robert Campbell Germany 12 FLU-2018 YES 24-11-2000
+78410 Daniel Jacobs Germany 44 H1N1 YES 12-07-2015
+45562 Glenn Torres Germany 10 FLU-2018 YES 16-02-2003
+28787 Carla Ware Germany 74 MERS-COV YES 02-09-2010
+11291 Jonathan Alexander Germany 43 COVID-2019 NO
+49075 Felicia Smith Germany 32 H1N1 NO
+98990 Jasmin Davis Germany 45 FLU-2018 YES 09-10-2011
+99250 Edward Lester Germany 33 SARS-1 YES 26-04-2012
+71569 Julie Dalton Germany 65 COVID-2019 YES 30-09-2013
+23823 Heather Valdez Germany 72 H1N1 NO
+83394 Jason Guzman Germany 52 COVID-2019 YES 07-08-2018
+3508 Jerry Moyer Germany 18 SARS-COV-2 NO
+45898 Charles Miller Germany 40 MERS-COV NO
+15783 Stephanie Schneider Germany 78 EVD YES 02-12-2016
+96315 Marc Phillips Germany 76 SARS-1 NO
+66542 Robert Jordan Germany 39 EVD YES 18-11-2008
+57676 Betty Ellison Germany 59 H1N1 YES 25-02-2016
+30685 Daniel Adams Germany 53 MERS-COV NO
+57522 Christine Morton Germany 58 SARS-COV-2 YES 06-04-2000
+45494 Summer Jones Germany 30 FLU-2018 YES 27-02-2015
+29904 Dean Li Germany 22 FLU-2018 NO
+58948 Dana Dyer Germany 11 SARS-1 YES 22-08-2013
+25475 Gavin Estrada Germany 46 MERS-COV NO
+92660 Anthony Collins Germany 76 MERS-COV YES 22-10-2004
+50008 Sean Boone Germany 39 SARS-1 YES 04-06-2010
+90516 Joseph Peterson Germany 79 MERS-COV YES 04-02-2005
+444 Lori Murray Germany 20 H1N1 NO
+63142 Bianca Hernandez Germany 45 COVID-2019 NO
+85602 Kimberly Flores Germany 47 SARS-COV-2 NO
+24971 Rachel Myers Germany 30 SARS-COV-2 YES 03-09-2002
+65827 Blake Long Germany 42 H1N1 YES 27-05-2018
+98612 Ronald Allen Germany 23 H1N1 NO
+65052 Amanda Hanson Germany 25 H1N1 YES 19-03-2011
+288 Elizabeth Dixon Germany 67 MERS-COV NO
+41874 Donald Santiago Germany 64 EVD YES 24-09-2020
+14896 Jeffery Washington Germany 52 SARS-1 YES 16-02-2001
+84945 Edward Hubbard Germany 43 SARS-1 YES 16-03-2005
+2312 Charles Williams Germany 60 MERS-COV NO
+65984 Jimmy Hudson Germany 49 MERS-COV NO
+56619 Jacob Hernandez Germany 60 MERS-COV YES 02-08-2006
+37623 Joel Graham Germany 62 COVID-2019 YES 12-08-2007
+91204 Richard Cohen Germany 55 SARS-1 NO
+63047 Sandra Walker Germany 22 H1N1 NO
+42068 Misty Bennett Germany 61 SARS-COV-2 NO
+40382 Lauren James Germany 46 SARS-1 YES 22-08-2008
+2136 Christopher Ramirez Germany 54 MERS-COV NO
+45275 Lori Lozano Germany 32 EVD NO
+25740 Bailey Brock Germany 37 EVD YES 18-04-2015
+12131 Ralph Watson Germany 22 EVD YES 10-10-2020
+52 Randall Campbell Germany 13 H1N1 NO
+46261 Michael Garza Germany 36 MERS-COV YES 29-11-2020
+70588 Sherry Craig Germany 60 MERS-COV NO
+86248 Alexander Barton Germany 45 MERS-COV NO
+47756 Kristi Li Germany 20 SARS-COV-2 YES 28-10-2016
+59282 Katherine Johnson Germany 52 COVID-2019 NO
+93070 Sarah White Germany 51 SARS-COV-2 YES 30-09-2008
+90148 Andrew Ruiz Germany 35 SARS-COV-2 NO
+6187 Lauren Becker Germany 77 SARS-1 YES 18-01-2019
+63899 Taylor Herman Germany 67 H1N1 YES 28-07-2004
+56136 Harry Davidson Germany 79 H1N1 YES 04-07-2004
+32876 Jessica Bowman Germany 79 SARS-1 YES 29-06-2008
+66614 Kelsey Maldonado Germany 65 SARS-1 NO
+790 Jeremy Phelps Germany 21 H1N1 NO
+55918 Peter Brown Germany 12 EVD NO
+51281 Ruben Harper Germany 37 SARS-1 NO
+42962 Karen Scott Germany 42 SARS-1 NO
+93834 Kelly Brown Germany 44 EVD NO
+35027 James Blevins Germany 18 FLU-2018 NO
+86255 Autumn Robinson Germany 12 SARS-COV-2 NO
+26831 Joseph James Germany 41 EVD NO
+52906 Matthew Reed Germany 45 EVD YES 07-06-2005
+40728 Brenda Bradley Germany 48 SARS-COV-2 YES 25-01-2018
+46687 James Gross Germany 30 EVD YES 21-04-2005
+44834 Jason Castaneda Germany 78 FLU-2018 NO
+49341 Elaine Baker Germany 78 SARS-COV-2 NO
+12743 Michael Wheeler Germany 64 H1N1 YES 30-03-2011
+16834 Tim Durham Germany 22 COVID-2019 YES 19-07-2014
+71310 Megan Brown Germany 73 FLU-2018 NO
+54657 Donald Wilson Germany 51 MERS-COV NO
+80110 Sandra Jordan Germany 19 COVID-2019 YES 25-12-2006
+97183 Susan Simpson Germany 20 MERS-COV YES 01-12-2020
+77653 Jason Wilkinson Germany 44 SARS-1 YES 14-03-2002
+77650 Emily Ferguson Germany 63 H1N1 NO
+17328 Lori Booth Germany 15 SARS-COV-2 NO
+62450 George Gilbert Germany 18 SARS-COV-2 NO
+39308 Olivia Mcdonald Germany 37 COVID-2019 YES 19-05-2002
+84619 Jennifer Buchanan Germany 69 SARS-1 YES 30-09-2005
+76742 Ian Morales Germany 41 SARS-COV-2 NO
+69106 Amber Miller Germany 53 H1N1 YES 27-02-2015
+96810 Benjamin Gomez Germany 31 EVD NO
+99127 Thomas Baldwin Germany 70 H1N1 YES 11-01-2019
+61130 Vernon Case Germany 59 SARS-1 YES 01-09-2015
+203 Marc Fowler Germany 59 FLU-2018 NO
+95395 Caleb Mitchell Germany 12 COVID-2019 YES 04-09-2019
+90383 Renee Rodriguez Germany 73 SARS-1 YES 28-02-2015
+29418 Sophia Perry Germany 32 MERS-COV NO
+27035 Omar Santos Germany 73 H1N1 NO
+84612 Michael Edwards Germany 59 H1N1 NO
+73932 Louis Garcia Germany 41 SARS-COV-2 YES 15-03-2020
+22970 Maria Johnson Germany 14 MERS-COV NO
+52229 Geoffrey Smith Germany 65 FLU-2018 YES 01-10-2008
+57678 Michael Erickson Germany 32 EVD YES 10-11-2000
+66606 Laura Sampson Germany 31 EVD YES 27-07-2019
+15615 Dawn Perkins Germany 41 EVD YES 17-11-2016
+82626 Bryan Kim Germany 14 EVD NO
+56847 Joan Moses Germany 68 MERS-COV NO
+74177 Edward Evans Germany 18 FLU-2018 YES 22-11-2016
+16793 Molly Parrish Germany 49 SARS-1 YES 29-12-2018
+86106 Lindsay Tucker Germany 61 SARS-1 YES 28-03-2014
+76405 Benjamin Howard Germany 20 SARS-1 YES 13-11-2002
+83778 Rebecca Allen Germany 32 SARS-COV-2 NO
+42639 David Holmes Germany 62 COVID-2019 YES 06-09-2008
+44590 Nicholas Sanchez Germany 71 H1N1 NO
+26877 April Hoffman Germany 49 SARS-1 NO
+7976 Wendy Castro Germany 65 SARS-1 NO
+95415 Sarah Brown Germany 19 SARS-COV-2 YES 27-05-2020
+92317 Kathleen Flores Germany 52 H1N1 YES 19-04-2008
+96478 Rachel Franco Germany 57 COVID-2019 YES 14-09-2007
+874 Betty Morse Germany 53 COVID-2019 YES 18-09-2013
+12468 Stephanie Osborne Germany 30 MERS-COV NO
+640 Reginald Everett Germany 30 MERS-COV YES 12-08-2011
+74806 Kimberly Strickland Germany 33 SARS-1 NO
+67101 Julie Torres Germany 70 SARS-1 YES 03-02-2000
+95281 Russell Carter Germany 54 FLU-2018 NO
+29164 Jacqueline Fowler Germany 77 FLU-2018 NO
+93062 Jessica Wise Germany 76 H1N1 NO
+63388 Maria Sosa Germany 30 SARS-1 NO
+71346 Sean Moses Germany 25 SARS-1 YES 24-03-2002
+72004 Danny Edwards Germany 62 COVID-2019 YES 06-11-2007
+53061 Jeremiah Crawford Germany 21 MERS-COV YES 02-05-2007
+26656 Cody Hughes Germany 14 FLU-2018 YES 15-06-2008
+49843 Lindsey Santana Germany 11 MERS-COV YES 08-11-2007
+40895 Cassandra Carey Germany 39 SARS-COV-2 NO
+78103 Michelle Davies Germany 78 H1N1 NO
+26130 Christopher Rubio Germany 12 COVID-2019 NO
+60792 Matthew Robbins Germany 45 H1N1 NO
+89213 Theresa Johnson Germany 58 H1N1 YES 21-09-2002
+97045 Chad Garcia Germany 23 MERS-COV NO
+42233 Lisa Nash Germany 50 COVID-2019 NO
+41306 Edwin Fox Germany 22 SARS-1 NO
+78246 Douglas Thomas Germany 35 COVID-2019 YES 11-12-2004
+14535 Adriana Edwards Germany 58 MERS-COV YES 19-11-2019
+30763 Edward Hart Germany 56 MERS-COV NO
+86482 Cindy Price Germany 33 EVD NO
+62208 James Ballard Germany 72 FLU-2018 NO
+34671 Sierra Davis Germany 52 FLU-2018 YES 27-01-2000
+52658 Wendy Bradley Germany 12 FLU-2018 NO
+18163 Jeffrey Sanders Germany 67 FLU-2018 NO
+80680 Danny Kerr Germany 24 COVID-2019 NO
+35249 Melissa Washington Germany 68 MERS-COV NO
+54120 Ashley Carlson Germany 38 FLU-2018 YES 23-06-2005
+46815 Mark Frederick Germany 74 SARS-COV-2 NO
+33031 Charles Richards Germany 78 MERS-COV NO
+15118 Maurice Davis Germany 14 SARS-1 NO
+35154 Wendy Garcia Germany 49 COVID-2019 NO
+91308 Michael Richards Germany 25 COVID-2019 NO
+53766 Ryan Jackson Germany 48 MERS-COV YES 02-04-2013
+57409 Donald Sanchez Germany 79 SARS-1 YES 10-05-2001
+98332 Cameron Dominguez Germany 61 COVID-2019 YES 04-05-2010
+87939 Douglas Olson Germany 28 FLU-2018 YES 31-08-2001
+13370 Lisa Adams Germany 26 COVID-2019 YES 04-02-2001
+90899 James Ortiz Germany 51 COVID-2019 YES 26-06-2002
+46871 Kevin Hill Germany 54 EVD YES 26-02-2010
+72009 Ashley Davis Germany 64 H1N1 NO
+6658 Jeffrey Vargas Germany 33 SARS-COV-2 YES 12-07-2020
+42838 Nicole King Germany 52 COVID-2019 NO
+97771 Matthew Jones Germany 26 EVD YES 01-01-2015
+40782 Diane Conley Germany 79 COVID-2019 YES 12-09-2015
+95650 Eric Cortez Germany 65 SARS-1 NO
+34510 Stephen Gonzales Germany 63 H1N1 NO
+42728 Elizabeth Johnson Germany 61 EVD NO
+43600 Erica Austin Germany 33 SARS-COV-2 YES 11-02-2013
+43184 Judith Howell Germany 30 EVD YES 26-01-2014
+56185 Charles King Germany 61 H1N1 YES 28-12-2014
+29806 Cynthia Herrera Germany 14 SARS-COV-2 YES 08-06-2017
+53193 Charles Fitzpatrick Germany 53 FLU-2018 YES 20-07-2020
+75559 Cynthia Silva Germany 12 SARS-1 YES 19-01-2004
+34156 Johnathan Swanson Germany 25 FLU-2018 NO
+88787 Hannah Hudson Germany 29 H1N1 NO
+81845 Russell Payne Germany 58 H1N1 NO
+38247 Christina Munoz Germany 51 H1N1 NO
+37196 Brandy Berg Germany 10 H1N1 YES 15-09-2000
+86229 Michael Lewis Germany 30 SARS-1 YES 24-05-2019
+15215 Nicole Wu Germany 67 FLU-2018 YES 14-11-2009
+67603 Daniel Moore Germany 31 SARS-1 YES 22-03-2013
+48315 Paul Armstrong Germany 39 H1N1 YES 28-02-2008
+30496 Jonathan James Germany 62 COVID-2019 NO
+48724 Tiffany Moore Germany 49 H1N1 YES 05-10-2005
+46926 Amanda Hunter Germany 32 SARS-1 NO
+75894 Clifford Molina Germany 20 EVD NO
+56253 Kimberly Smith Germany 16 EVD YES 07-10-2016
+94168 Diana Kelly Germany 30 MERS-COV YES 17-01-2014
+13953 Monica Oliver Germany 14 EVD NO
+68605 Michael Smith Germany 74 SARS-1 YES 24-07-2016
+1028 Shannon Davis Germany 46 H1N1 NO
+20812 Stephanie Harrington Germany 62 SARS-1 NO
+83848 Seth Coleman Germany 37 SARS-COV-2 YES 09-04-2017
+43726 Brian Clayton Germany 68 FLU-2018 YES 04-04-2017
+85670 Mitchell Holland Germany 46 MERS-COV YES 12-04-2011
+96340 Tamara Pennington Germany 50 H1N1 NO
+48290 Michelle Lewis Germany 70 SARS-COV-2 YES 27-06-2015
+60836 Jonathan Brown Germany 28 MERS-COV YES 06-08-2010
+24074 David Reid Germany 44 SARS-1 NO
+37756 April Peterson Germany 52 SARS-1 NO
+19001 Julie Dalton Germany 13 EVD NO
+75751 Diana Cox Germany 75 MERS-COV NO
+25363 Calvin Moody Germany 15 EVD NO
+94603 Jennifer Mcclain Germany 11 H1N1 YES 28-11-2011
+98731 Brianna Hamilton Germany 10 MERS-COV YES 04-07-2010
+28023 Herbert Brown Germany 54 MERS-COV YES 12-07-2016
+9809 Mary Curtis Germany 50 SARS-COV-2 NO
+34023 Gary Cooley Germany 55 SARS-COV-2 NO
+1702 Richard Yang Germany 38 H1N1 NO
+1262 Edward Mclaughlin Germany 13 EVD NO
+6082 Brian Martin Germany 52 H1N1 NO
+97468 Juan Roberson Germany 14 SARS-1 YES 06-11-2004
+91516 Allison Carter Germany 12 SARS-COV-2 YES 19-06-2005
+72068 Michael Reyes Germany 24 MERS-COV YES 05-04-2013
+64065 Vincent Chapman Germany 51 EVD YES 17-10-2008
+79331 David Vang Germany 59 EVD NO
+11998 Michael Burgess Germany 25 SARS-COV-2 NO
+33734 Susan Valdez Germany 27 H1N1 YES 30-01-2013
+83465 Richard Kaiser Germany 39 FLU-2018 NO
+2120 Aaron Bowers Germany 77 COVID-2019 YES 25-04-2000
+52794 Lisa Montgomery Germany 49 EVD YES 24-05-2000
+89173 Bryan Rose Germany 70 EVD NO
+96333 Kara Hamilton Germany 49 H1N1 NO
+84471 Brett Rich Germany 13 SARS-COV-2 NO
+56476 Gary Hendricks Germany 33 COVID-2019 NO
+34715 Dave Gutierrez Germany 21 COVID-2019 NO
+64565 Alexander Randall Germany 53 MERS-COV YES 21-06-2011
+26676 Henry Schultz Germany 72 EVD NO
+38392 William Wilson Germany 32 SARS-COV-2 NO
+57641 Randall Freeman Germany 41 COVID-2019 NO
+21880 Steven Nguyen Germany 35 SARS-1 YES 13-05-2012
+54539 William Hendrix Germany 13 H1N1 YES 20-07-2006
+78946 Jonathan Stevens Germany 59 COVID-2019 YES 15-06-2014
+79208 Zachary Miller Germany 74 EVD NO
+2453 Aaron Randolph Germany 53 SARS-1 YES 01-06-2018
+89639 Monica Cook Germany 60 COVID-2019 YES 20-02-2008
+67142 Debra Hinton Germany 17 EVD YES 07-10-2007
+28780 Jessica Deleon Germany 42 SARS-1 NO
+45128 Teresa Irwin Germany 51 H1N1 NO
+4025 Cameron Allen Germany 76 EVD NO
+88723 Elizabeth Gonzales Germany 10 SARS-1 NO
+5537 Zachary Richards Germany 70 SARS-1 YES 20-12-2018
+94400 Michael Willis Germany 43 FLU-2018 NO
+70913 Melissa Clay Germany 23 SARS-COV-2 NO
+55344 Jeffrey Williams Germany 13 MERS-COV NO
+9605 Carol Stark Germany 46 EVD YES 17-12-2018
+74185 Teresa Norman Germany 77 SARS-1 NO
+71053 Jeffrey Hughes Germany 41 SARS-COV-2 NO
+54072 Gregory Oconnor Germany 66 COVID-2019 YES 09-07-2002
+25483 Taylor Johnson Germany 12 EVD NO
+36841 Jack Taylor Germany 64 COVID-2019 YES 29-01-2005
+95611 Caroline Rose Germany 50 SARS-1 NO
+44779 Cheryl Salazar Germany 19 FLU-2018 YES 23-10-2005
+2739 Cody Cox Germany 23 SARS-1 NO
+266 Steven Hodge Germany 69 EVD NO
+70013 Amanda Alvarez Germany 52 SARS-1 NO
+92312 Gavin Holloway Germany 11 EVD YES 21-03-2018
+65023 Robert Myers Germany 52 EVD YES 20-05-2018
+18886 Jonathan Brock Germany 50 MERS-COV NO
+12778 Stephanie Martinez Germany 46 SARS-1 NO
+57295 Jonathan Long Germany 15 MERS-COV NO
+11357 Sabrina Warner Germany 14 H1N1 NO
+87859 Daniel Williams Germany 30 EVD YES 14-09-2010
+67519 Michael Bennett Germany 22 COVID-2019 NO
+21807 Ellen Ward Germany 46 EVD YES 19-05-2010
+13857 Amanda Gardner Germany 62 SARS-1 NO
+44194 Jennifer George Germany 72 SARS-COV-2 NO
+75815 Richard Lopez Germany 34 COVID-2019 NO
+71148 Eduardo Taylor Germany 73 FLU-2018 YES 23-02-2001
+37752 Robert Bates Germany 13 EVD NO
+9137 Thomas Roberts Germany 70 EVD YES 11-08-2002
+12915 Sarah Wiggins Germany 78 COVID-2019 NO
+23550 Beverly Johnson Germany 38 SARS-COV-2 NO
+4926 James Blankenship Germany 62 COVID-2019 YES 28-03-2005
+88527 Lauren Floyd Germany 27 FLU-2018 YES 04-09-2009
+77109 Juan Yang Germany 20 H1N1 NO
+60351 Michele Castro Germany 36 SARS-1 NO
+96502 Kathy Kelly Germany 16 COVID-2019 YES 27-02-2018
+97335 Jimmy Spencer Germany 23 FLU-2018 YES 29-10-2002
+87884 Sheena Cain Germany 11 EVD YES 20-03-2019
+95739 Alexander Mcclain Germany 23 MERS-COV YES 26-08-2003
+20416 Richard Davis Germany 46 FLU-2018 NO
+78567 James Reilly Germany 54 SARS-1 NO
+91906 Caitlin Franklin Germany 40 MERS-COV NO
+77436 Karen Perez Germany 73 FLU-2018 NO
+45665 William Wiggins Germany 31 MERS-COV YES 21-07-2000
+47873 Jay Davis Germany 21 MERS-COV YES 26-10-2013
+16669 Todd Cooper Germany 56 SARS-1 NO
+86274 Joshua Collins Germany 10 COVID-2019 NO
+31396 Michael Allen Germany 38 MERS-COV YES 24-07-2020
+33286 Joseph Mayer Germany 42 MERS-COV NO
+76949 Wyatt Anderson Germany 21 H1N1 YES 22-04-2018
+37203 Dorothy Finley Germany 19 H1N1 NO
+44114 Chelsey Lester Germany 47 SARS-COV-2 NO
+50747 Andrea Martinez Germany 55 SARS-1 NO
+40372 Stacy Foster Germany 45 H1N1 NO
+15092 Crystal Hernandez Germany 69 SARS-COV-2 YES 06-12-2004
+26998 Joshua James Germany 52 MERS-COV NO
+68446 Bradley Scott Germany 66 FLU-2018 YES 04-09-2000
+47511 Michael Morrison Germany 46 FLU-2018 YES 03-05-2018
+23964 Rebecca Travis Germany 36 H1N1 NO
+90890 Laurie Crawford Germany 48 MERS-COV NO
+51726 Amanda Greene Germany 60 FLU-2018 YES 30-10-2012
+9796 Taylor Smith Germany 54 EVD NO
+23548 Amanda Waters Germany 11 SARS-COV-2 NO
+24104 Brandi Dunlap Germany 39 EVD NO
+22847 Leslie Adams Germany 11 COVID-2019 NO
+23920 Olivia Todd Germany 12 SARS-1 YES 12-03-2013
+1168 Sarah Smith Germany 54 FLU-2018 NO
+96125 Michael Tucker Germany 23 COVID-2019 YES 10-10-2018
+31421 Matthew Rhodes Germany 34 MERS-COV NO
+39534 Jermaine York Germany 28 EVD YES 16-01-2001
+18948 Brittany Kent Germany 31 SARS-COV-2 YES 06-07-2020
+15115 Tina Stephenson Germany 27 H1N1 NO
+17867 Sean Green Germany 36 SARS-1 NO
+80333 Rebecca Gross Germany 41 H1N1 NO
+99589 Melissa Johnson Germany 35 MERS-COV NO
+93585 Jeffrey Ward Germany 53 SARS-1 YES 09-08-2012
+68094 Catherine Russell Germany 58 SARS-1 NO
+95083 Jennifer Lawrence Germany 55 H1N1 YES 11-03-2000
+6304 Katie Cortez Germany 47 SARS-COV-2 YES 27-10-2016
+24151 Anita Potter Germany 53 EVD NO
+72046 Mary Jones Germany 23 H1N1 NO
+37194 Cynthia Smith Germany 23 SARS-COV-2 YES 10-02-2004
+45738 Kristen Jackson Germany 28 FLU-2018 YES 27-01-2006
+15978 Cheryl Murray Germany 60 COVID-2019 NO
+64194 Timothy Smith Germany 62 COVID-2019 YES 15-06-2020
+7047 Leah Thomas Germany 65 SARS-1 YES 08-02-2001
+54347 Mary Miller Germany 56 FLU-2018 NO
+86375 Lawrence Fisher Germany 48 MERS-COV YES 15-12-2006
+70301 Robert Watts Germany 39 COVID-2019 NO
+65353 Kyle Brooks Germany 16 FLU-2018 NO
+97574 Sharon Smith Germany 23 SARS-COV-2 YES 18-11-2013
+39504 William Myers Germany 56 COVID-2019 NO
+8791 John Cannon Germany 66 MERS-COV YES 15-10-2019
+42153 Denise Campbell Germany 36 SARS-1 NO
+64407 Tiffany Craig Germany 26 FLU-2018 YES 15-10-2006
+94877 Wendy Johnson Germany 50 H1N1 YES 10-06-2010
+98502 David Wu Germany 13 FLU-2018 NO
+67799 Tyler Baird Germany 42 SARS-COV-2 YES 19-01-2018
+66541 Nathaniel Chavez Germany 79 SARS-COV-2 NO
+64288 Nichole Ray Germany 65 H1N1 YES 24-06-2018
+69922 Craig Perez Germany 79 H1N1 NO
+1546 Ian Nelson Germany 72 EVD YES 12-03-2020
+95220 David Flynn Germany 11 SARS-1 YES 11-04-2020
+57224 Jon Moore Germany 36 SARS-COV-2 NO
+14346 Martha Allen Germany 55 EVD YES 04-08-2020
+31010 Robert Aguirre Germany 63 MERS-COV YES 26-02-2018
+88204 Jessica Lopez Germany 14 FLU-2018 NO
+22546 Jesse Collins Germany 73 SARS-1 NO
+85029 Nancy Allison Germany 47 FLU-2018 NO
+78932 Sara Clark Germany 45 EVD YES 11-05-2012
+64764 Carrie Garcia Germany 49 MERS-COV YES 23-08-2015
+29070 Julie Hurst Germany 58 MERS-COV YES 05-09-2008
+76396 Monica Hart Germany 53 EVD YES 13-12-2013
+95824 Brian Jones Germany 31 MERS-COV YES 14-08-2019
+42421 Jonathan Jones Germany 66 SARS-COV-2 YES 14-04-2017
+15147 Jamie Peterson Germany 57 SARS-COV-2 NO
+73261 Brooke Gilbert Germany 26 FLU-2018 YES 30-08-2018
+6539 Kelly Espinoza Germany 35 SARS-COV-2 YES 15-11-2001
+33309 Tammy Johnson Germany 43 H1N1 YES 25-06-2019
+89315 David Davis Germany 27 SARS-1 YES 29-08-2015
+1104 Joseph Downs Germany 70 FLU-2018 NO
+20419 Andrea Pacheco Germany 73 COVID-2019 YES 20-03-2011
+44714 Timothy Torres Germany 32 EVD NO
+26511 Shawn Keller Germany 78 H1N1 YES 16-11-2001
+5714 James Hicks Germany 27 SARS-COV-2 NO
+93959 Brittany Jones Germany 47 FLU-2018 YES 20-05-2010
+71002 Kendra Soto Germany 68 SARS-1 YES 13-07-2020
+53959 Bonnie Morgan Germany 32 H1N1 YES 31-10-2008
+53338 Glenn Murphy Germany 16 EVD NO
+51247 Kristin Gross Germany 30 SARS-1 YES 05-02-2015
+86947 Nancy Powell Germany 69 EVD YES 16-03-2007
+93791 Andrew Wade Germany 67 SARS-COV-2 YES 04-12-2010
+84285 Tracey Hayes Germany 67 SARS-1 YES 04-09-2005
+3153 Tracey Friedman Germany 32 MERS-COV NO
+764 Jennifer Weaver Germany 64 SARS-COV-2 YES 18-02-2009
+79476 Michael Ray Germany 44 COVID-2019 NO
+14951 Harry Alexander Germany 12 COVID-2019 NO
+67399 Diana Pineda Germany 64 SARS-1 YES 25-12-2018
+73003 Sarah Hudson Germany 23 EVD YES 14-06-2011
+49320 Katie Daugherty Germany 51 MERS-COV YES 02-06-2005
+59885 Alan Harris Germany 34 SARS-1 NO
+93717 Kendra Johnson Germany 46 MERS-COV YES 14-06-2015
+87642 Colleen Massey Germany 42 EVD YES 29-06-2006
+4648 Manuel Brown Germany 11 MERS-COV YES 06-09-2012
+57085 Nancy Mckee Germany 79 MERS-COV NO
+99767 Rhonda Williams Germany 27 COVID-2019 YES 20-09-2019
+56652 Kenneth Harding Germany 43 H1N1 NO
+51154 John Ellison Germany 26 EVD NO
+37086 Shelly Spencer Germany 54 SARS-1 NO
+48746 Julie Cochran Germany 44 SARS-COV-2 NO
+72096 Stephen Wilson Germany 16 SARS-COV-2 NO
+39339 Kevin Murphy Germany 37 SARS-COV-2 NO
+69691 Anthony Garcia Germany 78 FLU-2018 NO
+80103 Justin White Germany 18 SARS-COV-2 NO
+64537 Edward Blevins Germany 40 SARS-COV-2 YES 16-08-2014
+27286 Nicole Turner Germany 53 FLU-2018 NO
+79537 Amy Rush Germany 54 COVID-2019 NO
+67691 Elizabeth Howell Germany 41 H1N1 NO
+16790 Michelle Gill Germany 62 MERS-COV YES 19-09-2001
+32529 Barbara Smith Germany 20 EVD NO
+17474 Jennifer Brandt Germany 48 EVD YES 01-07-2002
+51514 Shari Miller Germany 25 H1N1 YES 23-03-2006
+82618 Crystal Buchanan Germany 37 SARS-1 YES 20-04-2009
+5248 Lance Odonnell Germany 27 SARS-COV-2 YES 28-09-2006
+3384 Frank Morris Germany 10 SARS-COV-2 YES 25-08-2018
+21631 Randy Mendez Germany 74 SARS-1 YES 08-09-2016
+70047 Jennifer Williams Germany 69 EVD YES 11-05-2009
+30819 Terri Hartman Germany 39 COVID-2019 YES 11-06-2017
+29536 Kevin Gibbs Germany 14 SARS-1 YES 12-06-2009
+62418 Karen Smith Germany 23 SARS-1 YES 14-11-2020
+42924 Jeffrey Dillon Germany 66 SARS-1 YES 26-10-2010
+93656 Robyn Jones Germany 25 MERS-COV NO
+82477 Kenneth Lambert Germany 71 COVID-2019 YES 24-08-2018
+10845 Scott Willis Germany 16 FLU-2018 NO
+73907 Jeremy Marshall Germany 62 SARS-COV-2 NO
+24983 Alexander Grimes Germany 29 SARS-1 YES 23-09-2010
+4538 Anne Williams Germany 39 SARS-COV-2 YES 27-08-2019
+59649 Tonya Li Germany 49 FLU-2018 NO
+79122 James Ruiz Germany 12 H1N1 NO
+94777 Christine Mason Germany 55 EVD YES 23-04-2004
+79108 Daniel Moore Germany 48 FLU-2018 YES 30-04-2014
+90814 Donna Murillo Germany 19 SARS-1 YES 15-06-2016
+9916 Kevin Cooper Germany 67 EVD NO
+16845 Angel Ferguson Germany 68 FLU-2018 NO
+43928 Tyler Gomez Germany 77 MERS-COV NO
+98013 Robert Long Germany 47 SARS-1 YES 09-10-2019
+27384 Sarah Franklin Germany 60 COVID-2019 YES 27-11-2000
+21884 Briana Martin Germany 27 SARS-COV-2 YES 10-07-2003
+52427 Jeffrey King Germany 52 COVID-2019 YES 01-07-2019
+88662 Daniel Robinson Germany 71 FLU-2018 YES 06-08-2006
+55801 Bridget Harris Germany 66 FLU-2018 NO
+46024 Ronald Burns Germany 65 FLU-2018 YES 01-05-2010
+55728 Michael Gibson Germany 68 MERS-COV NO
+23604 Laura Day Germany 55 SARS-COV-2 NO
+53347 Amy Potts Germany 62 COVID-2019 NO
+80676 Tiffany Velez Germany 76 MERS-COV YES 03-12-2014
+64106 Renee Thomas Germany 16 EVD YES 18-10-2020
+24040 Olivia George Germany 66 MERS-COV NO
+84100 Jonathan Gutierrez Germany 10 COVID-2019 NO
+92582 Katrina Simmons Germany 62 FLU-2018 YES 21-09-2006
+29499 Dillon Burns Germany 48 FLU-2018 YES 08-08-2016
+41223 James Watson Germany 41 FLU-2018 YES 28-08-2010
+74594 Tyler Green Germany 72 SARS-1 YES 23-04-2001
+88926 William Bentley Germany 10 FLU-2018 NO
+85918 Kimberly Scott Germany 68 H1N1 NO
+9634 Jesse Young Germany 10 COVID-2019 NO
+65650 Nicole Taylor Germany 36 COVID-2019 NO
+34162 Rodney Thomas Germany 65 FLU-2018 YES 09-09-2012
+93417 Gary Arnold Germany 72 COVID-2019 YES 14-05-2001
+6150 Natalie Sanders Germany 69 COVID-2019 NO
+51686 Darius Rodriguez Germany 52 EVD NO
+42391 Robert Mcclain Germany 21 EVD YES 02-04-2012
+83892 Paul West Germany 22 MERS-COV YES 06-08-2014
+86738 Allison Johnson Germany 28 SARS-COV-2 NO
+91627 Lauren Roberts Germany 28 H1N1 YES 24-11-2016
+31336 Rebecca Herring Germany 42 EVD NO
+19124 Melissa Walker Germany 10 EVD YES 27-12-2001
+6619 Elizabeth Wheeler Germany 29 MERS-COV YES 30-10-2004
+75688 Suzanne Zhang Germany 48 MERS-COV NO
+84296 Jason Brown Germany 71 FLU-2018 NO
+7345 Kimberly Marshall Germany 17 COVID-2019 NO
+91698 Daisy Davis Germany 51 SARS-1 NO
+72085 Kim Gordon Germany 37 MERS-COV YES 26-05-2020
+46114 Monica Gilmore Germany 63 COVID-2019 NO
+62163 Debra Green Germany 66 EVD NO
+59159 Sabrina Cook Germany 33 FLU-2018 NO
+42049 Amanda Weber Germany 34 SARS-COV-2 YES 23-01-2002
+13308 Danielle Singleton Germany 39 EVD NO
+1721 Kelly Todd Germany 38 MERS-COV YES 16-05-2019
+78115 Kristina Preston Germany 21 COVID-2019 YES 13-08-2013
+2989 Kevin Ramos Germany 76 COVID-2019 NO
+44248 Emily Taylor Germany 29 COVID-2019 NO
+71210 Christopher Zimmerman Germany 63 FLU-2018 YES 21-10-2000
+31505 Cynthia Tucker Germany 70 MERS-COV NO
+67061 Alejandro Carson Germany 60 SARS-1 YES 01-10-2001
+14252 Victor Collins Germany 79 MERS-COV NO
+71072 Jamie Lee Germany 14 SARS-1 YES 19-12-2003
+4919 Paul Moore Germany 35 EVD YES 15-10-2007
+31001 Justin Mendoza Germany 29 SARS-COV-2 NO
+3047 David Bolton Germany 38 EVD YES 13-09-2008
+23851 Victoria Cortez Germany 79 MERS-COV YES 01-03-2021
+46412 Ralph Cole Germany 79 SARS-COV-2 YES 11-03-2014
+67917 Thomas Lawrence Germany 28 H1N1 YES 08-01-2008
+53031 John Jones Germany 29 MERS-COV NO
+37220 Randy Davis Germany 24 H1N1 NO
+58142 Shawn Miranda Germany 50 SARS-1 NO
+92339 John Buckley Germany 39 H1N1 NO
+90400 Harold Jackson Germany 52 EVD YES 16-05-2015
+10686 Linda Andrade Germany 73 MERS-COV YES 25-12-2020
+38208 Lisa Burns Germany 38 MERS-COV YES 25-12-2001
+70623 Chelsea Clayton Germany 20 H1N1 YES 22-08-2000
+25313 Matthew Khan Germany 11 SARS-1 NO
+7197 Kevin Holder Germany 42 SARS-1 YES 19-07-2019
+11523 James Pena Germany 27 EVD YES 02-01-2000
+27133 Theresa Garcia Germany 40 COVID-2019 NO
+22580 Tyler Mckee Germany 34 MERS-COV NO
+90023 Angela Wallace Germany 52 SARS-1 YES 08-02-2009
+98803 Jessica Coleman Germany 26 SARS-1 YES 24-06-2001
+62308 Brian Mckee Germany 45 H1N1 NO
+72406 Ronald Mosley Germany 74 FLU-2018 NO
+33249 Gary Serrano Germany 63 H1N1 NO
+79917 Kenneth Wells Germany 15 EVD NO
+91725 Megan Woods Germany 17 COVID-2019 NO
+53848 Christopher Schultz Germany 60 MERS-COV NO
+13526 Stephanie Walker Germany 58 MERS-COV NO
+91758 Angela Goodman Germany 31 H1N1 YES 21-01-2015
+49499 Tara Webster Germany 34 COVID-2019 NO
+68017 Gina Powell Germany 69 FLU-2018 NO
+54112 Joseph Clark Germany 19 H1N1 YES 22-05-2000
+56761 James Hayes Germany 69 EVD NO
+74221 Kristina Medina Germany 66 FLU-2018 NO
+21767 Dawn Lopez Germany 62 MERS-COV YES 17-10-2003
+88210 Michael Richard Germany 40 COVID-2019 NO
+742 Catherine Montgomery Germany 52 SARS-COV-2 NO
+71843 Robert Medina Germany 56 SARS-1 YES 31-10-2010
+27926 Jeanette Chambers Germany 34 MERS-COV NO
+99762 Caroline Santiago Germany 72 FLU-2018 YES 15-01-2018
+55996 William Terrell Germany 20 H1N1 NO
+76648 Thomas Brown Germany 65 COVID-2019 YES 26-02-2006
+19232 Francisco Merritt Germany 67 MERS-COV YES 04-08-2020
+13885 Ryan Callahan Germany 13 MERS-COV NO
+22064 Brian Ramirez Germany 72 H1N1 NO
+53261 Benjamin Thomas Germany 74 FLU-2018 YES 05-05-2001
+66088 James Martin Germany 61 SARS-COV-2 NO
+10768 Gary Bennett Germany 79 MERS-COV NO
+18844 Jeffrey Harvey Germany 25 MERS-COV YES 23-05-2005
+97778 Bryan Cook Germany 64 FLU-2018 NO
+27986 Michael Chan Germany 10 SARS-1 YES 04-07-2020
+18484 Heather Boyd Germany 18 FLU-2018 YES 14-10-2014
+72263 Desiree Stephens Germany 18 MERS-COV YES 13-12-2020
+65403 Courtney Ibarra Germany 25 MERS-COV NO
+14666 James Farmer Germany 42 FLU-2018 YES 22-12-2016
+47693 Francisco Phillips Germany 28 H1N1 YES 21-05-2002
+54567 Kelly Robinson Germany 66 FLU-2018 NO
+59770 Matthew Dixon Germany 28 SARS-COV-2 NO
+43548 Sherri Fuller Germany 47 COVID-2019 YES 22-01-2009
+70026 Linda Aguilar Germany 49 FLU-2018 NO
+45729 Angela Harris Germany 22 COVID-2019 YES 04-10-2009
+98279 Brian Mason Germany 10 MERS-COV YES 28-09-2014
+34114 Robert Higgins Germany 45 SARS-COV-2 NO
+43488 Jennifer Wilson Germany 68 MERS-COV YES 12-01-2001
+19623 Adrienne Lewis Germany 12 SARS-COV-2 NO
+16900 Veronica Lawson Germany 76 MERS-COV YES 15-03-2006
+95982 Kyle Smith Germany 31 MERS-COV NO
+56295 Lisa Norman Germany 25 SARS-COV-2 YES 08-01-2005
+45877 Sandra Lopez Germany 70 SARS-1 NO
+49952 Andrea Clayton Germany 29 MERS-COV NO
+53354 Cody Burke Germany 70 H1N1 NO
+42279 Crystal Thomas Germany 54 COVID-2019 NO
+88071 Joseph Pineda Germany 60 COVID-2019 NO
+81943 Michael Obrien Germany 31 FLU-2018 YES 15-05-2009
+588 Austin Eaton Germany 77 SARS-COV-2 YES 27-10-2018
+41270 Maria Barker Germany 22 COVID-2019 NO
+63163 Timothy Atkinson Germany 36 MERS-COV NO
+69180 Gina Owens Germany 59 COVID-2019 YES 31-05-2020
+97720 Chad Pacheco Germany 21 EVD NO
+59579 Dennis Hawkins Germany 23 COVID-2019 YES 10-05-2004
+16958 Stephanie Schneider Germany 20 COVID-2019 YES 04-04-2020
+99365 Cheryl Hansen Germany 58 SARS-1 YES 18-01-2001
+28245 Dean Yoder Germany 66 FLU-2018 NO
+96014 Carla Campos Germany 71 EVD YES 09-03-2021
+55648 Alexandra Spencer Germany 36 MERS-COV NO
+88476 Megan Taylor Germany 25 EVD YES 12-03-2015
+54489 Christopher Dominguez Germany 17 COVID-2019 YES 26-09-2019
+15686 Juan George Germany 73 SARS-1 YES 15-04-2014
+77320 Anthony Williams Germany 72 SARS-COV-2 YES 11-09-2005
+82687 Martin Nielsen Germany 42 FLU-2018 YES 15-06-2009
+44029 Melissa Gardner Germany 58 FLU-2018 NO
+41556 Monique Martin Germany 48 EVD YES 20-12-2017
+22539 Joseph Contreras Germany 62 MERS-COV YES 01-11-2015
+95434 Trevor Shepard Germany 72 EVD YES 04-05-2010
+49223 Andrew Coleman Germany 12 H1N1 NO
+58801 Kimberly Mcguire Germany 67 FLU-2018 YES 12-06-2006
+13216 Kyle Clark Germany 39 H1N1 YES 04-05-2017
+41583 Emily Gardner Germany 48 EVD NO
+15861 Laura Saunders Germany 11 COVID-2019 YES 04-01-2018
+35389 Rebecca Cruz Germany 58 MERS-COV NO
+56138 Dennis Barnes Germany 28 MERS-COV YES 18-07-2020
+36339 Tammy Carpenter Germany 23 MERS-COV YES 31-05-2008
+29980 Nicole Johnson Germany 30 COVID-2019 NO
+62892 Randall Wells Germany 50 SARS-COV-2 NO
+53359 Matthew Schneider Germany 14 H1N1 YES 14-11-2005
+7122 Jeremy Austin Germany 77 H1N1 YES 20-07-2002
+17556 Karen Collins Germany 18 MERS-COV YES 15-03-2019
+85802 Eric English Germany 66 MERS-COV YES 07-03-2017
+78202 Andrea Williams Germany 78 FLU-2018 YES 27-02-2020
+702 John Johnson Germany 31 SARS-COV-2 NO
+80817 Ashley Taylor Germany 39 MERS-COV NO
+35186 Jonathan Meyer Germany 37 SARS-1 NO
+60979 Jenny Rogers Germany 25 EVD YES 19-05-2008
+43680 Sara Martinez Germany 62 SARS-COV-2 YES 07-03-2012
+77862 Andrea Faulkner Germany 60 H1N1 YES 23-04-2009
+95679 Christopher James Germany 54 EVD YES 29-11-2005
+40386 Michael Guzman Germany 64 SARS-COV-2 YES 01-09-2020
+10110 Christopher Flores Germany 12 EVD NO
+44891 Adam Robinson Germany 19 COVID-2019 NO
+27981 Eric Cruz Germany 36 FLU-2018 NO
+16475 Dylan King Germany 44 FLU-2018 NO
+90558 Lisa Davis Germany 21 FLU-2018 NO
+78108 Heather Vaughn Germany 33 H1N1 NO
+90203 George Howe Germany 78 H1N1 YES 19-09-2001
+55825 Michaela Robinson Germany 42 COVID-2019 YES 05-05-2018
+41868 Kurt Evans Germany 66 H1N1 YES 12-11-2000
+96172 Devin Carlson Germany 47 EVD YES 14-06-2000
+97669 Ryan Jennings Germany 49 SARS-COV-2 NO
+7407 Tiffany Garcia Germany 18 FLU-2018 YES 16-01-2001
+28960 Bill Campbell Germany 39 EVD YES 20-06-2020
+924 Lisa Hall Germany 58 SARS-COV-2 NO
+3688 Alyssa Williams Germany 32 FLU-2018 NO
+45274 Tara Adams Germany 27 H1N1 YES 04-05-2011
+33703 Christopher Sanders Germany 37 H1N1 YES 08-09-2009
+40003 Laura Conner Germany 64 COVID-2019 NO
+74465 Christopher Gordon Germany 32 SARS-COV-2 NO
+96187 Kayla Maynard Germany 69 MERS-COV YES 03-11-2003
+4765 Tara Hall Germany 65 MERS-COV NO
+45954 James Carr Germany 30 COVID-2019 YES 08-11-2009
+33261 Kathleen Coleman Germany 13 SARS-1 YES 18-04-2003
+23719 Haley Gilbert Germany 45 MERS-COV NO
+18483 Jeffrey Ross Germany 39 H1N1 NO
+82941 Ronald Gonzalez Germany 39 MERS-COV YES 08-09-2003
+97930 John Walter Germany 22 EVD NO
+17189 Michael Carroll Germany 71 H1N1 YES 23-10-2011
+17435 Kevin Bailey Germany 78 SARS-COV-2 NO
+10482 Raymond Black Germany 78 FLU-2018 NO
+34771 Scott Hansen Germany 24 H1N1 NO
+8041 Connor Silva Germany 43 H1N1 YES 29-07-2018
+95059 Rhonda Martinez Germany 58 SARS-COV-2 NO
+1799 Judith Brown Germany 36 SARS-1 YES 10-08-2000
+42839 Sara Bailey Germany 69 COVID-2019 YES 19-05-2018
+17299 Mitchell Chen Germany 12 SARS-COV-2 NO
+78652 Jonathan Todd Germany 70 SARS-1 YES 09-05-2020
+1755 William Brewer Germany 33 EVD YES 05-03-2011
+83966 Robert Smith Germany 58 FLU-2018 NO
+57985 Rebecca Miller Germany 55 COVID-2019 NO
+41660 Sarah Holmes Germany 39 H1N1 NO
+23981 Charles Williams Germany 58 FLU-2018 NO
+34552 Thomas Norton Germany 66 SARS-COV-2 NO
+77958 Deanna Lewis Germany 49 COVID-2019 YES 17-04-2019
+12779 Jennifer Johnson Germany 49 MERS-COV NO
+38225 Shane Armstrong Germany 51 SARS-1 YES 15-02-2004
+22483 Isabel Sherman Germany 42 MERS-COV YES 26-01-2012
+39220 Joshua George Germany 17 H1N1 YES 17-12-2016
+88535 Bradley Woods Germany 14 FLU-2018 YES 27-06-2009
+25955 Taylor Wagner Germany 74 EVD YES 14-02-2016
+21049 Joseph Petty Germany 30 SARS-1 YES 14-12-2010
+85920 Caleb Potts Germany 79 SARS-1 NO
+18544 Cynthia Larsen Germany 16 SARS-1 YES 04-09-2015
+13380 Heather Morales Germany 70 H1N1 NO
+95693 Kevin Simon Germany 29 H1N1 NO
+63931 Lori Hickman Germany 52 FLU-2018 NO
+73139 David Collins Germany 13 COVID-2019 YES 15-05-2013
+20228 Lisa Vance Germany 57 H1N1 NO
+58752 Diane Andrews Germany 65 MERS-COV NO
+74677 Steven Wilson Germany 32 H1N1 NO
+47478 Michael Mccoy Germany 26 H1N1 NO
+77374 Heather Rogers Germany 59 FLU-2018 NO
+68983 Rachel Welch Germany 12 FLU-2018 NO
+7841 Wesley Preston Germany 32 FLU-2018 NO
+50765 Jasmine Hunter Germany 50 H1N1 YES 29-07-2019
+67720 Danielle Morales Germany 61 FLU-2018 NO
+30973 Heather Suarez Germany 54 MERS-COV NO
+21069 Rodney Bryant Germany 68 SARS-COV-2 YES 19-04-2006
+25742 Richard Ramirez Germany 59 FLU-2018 YES 10-07-2009
+24600 Daniel Jenkins Germany 12 COVID-2019 YES 31-03-2008
+27679 Heather Herrera Germany 37 FLU-2018 YES 05-01-2006
+59996 Brian Underwood Germany 26 MERS-COV NO
+8142 Andrea Brown Germany 44 EVD YES 04-03-2013
+76219 Paul Tate Germany 66 SARS-COV-2 YES 26-11-2012
+42555 Keith Padilla Germany 38 SARS-COV-2 NO
+7944 Brianna Jones Germany 56 COVID-2019 YES 02-01-2008
+8356 John Stone Germany 26 SARS-COV-2 YES 29-04-2012
+23472 Curtis Henderson Germany 62 FLU-2018 YES 28-03-2010
+41052 Amanda Garcia Germany 13 MERS-COV YES 05-01-2019
+96681 Madison Dunn Germany 36 MERS-COV NO
+17783 Mary Carter Germany 34 H1N1 NO
+34376 John King Germany 76 SARS-COV-2 YES 08-12-2017
+2179 Andrew Kent Germany 19 SARS-COV-2 YES 06-08-2003
+74920 Cindy Stevenson Germany 18 MERS-COV NO
+82462 Adam Cunningham Germany 48 SARS-1 NO
+27883 Ronald Singleton Germany 73 SARS-1 YES 30-11-2003
+73310 Barbara Kirk Germany 67 COVID-2019 YES 24-03-2005
+70410 Steven Gutierrez Germany 72 MERS-COV NO
+4733 Jay Wiley Germany 77 SARS-COV-2 YES 17-05-2005
+25082 James Snyder Germany 71 FLU-2018 NO
+12394 Megan Woods Germany 38 COVID-2019 YES 05-06-2009
+49749 Michael Savage Germany 77 MERS-COV NO
+59645 David Knight Germany 17 MERS-COV YES 09-08-2013
+59845 Rebecca Mcclain Germany 43 H1N1 YES 16-12-2018
+14247 Timothy White Germany 18 H1N1 NO
+69775 Kimberly Sherman Germany 45 SARS-COV-2 NO
+65745 Jessica Marks Germany 62 FLU-2018 YES 29-06-2006
+93369 Angela Martin Germany 23 FLU-2018 NO
+74453 Craig Williams Germany 61 H1N1 YES 28-06-2015
+34740 Christine Gilbert Germany 36 SARS-1 YES 26-03-2004
+41091 Stephanie Huber Germany 44 EVD YES 12-09-2001
+96084 Tricia Cox Germany 36 SARS-1 NO
+72106 Jennifer Fitzpatrick Germany 31 H1N1 NO
+77011 Malik Proctor Germany 46 H1N1 YES 02-05-2019
+76569 Matthew Alvarado Germany 71 FLU-2018 YES 17-10-2012
+33351 Jennifer Campbell Germany 13 SARS-1 NO
+46796 Vincent Torres Germany 48 EVD NO
+25719 Danny Garcia Germany 56 MERS-COV NO
+39720 Kayla Lynn Germany 37 MERS-COV NO
+91536 Nicholas Jimenez Germany 12 EVD YES 24-03-2011
+9397 Sandra Garcia Germany 57 SARS-COV-2 YES 14-06-2020
+77760 Melissa Carter Germany 65 EVD NO
+14571 Mary Cox Germany 69 EVD NO
+3888 Dawn Crawford Germany 65 FLU-2018 YES 19-04-2012
+97334 Timothy Stevens Germany 33 FLU-2018 YES 24-03-2005
+1296 Angela Castaneda Germany 39 EVD NO
+80397 David Matthews Germany 74 EVD YES 06-05-2004
+23588 Erin Malone Germany 74 SARS-1 NO
+96965 James Ward Germany 41 EVD NO
+88875 Tara Williams Germany 17 COVID-2019 YES 12-09-2009
+51976 Haley Webb Germany 39 SARS-1 YES 26-09-2006
+67630 Robert Shannon Germany 30 FLU-2018 YES 21-10-2001
+59155 Whitney Jackson Germany 63 MERS-COV YES 04-09-2010
+5020 Jessica Rose Germany 18 COVID-2019 YES 09-08-2013
+69556 Lisa Martin Germany 13 MERS-COV NO
+21617 Teresa Hardy Germany 62 H1N1 NO
+65746 Richard Gray Germany 48 EVD NO
+16935 Kathleen Reed Germany 39 SARS-1 NO
+22669 Charles Holmes Germany 73 SARS-COV-2 NO
+34314 Briana Dunn Germany 18 MERS-COV NO
+48086 John Walsh Germany 37 H1N1 YES 27-08-2017
+13544 Mary Hart Germany 58 EVD NO
+4967 Stacy Morales Germany 58 EVD NO
+54719 Garrett Freeman Germany 16 EVD NO
+3883 Elaine Sanchez Germany 25 SARS-1 NO
+2445 Stacy Vargas Germany 51 SARS-1 NO
+12319 Michelle Garcia Germany 35 COVID-2019 NO
+27881 Kara Moreno Germany 69 H1N1 NO
+58055 Justin Flores Germany 15 COVID-2019 NO
+95626 Jeremy Mccarthy Germany 49 FLU-2018 NO
+43855 Rebecca Miller Germany 14 COVID-2019 NO
+49664 Jason Little Germany 32 SARS-1 NO
+398 Todd Brown Germany 19 FLU-2018 NO
+772 Kristine Levine Germany 79 H1N1 NO
+44614 James Davis Germany 58 EVD YES 12-07-2011
+45999 Kristin Lloyd Germany 24 COVID-2019 NO
+23447 Teresa Williams Germany 49 H1N1 YES 27-05-2019
+86870 Yolanda Myers Germany 50 COVID-2019 YES 18-12-2015
+47783 Douglas Stone Germany 61 SARS-1 NO
+25435 Alexander Johnson Germany 49 MERS-COV YES 10-07-2008
+10310 Jonathan Nolan Germany 23 H1N1 YES 07-09-2006
+53830 Daniel Carter Germany 60 H1N1 YES 02-11-2013
+20643 Chase Valenzuela Germany 48 EVD YES 02-08-2005
+26724 Michelle Stein Germany 31 MERS-COV YES 22-07-2012
+11271 Corey Bell Germany 43 SARS-1 NO
+56085 Brenda Castro Germany 74 H1N1 NO
+8593 Kimberly Hernandez Germany 37 EVD NO
+92070 Ronald Roberts Germany 76 COVID-2019 NO
+88831 Kenneth Arnold Germany 44 MERS-COV NO
+56429 Beth Berry Germany 53 H1N1 NO
+21883 Sean Ford Germany 36 SARS-1 YES 02-04-2020
+33035 Jimmy Bass Germany 42 SARS-1 YES 11-11-2001
+38998 Megan Sweeney Germany 12 COVID-2019 NO
+64984 Brittney Payne Germany 17 COVID-2019 NO
+78117 Marcus Best Germany 65 COVID-2019 YES 07-07-2001
+47285 Joanna Larson Germany 68 FLU-2018 YES 02-09-2016
+28462 Karen Bowman Germany 65 MERS-COV NO
+81527 Sarah Moreno Germany 52 COVID-2019 YES 14-12-2008
+3001 Christopher Sellers Germany 58 FLU-2018 NO
+42908 Charles Maldonado Germany 43 SARS-1 NO
+92181 Meghan Collins Germany 20 MERS-COV YES 24-02-2013
+2306 Larry Richards Germany 76 EVD YES 13-10-2005
+98928 Jose Stewart Germany 39 FLU-2018 YES 30-06-2007
+66465 Patricia Daniels Germany 29 COVID-2019 YES 12-11-2015
+70586 Cynthia Nguyen Germany 22 EVD NO
+30223 Linda Wilson Germany 61 EVD YES 30-06-2014
+22607 Donald Olsen Germany 77 COVID-2019 YES 03-07-2020
+56533 Scott Wilson Germany 22 EVD YES 25-02-2015
+93202 Heather Marsh Germany 42 H1N1 YES 26-03-2001
+38433 Paige Carter Germany 65 H1N1 NO
+37506 Henry Rhodes Germany 26 EVD YES 05-06-2004
+58313 Heather Robles Germany 21 COVID-2019 YES 12-06-2000
+41126 Johnathan Williams Germany 23 FLU-2018 NO
+63324 Thomas Duran Germany 15 FLU-2018 YES 11-10-2007
+72976 Christopher Herman Germany 11 FLU-2018 YES 07-05-2020
+52677 Hector Norris Germany 62 COVID-2019 NO
+972 Michael Barr Germany 20 SARS-1 NO
+97623 Ryan Wells Germany 43 SARS-COV-2 NO
+51012 Cynthia Hammond Germany 10 H1N1 YES 30-06-2016
+66988 Haley Reid Germany 14 COVID-2019 YES 21-10-2000
+71677 Jennifer Norman Germany 62 H1N1 YES 08-01-2012
+89394 Bryce Holmes Germany 74 SARS-COV-2 YES 15-11-2009
+49113 William Walker Germany 37 EVD NO
+63471 Sarah Butler Germany 75 COVID-2019 YES 18-09-2003
+53896 Justin Hunter Germany 26 MERS-COV YES 25-12-2018
+48367 Katie Nolan Germany 38 SARS-1 NO
+39782 Eric Foley Germany 20 MERS-COV NO
+19948 David Valdez Germany 52 COVID-2019 NO
+62324 Matthew Luna Germany 32 EVD NO
+942 Joel Cox Germany 32 SARS-COV-2 YES 09-06-2016
+21054 Kenneth Nolan Germany 59 FLU-2018 NO
+80602 Linda Winters Germany 77 SARS-1 NO
+56790 Ashley Griffith Germany 13 FLU-2018 YES 15-09-2004
+55124 Brianna Jones Germany 79 MERS-COV YES 16-02-2017
+27696 Natalie Parker Germany 44 SARS-COV-2 NO
+89923 Jasmine Kent Germany 69 H1N1 NO
+96477 Kathleen Peters Germany 51 FLU-2018 YES 13-02-2018
+79449 William Campbell Germany 59 COVID-2019 NO
+26474 Michelle Jordan Germany 11 FLU-2018 NO
+41484 David Alvarado Germany 68 MERS-COV YES 19-02-2014
+13412 Pamela Freeman Germany 35 COVID-2019 NO
+87439 Kristin Wolfe Germany 75 H1N1 YES 06-08-2017
+26177 Christopher Miranda Germany 17 MERS-COV YES 16-06-2020
+15780 Crystal Montgomery Germany 64 COVID-2019 YES 22-02-2011
+22574 Haley Benjamin Germany 54 EVD NO
+6184 Craig Hodge Germany 36 MERS-COV YES 27-02-2010
+64687 Jason Morris Germany 59 MERS-COV NO
+92465 Michael Howard Germany 57 SARS-COV-2 YES 07-02-2015
+61556 Joel Hunt Germany 22 EVD NO
+81838 Jessica Espinoza Germany 74 EVD NO
+4830 Miguel Hudson Germany 73 FLU-2018 NO
+79329 Tamara Li Germany 73 EVD YES 08-06-2016
+30346 Lisa Kim Germany 14 H1N1 NO
+283 Christina Brown Germany 65 EVD NO
+73270 Bonnie Horn Germany 10 FLU-2018 YES 07-08-2015
+85299 Patrick Watson Germany 34 SARS-COV-2 NO
+89225 Erin Carey Germany 26 MERS-COV NO
+70034 Richard Sanders Germany 35 SARS-COV-2 YES 08-11-2013
+49808 Sergio Sutton Germany 65 MERS-COV NO
+31358 Alisha Barron Germany 20 COVID-2019 YES 29-03-2011
+7474 Adam Jimenez Germany 73 FLU-2018 NO
+92491 Robin Casey Germany 34 SARS-COV-2 NO
+89697 Lauren Spencer Germany 48 EVD YES 25-04-2010
+97992 Lynn Bryant Germany 23 COVID-2019 YES 13-02-2007
+47242 Kathryn Salazar Germany 78 SARS-COV-2 NO
+45757 Kimberly Reed Germany 58 FLU-2018 YES 11-02-2006
+64748 Kevin Chambers Germany 12 FLU-2018 YES 17-05-2011
+29699 Melissa Hunter Germany 10 H1N1 NO
+44030 Timothy Cunningham Germany 18 EVD YES 15-08-2001
+8709 Laura Peterson Germany 25 SARS-COV-2 NO
+63965 Michael Bass Germany 68 H1N1 YES 18-06-2017
+68599 Isabella Perez Germany 43 H1N1 YES 11-01-2020
+46666 Jennifer Green Germany 65 MERS-COV YES 04-05-2020
+36249 Tammie Cameron Germany 56 COVID-2019 NO
+67989 Brandon Blair Germany 45 EVD YES 01-01-2005
+25587 Mark Price Germany 61 H1N1 NO
+36476 Jessica Lawrence Germany 51 MERS-COV NO
+65542 Barbara Hall Germany 59 EVD YES 19-01-2017
+85258 Michael Lara Germany 34 SARS-1 NO
+38835 Megan Hall Germany 45 SARS-COV-2 NO
+37604 Tara Garrett Germany 42 MERS-COV NO
+87278 Michael Davenport Germany 35 H1N1 NO
+40675 William Johnson Germany 10 COVID-2019 YES 26-03-2017
+74351 Randall Taylor Germany 40 FLU-2018 NO
+81395 Julie Francis Germany 22 COVID-2019 YES 26-09-2014
+91970 Sara Marshall Germany 23 H1N1 NO
+26861 Joshua Sanchez Germany 32 EVD YES 22-09-2002
+268 Donald Watson Germany 77 FLU-2018 NO
+62681 Barbara Ortiz Germany 75 H1N1 NO
+25526 Matthew Wagner Germany 12 SARS-COV-2 YES 21-07-2000
+86235 Adam Vaughn Germany 66 SARS-COV-2 YES 18-08-2019
+53314 Adam Reyes Germany 40 FLU-2018 NO
+57152 James Smith Germany 11 FLU-2018 YES 01-09-2018
+94758 Brandon Adkins Germany 45 SARS-1 NO
+68777 Lori Brown Germany 36 COVID-2019 YES 24-02-2013
+876 Brian Walker Germany 72 SARS-COV-2 NO
+15508 Lee Nelson Germany 16 COVID-2019 NO
+56707 Richard Long Germany 10 SARS-COV-2 YES 12-05-2012
+14904 Frank Murray Germany 64 SARS-1 NO
+80675 Holly Jackson Germany 75 FLU-2018 NO
+45167 Roberto Garrison Germany 73 MERS-COV YES 07-11-2001
+2457 Caitlin Morales Germany 73 H1N1 YES 05-06-2010
+59029 Shane Krause Germany 14 MERS-COV YES 23-10-2019
+81507 Donna Fernandez Germany 54 FLU-2018 YES 16-05-2017
+75122 Jessica Sullivan Germany 23 SARS-1 NO
+21850 Sharon Warren Germany 49 COVID-2019 NO
+18991 Patricia Mitchell Germany 70 FLU-2018 YES 31-10-2006
+71030 Steven Johnson Germany 72 SARS-COV-2 NO
+63160 Tracy Medina Germany 12 EVD NO
+73550 Julia Khan Germany 71 EVD YES 31-01-2001
+81648 Brandon Mercado Germany 69 SARS-1 YES 10-07-2002
+49681 Jennifer Gibson Germany 77 SARS-COV-2 YES 09-02-2004
+8149 Nathan Davenport Germany 75 MERS-COV NO
+84403 Linda Washington Germany 52 COVID-2019 YES 30-12-2010
+3334 Melissa Williams Germany 48 FLU-2018 YES 14-12-2012
+60663 Dalton Owens Germany 54 SARS-COV-2 YES 25-12-2008
+9591 Breanna King Germany 63 MERS-COV NO
+89881 Sharon Mendoza Germany 29 SARS-1 NO
+33270 Barbara Peterson Germany 55 SARS-1 NO
+63504 Andrea Johnson Germany 59 MERS-COV NO
+53180 Joseph Owens Germany 36 EVD NO
+97217 John Delgado Germany 70 SARS-1 YES 18-01-2020
+57178 Melissa Watson Germany 52 COVID-2019 YES 09-06-2012
+41426 Kelly Lopez Germany 79 COVID-2019 NO
+6905 Joshua Hernandez Germany 26 FLU-2018 NO
+24136 Megan Watson Germany 31 FLU-2018 YES 19-03-2004
+59149 Diane Horn Germany 67 SARS-1 YES 20-05-2011
+61685 Robin Carlson Germany 17 FLU-2018 YES 26-07-2001
+53293 Lorraine Reynolds Germany 22 FLU-2018 NO
+13779 Regina Hernandez Germany 52 SARS-1 NO
+22012 Michael Gonzalez Germany 28 EVD NO
+55419 Christopher Ortiz Germany 33 FLU-2018 NO
+46548 Devin Clark Germany 40 SARS-COV-2 YES 31-08-2000
+90272 Michael Walker Germany 68 COVID-2019 NO
+30808 Julie Cochran Germany 39 SARS-1 YES 16-05-2019
+54323 Suzanne Chapman Germany 70 SARS-COV-2 NO
+71064 Gregory Hatfield Germany 73 FLU-2018 NO
+32553 Caleb Smith Germany 35 FLU-2018 NO
+63917 Cynthia Ellison Germany 45 COVID-2019 NO
+54895 Mary Jackson Germany 63 FLU-2018 NO
+38972 Charles Williams Germany 57 H1N1 YES 25-03-2005
+38355 Christopher Cooper Germany 52 COVID-2019 YES 19-03-2011
+27616 Andrew Rasmussen Germany 57 H1N1 YES 23-05-2013
+27379 Madison Hogan Germany 11 H1N1 YES 23-02-2006
+82137 Matthew Davenport Germany 38 COVID-2019 NO
+73267 Jessica Smith Germany 56 H1N1 YES 23-10-2005
+58285 Haley Rodgers Germany 73 MERS-COV YES 28-02-2019
+968 Francisco Long Germany 22 EVD NO
+71718 Savannah Diaz Germany 49 FLU-2018 NO
+37390 Robert Hunter Germany 52 SARS-1 NO
+36787 Noah Sharp Germany 68 COVID-2019 YES 15-06-2017
+50719 Adam Shelton Germany 23 SARS-COV-2 NO
+21516 Michelle Price Germany 31 EVD NO
+36784 Leslie Salazar Germany 46 COVID-2019 NO
+4884 Timothy Price Germany 56 COVID-2019 YES 15-02-2016
+27987 Carol Hayes Germany 34 EVD YES 30-12-2014
+53817 Tyler Espinoza Germany 61 H1N1 NO
+99524 Brooke Sherman Germany 75 FLU-2018 NO
+25605 Christopher Cruz Germany 55 EVD NO
+97753 Frederick Gillespie Germany 68 SARS-1 YES 06-05-2020
+73737 Katie Sexton Germany 52 MERS-COV YES 06-06-2004
+86312 Christopher Howard Germany 36 COVID-2019 YES 06-03-2019
+67867 Ryan Mcdonald Germany 62 COVID-2019 YES 22-09-2000
+40920 Melissa Nichols Germany 16 MERS-COV NO
+97901 Rebecca Cook Germany 23 SARS-1 NO
+40423 Sara Page Germany 44 SARS-COV-2 NO
+92616 Scott Harris Germany 41 COVID-2019 NO
+43177 Anthony Morris Germany 31 H1N1 NO
+59919 Brian Collins Germany 47 EVD NO
+44060 Cindy Mathis Germany 16 SARS-COV-2 NO
+13675 David Hayes Germany 60 MERS-COV NO
+6123 John Walker Germany 66 MERS-COV NO
+15334 Brandon Acosta Germany 15 H1N1 YES 01-02-2021
+81735 Robert Brooks Germany 31 H1N1 YES 12-06-2001
+16649 Charles Kennedy Germany 35 H1N1 NO
+18181 Marcus Harris Germany 12 EVD YES 30-08-2010
+25705 Debra Moore Germany 27 COVID-2019 NO
+935 Mark Shah Germany 45 SARS-COV-2 NO
+36428 Elizabeth Campos Germany 42 H1N1 YES 25-05-2011
+34752 Angela Brock Germany 52 FLU-2018 NO
+85226 Megan Marshall Germany 72 MERS-COV YES 19-10-2004
+39809 Randy Spencer Germany 70 H1N1 YES 12-08-2015
+51904 Lee Schultz Germany 42 SARS-COV-2 YES 04-01-2012
+25750 Randy Smith Germany 71 FLU-2018 YES 18-05-2000
+26403 Felicia Evans Germany 35 H1N1 NO
+38384 Cynthia Spence Germany 57 MERS-COV YES 15-07-2011
+22440 Rebecca Velez Germany 35 H1N1 YES 12-06-2001
+60658 Andrew Brooks Germany 38 SARS-COV-2 YES 21-07-2000
+19202 Danielle Butler Germany 44 FLU-2018 YES 06-04-2011
+12523 Stephen Gibbs Germany 33 FLU-2018 YES 02-03-2008
+82846 Frederick Mills Germany 74 FLU-2018 NO
+87185 Matthew Lamb Germany 20 MERS-COV NO
+36351 David Johnson Germany 72 MERS-COV NO
+25882 Elizabeth Nunez Germany 59 EVD NO
+96747 Jill Walton Germany 49 COVID-2019 YES 10-02-2002
+76408 Jason Lopez Germany 28 FLU-2018 NO
+64205 Sean Moore Germany 30 H1N1 YES 12-01-2016
+95840 Kimberly Sanders Germany 52 H1N1 NO
+10381 Bobby Jones Germany 23 SARS-COV-2 NO
+85470 Thomas Gonzalez Germany 64 FLU-2018 YES 08-11-2008
+82825 Dakota Cardenas Germany 34 MERS-COV YES 21-01-2007
+73197 Michael Jacobs Germany 66 COVID-2019 NO
+44410 Jacob Hudson Germany 72 SARS-1 YES 15-12-2017
+37224 Alicia Wade Germany 51 H1N1 NO
+54936 Jeffrey Ramos Germany 65 EVD NO
+62746 Carolyn Lara Germany 38 COVID-2019 NO
+85128 Pamela Smith Germany 29 H1N1 YES 07-08-2014
+29766 Denise Bell Germany 76 SARS-1 NO
+1841 Savannah Haynes Germany 57 COVID-2019 NO
+88421 Julie Hart Germany 31 COVID-2019 NO
+63197 Anna Salazar Germany 38 FLU-2018 NO
+10821 Eric Williams Germany 12 FLU-2018 YES 07-08-2006
+3717 Kristina Gibson Germany 40 EVD YES 14-05-2020
+50600 Kyle Adams Germany 49 H1N1 YES 01-04-2015
+66861 Trevor Le Germany 64 MERS-COV YES 29-01-2017
+59088 Adam Hernandez Germany 73 SARS-1 NO
+30692 Jessica Roberts Germany 45 FLU-2018 YES 12-05-2013
+30691 Kelly Wu Germany 52 COVID-2019 YES 12-09-2004
+72053 Tammy Vazquez Germany 55 SARS-1 NO
+79922 Shane Miranda Germany 22 SARS-COV-2 NO
+16889 Denise Perez Germany 13 COVID-2019 NO
+83081 Steven Walters Germany 10 H1N1 YES 21-08-2010
+59892 Allison Peters Germany 41 MERS-COV NO
+48339 Amanda Rivera Germany 14 EVD NO
+56321 Kelsey Stout Germany 72 SARS-COV-2 NO
+70926 Lindsey Fisher Germany 50 SARS-1 NO
+44239 Monica Pacheco Germany 75 MERS-COV NO
+7301 David Ward Germany 68 FLU-2018 NO
+42443 Brandon Smith Germany 32 FLU-2018 YES 21-09-2016
+99037 Jill Watkins Germany 34 H1N1 YES 05-04-2016
+61072 John Park Germany 32 COVID-2019 YES 13-03-2007
+83577 Lori Jordan Germany 31 COVID-2019 NO
+96707 Nicholas Wagner Germany 46 H1N1 YES 16-05-2004
+65643 David Livingston Germany 64 COVID-2019 YES 14-12-2000
+48953 Michele Barrera Germany 62 H1N1 NO
+33225 Stephanie Key Germany 64 COVID-2019 NO
+68705 Andrew Ellison Germany 33 SARS-1 NO
+6312 Danny Horton Germany 17 SARS-COV-2 YES 30-06-2020
+5286 Mackenzie Perry Germany 25 SARS-1 NO
+29094 Margaret Thompson Germany 38 SARS-COV-2 YES 17-02-2008
+16592 Steven James Germany 47 MERS-COV YES 10-04-2008
+33458 Isabel Williamson Germany 48 FLU-2018 NO
+56156 David Collins Germany 69 SARS-1 YES 13-06-2009
+39822 Robert Cook Germany 47 FLU-2018 YES 16-05-2014
+78105 Kimberly Smith Germany 31 SARS-1 YES 29-12-2005
+80745 Donald Richards Germany 36 MERS-COV NO
+9830 Luke Barrera Germany 22 EVD NO
+26468 Lisa Thompson Germany 16 COVID-2019 NO
+48461 Renee Miller Germany 49 H1N1 NO
+70278 Kimberly Knight Germany 61 COVID-2019 NO
+80568 Tracy Stewart Germany 47 SARS-COV-2 NO
+39880 Cathy Cook Germany 35 SARS-1 NO
+22639 Brendan White Germany 52 EVD NO
+76068 Christine Kent Germany 32 SARS-1 NO
+45018 Fred Potts Germany 52 H1N1 NO
+40009 Jonathan Jones Germany 55 MERS-COV NO
+84687 Tiffany Elliott Germany 74 EVD YES 22-07-2020
+76513 Larry Williams Germany 35 MERS-COV YES 26-08-2019
+80963 Jessica Moyer Germany 37 MERS-COV YES 29-04-2013
+35385 Thomas Sandoval Germany 36 SARS-COV-2 NO
+37027 Troy Williams Germany 68 SARS-1 NO
+43499 Ellen Montoya Germany 73 MERS-COV NO
+52139 Amanda Curtis Germany 11 MERS-COV NO
+91881 Melissa Mendoza Germany 44 EVD YES 14-11-2010
+75482 Sheila Stark Germany 10 H1N1 NO
+85365 Cheryl Williams Germany 13 H1N1 YES 10-06-2008
+86689 Barbara Cross Germany 45 EVD YES 24-12-2015
+35089 Regina Johnston Germany 41 SARS-COV-2 YES 12-02-2019
+3933 Lisa Rodriguez Germany 51 COVID-2019 YES 30-05-2007
+31093 Elizabeth Butler Germany 14 H1N1 YES 26-02-2011
+20537 Danny James Germany 78 SARS-1 YES 30-08-2013
+80698 Richard Wood Germany 27 MERS-COV YES 04-03-2020
+79519 Pamela Mccoy Germany 61 H1N1 NO
+31884 Diana Turner Germany 18 COVID-2019 YES 16-09-2019
+45516 Rachel Williams Germany 70 EVD NO
+13839 Susan Chase Germany 26 SARS-1 NO
+8087 Robin Buchanan Germany 66 SARS-1 NO
+23153 Lance Ross Germany 17 EVD NO
+2015 Ricky Sharp Germany 55 MERS-COV NO
+23667 Brian Thompson Germany 68 SARS-1 NO
+83780 James Carter Germany 39 SARS-COV-2 NO
+53429 Mark Evans Germany 18 FLU-2018 NO
+87513 William Edwards Germany 10 FLU-2018 YES 21-10-2016
+30163 Scott Williams Germany 36 MERS-COV YES 22-02-2015
+908 Austin Thompson Germany 64 EVD NO
+32851 Chad Meyer Germany 23 H1N1 YES 15-04-2020
+58547 Aaron Jacobs Germany 53 FLU-2018 YES 29-01-2006
+14258 Michael Hendricks Germany 60 SARS-COV-2 NO
+11037 Audrey King Germany 46 COVID-2019 NO
+61115 Brandon Proctor Germany 49 H1N1 NO
+92953 Chad Smith Germany 12 COVID-2019 YES 02-08-2018
+67578 John Brooks Germany 59 H1N1 NO
+50623 Jamie Jones Germany 37 SARS-1 NO
+47018 Cody Huff Germany 63 EVD NO
+32493 Joshua Perez Germany 48 SARS-COV-2 NO
+21998 Dave Dunn Germany 41 FLU-2018 YES 18-12-2015
+76005 Michael Johnson Germany 71 H1N1 NO
+32464 Andrea Berg Germany 60 SARS-COV-2 NO
+91774 Jeremy Collins Germany 27 FLU-2018 YES 10-05-2003
+65664 David Pitts Germany 20 H1N1 YES 19-04-2011
+25040 Elizabeth Stewart Germany 19 FLU-2018 NO
+56366 Rhonda Little Germany 18 H1N1 NO
+70707 Steven Christensen Germany 48 SARS-COV-2 YES 07-01-2016
+52234 Todd Thomas Germany 61 SARS-COV-2 NO
+66831 David Logan Germany 33 EVD YES 10-10-2018
+50659 Jimmy Duke Germany 13 H1N1 NO
+99981 Kathleen Johnson Germany 45 EVD YES 28-12-2011
+72500 Gary Bowers Germany 50 COVID-2019 YES 01-08-2001
+32744 Julie Price Germany 57 FLU-2018 YES 17-11-2019
+6098 April Stokes Germany 53 MERS-COV NO
+31602 Kyle Fox Germany 44 SARS-COV-2 NO
+27768 Jennifer Small Germany 40 H1N1 NO
+99443 Catherine Meyers Germany 12 SARS-COV-2 YES 07-10-2015
+26061 Laura Gonzalez Germany 49 MERS-COV NO
+54154 Kristen Ortiz Germany 17 SARS-COV-2 YES 07-01-2006
+27247 Shannon Mann Germany 19 EVD YES 30-10-2008
+26662 Juan Hutchinson Germany 75 COVID-2019 YES 08-01-2011
+79272 Scott Bowen Germany 44 SARS-1 YES 27-02-2004
+95177 Christopher Curtis Germany 78 SARS-COV-2 YES 16-07-2015
+786 Jeffrey Forbes Germany 14 EVD NO
+13659 Melissa Lopez Germany 70 MERS-COV NO
+29549 Jose Cruz Germany 64 MERS-COV YES 01-11-2002
+60551 Mario Riley Germany 32 SARS-COV-2 YES 10-01-2015
+80117 Carlos Thomas Germany 21 COVID-2019 NO
+76838 Courtney Jarvis Germany 67 EVD YES 27-02-2018
+20503 Caleb Parker Germany 52 H1N1 YES 07-01-2015
+98199 Jason Noble Germany 47 SARS-1 NO
+91440 Rachel Morrow Germany 56 EVD YES 18-11-2016
+41224 Ryan Miller Germany 62 H1N1 NO
+13467 Sarah Burns Germany 53 H1N1 NO
+84634 Laura Farrell Germany 63 COVID-2019 NO
+43498 Justin Peters Germany 55 MERS-COV NO
+46766 Todd Taylor Germany 21 COVID-2019 YES 22-09-2015
+27126 Kevin Ramos Germany 17 COVID-2019 NO
+47438 Cassidy Diaz Germany 27 EVD NO
+38283 Edward Pollard Germany 46 SARS-1 YES 04-10-2018
+58030 James Garcia Germany 13 FLU-2018 NO
+43251 Leah Ross Germany 79 COVID-2019 NO
+70291 Lisa Haney Germany 20 H1N1 NO
+44138 Stacey Manning Germany 39 EVD NO
+66795 John Owen Germany 29 H1N1 NO
+90048 Amy Duncan Germany 65 H1N1 NO
+32753 James Adams Germany 39 EVD NO
+30417 Lisa Cook Germany 42 EVD NO
+4277 William Campbell Germany 68 EVD NO
+88309 Justin Allen Germany 39 EVD YES 20-05-2002
+55077 Nicole Smith Germany 23 EVD YES 14-09-2016
+2358 Justin York Germany 26 SARS-1 NO
+24483 Jesse Carrillo Germany 54 SARS-1 NO
+62385 Ronald Green Germany 52 COVID-2019 NO
+18878 Jill Frazier Germany 27 SARS-COV-2 NO
+15153 Edward Alvarado Germany 67 H1N1 YES 27-09-2019
+97011 Jeffrey Henderson Germany 40 H1N1 YES 11-10-2007
+33087 Rebecca James Germany 40 SARS-COV-2 NO
+60221 Wendy Miller Germany 53 COVID-2019 NO
+45581 Lisa Russell Germany 39 MERS-COV YES 16-08-2017
+72014 James Fisher Germany 58 SARS-1 YES 09-02-2016
+49877 Brandy Taylor Germany 12 EVD NO
+35281 Roberto Stevenson Germany 54 FLU-2018 YES 17-04-2001
+98385 Julie Fox Germany 54 EVD NO
+50232 Allen Olson Germany 75 H1N1 NO
+63527 Christopher Perry Germany 26 COVID-2019 NO
+55176 Daniel Jensen Germany 54 H1N1 NO
+61038 Amy Rodriguez Germany 62 COVID-2019 YES 28-02-2008
+1641 Kyle Gibson Germany 49 EVD NO
+17579 Anita Nelson Germany 41 SARS-COV-2 NO
+40868 Gregory Cameron Germany 61 H1N1 NO
+83540 Erin Williams Germany 33 SARS-COV-2 YES 04-02-2016
+57609 David Vargas Germany 11 FLU-2018 YES 04-08-2007
+30183 Amy Chen Germany 79 COVID-2019 YES 28-04-2014
+85471 James Mendoza Germany 14 FLU-2018 NO
+49345 Lawrence Lawrence Germany 34 MERS-COV NO
+73478 Timothy Ward Germany 44 MERS-COV YES 04-11-2001
+40476 David Wolfe Germany 46 H1N1 YES 17-02-2019
+41432 Laurie Jones Germany 15 COVID-2019 NO
+52530 Teresa Gallagher Germany 14 EVD YES 10-03-2010
+61126 Tanya Freeman Germany 35 FLU-2018 NO
+79135 Eric Turner Germany 49 SARS-COV-2 YES 11-02-2014
+25510 Adam Martinez Germany 78 FLU-2018 YES 03-12-2020
+31340 Megan Hooper Germany 14 SARS-1 NO
+36348 Candace Lewis Germany 60 EVD NO
+4452 Chad Morrison Germany 36 SARS-COV-2 NO
+16031 John Robinson Germany 49 H1N1 YES 15-03-2000
+65388 Jessica Myers Germany 58 SARS-COV-2 NO
+74535 Lisa Jensen Germany 71 COVID-2019 YES 14-05-2008
+9313 Courtney Williams Germany 23 FLU-2018 NO
+2401 Suzanne Ford Germany 11 H1N1 NO
+3424 Sara Martin Germany 29 SARS-1 YES 25-01-2010
+32538 Jasmine Long Germany 33 MERS-COV NO
+83464 Drew Burch Germany 20 H1N1 YES 25-06-2000
+70710 Daniel Christensen Germany 77 COVID-2019 NO
+4746 Stephanie Taylor Germany 36 COVID-2019 NO
+52422 Kathryn Meza Germany 66 EVD YES 07-08-2007
+88069 Jason Wilcox Germany 43 MERS-COV NO
+51032 Julie Flynn Germany 58 EVD NO
+84145 Anthony Leonard Germany 59 FLU-2018 NO
+39879 Frank Wade Germany 40 H1N1 NO
+98767 Gary Phillips Germany 69 SARS-COV-2 NO
+63898 Thomas Gordon Germany 78 COVID-2019 NO
+28690 Kendra Mitchell Germany 59 EVD YES 24-10-2016
+49844 Stephen Grant Germany 16 FLU-2018 NO
+8057 Alexis York Germany 16 EVD YES 14-08-2002
+99727 Derek Rivera Germany 12 EVD YES 12-04-2013
+33778 Shelby Craig Germany 46 FLU-2018 YES 24-08-2003
+61362 Brendan Barrett Germany 26 MERS-COV YES 25-06-2003
+53778 Robert Castro Germany 52 H1N1 NO
+12518 Kayla Phelps Germany 11 COVID-2019 YES 13-07-2011
+44524 Heather Flores Germany 12 H1N1 YES 23-07-2018
+54185 Charlene Patton Germany 77 MERS-COV NO
+83566 Kirk Stephens Germany 40 SARS-COV-2 NO
+54953 Johnathan Chavez Germany 19 EVD YES 31-05-2000
+22047 Antonio Taylor Germany 27 MERS-COV NO
+45891 Travis Rodriguez Germany 13 MERS-COV NO
+85075 Javier Moore Germany 22 MERS-COV YES 06-11-2019
+46633 James Ayala Germany 50 MERS-COV NO
+74741 Richard Johnson Germany 78 FLU-2018 NO
+44259 Heather Delgado Germany 47 EVD NO
+40177 Christopher Hall Germany 36 FLU-2018 NO
+60848 Christopher Smith Germany 10 EVD NO
+5659 Lauren Wright Germany 53 SARS-COV-2 YES 20-11-2013
+10448 Nancy Boyle Germany 18 COVID-2019 NO
+22608 Valerie Fitzpatrick Germany 58 COVID-2019 YES 22-05-2000
+17370 Eduardo Jones Germany 69 EVD NO
+60898 David Armstrong Germany 13 SARS-1 YES 08-11-2013
+79975 Jeffrey Davis Germany 41 SARS-1 YES 07-10-2019
+19095 Daisy Hall Germany 70 MERS-COV YES 26-06-2013
+2298 Paula Irwin Germany 79 EVD YES 07-01-2003
+83835 Jared Mills Germany 50 COVID-2019 YES 26-03-2004
+25003 Rachel Anderson Germany 22 H1N1 YES 04-10-2006
+73016 Gabrielle Santiago Germany 28 MERS-COV YES 26-05-2000
+89811 Ryan Kirk Germany 52 H1N1 YES 21-02-2021
+54341 Katherine Cox Germany 16 H1N1 NO
+21023 Kelly Boyer Germany 69 EVD YES 10-09-2007
+24863 Andrew Jones Germany 55 COVID-2019 NO
+21457 Sherry Espinoza Germany 51 MERS-COV YES 02-07-2013
+13082 Amanda Parker Germany 17 COVID-2019 NO
+17777 Robert Richardson Germany 38 FLU-2018 YES 20-01-2000
+60387 Nicole Davis Germany 75 SARS-1 YES 03-07-2019
+4172 Daniel Stafford Germany 21 H1N1 YES 16-01-2004
+14843 Janet Baker Germany 12 MERS-COV NO
+61367 Katie Mcgrath Germany 32 COVID-2019 NO
+81658 Jacqueline Beltran Germany 19 FLU-2018 NO
+14567 Dustin Bradshaw Germany 18 EVD NO
+71458 Michael Guerrero Germany 37 MERS-COV NO
+90904 Gregory Carter Germany 54 FLU-2018 NO
+55813 Jacob Mueller Germany 27 SARS-1 YES 12-09-2015
+41328 Johnathan Rosales Germany 11 EVD YES 21-12-2010
+29360 Olivia Barnes Germany 67 SARS-1 YES 17-10-2011
+40800 Leah Rogers Germany 57 H1N1 NO
+55043 Michael Cobb Germany 64 SARS-1 YES 02-07-2016
+59769 Samuel Small Germany 60 MERS-COV YES 05-10-2003
+87395 Larry Morales Germany 50 SARS-COV-2 NO
+92061 Michael Chung Germany 65 SARS-COV-2 YES 04-01-2012
+94276 Jackson Wu Germany 12 COVID-2019 YES 08-05-2003
+91417 Robert Reynolds Germany 78 COVID-2019 YES 29-02-2000
+51405 Gregory Keller Germany 34 EVD YES 06-02-2006
+22701 David Hebert Germany 29 H1N1 NO
+8666 Arthur Ray Germany 62 COVID-2019 YES 16-09-2001
+28926 Aaron Cole Germany 14 H1N1 YES 03-01-2002
+49390 Alexandra Peters Germany 25 SARS-COV-2 YES 21-10-2016
+25394 Matthew Johnson Germany 68 SARS-1 NO
+27543 Kevin Anthony Germany 78 EVD NO
+64948 Susan Morrow Germany 38 SARS-1 YES 11-02-2020
+67899 Zachary Cunningham Germany 46 H1N1 YES 13-02-2012
+45151 Anthony Jenkins Germany 66 H1N1 NO
+38174 Charles Johnston Germany 77 COVID-2019 NO
+57216 Jessica Morales Germany 32 SARS-COV-2 YES 18-03-2008
+52362 Toni Flores Germany 57 COVID-2019 YES 12-07-2013
+39139 Stephen Ross Germany 38 H1N1 NO
+60141 Marcus Allen Germany 59 EVD YES 02-06-2004
+36278 Jason Berry Germany 30 SARS-1 NO
+85681 Kelly Cobb Germany 39 FLU-2018 YES 26-07-2009
+37740 Carrie Bailey Germany 73 EVD YES 03-11-2020
+79379 Scott Nash Germany 30 H1N1 NO
+30485 Anthony Hicks Germany 22 H1N1 NO
+94225 Jeff Fernandez Germany 38 MERS-COV NO
+14253 Cody Saunders Germany 79 MERS-COV YES 30-06-2007
+88980 Jennifer Sheppard Germany 22 FLU-2018 NO
+69133 Angela Torres Germany 68 MERS-COV YES 17-02-2010
+28933 David Green Germany 79 MERS-COV YES 10-11-2020
+8316 Maria Houston Germany 60 SARS-COV-2 NO
+66813 Valerie Chandler Germany 21 COVID-2019 NO
+95259 Misty Holden Germany 35 EVD YES 27-03-2013
+89702 Amanda Bradley Germany 22 H1N1 YES 22-03-2017
+87487 Marcus Patel Germany 60 FLU-2018 YES 06-05-2006
+82709 Shannon Sparks Germany 78 EVD YES 25-03-2005
+27452 Charles Graham Germany 12 EVD YES 20-01-2010
+18811 Jennifer Edwards Germany 33 SARS-1 NO
+37186 Frank Lee Germany 10 SARS-1 NO
+2156 Timothy Harrington Germany 19 MERS-COV YES 27-10-2003
+80729 Alyssa Parker Germany 49 MERS-COV NO
+25315 Adrian Larson Germany 34 COVID-2019 NO
+84757 William Salas Germany 27 FLU-2018 YES 24-10-2003
+65992 Grant Ayers Germany 28 FLU-2018 YES 15-03-2013
+28834 Rebekah Gibson Germany 24 H1N1 NO
+51083 Gabriel Watts Germany 57 COVID-2019 YES 18-05-2013
+95955 Theresa Berry Germany 41 MERS-COV NO
+98837 Hannah Lynn Germany 53 MERS-COV YES 04-12-2001
+99840 Ashley Chen Germany 71 SARS-COV-2 YES 23-12-2015
+15256 Cynthia Martin Germany 16 FLU-2018 NO
+26815 James Fuller Germany 59 MERS-COV YES 25-02-2002
+26687 Suzanne Turner Germany 58 SARS-COV-2 NO
+404 Stacy Fleming Germany 21 FLU-2018 NO
+15414 Richard Gibson Germany 29 MERS-COV NO
+6593 Sylvia Garcia Germany 58 EVD YES 22-01-2018
+16412 Linda Reynolds Germany 55 MERS-COV NO
+66482 James Bennett Germany 10 FLU-2018 NO
+20102 Carol Paul Germany 72 SARS-COV-2 NO
+96106 Matthew Davis Germany 55 MERS-COV NO
+82935 Joshua Mitchell Germany 73 EVD YES 02-06-2006
+36649 Angela Campbell Germany 16 H1N1 YES 13-12-2000
+80555 Julie Smith Germany 37 SARS-COV-2 YES 21-01-2015
+22402 Sierra Tucker Germany 10 FLU-2018 NO
+38367 Jasmine Shepherd Germany 61 COVID-2019 YES 20-09-2012
+65466 Christine Nguyen Germany 25 FLU-2018 NO
+51057 Brad Gonzalez Germany 19 MERS-COV NO
+33807 Samuel Webb Germany 56 MERS-COV YES 01-08-2004
+20591 Tara Stark Germany 49 H1N1 YES 16-03-2001
+25431 Christine Holder Germany 55 COVID-2019 NO
+55321 Stephanie Branch Germany 38 FLU-2018 YES 16-02-2000
+72485 Brandon Baker Germany 26 FLU-2018 NO
+66480 Jeffery Taylor Germany 72 FLU-2018 NO
+94681 Danielle Ramsey Germany 30 COVID-2019 NO
+49602 Tracy Hammond Germany 53 SARS-1 NO
+39411 Leah Leonard Germany 68 H1N1 NO
+75048 Michael Price Germany 32 EVD NO
+9169 Matthew Miller Germany 74 EVD YES 19-01-2013
+1518 Patricia Wilson Germany 55 MERS-COV YES 09-06-2008
+17030 Gabrielle Daniels Germany 70 EVD NO
+4374 Brian Perry Germany 59 FLU-2018 YES 18-07-2005
+64632 Kathryn Holder Germany 12 SARS-1 NO
+8955 Raymond Manning Germany 59 FLU-2018 NO
+20825 Stephanie Beck Germany 61 FLU-2018 NO
+2907 Debbie Rhodes Germany 30 EVD YES 25-06-2014
+19255 James Woods Germany 29 MERS-COV YES 07-05-2015
+27413 Brooke Barnett Germany 47 H1N1 YES 04-03-2008
+64173 Regina Jones Germany 16 COVID-2019 NO
+38997 Catherine Hanson Germany 14 H1N1 YES 09-07-2010
+30189 Christina Hughes Germany 61 SARS-1 NO
+2342 Susan Lewis Germany 48 EVD YES 08-12-2006
+45399 Benjamin Frost Germany 21 SARS-COV-2 NO
+33746 Sarah Andrews Germany 21 EVD YES 24-01-2018
+89672 Eric Hamilton Germany 53 COVID-2019 YES 27-07-2005
+94657 Wayne Martinez Germany 77 H1N1 NO
+77452 Joseph Young Germany 25 COVID-2019 YES 31-03-2006
+23786 Anna Walters Germany 53 SARS-COV-2 NO
+89506 Angela Smith Germany 47 COVID-2019 YES 17-12-2005
+9515 Alejandra Robles Germany 10 FLU-2018 YES 28-01-2002
+53369 Ryan Sawyer Germany 66 FLU-2018 NO
+55804 Charles Ford Germany 69 SARS-1 YES 22-03-2015
+84690 Kelly Smith Germany 27 MERS-COV NO
+89737 Carla Daniels Germany 28 SARS-COV-2 NO
+43977 Mary Roberson Germany 58 COVID-2019 NO
+24066 Lynn Waller Germany 70 H1N1 YES 08-08-2011
+39369 Pamela Smith Germany 19 H1N1 YES 16-07-2000
+36518 Michael Harris Germany 53 SARS-1 NO
+86230 Jason Scott Germany 11 MERS-COV YES 24-06-2001
+97789 Anthony Blevins Germany 57 SARS-1 YES 29-08-2014
+96579 Abigail Johnson Germany 64 SARS-1 YES 18-04-2008
+35333 Joshua Blair Germany 61 SARS-COV-2 NO
+66997 Carolyn Blevins Germany 64 FLU-2018 NO
+98301 Courtney Arroyo Germany 29 SARS-COV-2 NO
+70960 Christopher Welch Germany 78 SARS-COV-2 YES 07-08-2009
+37987 Kathy Bennett Germany 42 EVD YES 16-09-2014
+36327 Christopher Rice Germany 65 SARS-1 NO
+73530 Larry Smith Germany 63 SARS-COV-2 NO
+882 Jacob Olson Germany 30 SARS-1 NO
+10138 Cynthia Weeks Germany 47 MERS-COV NO
+88041 Haley Perez Germany 21 SARS-1 YES 01-11-2010
+1017 Beverly Watkins Germany 55 H1N1 NO
+99728 Melanie Larson Germany 45 SARS-1 NO
+72536 Daniel Garcia Germany 26 SARS-COV-2 YES 30-06-2003
+909 Lisa Le Germany 37 SARS-COV-2 NO
+20700 Kelsey Reyes Germany 67 EVD YES 16-02-2020
+44017 David Smith Germany 14 EVD NO
+20638 Rachel Booth Germany 37 SARS-1 YES 23-09-2006
+14628 Andrea Dennis Germany 43 SARS-1 YES 28-10-2001
+75791 Mercedes Jones Germany 45 SARS-COV-2 NO
+44745 Justin Roberts Germany 18 MERS-COV YES 23-11-2006
+38252 Ashley Jones Germany 36 FLU-2018 NO
+8684 Crystal Kelley Germany 56 MERS-COV YES 04-01-2005
+29546 Sheila Brown Germany 63 SARS-COV-2 NO
+56179 Mario Moreno Germany 16 H1N1 YES 10-09-2015
+99128 Richard Garza Germany 18 MERS-COV NO
+80168 Johnny Pace Germany 22 MERS-COV YES 15-03-2021
+50979 Gregory Johnson Germany 38 SARS-COV-2 NO
+22406 Matthew Prince Germany 56 SARS-COV-2 NO
+16219 Michael Chang Germany 10 FLU-2018 NO
+23124 Melissa Collier Germany 79 COVID-2019 YES 08-01-2002
+19990 Christopher Hurley Germany 61 H1N1 NO
+29416 Taylor Everett Germany 26 MERS-COV YES 04-09-2004
+88462 Aaron Ray Germany 67 MERS-COV YES 06-04-2011
+34415 Tiffany Wright Germany 70 SARS-COV-2 NO
+82059 Tiffany Ruiz Germany 76 MERS-COV NO
+67246 Christopher Best Germany 33 EVD YES 22-02-2016
+54590 Stephanie King Germany 77 EVD YES 03-05-2019
+83798 Sean Mcmahon Germany 43 MERS-COV NO
+98532 Charles Ramos Germany 20 EVD YES 15-01-2015
+91545 Anthony Smith Germany 44 H1N1 YES 24-06-2014
+28358 Melissa Dunn Germany 26 SARS-COV-2 NO
+31740 Alexander Bush Germany 63 EVD YES 28-03-2009
+95286 Lynn Thompson Germany 13 MERS-COV YES 29-12-2013
+839 Brian Thompson Germany 23 EVD YES 15-04-2016
+59361 Justin Gonzales Germany 25 COVID-2019 NO
+70153 Christopher Hernandez Germany 27 H1N1 NO
+80804 Christopher Dunlap Germany 34 SARS-COV-2 YES 24-11-2005
+95357 Kimberly Booth Germany 79 H1N1 NO
+65473 Lori Collins Germany 42 COVID-2019 YES 04-11-2004
+24135 John Phillips Germany 60 EVD YES 24-03-2000
+25403 Scott Miller Germany 51 EVD NO
+6990 Anthony Meadows Germany 63 MERS-COV YES 07-10-2013
+73059 James White Germany 39 FLU-2018 NO
+32683 Jason Sanders Germany 71 SARS-COV-2 NO
+35699 Jennifer Rodriguez Germany 76 COVID-2019 NO
+99599 Sarah Mason Germany 41 SARS-1 YES 01-10-2020
+63620 Mitchell Solomon Germany 44 SARS-1 YES 10-02-2000
+45953 Chad Murphy Germany 38 EVD YES 30-09-2019
+62065 Andrew Patterson Germany 21 FLU-2018 YES 18-08-2001
+29731 Samuel Mendoza Germany 58 COVID-2019 YES 14-06-2006
+20612 Kimberly Smith Germany 20 FLU-2018 YES 14-05-2010
+76548 Pamela Sanders Germany 27 COVID-2019 YES 06-03-2015
+35657 Michael Smith Germany 75 EVD YES 08-02-2012
+26052 Kimberly Jackson Germany 54 MERS-COV YES 07-12-2017
+10998 Dennis Gibbs Germany 39 MERS-COV YES 05-06-2016
+65810 Sydney Kennedy Germany 26 MERS-COV NO
+76746 Matthew Nelson Germany 66 COVID-2019 NO
+86313 Victoria Phillips Germany 73 H1N1 YES 17-04-2019
+2610 Amy Hines Germany 60 H1N1 YES 17-02-2004
+19444 Katherine Clarke Germany 45 FLU-2018 NO
+80169 Kimberly Irwin Germany 48 SARS-1 YES 24-10-2004
+64532 Lauren Coleman Germany 32 COVID-2019 YES 09-10-2019
+62202 Amy Young Germany 63 FLU-2018 YES 04-05-2005
+5833 James Marshall Germany 76 SARS-1 YES 27-07-2018
+18254 Victoria Bond Germany 78 SARS-1 YES 23-01-2017
+20993 Morgan Neal Germany 35 SARS-COV-2 YES 27-12-2006
+53198 Eddie Chung Germany 31 MERS-COV NO
+79116 Brandy Brown Germany 34 MERS-COV YES 15-04-2004
+11752 Jennifer Jones Germany 63 SARS-1 NO
+13206 Sherry Miller Germany 35 FLU-2018 YES 01-02-2015
+89819 Nicholas Carey Germany 27 H1N1 NO
+91737 Rhonda Mcfarland Germany 18 SARS-COV-2 NO
+47203 Elizabeth Carney Germany 26 SARS-1 NO
+50652 Kevin Burke Germany 54 H1N1 YES 26-11-2009
+98047 Douglas Flores Germany 13 MERS-COV YES 02-06-2010
+7820 Jill Best Germany 20 MERS-COV NO
+4740 Raymond Bennett Germany 22 FLU-2018 NO
+36556 Betty Rodriguez Germany 50 FLU-2018 NO
+16174 Brandon Rodriguez Germany 43 COVID-2019 NO
+44297 Mark Jones Germany 74 SARS-COV-2 YES 03-02-2021
+33278 Edward Lewis Germany 38 EVD YES 18-09-2010
+10293 Christopher Garcia Germany 11 H1N1 NO
+54367 Julie Warren Germany 55 COVID-2019 NO
+30965 Douglas Stewart Germany 11 COVID-2019 YES 13-04-2009
+25046 Doris Chavez Germany 75 FLU-2018 YES 27-10-2005
+29221 Rodney Bishop Germany 30 SARS-1 YES 14-04-2004
+40518 Christopher Prince Germany 58 SARS-1 NO
+84824 Kathryn Jenkins Germany 77 MERS-COV YES 09-01-2012
+83675 Christopher Fuentes Germany 51 FLU-2018 YES 24-09-2012
+44946 April Acosta Germany 68 SARS-COV-2 NO
+24160 Ashley Short Germany 79 MERS-COV NO
+27921 Dylan Cox Germany 72 EVD NO
+91355 Amy Carlson Germany 12 FLU-2018 NO
+76817 Frank Cervantes Germany 76 FLU-2018 YES 10-02-2020
+79704 Jean Long Germany 19 SARS-COV-2 YES 03-01-2006
+57297 Robin Sanchez Germany 13 SARS-COV-2 NO
+33735 Erica Jackson Germany 51 EVD YES 23-07-2011
+72398 Katie Anderson Germany 20 SARS-1 NO
+80330 Denise Lee Germany 20 EVD NO
+3132 Elizabeth Mathis Germany 70 COVID-2019 YES 24-12-2009
+23856 Cody Perry Germany 18 EVD NO
+29420 Brandon Thomas Germany 78 FLU-2018 NO
+37535 Tiffany Allen Germany 77 COVID-2019 YES 17-02-2017
+60062 Lisa Stanley Germany 72 MERS-COV YES 01-11-2013
+71736 Javier Huerta Germany 59 H1N1 YES 03-04-2015
+29407 Meagan Chang Germany 62 MERS-COV YES 17-07-2009
+46967 Jacob Houston Germany 30 SARS-1 NO
+86349 Robert Martinez Germany 27 COVID-2019 YES 03-08-2003
+2281 Wanda Davies Germany 50 H1N1 YES 11-12-2020
+35262 Tyler Leblanc Germany 34 FLU-2018 YES 18-09-2008
+40907 Mark Ferguson Germany 63 SARS-COV-2 YES 06-08-2008
+34235 Cassandra Webster Germany 63 SARS-COV-2 NO
+43060 Justin Guerra Germany 62 H1N1 NO
+89519 John Davis Germany 41 MERS-COV NO
+24525 Daniel Carter Germany 11 MERS-COV NO
+26303 Jeffrey Lawson Germany 61 COVID-2019 YES 26-03-2006
+20286 Chloe Navarro Germany 36 COVID-2019 NO
+23002 Adrian House Germany 75 SARS-1 NO
+79009 Anthony Boone Germany 29 SARS-COV-2 YES 07-06-2016
+44777 Matthew Strickland Germany 77 FLU-2018 YES 07-11-2015
+6835 Melissa Flores Germany 25 COVID-2019 YES 11-10-2001
+37849 Paul Lambert Germany 42 COVID-2019 NO
+89658 Todd Brooks Germany 34 MERS-COV YES 01-07-2010
+86389 Jean Cooper Germany 10 SARS-COV-2 NO
+31193 Tiffany Sanchez Germany 56 FLU-2018 NO
+36588 Gregory Morales Germany 65 SARS-COV-2 NO
+60363 Robert Anderson Germany 64 EVD NO
+70909 Gloria Willis Germany 12 FLU-2018 NO
+86616 Gregory Lucero Germany 12 H1N1 YES 02-06-2016
+79905 Michaela Edwards Germany 14 EVD YES 17-05-2000
+23605 Terri Peterson Germany 19 SARS-1 NO
+38207 Sarah Goodman Germany 74 EVD YES 08-04-2007
+77134 David Rose Germany 14 EVD YES 14-12-2012
+47886 Joshua Buchanan Germany 76 SARS-COV-2 NO
+52274 Kenneth Higgins Germany 70 SARS-COV-2 NO
+53864 Nicholas Walker Germany 19 SARS-COV-2 YES 12-07-2010
+20351 Andre Jones Germany 15 MERS-COV NO
+82472 Keith Holden Germany 74 EVD NO
+44463 Brandon Brown Germany 43 MERS-COV NO
+78248 Charles Franklin Germany 62 MERS-COV NO
+25098 Carlos Collier Germany 23 H1N1 NO
+3695 Michelle Johnson Germany 74 SARS-1 NO
+67820 Tanner Miller Germany 10 MERS-COV YES 15-07-2003
+16749 Daniel Wright Germany 65 SARS-COV-2 YES 06-09-2011
+89553 Lisa Martinez Germany 45 FLU-2018 YES 05-05-2019
+87517 Cathy Mccann Germany 70 EVD NO
+5523 Raymond Hernandez Germany 22 SARS-1 NO
+61090 Christina Lawson Germany 67 H1N1 YES 29-04-2020
+30987 Larry Joseph Germany 79 SARS-COV-2 NO
+46667 Lisa Anderson Germany 78 COVID-2019 YES 23-01-2019
+67703 Mary Huber Germany 30 SARS-COV-2 YES 29-04-2016
+31972 Sandra Nichols Germany 79 SARS-1 YES 08-06-2009
+54174 Heather Kelly Germany 28 MERS-COV YES 30-05-2020
+50346 Gwendolyn Schneider Germany 24 SARS-1 NO
+97555 Ann Johnson Germany 18 COVID-2019 YES 28-09-2014
+38150 Scott Rogers Germany 20 MERS-COV NO
+48570 Fred Thompson Germany 51 SARS-COV-2 NO
+41869 Kathryn White Germany 28 COVID-2019 NO
+85444 Douglas Holden Germany 54 EVD NO
+53440 Brent Bennett Germany 13 SARS-COV-2 YES 09-10-2017
+98554 Carl Watts Germany 26 MERS-COV NO
+9347 Joanne Gillespie Germany 26 SARS-COV-2 NO
+13824 Johnny Turner Germany 51 SARS-COV-2 YES 28-08-2016
+61824 Steve Garcia Germany 66 SARS-COV-2 NO
+32477 Kristina Robbins Germany 50 SARS-1 NO
+4073 William Giles Germany 73 H1N1 NO
+66126 Christy Brown Germany 60 MERS-COV NO
+29270 Joseph Mercer Germany 61 FLU-2018 NO
+31302 Lisa Campbell Germany 12 H1N1 NO
+26989 Virginia Reese Germany 51 FLU-2018 NO
+18106 Shawn Johnson Germany 32 H1N1 YES 02-05-2016
+7292 Mark Miller Germany 34 COVID-2019 YES 01-03-2010
+5725 Alejandro Lane Germany 16 SARS-1 YES 05-11-2005
+75252 Sean Cummings Germany 67 EVD NO
+30360 David Nelson Germany 15 H1N1 YES 25-05-2020
+14952 Heather Hernandez Germany 17 EVD YES 06-10-2007
+64678 Tracy Skinner Germany 33 COVID-2019 NO
+27661 Christine Barrera Germany 79 MERS-COV NO
+1350 Susan Miller Germany 37 SARS-COV-2 NO
+55760 Erika Harris Germany 19 COVID-2019 NO
+99380 Bobby Holland Germany 71 SARS-1 YES 28-01-2003
+89464 Adam Adams Germany 17 EVD YES 16-03-2004
+23876 Richard Richards Germany 63 FLU-2018 NO
+93764 Sarah Smith Germany 62 COVID-2019 YES 16-06-2007
+45332 Michael Potter Germany 78 SARS-1 YES 22-01-2018
+37633 Krystal Molina Germany 62 FLU-2018 YES 09-07-2013
+90086 Elizabeth Guzman Germany 19 EVD YES 27-08-2019
+92319 Thomas Smith Germany 17 COVID-2019 YES 25-09-2002
+89752 Jody Mcdonald Germany 31 SARS-COV-2 YES 13-02-2012
+282 Joseph Barr Germany 72 SARS-COV-2 NO
+28695 Richard Padilla Germany 60 MERS-COV NO
+78174 John Cummings Germany 57 COVID-2019 NO
+93074 Rebecca Coleman Germany 17 H1N1 NO
+27370 James Robinson Germany 59 FLU-2018 YES 29-05-2005
+53115 Amanda Boyer Germany 77 FLU-2018 YES 03-06-2004
+45435 Sandra Chapman Germany 58 SARS-COV-2 NO
+15886 Tina Humphrey Germany 52 EVD NO
+71024 Tina Long Germany 56 SARS-COV-2 NO
+79949 Kathleen Mendez Germany 21 COVID-2019 YES 22-01-2001
+35338 Caroline Pearson Germany 48 SARS-1 NO
+16631 Elizabeth Foley Germany 36 H1N1 NO
+63582 Travis Martin Germany 69 MERS-COV NO
+3979 Rachel Johnson Germany 65 COVID-2019 YES 26-03-2002
+85530 Harold Gibson Germany 45 SARS-1 NO
+73826 Shelley Johnson Germany 65 FLU-2018 NO
+70460 James Rich Germany 36 COVID-2019 YES 14-12-2018
+23890 Kayla Mata Germany 30 SARS-1 NO
+43263 Christopher Mclaughlin Germany 79 MERS-COV YES 07-09-2011
+41606 Suzanne Robinson Germany 77 H1N1 YES 17-04-2010
+77932 Levi Cooper Germany 46 COVID-2019 NO
+27650 Vanessa Bennett Germany 52 SARS-1 YES 07-01-2003
+34323 Gabriella Stone Germany 36 FLU-2018 NO
+61329 Brian Hodges Germany 27 MERS-COV YES 08-04-2020
+84912 Sara Johnson Germany 70 MERS-COV YES 24-08-2018
+75392 Veronica Robinson Germany 30 FLU-2018 YES 03-03-2000
+91034 Jenna Fox Germany 58 SARS-1 NO
+29622 Anthony Campos Germany 15 H1N1 NO
+62967 Jeffery Salas Germany 13 FLU-2018 YES 04-12-2001
+68539 Kathryn Flores Germany 18 MERS-COV NO
+60155 John Underwood Germany 14 H1N1 NO
+23230 Amy Holt Germany 17 COVID-2019 NO
+44790 Megan Rhodes Germany 70 MERS-COV NO
+66739 Anita Robinson Germany 62 MERS-COV YES 29-03-2013
+84886 Alicia Watson Germany 77 COVID-2019 YES 21-01-2007
+74602 Abigail Bowers Germany 27 COVID-2019 NO
+93437 Veronica Hall Germany 13 SARS-1 YES 01-05-2009
+43954 Jeremy Burke Germany 30 COVID-2019 NO
+98989 Jessica Williams Germany 71 SARS-COV-2 NO
+67614 Brooke Jackson Germany 13 H1N1 NO
+19788 Rebecca Brown Germany 60 COVID-2019 NO
+42334 Michael Stokes Germany 52 MERS-COV YES 08-11-2006
+90137 Brittney Perez Germany 77 MERS-COV NO
+44459 Sean Thomas Germany 41 FLU-2018 NO
+95174 Tyler Palmer Germany 16 MERS-COV NO
+56016 Michael Carpenter Germany 46 FLU-2018 NO
+91508 Megan Garcia Germany 12 EVD YES 18-10-2007
+98309 Jill Allen Germany 44 COVID-2019 NO
+94348 Eric Sanchez Germany 78 COVID-2019 YES 06-01-2019
+79996 Kyle Bell Germany 78 FLU-2018 YES 06-08-2014
+73021 Julie Rodriguez Germany 76 FLU-2018 NO
+24997 Heather Kelley Germany 59 COVID-2019 YES 20-02-2006
+72353 Allison May Germany 38 MERS-COV NO
+93308 Chloe Morton Germany 52 SARS-1 YES 18-09-2008
+89802 Tyler Moore Germany 18 SARS-1 YES 18-07-2008
+67479 Tiffany Gonzalez Germany 67 FLU-2018 NO
+52409 Sarah Nelson Germany 62 H1N1 YES 22-12-2017
+48449 Samantha Rogers Germany 18 H1N1 NO
+87038 Jenna Davis Germany 51 COVID-2019 NO
+63774 Yvonne Henson Germany 21 MERS-COV NO
+67033 John Gonzalez Germany 54 MERS-COV NO
+76705 Maria Alvarado Germany 61 SARS-1 NO
+35934 Carol Green Germany 73 COVID-2019 NO
+18034 Diane Brown Germany 58 EVD YES 28-11-2005
+13645 Lorraine Smith Germany 20 SARS-COV-2 NO
+66010 James Fitzpatrick Germany 37 COVID-2019 NO
+6847 Darlene Mccullough Germany 59 SARS-1 YES 12-01-2012
+99677 Mark Barnett Germany 23 FLU-2018 NO
+81249 Nathan Barker Germany 70 SARS-COV-2 NO
+39715 Oscar Weiss Germany 23 FLU-2018 NO
+80219 Caitlin Harvey Germany 44 SARS-COV-2 YES 22-09-2000
+9390 Tammie Lewis Germany 10 EVD YES 19-03-2018
+23503 Fred Vazquez Germany 65 EVD NO
+35616 Barbara Brown Germany 41 EVD NO
+33986 Pamela Cortez Germany 44 SARS-COV-2 NO
+71120 Matthew Hansen Germany 18 H1N1 YES 18-11-2016
+81768 Kendra Woodward Germany 22 EVD YES 26-07-2009
+87434 Scott Acosta Germany 16 SARS-COV-2 NO
+40968 James Lindsey Germany 59 FLU-2018 YES 04-11-2012
+41767 James Grimes Germany 15 H1N1 NO
+71983 John Williams Germany 38 FLU-2018 NO
+58096 Austin Allen Germany 29 MERS-COV NO
+5325 Johnathan Gilmore Germany 68 FLU-2018 YES 27-12-2009
+84237 Taylor Bell Germany 44 EVD YES 14-06-2015
+61610 Christopher Johnston Germany 12 MERS-COV NO
+5349 Andrea Nunez Germany 34 MERS-COV YES 05-09-2002
+46751 Daniel Collins Germany 41 FLU-2018 NO
+67608 Lisa Webster Germany 25 SARS-1 NO
+60072 Katie Mcguire Germany 47 COVID-2019 YES 21-10-2010
+54456 Gwendolyn Middleton Germany 64 MERS-COV YES 18-05-2008
+90328 Madison Stevenson Germany 30 H1N1 YES 05-12-2009
+61481 Christopher Graham Germany 24 SARS-1 YES 18-09-2005
+12896 Erica Kane Germany 22 MERS-COV YES 14-07-2000
+91811 David Frazier Germany 68 FLU-2018 YES 08-10-2020
+27248 Cameron Mathews Germany 35 MERS-COV NO
+21793 Frank Singleton Germany 31 SARS-COV-2 YES 06-03-2000
+23585 Ronald Martinez Germany 71 H1N1 YES 20-03-2013
+53487 Christopher Edwards Germany 26 SARS-COV-2 YES 03-09-2019
+18492 Olivia Graves Germany 42 FLU-2018 YES 07-12-2010
+27326 David Brandt Germany 47 H1N1 YES 30-10-2006
+13752 Mariah Ingram Germany 14 H1N1 YES 17-02-2013
+42096 Ralph Stewart Germany 11 H1N1 YES 09-03-2012
+52437 Megan Martin Germany 44 MERS-COV YES 03-10-2011
+63034 Stanley George Germany 29 EVD NO
+61957 Guy Wade Germany 58 FLU-2018 NO
+11340 Michael Johnson Germany 65 H1N1 NO
+25400 Adam Sloan Germany 61 EVD YES 27-01-2014
+98030 Dylan Hernandez Germany 40 COVID-2019 NO
+93762 Thomas Larsen Germany 76 FLU-2018 NO
+67739 James Dunn Germany 15 H1N1 YES 02-08-2012
+79583 Austin Davis Germany 74 SARS-1 YES 15-01-2011
+36618 Susan Jefferson Germany 36 EVD NO
+51434 Jessica Stokes Germany 54 SARS-1 YES 03-06-2015
+49986 Adrian Wilson Germany 47 SARS-1 NO
+97530 Andrea Miller Germany 47 FLU-2018 NO
+35773 Christopher Serrano Germany 62 COVID-2019 NO
+50620 Brianna Ward Germany 18 SARS-1 YES 21-03-2013
+2333 Andrew Smith Germany 38 H1N1 NO
+11079 Julian Smith Germany 20 SARS-1 NO
+3234 Erin Mann Germany 15 EVD NO
+46698 Brittany White Germany 62 COVID-2019 YES 09-11-2012
+99112 Michelle Wilkerson Germany 69 EVD YES 10-04-2004
+22765 Julie Robinson Germany 47 SARS-COV-2 NO
+51581 Ronald Weeks Germany 48 MERS-COV NO
+44541 Samuel Cooper Germany 33 SARS-COV-2 YES 21-11-2002
+20229 Riley Goodwin Germany 76 FLU-2018 NO
+48451 Gregory Barrett Germany 65 FLU-2018 YES 13-08-2002
+89222 Natalie Evans Germany 32 H1N1 NO
+44987 Isaac Huffman Germany 40 COVID-2019 YES 14-07-2004
+82064 Ricky Guzman Germany 76 SARS-1 NO
+25909 Tara Lowe Germany 29 SARS-COV-2 NO
+4640 Jerry Harris Germany 62 EVD NO
+62774 Pamela Weiss Germany 35 COVID-2019 NO
+64481 Steven Warren Germany 40 FLU-2018 NO
+64793 Christine Perez Germany 51 MERS-COV NO
+98043 Tracey Smith Germany 55 SARS-1 NO
+42844 Claudia Robinson Germany 41 FLU-2018 NO
+86181 Julie Garcia Germany 50 SARS-1 YES 22-03-2015
+76461 Olivia Berry Germany 65 H1N1 NO
+56374 Brandi Mata Germany 48 SARS-COV-2 YES 05-05-2004
+94919 Beverly Spence Germany 13 MERS-COV YES 30-12-2010
+64778 Leslie George Germany 41 EVD YES 16-06-2016
+72170 Catherine Maldonado Germany 10 COVID-2019 YES 10-10-2000
+14616 Jacob Cowan Germany 10 COVID-2019 NO
+49557 Emily Baker Germany 59 SARS-COV-2 YES 31-05-2014
+16514 Ashley Mcbride Germany 25 EVD NO
+82312 John West Germany 25 EVD YES 14-02-2020
+57332 David Hanson Germany 40 MERS-COV YES 22-05-2004
+32473 Glenn Reid Germany 65 SARS-COV-2 YES 25-03-2011
+73738 Jimmy Sutton Germany 14 SARS-COV-2 NO
+96078 Ryan Allen Germany 48 SARS-COV-2 NO
+83174 Maria Guerrero Germany 60 H1N1 NO
+2041 Brandon Lane Germany 19 MERS-COV NO
+39397 Catherine Delacruz Germany 13 FLU-2018 YES 26-04-2000
+26013 Elizabeth Sanders Germany 79 H1N1 YES 01-04-2001
+33907 Nathaniel Snyder Germany 61 COVID-2019 YES 06-01-2007
+40563 Robin Garcia Germany 57 H1N1 NO
+33663 Tina Escobar Germany 34 SARS-COV-2 YES 15-03-2007
+22622 Kristin Lee Germany 35 MERS-COV NO
+84167 Scott Fischer Germany 46 FLU-2018 YES 23-03-2001
+6937 Curtis Massey Germany 28 H1N1 NO
+6762 Scott Richmond Germany 51 FLU-2018 NO
+43077 Linda Cooke Germany 21 COVID-2019 YES 28-08-2012
+47730 Nathan Miles Germany 66 SARS-1 NO
+10260 Angela Kelly Germany 63 MERS-COV YES 11-02-2007
+51111 Sarah Diaz Germany 38 EVD NO
+11670 Lisa Cantu Germany 67 SARS-1 YES 08-03-2007
+54118 Paula Taylor Germany 13 SARS-COV-2 YES 21-02-2019
+96300 Kelsey Mcintyre Germany 26 EVD NO
+82133 Matthew Hopkins Germany 79 MERS-COV YES 17-01-2021
+35425 Isaac Murray Germany 11 SARS-1 NO
+84448 Heather Blake Germany 63 FLU-2018 YES 16-07-2011
+97427 Jared Roth Germany 42 COVID-2019 NO
+75641 Anthony Smith Germany 20 H1N1 YES 15-06-2002
+17539 Mariah Fleming Germany 72 MERS-COV YES 29-11-2001
+36547 Leah Miller Germany 70 SARS-COV-2 YES 12-10-2001
+46359 Tyler Armstrong Germany 73 COVID-2019 YES 13-08-2004
+22164 Max Hatfield Germany 30 SARS-1 NO
+47755 Tamara Mccoy Germany 55 FLU-2018 YES 02-11-2003
+5107 Michelle Grant Germany 32 H1N1 NO
+88881 Theodore Garcia Germany 58 SARS-1 NO
+4168 Jessica Dean Germany 60 COVID-2019 NO
+71325 Amy Stevens Germany 64 FLU-2018 YES 14-11-2012
+16236 Jasmine Santiago Germany 48 COVID-2019 NO
+63054 James Cruz Germany 37 SARS-1 YES 27-09-2002
+3404 Michelle Perez Germany 59 SARS-COV-2 NO
+86908 Nicholas Rogers Germany 50 MERS-COV YES 14-10-2015
+5000 Julie Shaffer Germany 62 EVD NO
+68558 Angela Meadows Germany 10 COVID-2019 NO
+15805 Tony Miller Germany 28 EVD NO
+2427 Bruce Smith Germany 31 EVD NO
+41899 Stacey Brown Germany 47 SARS-1 NO
+10921 Jennifer Sanders Germany 71 COVID-2019 YES 09-12-2017
+77771 Pamela Haas Germany 79 MERS-COV YES 06-09-2014
+7074 Joel Flores Germany 51 COVID-2019 YES 08-10-2004
+24651 Matthew Allen Germany 17 SARS-1 YES 14-12-2008
+27456 Debra Taylor Germany 62 H1N1 NO
+63967 Patrick Jackson Germany 36 SARS-COV-2 YES 16-06-2000
+66437 Alan King Germany 10 SARS-COV-2 YES 31-03-2019
+62627 Daniel Christensen Germany 11 SARS-COV-2 YES 30-04-2013
+76683 Melissa Johnson Germany 65 MERS-COV YES 08-10-2002
+69933 Anthony Davidson Germany 45 H1N1 NO
+56381 Jake Johnson Germany 13 H1N1 NO
+9633 Tammy Hendricks Germany 64 MERS-COV YES 12-01-2007
+33377 Todd Kelly Germany 37 SARS-COV-2 NO
+75634 Jacob Jenkins Germany 65 SARS-1 YES 26-08-2008
+95951 Michael Gonzalez Germany 40 COVID-2019 NO
+64413 Richard Wallace Germany 10 EVD NO
+86856 Larry English Germany 53 H1N1 YES 01-07-2020
+45937 Dawn Cochran Germany 50 MERS-COV YES 26-06-2002
+41913 Lisa Salinas Germany 71 EVD YES 14-12-2018
+32047 Juan Charles Germany 55 FLU-2018 YES 24-06-2003
+74725 Christopher Ware Germany 29 H1N1 YES 15-11-2008
+23212 Jason Walsh Germany 35 FLU-2018 NO
+35324 Hannah Salas Germany 20 EVD NO
+81695 Natalie Larson Germany 31 COVID-2019 YES 06-03-2018
+20125 Mark White Germany 73 SARS-COV-2 NO
+69875 Joanna Rasmussen Germany 59 FLU-2018 YES 17-11-2012
+5545 Ana Carlson Germany 41 EVD YES 24-11-2020
+14405 Amber Willis Germany 68 EVD YES 25-03-2000
+47140 Stephanie Miranda Germany 46 SARS-1 YES 13-11-2010
+51635 Debra Carroll Germany 79 H1N1 YES 25-11-2009
+40648 Cindy Baker Germany 35 EVD NO
+90718 Robert Banks Germany 12 EVD NO
+28005 Kelsey Kelly Germany 28 SARS-1 YES 11-08-2014
+46175 Joshua Burgess Germany 56 MERS-COV YES 08-11-2016
+76253 Dawn Butler Germany 32 COVID-2019 NO
+67562 Tammy Black Germany 12 SARS-1 YES 28-12-2005
+37816 Sabrina Morgan Germany 45 SARS-1 YES 20-08-2006
+28751 Barbara Nelson Germany 62 MERS-COV YES 03-05-2020
+63148 Kevin Buchanan Germany 44 SARS-COV-2 NO
+79467 Cynthia Miller Germany 64 SARS-COV-2 YES 29-01-2010
+32747 Allison Martin Germany 41 FLU-2018 NO
+22412 Sarah Collins Germany 67 H1N1 NO
+31145 Phillip Walls Germany 46 EVD YES 09-04-2004
+90276 John Phillips Germany 70 COVID-2019 YES 03-10-2011
+94634 John Gardner Germany 34 SARS-1 YES 01-12-2016
+17927 Shawn Key Germany 65 SARS-COV-2 NO
+91989 Danielle Sharp Germany 19 SARS-1 NO
+63495 Vanessa Black Germany 42 MERS-COV YES 11-07-2011
+26113 Scott Lee Germany 50 H1N1 NO
+41743 Benjamin Perez Germany 31 H1N1 YES 23-12-2020
+73877 Nathan Garcia Germany 42 SARS-COV-2 YES 23-07-2003
+56346 Lori Davis Germany 52 COVID-2019 YES 20-07-2013
+38137 Alicia Johnson Germany 27 COVID-2019 YES 31-01-2012
+57057 Kyle Bentley Germany 25 SARS-1 YES 05-02-2004
+79035 Amanda Estrada Germany 57 FLU-2018 YES 19-11-2015
+24038 Jessica Cantu Germany 13 COVID-2019 NO
+99974 Lisa Perkins Germany 16 H1N1 NO
+27329 Christopher Mathis Germany 38 SARS-1 YES 11-10-2015
+57910 Kathy Massey Germany 70 SARS-COV-2 YES 08-05-2016
+47173 Tammy Diaz Germany 56 EVD NO
+33385 Angel Tran Germany 11 SARS-COV-2 NO
+97029 Jessica Hill Germany 36 SARS-1 YES 28-06-2019
+76615 William Riggs Germany 50 SARS-COV-2 YES 08-05-2007
+91305 Jessica Brown Germany 38 SARS-1 YES 10-10-2016
+13474 Heather Miller Germany 42 SARS-COV-2 NO
+25725 Albert Maynard Germany 68 SARS-COV-2 NO
+15541 Adam Ross Germany 47 H1N1 YES 09-05-2011
+5792 Cory Holt Germany 33 EVD NO
+73327 Jason Ramsey Germany 43 H1N1 NO
+50812 George Bell Germany 59 MERS-COV NO
+21529 Brandi Washington Germany 22 EVD YES 08-02-2015
+92961 Jessica Hays Germany 39 EVD NO
+26618 David Anderson Germany 43 SARS-COV-2 NO
+23733 Vincent Mullins Germany 66 SARS-COV-2 YES 28-09-2016
+81360 William Bell Germany 39 EVD YES 26-02-2014
+77869 Lorraine Rogers Germany 74 COVID-2019 NO
+13682 Lee Spencer Germany 76 FLU-2018 NO
+98887 Brandon Lane Germany 40 SARS-COV-2 YES 29-12-2017
+96793 Edward Campos Germany 40 SARS-COV-2 NO
+85460 Kari Smith Germany 22 SARS-COV-2 YES 31-07-2007
+58350 Jessica Johnson Germany 51 EVD NO
+45143 Amanda Rose Germany 74 SARS-1 NO
+57919 Richard Dawson Germany 16 EVD YES 22-03-2020
+19033 Russell Brown Germany 46 SARS-COV-2 NO
+31774 Denise Nelson Germany 68 SARS-COV-2 NO
+98386 Ian Melton Germany 52 SARS-1 NO
+46051 Jason Ortiz Germany 75 SARS-COV-2 NO
+94825 John Love Germany 24 MERS-COV NO
+15013 Carla Yates Germany 55 FLU-2018 NO
+72857 Nicole King Germany 33 SARS-1 YES 27-08-2010
+58681 Robert Cruz Germany 11 H1N1 YES 12-11-2001
+463 Kari Howard Germany 33 SARS-COV-2 YES 11-09-2010
+51651 Karina Wood Germany 58 FLU-2018 NO
+8887 David Rivera Germany 14 FLU-2018 YES 10-12-2001
+90706 Jeffery Buckley Germany 44 SARS-1 NO
+870 Kathy Rogers Germany 61 SARS-COV-2 NO
+48830 Micheal Carter Germany 73 FLU-2018 NO
+7028 Robert Norris Germany 73 SARS-COV-2 NO
+24179 Margaret Walker Germany 17 SARS-COV-2 YES 17-11-2008
+76011 Jacqueline Dean Germany 52 SARS-COV-2 NO
+88987 Timothy Vang Germany 24 MERS-COV YES 12-10-2000
+25175 Destiny Cox Germany 12 FLU-2018 NO
+88158 Anthony Johnson Germany 27 EVD NO
+22648 James Carr Germany 29 H1N1 YES 01-02-2010
+77498 Jessica Mccormick Germany 53 MERS-COV NO
+22415 Danielle Williams Germany 68 EVD YES 29-11-2007
+31462 Luis Rodriguez Germany 57 SARS-1 NO
+43718 Shelby Taylor Germany 39 H1N1 YES 14-11-2012
+62822 Teresa Nash Germany 49 MERS-COV NO
+68181 Jennifer Smith Germany 24 MERS-COV NO
+92783 Chelsea Rodriguez Germany 28 H1N1 NO
+26410 Ryan Ryan Germany 42 COVID-2019 NO
+75793 Erin Washington Germany 19 SARS-1 NO
+48397 Tracie Brown Germany 24 EVD YES 31-07-2003
+64746 Logan Jennings Germany 45 SARS-COV-2 YES 19-12-2020
+29949 Rebecca Hayes Germany 17 SARS-1 NO
+42152 Tara Johnson Germany 76 SARS-1 NO
+39791 Nathan Paul Germany 50 SARS-1 NO
+58848 Amanda Wells Germany 75 COVID-2019 NO
+2426 Emily Carter Germany 18 MERS-COV NO
+74751 Lee Green Germany 20 SARS-COV-2 YES 08-10-2001
+59739 John Graham Germany 62 SARS-COV-2 NO
+3344 Anthony Estrada Germany 69 FLU-2018 YES 20-07-2015
+78084 Jessica Oneal Germany 68 EVD YES 02-11-2015
+77919 Mary Gonzalez Germany 38 MERS-COV YES 03-04-2020
+10128 Julie Dixon Germany 11 FLU-2018 YES 21-02-2000
+70355 Patrick Contreras Germany 44 MERS-COV YES 09-10-2010
+33190 Chelsea Stevens Germany 45 SARS-COV-2 YES 21-11-2018
+50810 Jack Castillo Germany 40 MERS-COV NO
+886 Jennifer Watson Germany 16 COVID-2019 YES 23-10-2007
+74136 Jasmine Chan Germany 10 H1N1 YES 18-01-2017
+87253 Manuel Hancock Germany 75 EVD NO
+23768 Charles Jackson Germany 18 MERS-COV NO
+13788 Sarah Davis Germany 72 SARS-COV-2 NO
+34914 Eric Williamson Germany 20 COVID-2019 NO
+47515 Jeffery Collins Germany 30 SARS-1 YES 28-03-2019
+29388 Bradley Ramirez Germany 58 SARS-COV-2 YES 06-08-2005
+34289 Jennifer Taylor Germany 73 MERS-COV NO
+77006 Ronald Wright Germany 18 MERS-COV NO
+55765 Logan Hayden Germany 56 EVD NO
+98169 Krystal Wise Germany 30 SARS-COV-2 NO
+78748 Kimberly Pittman Germany 28 COVID-2019 NO
+97652 Evan Marsh Germany 10 MERS-COV YES 03-07-2013
+6486 Alexis Mills Germany 48 MERS-COV NO
+91604 Tammy Clark Germany 41 FLU-2018 NO
+80576 Barbara Hawkins Germany 24 COVID-2019 YES 20-06-2012
+87883 David Tucker Germany 64 MERS-COV NO
+99902 Robert Williams Germany 59 COVID-2019 NO
+4993 Keith Dawson Germany 48 MERS-COV NO
+62473 Gregory Barnes Germany 29 EVD NO
+5556 Omar Bates Germany 62 H1N1 NO
+16263 Emily Garcia Germany 14 SARS-1 NO
+32106 Michael Wang Germany 23 SARS-COV-2 NO
+34973 Corey Ferguson Germany 63 MERS-COV YES 23-12-2019
+37064 Alfred Haney Germany 27 EVD YES 14-02-2008
+70024 Kim Mack Germany 37 SARS-1 NO
+74321 Steven Rush Germany 66 SARS-COV-2 NO
+68071 Maria Taylor Germany 39 SARS-1 NO
+9297 Jerry Murray Germany 55 COVID-2019 YES 27-11-2012
+9037 Zachary Buckley Germany 29 EVD NO
+92662 Jacob Roberson Germany 36 MERS-COV YES 15-01-2003
+1034 Michelle Kennedy Germany 39 COVID-2019 YES 25-10-2015
+99989 Logan Matthews Germany 43 SARS-COV-2 NO
+13720 Michael Shelton Germany 50 MERS-COV NO
+10371 Jasmine Fletcher Germany 32 FLU-2018 NO
+44044 Dana Hughes Germany 77 H1N1 YES 30-01-2015
+39381 Megan Fuller Germany 15 COVID-2019 YES 19-02-2001
+54321 Scott Shaw Germany 36 MERS-COV NO
+56432 John Perry Germany 29 SARS-COV-2 YES 01-10-2018
+51438 Roger Ruiz Germany 17 SARS-COV-2 NO
+72457 Matthew Harris Germany 65 H1N1 NO
+45480 Marcus Dalton Germany 62 EVD YES 24-08-2007
+60823 Shawn Kramer Germany 65 EVD YES 24-03-2006
+51694 Jennifer Ramirez Germany 35 SARS-1 YES 19-02-2017
+23015 Sharon Jones Germany 13 H1N1 NO
+17827 Amanda Miller Germany 46 H1N1 NO
+864 Jessica Wong Germany 71 MERS-COV YES 04-06-2016
+56034 Heather Smith Germany 76 COVID-2019 NO
+99893 Seth Schmidt Germany 38 FLU-2018 NO
+9445 Christopher Taylor Germany 51 SARS-1 NO
+91986 Robert Taylor Germany 32 H1N1 NO
+85738 Justin Smith Germany 51 EVD YES 03-02-2002
+88433 Robert Reed Germany 74 COVID-2019 NO
+21375 Elizabeth Miller Germany 76 SARS-1 NO
+71661 Jacqueline Fox Germany 70 FLU-2018 YES 14-07-2018
+86202 Roy Hunt Germany 76 H1N1 YES 11-10-2019
+41927 Steven Mann Germany 54 MERS-COV NO
+31696 Evan Ford Germany 31 COVID-2019 NO
+46712 Brianna Garcia Germany 25 FLU-2018 NO
+30022 Johnny Rodriguez Germany 59 MERS-COV NO
+63867 Max Olson Germany 22 SARS-COV-2 NO
+12631 Patricia Miller Germany 39 EVD YES 11-04-2008
+45304 Brian Martinez Germany 77 H1N1 NO
+98521 Phyllis Jordan Germany 72 H1N1 YES 31-03-2007
+31248 Keith Reynolds Germany 46 FLU-2018 NO
+37568 Oscar Williams Germany 45 EVD YES 01-12-2007
+65270 Michele Hernandez Germany 76 COVID-2019 YES 29-08-2016
+37244 Angela Richard Germany 26 EVD NO
+67191 Daniel Carson Germany 25 EVD NO
+60474 Lisa Cook Germany 53 FLU-2018 NO
+11578 Steven White Germany 74 SARS-1 YES 01-03-2002
+60206 Cheryl Grimes Germany 22 MERS-COV NO
+13421 Samuel White Germany 28 MERS-COV YES 05-01-2013
+43841 Joseph Berg Germany 54 SARS-1 NO
+79389 Maria Barr Germany 15 SARS-COV-2 NO
+59812 Alexandria Fletcher Germany 62 H1N1 YES 13-03-2019
+55425 Adam Ball Germany 70 COVID-2019 YES 15-06-2012
+61188 Maria Lamb Germany 77 H1N1 YES 16-09-2007
+12590 George Rodriguez Germany 52 FLU-2018 YES 20-04-2012
+88737 Rebecca Mckinney Germany 20 EVD NO
+5453 Joshua Lewis Germany 53 MERS-COV YES 17-10-2015
+83397 Rodney Murray Germany 52 COVID-2019 YES 22-10-2013
+59162 Jerry Garcia Germany 23 EVD YES 05-04-2005
+88248 Courtney Beltran Germany 18 COVID-2019 NO
+19620 Bradley Anderson Germany 69 SARS-1 NO
+56951 Robert Williams Germany 57 SARS-COV-2 YES 31-08-2000
+11131 Maria Ward Germany 63 SARS-1 YES 25-10-2012
+40493 Kenneth Harris Germany 33 EVD YES 16-04-2020
+55722 Michael Willis Germany 45 COVID-2019 YES 10-06-2014
+32598 Kristina Fields Germany 73 FLU-2018 NO
+14320 Alvin Bell Germany 74 SARS-COV-2 NO
+63194 Christine Espinoza Germany 72 MERS-COV YES 19-01-2020
+93533 Jill Wilson Germany 56 SARS-COV-2 NO
+41059 Kristin Duncan Germany 52 SARS-1 YES 27-08-2012
+70553 Edward Rosario Germany 53 SARS-COV-2 NO
+8403 Michelle Wilson Germany 28 H1N1 NO
+9617 Kevin Keller Germany 12 MERS-COV NO
+21150 Wanda Holt Germany 37 EVD NO
+56578 Jeffrey Flores Germany 52 SARS-1 NO
+53260 Brent Holland Germany 31 EVD YES 25-04-2001
+99138 Adam Chambers Germany 44 COVID-2019 NO
+20808 Jessica Hernandez Germany 12 H1N1 NO
+86929 Alec Jackson Germany 66 MERS-COV YES 11-11-2002
+52872 Ashley Morris Germany 66 SARS-COV-2 NO
+93868 Paula Green Germany 46 COVID-2019 YES 20-01-2009
+762 Larry King Germany 37 SARS-1 YES 13-03-2018
+86751 David Lowe Germany 59 SARS-COV-2 YES 15-01-2013
+22797 Alyssa Watson Germany 76 FLU-2018 NO
+19435 Jared Bright Germany 32 FLU-2018 YES 20-01-2007
+13067 Crystal Smith Germany 54 EVD YES 25-04-2002
+31058 Tiffany Sanders Germany 70 SARS-1 YES 06-02-2017
+51024 Jessica Lewis Germany 61 H1N1 YES 20-01-2002
+46778 Joseph Cross Germany 32 MERS-COV NO
+42670 Dominic Garcia Germany 38 MERS-COV YES 29-04-2000
+96633 Bruce Zhang Germany 57 COVID-2019 YES 31-05-2016
+19702 Lori Smith Germany 71 FLU-2018 YES 07-07-2019
+45458 George Huff Germany 12 SARS-1 NO
+47328 William Carlson Germany 71 SARS-1 NO
+39503 Eric Gomez Germany 76 EVD NO
+11084 Barbara Ross Germany 15 SARS-1 YES 15-07-2017
+14190 Kenneth Clark Germany 47 SARS-COV-2 NO
+27996 Jesus Stevens Germany 26 MERS-COV YES 05-05-2004
+15294 Tony Greer Germany 64 SARS-1 YES 02-03-2005
+9091 Joshua Hopkins Germany 43 MERS-COV NO
+64631 Lance Christensen Germany 69 SARS-COV-2 NO
+34165 Dawn Parker Germany 78 EVD YES 30-08-2012
+17099 William Grant Germany 24 EVD NO
+41854 Angela Abbott Germany 58 H1N1 NO
+33302 Devin Drake Germany 31 SARS-1 YES 04-04-2015
+8831 Jason Bishop Germany 52 SARS-COV-2 NO
+57614 Jeffery Daniels Germany 62 SARS-1 YES 09-11-2012
+27777 Sherry Campbell Germany 44 SARS-COV-2 NO
+54855 Jack Kemp Germany 57 SARS-1 YES 14-01-2011
+17606 Taylor Thomas Germany 36 SARS-1 NO
+3687 Michael Carney Germany 16 H1N1 NO
+27111 Terry Dougherty Germany 76 MERS-COV YES 22-04-2015
+92475 Heather Wang Germany 25 EVD YES 07-05-2004
+43083 Jacob Brown Germany 69 COVID-2019 YES 25-02-2007
+10772 William Lopez Germany 56 H1N1 NO
+35455 David Lawson Germany 69 EVD YES 27-05-2014
+2636 April Norris Germany 55 H1N1 NO
+39888 Douglas Richard Germany 12 MERS-COV YES 25-07-2002
+18743 Jill Ponce Germany 75 H1N1 YES 15-08-2010
+34202 Deborah Miller Germany 19 EVD YES 01-08-2013
+82727 Renee Alvarado Germany 50 FLU-2018 YES 12-01-2017
+22091 Laura Hanson Germany 19 SARS-1 YES 02-03-2008
+70725 Elizabeth Underwood Germany 21 FLU-2018 YES 25-06-2016
+18771 Eric Taylor Germany 24 EVD YES 18-04-2002
+34417 Cameron Everett Germany 27 SARS-1 NO
+83423 Kelsey Stewart Germany 29 H1N1 NO
+83637 Misty Yang Germany 17 EVD YES 16-07-2010
+62761 Patricia Myers Germany 63 COVID-2019 YES 25-05-2004
+89682 Heidi Skinner Germany 37 FLU-2018 YES 09-03-2014
+4067 Bryan Gentry Germany 73 EVD NO
+20720 Jessica Fox Germany 39 MERS-COV YES 24-02-2009
+97968 Ashley Carr Germany 32 H1N1 NO
+58237 Stephanie Alvarez Germany 53 FLU-2018 YES 07-03-2008
+11524 James Smith Germany 39 MERS-COV NO
+86712 Michelle Collins Germany 78 SARS-1 NO
+66175 Albert Garner Germany 71 SARS-COV-2 YES 25-09-2009
+41132 Virginia Ward Germany 55 COVID-2019 YES 19-01-2006
+12570 Jordan Taylor Germany 73 EVD NO
+62475 Ricky Gonzalez Germany 54 H1N1 YES 22-08-2018
+78670 Matthew Smith Germany 11 EVD NO
+35799 Theresa Patrick Germany 37 SARS-COV-2 NO
+45831 Paul Riley Germany 42 MERS-COV NO
+94371 Kenneth Gomez Germany 79 SARS-COV-2 YES 14-08-2006
+60297 Fred Stanley Germany 73 FLU-2018 YES 30-08-2017
+26337 Selena Wells Germany 56 COVID-2019 NO
+67730 Clarence Clark Germany 35 FLU-2018 NO
+99373 Justin Grant Germany 59 FLU-2018 YES 15-07-2005
+36108 Krista Hudson Germany 65 MERS-COV NO
+14457 Gerald Johnson Germany 66 SARS-1 YES 18-03-2009
+85323 Peter Phillips Germany 60 EVD NO
+72338 Gina Ball Germany 76 MERS-COV YES 28-05-2016
+60952 David Gentry Germany 19 FLU-2018 NO
+23822 Alan Schneider Germany 14 COVID-2019 NO
+19243 Mark Thomas Germany 70 H1N1 YES 26-04-2003
+86910 Adam Walter Germany 20 FLU-2018 NO
+94812 Michael Walton Germany 32 FLU-2018 YES 10-08-2016
+10184 Crystal Rangel Germany 14 MERS-COV NO
+57617 Denise Bates Germany 72 FLU-2018 NO
+4147 Michelle Lee Germany 26 SARS-COV-2 NO
+47396 Marissa Wheeler Germany 33 FLU-2018 YES 07-12-2014
+47313 Ryan Allen Germany 15 FLU-2018 YES 07-08-2011
+77714 Catherine Patterson Germany 29 EVD YES 20-09-2020
+12082 Nicole Watkins Germany 57 H1N1 YES 05-01-2008
+42562 John Phillips Germany 54 MERS-COV NO
+24154 Thomas Barnes Germany 49 SARS-COV-2 NO
+70106 Steven Cooper Germany 70 FLU-2018 YES 03-04-2020
+46073 Lisa Moreno Germany 31 H1N1 YES 04-02-2011
+39351 Jacob Brown Germany 34 FLU-2018 YES 04-06-2004
+2807 Richard Simmons Germany 20 SARS-COV-2 YES 29-11-2006
+80908 Christopher Carroll Germany 47 COVID-2019 NO
+47842 Marie Williams Germany 25 SARS-1 NO
+3585 Nicholas Austin Germany 38 H1N1 YES 03-11-2018
+7450 Thomas Oliver Germany 58 COVID-2019 YES 12-11-2012
+21693 Brenda Robinson Germany 76 MERS-COV YES 25-05-2010
+55331 John Collins Germany 18 MERS-COV NO
+88053 Travis Miller Germany 74 SARS-COV-2 YES 13-05-2019
+73446 Christopher Humphrey Germany 53 SARS-COV-2 YES 28-04-2009
+66560 Renee Carter Germany 38 SARS-1 YES 09-10-2009
+33647 Tasha Young Germany 52 COVID-2019 NO
+91841 Tina Patterson Germany 58 COVID-2019 YES 27-12-2007
+77084 Kristin Ross Germany 50 H1N1 NO
+8960 Victoria Riley Germany 50 SARS-COV-2 YES 16-12-2020
+91143 Kayla Davis Germany 49 H1N1 NO
+60336 Courtney Roman Germany 11 H1N1 NO
+23789 Timothy Lee Germany 76 FLU-2018 NO
+56225 Yolanda Flores Germany 13 SARS-1 YES 22-04-2014
+39950 Maria Briggs Germany 50 COVID-2019 NO
+79874 Laura Nunez Germany 39 SARS-1 YES 04-06-2010
+13984 Kristen Martinez Germany 77 SARS-1 NO
+69617 Jason Adams Germany 19 SARS-COV-2 NO
+69029 Christina Clayton Germany 39 SARS-COV-2 NO
+39699 Bryan Powers Germany 74 H1N1 NO
+13491 James Howell Germany 49 H1N1 NO
+78329 Jason Jenkins Germany 25 FLU-2018 NO
+57015 Isaiah Butler Germany 27 MERS-COV YES 23-09-2018
+70481 Kimberly Torres Germany 76 COVID-2019 NO
+94089 Sandra Moore Germany 55 SARS-1 NO
+1420 Kyle Bailey Germany 25 MERS-COV NO
+67988 Zachary Shaffer Germany 64 EVD YES 09-01-2002
+67845 Angelica Harris Germany 54 MERS-COV YES 13-08-2007
+83852 Bob Gill Germany 16 FLU-2018 NO
+5370 Denise Calderon Germany 77 MERS-COV NO
+77550 Jennifer Gibson Germany 69 COVID-2019 NO
+78533 Cassandra Woods Germany 22 EVD YES 20-02-2001
+93973 Aaron Griffith Germany 58 EVD NO
+82791 Barbara Hutchinson Germany 36 COVID-2019 NO
+48469 Joanna Davis Germany 53 SARS-COV-2 YES 01-09-2002
+29038 Zachary Nichols Germany 64 MERS-COV YES 18-02-2014
+26601 Shawn Stephenson Germany 17 COVID-2019 NO
+40607 Donna Nguyen Germany 73 COVID-2019 NO
+18786 Jessica Taylor Germany 78 SARS-1 NO
+19257 Meghan Williams Germany 41 COVID-2019 YES 25-07-2009
+8780 Patricia Clark Germany 23 SARS-1 NO
+38897 Jamie Alexander Germany 72 COVID-2019 YES 25-06-2012
+85438 Kristen Gordon Germany 41 FLU-2018 NO
+24462 Clinton Nash Germany 62 EVD NO
+91162 Vanessa Ingram Germany 58 FLU-2018 YES 27-11-2000
+22461 Christopher Fowler Germany 14 MERS-COV NO
+30102 James Sanchez Germany 22 SARS-COV-2 NO
+68279 Rachael Henson Germany 20 FLU-2018 YES 10-05-2012
+19673 Matthew Brown Germany 79 SARS-COV-2 YES 13-04-2012
+15835 Judith Freeman Germany 41 H1N1 YES 25-02-2013
+82033 Richard Cruz Germany 14 SARS-COV-2 NO
+63597 Jaime Reid Germany 72 H1N1 YES 30-11-2003
+24800 Misty Jones Germany 15 SARS-COV-2 NO
+49410 Michael Cole Germany 67 EVD NO
+48694 Theresa Scott Germany 26 COVID-2019 NO
+20285 James Brown Germany 75 H1N1 NO
+64932 Andrea Murphy Germany 39 SARS-1 YES 18-08-2013
+94773 Craig Jones Germany 48 EVD NO
+47044 Devin Pruitt Germany 49 MERS-COV YES 06-04-2005
+41804 Brian Acosta Germany 47 EVD NO
+1012 Shannon Jensen Germany 79 SARS-COV-2 NO
+45087 Francisco Miller Germany 46 COVID-2019 YES 13-04-2001
+23308 James Daniels Germany 21 H1N1 NO
+48593 Stephanie Mccarthy Germany 32 MERS-COV NO
+1382 David Sutton Germany 35 H1N1 NO
+39712 Amber Yates Germany 20 EVD YES 10-05-2001

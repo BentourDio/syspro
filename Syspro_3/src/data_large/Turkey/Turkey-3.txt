@@ -1,0 +1,3309 @@
+44345 Michael Clark Turkey 79 MERS-COV NO
+57273 Calvin Ramsey Turkey 59 COVID-2019 YES 02-12-2015
+41975 Michael Sullivan Turkey 45 EVD NO
+35685 Jessica Miller Turkey 12 SARS-COV-2 YES 15-06-2003
+89546 Roberto Williams Turkey 39 MERS-COV YES 28-09-2005
+52317 William Mcgrath Turkey 39 H1N1 YES 06-08-2014
+84221 Adam Holland Turkey 63 EVD NO
+18470 Daniel Ray Turkey 57 MERS-COV NO
+83300 Christopher Wilson Turkey 60 H1N1 NO
+61289 Edward Weber Turkey 44 EVD NO
+48455 Andrew Brown Turkey 57 MERS-COV NO
+44574 Tracey Hopkins Turkey 61 H1N1 NO
+12650 Carla Evans Turkey 48 EVD NO
+52434 Guy Bailey Turkey 72 EVD YES 18-10-2016
+53516 Lisa Robbins Turkey 71 SARS-COV-2 YES 06-12-2010
+68944 Laura Briggs Turkey 52 MERS-COV YES 26-09-2003
+96851 April Williams Turkey 44 MERS-COV YES 03-02-2000
+97918 James Green Turkey 66 MERS-COV NO
+66203 Hannah Young Turkey 27 H1N1 YES 07-05-2020
+49092 Aaron Hampton Turkey 41 COVID-2019 NO
+4969 Susan Jackson Turkey 61 SARS-1 YES 15-05-2013
+30212 Dakota Brown Turkey 36 H1N1 YES 21-07-2003
+98728 Donna Casey Turkey 67 MERS-COV NO
+38305 Robin Jones Turkey 20 SARS-COV-2 NO
+13631 Michael Strickland Turkey 14 MERS-COV NO
+23062 George Lewis Turkey 71 MERS-COV NO
+55402 Vicki Holloway Turkey 51 SARS-1 NO
+91126 Suzanne Beard Turkey 50 H1N1 NO
+79892 Mathew Mckee Turkey 76 FLU-2018 NO
+37095 Jose King Turkey 37 SARS-1 YES 08-02-2015
+36499 Olivia Aguilar Turkey 73 MERS-COV YES 15-06-2015
+87982 George Mcpherson Turkey 54 EVD NO
+49801 Angela Fox Turkey 52 COVID-2019 YES 26-12-2001
+76319 David Wells Turkey 46 SARS-COV-2 YES 19-03-2006
+9090 Randy Hull Turkey 68 EVD NO
+75308 James Crawford Turkey 11 SARS-COV-2 NO
+67991 Spencer Silva Turkey 73 EVD YES 31-01-2006
+60947 John Thomas Turkey 25 EVD YES 21-12-2000
+91353 Joseph Petersen Turkey 72 EVD NO
+88343 Candice Hansen Turkey 17 COVID-2019 YES 05-06-2012
+61149 Michelle Weaver Turkey 21 FLU-2018 YES 09-11-2020
+60444 Marco Mack Turkey 72 H1N1 YES 31-07-2000
+59878 Ann Richardson Turkey 21 COVID-2019 YES 14-07-2019
+19851 Olivia Romero Turkey 64 FLU-2018 NO
+36851 Randall Davis Turkey 23 MERS-COV YES 27-05-2011
+26802 Lisa Craig Turkey 21 EVD YES 23-08-2017
+56683 Tammy Mejia Turkey 13 MERS-COV YES 03-03-2021
+70055 Sean Moore Turkey 76 SARS-COV-2 NO
+35954 Nicole Bush Turkey 57 SARS-COV-2 YES 08-04-2017
+96024 Peter Jimenez Turkey 50 SARS-COV-2 YES 03-05-2020
+92858 Andrea Brown Turkey 20 MERS-COV YES 29-01-2010
+11017 Jennifer Robinson Turkey 23 EVD NO
+47506 Tony Peters Turkey 50 SARS-1 YES 30-12-2020
+11912 Karen Buckley Turkey 75 FLU-2018 YES 12-01-2015
+40008 Tonya Turner Turkey 29 SARS-1 YES 24-08-2014
+22228 Andrew Evans Turkey 72 MERS-COV YES 24-07-2007
+13087 Mark Strickland Turkey 75 MERS-COV YES 20-06-2009
+58747 Justin Arellano Turkey 47 FLU-2018 NO
+94792 Mary Cross Turkey 38 H1N1 NO
+814 Joseph Simpson Turkey 44 MERS-COV YES 01-09-2018
+21109 Matthew Conley Turkey 40 FLU-2018 NO
+26560 Roy Forbes Turkey 71 COVID-2019 NO
+72293 Tara Wilson Turkey 14 SARS-1 NO
+48621 Christy Hudson Turkey 24 EVD YES 01-03-2017
+73514 Jonathan Anderson Turkey 14 EVD NO
+92791 Amanda Aguilar Turkey 55 EVD YES 28-09-2004
+44125 Virginia Perez Turkey 30 SARS-COV-2 YES 14-05-2016
+24548 Ross Becker Turkey 27 COVID-2019 YES 08-12-2017
+39694 Steven Morgan Turkey 65 SARS-COV-2 NO
+71058 Tiffany Williams Turkey 50 SARS-COV-2 YES 01-03-2007
+57757 Brenda Hernandez Turkey 17 SARS-1 YES 06-02-2008
+60918 Madison Mccormick Turkey 43 MERS-COV YES 08-11-2015
+80244 Jonathan Francis Turkey 15 COVID-2019 YES 06-02-2015
+9450 Jesus Turner Turkey 40 COVID-2019 YES 04-09-2012
+56587 Leslie Dennis Turkey 19 SARS-COV-2 NO
+98858 Samantha Nguyen Turkey 77 FLU-2018 YES 20-02-2004
+21286 Claire Lam Turkey 11 H1N1 NO
+71570 Kevin Mendoza Turkey 60 FLU-2018 NO
+52990 David Navarro Turkey 30 H1N1 NO
+61494 Andrew Stewart Turkey 46 H1N1 NO
+94076 Matthew Rice Turkey 33 H1N1 YES 28-04-2006
+56090 Angela Rhodes Turkey 41 H1N1 YES 19-05-2014
+87988 Alexandra Carter Turkey 18 EVD YES 17-04-2012
+10019 Jennifer Chase Turkey 76 COVID-2019 YES 14-12-2015
+552 Ana Harvey Turkey 69 SARS-COV-2 NO
+38046 Kenneth Vincent Turkey 32 SARS-1 YES 29-07-2001
+63372 David Hall Turkey 16 MERS-COV NO
+31550 Jason Morgan Turkey 78 FLU-2018 NO
+7003 Phillip Perry Turkey 50 SARS-COV-2 NO
+40001 David Moss Turkey 28 SARS-1 YES 06-11-2005
+14175 Barbara Romero Turkey 24 MERS-COV YES 10-02-2002
+10545 Sarah Ochoa Turkey 46 SARS-COV-2 NO
+39111 Mark Richardson Turkey 69 SARS-1 YES 30-05-2008
+84793 Ronald Chambers Turkey 20 H1N1 NO
+92108 Matthew Anderson Turkey 42 EVD YES 06-09-2012
+919 Craig Stein Turkey 66 MERS-COV NO
+38638 Brandi Vang Turkey 74 FLU-2018 NO
+96143 Teresa Williams Turkey 54 COVID-2019 NO
+199 Nicole Ward Turkey 28 MERS-COV YES 09-06-2008
+87975 Melissa Rhodes Turkey 54 MERS-COV YES 08-02-2020
+63111 Larry Figueroa Turkey 52 SARS-1 NO
+31855 Jessica Lawson Turkey 55 COVID-2019 YES 10-01-2010
+54942 Brian Murray Turkey 54 SARS-COV-2 NO
+44557 Abigail Mitchell Turkey 23 SARS-COV-2 NO
+60117 Nicholas Haynes Turkey 31 FLU-2018 YES 29-03-2009
+2356 Jeffrey Kane Turkey 15 SARS-COV-2 YES 09-08-2007
+38702 Jared Hill Turkey 48 EVD NO
+25252 Kim Faulkner Turkey 49 EVD YES 06-03-2005
+46290 Christian Watson Turkey 23 COVID-2019 NO
+82214 Barbara Rosario Turkey 23 H1N1 NO
+15816 Donna Jimenez Turkey 50 EVD NO
+39292 Reginald Gilbert Turkey 60 SARS-COV-2 YES 08-11-2000
+11575 Robin Miller Turkey 17 MERS-COV NO
+52417 Erin Frazier Turkey 15 EVD YES 18-08-2017
+99084 Justin James Turkey 61 H1N1 NO
+85983 Jessica Diaz Turkey 60 H1N1 NO
+75520 Lance Lawson Turkey 63 MERS-COV NO
+34058 Mary Mercer Turkey 54 COVID-2019 YES 19-04-2009
+50592 Ann Yates Turkey 41 FLU-2018 NO
+19920 Henry Sims Turkey 77 SARS-1 NO
+3828 Jacob Zhang Turkey 66 COVID-2019 NO
+46822 Melissa Martinez Turkey 19 EVD NO
+94236 Larry Hamilton Turkey 26 FLU-2018 YES 13-08-2006
+43012 Paul Clay Turkey 23 EVD NO
+17233 Theresa Li Turkey 76 H1N1 NO
+10841 Michele Lin Turkey 76 SARS-COV-2 YES 29-03-2008
+16821 Jared Colon Turkey 47 EVD YES 01-05-2013
+16657 Cody Keith Turkey 17 H1N1 NO
+50856 Natalie Castillo Turkey 68 SARS-1 NO
+71348 Erika Owens Turkey 66 H1N1 YES 30-08-2005
+28881 Jessica Moore Turkey 50 MERS-COV YES 24-01-2005
+1204 Sandra Garcia Turkey 77 H1N1 YES 07-01-2012
+11390 Alicia Fields Turkey 58 COVID-2019 NO
+2811 David Dean Turkey 25 SARS-1 YES 11-11-2016
+56833 Nathan Estrada Turkey 63 EVD YES 30-11-2011
+461 Jason King Turkey 48 FLU-2018 YES 01-09-2007
+4999 David Wilson Turkey 14 COVID-2019 YES 30-08-2011
+79473 Carl Wood Turkey 12 EVD YES 19-05-2005
+54450 Emily Hill Turkey 40 SARS-COV-2 NO
+17599 Robert Le Turkey 77 H1N1 YES 09-10-2006
+11915 Benjamin Parker Turkey 42 SARS-COV-2 NO
+10484 Victoria Jennings Turkey 56 EVD NO
+13264 Ryan Dixon Turkey 17 FLU-2018 NO
+59703 John Ford Turkey 59 H1N1 YES 07-05-2007
+95930 Pamela Kane Turkey 40 FLU-2018 YES 07-08-2010
+93313 Heather Ortega Turkey 20 MERS-COV YES 11-06-2016
+98398 Meagan Campbell Turkey 69 MERS-COV YES 29-03-2015
+57470 Robert Owens Turkey 70 EVD NO
+21612 Kevin Shah Turkey 70 H1N1 YES 20-03-2008
+32952 Jose Zavala Turkey 42 SARS-COV-2 YES 25-02-2008
+22520 Isabella Wilson Turkey 78 EVD YES 12-11-2012
+24007 Eric Ramos Turkey 50 EVD NO
+71729 Zachary Jensen Turkey 32 EVD NO
+38679 Cynthia Rangel Turkey 57 MERS-COV YES 07-12-2020
+81899 Sherry Kim Turkey 17 COVID-2019 YES 07-05-2010
+71844 Claire Walker Turkey 32 EVD YES 26-03-2017
+53917 Peter Morrison Turkey 55 SARS-1 NO
+38003 James Robinson Turkey 16 COVID-2019 YES 12-04-2015
+26155 Megan Ingram Turkey 29 SARS-1 YES 14-10-2000
+53937 James Anderson Turkey 42 SARS-COV-2 YES 11-03-2015
+69554 Anna Hooper Turkey 66 EVD YES 06-04-2003
+16176 Christina Moreno Turkey 45 SARS-COV-2 NO
+20342 Veronica Marks Turkey 51 COVID-2019 YES 24-11-2015
+44385 Diane Kelley Turkey 29 H1N1 NO
+46103 Keith Davidson Turkey 21 SARS-COV-2 NO
+92042 Meghan Rodriguez Turkey 14 MERS-COV YES 04-04-2005
+63665 John Solis Turkey 77 H1N1 YES 14-06-2012
+83736 David Thomas Turkey 37 H1N1 YES 03-05-2019
+3568 Kimberly Freeman Turkey 45 H1N1 NO
+23815 Andrew Blevins Turkey 68 EVD NO
+96289 Kathy Hall Turkey 66 SARS-COV-2 YES 31-12-2004
+22052 Jared Reilly Turkey 67 EVD YES 13-10-2019
+69463 Tanya Morales Turkey 72 H1N1 YES 07-10-2002
+62127 Christina Williams Turkey 74 SARS-1 NO
+21156 Robert Brown Turkey 52 MERS-COV NO
+60897 Ronald Beck Turkey 78 EVD YES 28-05-2011
+43392 Angela Barber Turkey 74 SARS-COV-2 YES 23-07-2003
+37358 Jessica Perez Turkey 60 EVD NO
+55365 Christina Stewart Turkey 15 FLU-2018 YES 27-02-2020
+9460 Justin Rodriguez Turkey 70 H1N1 YES 27-11-2018
+59787 Sherri Gray Turkey 17 FLU-2018 NO
+66654 Robert Lane Turkey 62 COVID-2019 YES 10-06-2017
+84511 Ann Reed Turkey 62 FLU-2018 YES 17-05-2014
+4615 Jim Spence Turkey 72 COVID-2019 NO
+54529 Philip Zuniga Turkey 59 MERS-COV YES 15-06-2013
+89065 John Harvey Turkey 68 COVID-2019 YES 04-07-2020
+86323 Linda Reilly Turkey 24 COVID-2019 YES 09-03-2007
+50699 Jason Wallace Turkey 57 COVID-2019 NO
+63381 Bonnie Jones Turkey 38 H1N1 YES 10-06-2000
+83188 Dale Kim Turkey 55 SARS-1 NO
+50674 Pamela Banks Turkey 21 H1N1 NO
+9974 Jill Wright Turkey 73 FLU-2018 YES 18-02-2020
+73662 Jessica Barnes Turkey 15 EVD NO
+61547 Paul Ross Turkey 26 SARS-COV-2 YES 27-11-2007
+46658 Kimberly Taylor Turkey 45 SARS-COV-2 NO
+37778 Maria Guerrero Turkey 30 COVID-2019 NO
+418 Michelle Garcia Turkey 67 SARS-1 NO
+57526 James Mejia Turkey 13 SARS-COV-2 YES 20-12-2018
+49457 Lisa Hall Turkey 53 COVID-2019 NO
+4625 Michael Weber Turkey 40 H1N1 NO
+24215 Catherine Munoz Turkey 71 SARS-COV-2 YES 02-01-2020
+90674 Jonathan Hampton Turkey 57 EVD YES 04-06-2007
+97415 Jason Chen Turkey 43 COVID-2019 YES 11-01-2018
+37644 Monica Wilson Turkey 67 SARS-COV-2 NO
+21329 Jonathan Hunt Turkey 40 SARS-1 YES 06-07-2007
+67005 Alyssa Bradley Turkey 73 SARS-1 NO
+2554 Rhonda Young Turkey 32 SARS-COV-2 NO
+52425 Shane Solis Turkey 54 H1N1 NO
+63149 Sharon Black Turkey 13 SARS-COV-2 YES 16-05-2017
+28708 Michael Moon Turkey 48 COVID-2019 NO
+43046 Nicole Neal Turkey 76 COVID-2019 NO
+55388 Lisa Berry Turkey 23 MERS-COV YES 08-03-2016
+87514 Tina Williams Turkey 16 SARS-COV-2 NO
+51701 Mary Rowland Turkey 19 COVID-2019 NO
+41957 Patricia Wong Turkey 45 H1N1 NO
+21187 Shane Edwards Turkey 25 COVID-2019 YES 09-12-2006
+23522 Jeffery Pratt Turkey 23 EVD YES 10-09-2013
+42718 Stephanie Kelley Turkey 16 COVID-2019 YES 05-01-2005
+56976 Jasmine Sullivan Turkey 28 EVD YES 02-12-2001
+70456 Leslie Smith Turkey 16 H1N1 YES 18-02-2007
+44444 Michael Price Turkey 47 MERS-COV NO
+48007 Bethany Allen Turkey 16 SARS-1 NO
+59086 Ryan Trevino Turkey 13 EVD YES 04-11-2005
+40550 Johnathan Howard Turkey 62 FLU-2018 YES 26-11-2001
+97399 Shannon Chavez Turkey 12 EVD YES 09-06-2017
+89230 Jesus Davis Turkey 66 SARS-1 YES 12-04-2008
+48190 Bruce Bush Turkey 34 SARS-COV-2 NO
+26223 Megan Peterson Turkey 11 FLU-2018 YES 21-09-2017
+38260 Joshua Jackson Turkey 31 COVID-2019 NO
+56839 Timothy Colon Turkey 45 FLU-2018 YES 05-11-2013
+25708 Stephanie Lopez Turkey 49 SARS-COV-2 YES 28-03-2011
+38479 Joseph Foster Turkey 53 FLU-2018 YES 02-10-2001
+4435 Timothy Lindsey Turkey 38 FLU-2018 YES 04-06-2017
+83038 Shannon Barnes Turkey 63 EVD NO
+30464 Rhonda Potter Turkey 52 SARS-COV-2 NO
+34543 Christine Benson Turkey 39 FLU-2018 NO
+49417 Linda Powell Turkey 15 COVID-2019 NO
+7787 Stacy Poole Turkey 43 SARS-COV-2 YES 19-12-2020
+87103 David Walker Turkey 42 SARS-1 NO
+24640 Andrew Watkins Turkey 52 EVD YES 16-04-2000
+36459 Adam Payne Turkey 24 H1N1 NO
+3221 Micheal French Turkey 61 H1N1 YES 02-03-2012
+95333 Heidi Guzman Turkey 41 SARS-COV-2 NO
+47253 Shelby Kim Turkey 44 MERS-COV YES 05-05-2020
+21380 Robert Long Turkey 31 COVID-2019 NO
+29522 Devon Parker Turkey 37 COVID-2019 YES 19-02-2014
+66626 Danielle Davis Turkey 48 EVD YES 20-08-2000
+31604 Eric Saunders Turkey 37 MERS-COV YES 16-05-2017
+88867 Lori Nielsen Turkey 41 SARS-COV-2 YES 05-05-2016
+72709 Veronica Edwards Turkey 39 FLU-2018 YES 04-08-2018
+60362 Christopher Hartman Turkey 24 COVID-2019 NO
+20907 Katie Coleman Turkey 20 SARS-1 NO
+42760 Henry Swanson Turkey 23 FLU-2018 YES 24-05-2005
+55149 Morgan Powell Turkey 29 EVD YES 21-04-2004
+33344 Nicole Smith Turkey 58 H1N1 YES 27-04-2017
+78321 Melvin Lee Turkey 78 H1N1 YES 01-06-2013
+83159 Eugene Montgomery Turkey 58 H1N1 YES 30-01-2019
+82031 Victoria Ball Turkey 15 EVD NO
+73066 Jodi Williams Turkey 51 H1N1 YES 23-06-2008
+25284 Keith Jenkins Turkey 42 EVD YES 03-05-2013
+78149 Karen Russell Turkey 48 COVID-2019 NO
+26302 Destiny Aguilar Turkey 34 SARS-1 YES 11-01-2008
+21453 Kimberly Fleming Turkey 30 SARS-1 YES 28-08-2001
+33635 Victoria Houston Turkey 10 MERS-COV YES 24-12-2016
+45650 Zachary Copeland Turkey 76 COVID-2019 YES 09-08-2004
+95940 Melissa Long Turkey 69 COVID-2019 NO
+96314 Shannon Wood Turkey 41 EVD YES 09-10-2012
+69805 Donna Jackson Turkey 67 SARS-COV-2 YES 01-05-2008
+81975 Craig Scott Turkey 48 H1N1 NO
+4574 Steven Schroeder Turkey 26 MERS-COV YES 25-04-2010
+21789 Todd Lane Turkey 43 COVID-2019 YES 08-09-2014
+5242 Bruce Garcia Turkey 59 EVD YES 02-12-2012
+32966 Kyle Blevins Turkey 43 COVID-2019 NO
+76690 Mark Wood Turkey 57 SARS-1 YES 27-07-2019
+93493 William Henderson Turkey 29 SARS-COV-2 NO
+63771 Veronica Hopkins Turkey 15 EVD NO
+69042 David Bishop Turkey 66 COVID-2019 NO
+95201 Autumn Peterson Turkey 73 SARS-COV-2 YES 14-11-2014
+39014 Samantha Schultz Turkey 30 EVD NO
+40608 Anthony Jones Turkey 14 EVD NO
+31523 Kimberly King Turkey 78 SARS-COV-2 NO
+78401 Brooke Cox Turkey 45 MERS-COV YES 20-03-2001
+27678 Michelle Henderson Turkey 70 EVD YES 23-10-2006
+13159 Brian Price Turkey 13 EVD YES 11-04-2004
+70216 Anthony Alvarez Turkey 59 SARS-COV-2 NO
+49255 Eric Webster Turkey 46 H1N1 NO
+66632 Chloe Simpson Turkey 29 EVD YES 11-07-2016
+32398 Lisa Johnson Turkey 19 COVID-2019 YES 12-10-2000
+51176 Jeffrey Woodard Turkey 43 SARS-COV-2 YES 23-04-2008
+55065 Kathryn Morgan Turkey 60 SARS-1 NO
+69270 Anthony Nguyen Turkey 18 EVD YES 19-04-2011
+10423 Monica Carroll Turkey 15 COVID-2019 YES 09-06-2011
+57495 Allison Rodriguez Turkey 23 MERS-COV YES 07-07-2005
+80339 Michael Simpson Turkey 50 FLU-2018 NO
+1556 Robert Gibson Turkey 62 SARS-COV-2 YES 10-12-2013
+20913 James Moyer Turkey 25 H1N1 YES 04-12-2018
+21255 Curtis Sullivan Turkey 12 EVD NO
+58276 Henry Robles Turkey 72 FLU-2018 YES 17-08-2018
+90673 Rachel Jackson Turkey 48 MERS-COV YES 20-07-2013
+24532 John Howard Turkey 21 SARS-1 YES 25-07-2001
+64355 Jose Newman Turkey 62 FLU-2018 YES 24-08-2015
+2892 Bonnie Briggs Turkey 79 H1N1 YES 21-04-2012
+72151 Danielle Osborne Turkey 25 SARS-COV-2 YES 27-06-2000
+19874 Monica Green Turkey 73 MERS-COV NO
+80712 Richard Dickerson Turkey 14 COVID-2019 YES 15-04-2009
+5196 Tracy Mcclure Turkey 52 MERS-COV NO
+82678 Katherine Sanders Turkey 75 EVD NO
+72153 Joshua Porter Turkey 78 SARS-1 YES 25-06-2016
+36968 Aaron Torres Turkey 74 MERS-COV YES 03-01-2010
+25064 Christopher Gonzalez Turkey 26 SARS-COV-2 YES 15-05-2004
+67199 Susan Benson Turkey 66 H1N1 NO
+85517 Samuel Rios Turkey 63 FLU-2018 YES 05-01-2021
+80716 James Ali Turkey 56 COVID-2019 NO
+40318 Christopher Kelly Turkey 50 SARS-COV-2 YES 24-04-2010
+11206 Joshua Walters Turkey 37 SARS-1 NO
+18380 Kevin Kim Turkey 71 SARS-COV-2 YES 03-11-2012
+71563 Mark Evans Turkey 64 H1N1 YES 23-05-2008
+99155 Julie Hale Turkey 38 SARS-1 NO
+15213 Dean Woods Turkey 77 H1N1 YES 14-04-2004
+82591 Laura Owens Turkey 27 SARS-1 YES 12-08-2018
+36958 Jacob Davis Turkey 24 MERS-COV NO
+21845 Travis Schwartz Turkey 23 EVD YES 28-12-2017
+35952 Alyssa Daniel Turkey 29 COVID-2019 NO
+24966 Kaitlin Rodriguez Turkey 76 COVID-2019 NO
+52816 Frank Dominguez Turkey 77 COVID-2019 YES 23-05-2000
+3643 Emily Brown Turkey 16 SARS-COV-2 NO
+58962 Kevin Miller Turkey 25 FLU-2018 YES 18-12-2014
+98446 Kenneth Morris Turkey 75 SARS-COV-2 NO
+46816 Ryan Hernandez Turkey 71 SARS-COV-2 NO
+6342 Nicole Rodriguez Turkey 58 COVID-2019 YES 22-09-2013
+95135 Catherine Clark Turkey 26 MERS-COV NO
+90119 Brian Foster Turkey 21 COVID-2019 YES 11-10-2016
+45747 Nancy Tran Turkey 38 FLU-2018 NO
+13802 James Rodriguez Turkey 61 FLU-2018 NO
+20006 Maria Cole Turkey 41 H1N1 YES 24-06-2005
+38986 Christopher Brown Turkey 13 H1N1 YES 28-12-2014
+22663 Kathleen Reyes Turkey 77 FLU-2018 NO
+91400 Richard Chavez Turkey 58 H1N1 YES 12-07-2009
+73355 Paula Haynes Turkey 37 FLU-2018 NO
+70492 Tiffany Carroll Turkey 29 COVID-2019 NO
+34431 Timothy Burns Turkey 74 EVD NO
+55126 Brett Jones Turkey 37 EVD YES 19-10-2010
+12160 Denise Adams Turkey 44 MERS-COV YES 27-06-2012
+70203 Nicholas Beard Turkey 44 EVD YES 12-11-2016
+46653 Samantha Deleon Turkey 75 EVD YES 20-09-2008
+84357 Rachel Glover Turkey 45 SARS-COV-2 NO
+55863 Karl Lawrence Turkey 68 EVD NO
+23358 Brenda Allen Turkey 62 EVD NO
+23985 Tonya Roberts Turkey 54 SARS-1 NO
+98812 Matthew Clements Turkey 72 MERS-COV YES 05-10-2013
+95430 Benjamin Mack Turkey 35 H1N1 YES 17-06-2007
+25593 Rachel Miller Turkey 18 SARS-COV-2 YES 26-12-2018
+37661 Joann Singleton Turkey 45 SARS-COV-2 NO
+65997 Tonya Matthews Turkey 70 COVID-2019 YES 07-06-2006
+98591 Amanda Chase Turkey 60 SARS-1 NO
+78440 Stephanie Zimmerman Turkey 50 COVID-2019 YES 19-02-2016
+62783 Shannon Murphy Turkey 23 SARS-1 YES 02-07-2020
+39619 Sarah Copeland Turkey 58 COVID-2019 YES 13-12-2012
+39566 Andrew Luna Turkey 57 SARS-1 NO
+68846 Angela Lin Turkey 13 MERS-COV YES 08-03-2001
+62346 William Rodriguez Turkey 78 SARS-COV-2 YES 30-06-2013
+62752 Derrick Moon Turkey 41 H1N1 YES 29-11-2001
+94360 Thomas Weaver Turkey 41 MERS-COV YES 27-07-2012
+28156 Kimberly Hampton Turkey 44 FLU-2018 NO
+84621 Jack Garcia Turkey 16 SARS-COV-2 YES 25-09-2020
+34587 Cassandra Craig Turkey 45 MERS-COV YES 26-11-2012
+91784 Michael Anderson Turkey 45 SARS-1 NO
+16285 Jeffrey Mccann Turkey 54 SARS-COV-2 YES 15-11-2008
+57400 David Morris Turkey 79 FLU-2018 NO
+61947 John Moore Turkey 35 EVD NO
+52992 Joshua Reid Turkey 66 MERS-COV YES 19-09-2012
+3754 Mark Weber Turkey 77 H1N1 YES 01-02-2005
+82491 Austin Smith Turkey 27 EVD YES 13-01-2020
+78450 Alexandria Wilson Turkey 31 EVD NO
+45031 Lance Russell Turkey 17 SARS-1 YES 15-08-2003
+78516 Rebecca Stewart Turkey 13 COVID-2019 YES 28-09-2010
+7481 Maria Nelson Turkey 78 H1N1 NO
+98237 Timothy Bowman Turkey 33 H1N1 NO
+5767 Hannah Martinez Turkey 66 SARS-COV-2 NO
+6029 Jennifer Bell Turkey 63 MERS-COV NO
+68683 Kelly Mccoy Turkey 17 H1N1 YES 05-01-2000
+95681 David Perkins Turkey 48 SARS-1 YES 07-03-2019
+27603 Stephen Johnson Turkey 48 COVID-2019 NO
+30459 Krista Morrow Turkey 50 SARS-COV-2 NO
+72091 Amanda Webb Turkey 28 SARS-1 YES 11-09-2003
+78494 Meghan Ross Turkey 34 COVID-2019 YES 31-03-2013
+68803 Sarah Sandoval Turkey 50 SARS-COV-2 YES 22-08-2006
+86982 Brandon Davis Turkey 50 MERS-COV NO
+44252 Jason Palmer Turkey 50 SARS-COV-2 YES 19-04-2011
+28369 Lindsay Mitchell Turkey 36 H1N1 NO
+17876 Louis Stokes Turkey 41 FLU-2018 NO
+23778 Lori Wright Turkey 43 MERS-COV YES 23-03-2011
+17380 Kimberly Wong Turkey 30 FLU-2018 YES 02-02-2019
+82900 Crystal Garcia Turkey 63 MERS-COV YES 23-06-2004
+95109 Michael Perez Turkey 18 H1N1 YES 31-08-2019
+14562 Michael Frye Turkey 63 SARS-COV-2 YES 19-05-2014
+13400 Bryan Lloyd Turkey 68 FLU-2018 NO
+86021 Chelsea Simon Turkey 30 H1N1 YES 18-08-2002
+35726 Christopher Moran Turkey 70 SARS-1 NO
+62564 Margaret Hamilton Turkey 62 COVID-2019 YES 09-09-2006
+78521 Ronald Bailey Turkey 31 MERS-COV NO
+76575 Krystal Allison Turkey 77 SARS-1 NO
+74268 Rachel Riley Turkey 68 COVID-2019 YES 23-05-2018
+65658 John Fitzgerald Turkey 49 COVID-2019 YES 10-03-2011
+50673 Lori Kennedy Turkey 30 MERS-COV NO
+82828 Sandra Carlson Turkey 44 H1N1 NO
+44298 Rachel Vargas Turkey 10 SARS-COV-2 NO
+19838 Heather Keller Turkey 55 COVID-2019 YES 06-01-2009
+38109 Patrick Brown Turkey 73 EVD NO
+93633 Stephanie Crane Turkey 24 EVD NO
+3609 Madeline King Turkey 47 COVID-2019 NO
+12040 Tina Perkins Turkey 24 FLU-2018 YES 06-01-2019
+6355 Frank Roberts Turkey 13 H1N1 NO
+55935 Curtis Schmidt Turkey 68 MERS-COV YES 26-10-2014
+62444 Brian Estrada Turkey 38 EVD YES 18-12-2018
+87412 John Wilkins Turkey 62 EVD NO
+9026 Amy Ibarra Turkey 58 SARS-COV-2 NO
+68990 Christopher Davidson Turkey 57 COVID-2019 YES 13-12-2014
+43880 Edward Rich Turkey 78 MERS-COV YES 10-12-2007
+61453 Ryan Grant Turkey 36 MERS-COV YES 24-10-2019
+61297 Allison Mcdaniel Turkey 61 COVID-2019 YES 28-12-2002
+8497 William Cole Turkey 54 MERS-COV YES 11-10-2016
+47325 Whitney Rogers Turkey 55 EVD NO
+96967 Paul Parker Turkey 58 EVD YES 17-01-2021
+77686 Kellie Anderson Turkey 70 COVID-2019 YES 07-07-2014
+66243 Deborah Nielsen Turkey 26 H1N1 YES 26-07-2005
+67998 Jennifer Carpenter Turkey 51 FLU-2018 NO
+75110 Kevin Logan Turkey 28 FLU-2018 NO
+45374 Joyce Nelson Turkey 74 MERS-COV YES 06-01-2006
+82422 Jonathan Bailey Turkey 60 COVID-2019 NO
+9859 Ashley David Turkey 38 EVD YES 31-05-2019
+97200 Dennis Burgess Turkey 22 FLU-2018 NO
+80810 Brandon Luna Turkey 75 FLU-2018 NO
+62350 Melissa Adams Turkey 69 EVD NO
+88898 John Hogan Turkey 67 MERS-COV NO
+22235 Heather Pham Turkey 33 FLU-2018 NO
+40396 Jerry Hansen Turkey 70 MERS-COV YES 14-01-2009
+68021 Stacey Ward Turkey 13 FLU-2018 YES 26-09-2004
+37453 David Clark Turkey 18 SARS-COV-2 YES 19-12-2005
+43294 David Nelson Turkey 34 EVD YES 25-04-2018
+80104 Tamara Anderson Turkey 28 H1N1 YES 24-03-2018
+2675 Richard Leon Turkey 35 H1N1 YES 08-05-2007
+6621 Angela Koch Turkey 44 SARS-COV-2 NO
+48119 Amanda Little Turkey 77 SARS-1 NO
+14251 Kirk Hill Turkey 24 SARS-1 NO
+21666 Amy Lewis Turkey 57 SARS-COV-2 YES 03-10-2002
+48940 Amber Stewart Turkey 22 COVID-2019 YES 21-10-2008
+83125 Timothy Ward Turkey 24 SARS-COV-2 YES 31-08-2016
+92123 Melanie Anderson Turkey 32 SARS-1 YES 06-10-2017
+51445 Kristina Vargas Turkey 38 SARS-1 YES 06-02-2018
+10277 Craig Wilson Turkey 79 FLU-2018 NO
+1588 Katelyn Vega Turkey 49 FLU-2018 YES 20-03-2001
+23926 Kevin Singh Turkey 48 EVD YES 29-12-2004
+61360 Kim Murphy Turkey 52 EVD YES 10-08-2018
+26296 Elizabeth Rodriguez Turkey 62 SARS-COV-2 YES 21-01-2008
+4726 Jason Snyder Turkey 53 EVD YES 17-04-2013
+8438 Christopher Foley Turkey 55 EVD YES 13-12-2010
+83177 Elaine Choi Turkey 24 EVD NO
+69259 Brian Delgado Turkey 31 FLU-2018 YES 27-06-2020
+37318 Zachary Gutierrez Turkey 68 EVD NO
+80139 Christopher Cobb Turkey 63 FLU-2018 NO
+73401 Joseph Rios Turkey 55 FLU-2018 YES 21-11-2017
+50140 Rodney Perez Turkey 74 FLU-2018 NO
+33781 Scott Lee Turkey 71 EVD YES 13-04-2017
+92324 Megan Nguyen Turkey 38 COVID-2019 NO
+14361 Alicia Dunn Turkey 53 MERS-COV NO
+69800 Richard Bradford Turkey 20 MERS-COV NO
+7096 Destiny White Turkey 72 SARS-COV-2 YES 14-04-2019
+69841 Rachel Gibbs Turkey 24 SARS-COV-2 NO
+17133 Megan Pollard Turkey 58 H1N1 NO
+72095 Tammy Villarreal Turkey 34 COVID-2019 YES 22-08-2016
+59199 Amber Rojas Turkey 29 EVD NO
+92328 Mark Griffin Turkey 79 SARS-COV-2 NO
+69080 Jose Burns Turkey 21 SARS-1 YES 26-05-2016
+83234 Amanda Brown Turkey 18 EVD NO
+13864 Allison Carroll Turkey 11 COVID-2019 NO
+2743 Christopher Stone Turkey 24 EVD NO
+66017 Eric Thompson Turkey 78 SARS-1 NO
+53653 Timothy Clarke Turkey 68 SARS-1 YES 01-02-2019
+42876 Tracy Hickman Turkey 79 H1N1 NO
+66346 Rebecca Leblanc Turkey 77 SARS-1 YES 29-05-2005
+56734 Amanda Moore Turkey 64 EVD NO
+59044 Stacy Tanner Turkey 19 MERS-COV NO
+81382 Derek Curtis Turkey 36 COVID-2019 NO
+70643 Hayden Short Turkey 21 SARS-COV-2 NO
+38133 Tracey Becker Turkey 32 MERS-COV YES 06-05-2003
+51900 Jacqueline Cooper Turkey 11 H1N1 YES 28-10-2013
+97153 Devin Osborne Turkey 44 MERS-COV NO
+29441 Ronald Hernandez Turkey 28 SARS-1 YES 06-10-2020
+82009 John Burton Turkey 28 SARS-1 NO
+95615 Melissa Hernandez Turkey 61 EVD NO
+23017 Ann Brown Turkey 25 COVID-2019 NO
+94725 Elizabeth Salas Turkey 72 EVD YES 26-12-2016
+66218 Anthony Ramsey Turkey 26 FLU-2018 YES 23-09-2015
+30807 Zachary Walker Turkey 39 SARS-1 YES 07-07-2011
+52681 Audrey Jones Turkey 53 COVID-2019 YES 08-01-2005
+47899 Jonathan Kim Turkey 15 H1N1 YES 24-09-2002
+2613 John Miller Turkey 29 EVD NO
+99357 Kristen Ingram Turkey 65 MERS-COV NO
+43420 Franklin Porter Turkey 21 MERS-COV YES 15-02-2005
+60512 Michael Patterson Turkey 71 SARS-COV-2 YES 10-06-2010
+87981 Charles Hardy Turkey 23 SARS-COV-2 YES 24-09-2009
+89022 Kyle Rhodes Turkey 15 FLU-2018 NO
+24592 Bryan Brandt Turkey 32 MERS-COV NO
+81098 Valerie Ritter Turkey 25 SARS-COV-2 NO
+66943 Stacy Blake Turkey 77 COVID-2019 NO
+48235 Hunter Lambert Turkey 34 FLU-2018 YES 23-06-2020
+79401 Amanda Peck Turkey 21 FLU-2018 YES 18-03-2016
+1998 Michelle Hoover Turkey 67 H1N1 NO
+65436 Frederick Jones Turkey 78 SARS-COV-2 NO
+19705 Michael Alexander Turkey 79 COVID-2019 YES 25-04-2009
+39838 Alejandro Lloyd Turkey 23 FLU-2018 YES 09-04-2002
+46396 Karen Pineda Turkey 25 SARS-COV-2 YES 10-07-2011
+26230 Stephanie Powell Turkey 53 COVID-2019 NO
+63766 Virginia Torres Turkey 52 MERS-COV NO
+10538 Carmen Velez Turkey 70 FLU-2018 YES 25-03-2009
+44934 Amanda Hicks Turkey 37 SARS-COV-2 NO
+87097 Christopher Lopez Turkey 26 FLU-2018 YES 20-04-2004
+81550 Pamela Koch Turkey 37 MERS-COV YES 03-05-2018
+47094 Adam Evans Turkey 34 SARS-1 NO
+91597 Adam Castro Turkey 77 COVID-2019 YES 24-02-2019
+29323 Douglas Fletcher Turkey 45 SARS-1 YES 20-11-2007
+5435 Brandon Brown Turkey 18 EVD NO
+33500 Stephanie Gonzalez Turkey 28 FLU-2018 YES 09-06-2006
+91711 Bryce Lewis Turkey 74 SARS-1 YES 05-11-2012
+43619 James Mitchell Turkey 13 EVD NO
+49422 Carlos Lopez Turkey 79 COVID-2019 NO
+27709 Judith Kirk Turkey 73 SARS-1 NO
+68439 Shannon Savage Turkey 45 SARS-COV-2 YES 29-11-2003
+96465 Jennifer Aguilar Turkey 49 H1N1 NO
+7693 Troy Kramer Turkey 44 MERS-COV NO
+12204 Megan Cain Turkey 54 EVD YES 13-05-2003
+87131 Hannah Williams Turkey 16 EVD NO
+7795 Monica Bell Turkey 58 SARS-COV-2 NO
+10690 Thomas Walsh Turkey 38 COVID-2019 NO
+83910 Randy Paul Turkey 28 MERS-COV YES 12-08-2011
+13140 Meredith Solomon Turkey 55 SARS-COV-2 NO
+93206 Carolyn Anderson Turkey 52 COVID-2019 NO
+16697 Meghan Klein Turkey 49 H1N1 NO
+63437 Nicole Pruitt Turkey 68 MERS-COV YES 17-07-2008
+10015 Veronica Smith Turkey 58 EVD YES 10-08-2009
+93297 Hector Tucker Turkey 39 H1N1 YES 03-09-2000
+13317 Jonathan Zimmerman Turkey 22 EVD NO
+64116 Lorraine Flores Turkey 79 FLU-2018 NO
+29212 Paul Park Turkey 23 COVID-2019 NO
+57967 Cody Davis Turkey 31 FLU-2018 YES 21-01-2005
+4979 Kristopher Alvarado Turkey 34 H1N1 NO
+66737 Dylan Ward Turkey 55 SARS-1 NO
+40199 Jeffery Macias Turkey 13 COVID-2019 NO
+83767 Holly Lloyd Turkey 43 SARS-1 NO
+74262 Richard Watson Turkey 68 SARS-1 NO
+47694 Charles Rice Turkey 66 MERS-COV YES 27-08-2016
+2193 Christina Wells Turkey 17 H1N1 YES 06-07-2001
+89673 Joshua Sullivan Turkey 58 FLU-2018 NO
+21341 Jason Cannon Turkey 30 SARS-COV-2 YES 03-12-2010
+68073 Cindy Byrd Turkey 63 COVID-2019 YES 24-05-2013
+29292 Adam Reynolds Turkey 21 SARS-COV-2 NO
+31474 Jasmine Higgins Turkey 17 SARS-1 NO
+33925 Elijah Gutierrez Turkey 73 FLU-2018 YES 06-08-2017
+83162 John Nicholson Turkey 73 SARS-COV-2 YES 05-12-2016
+23137 David Branch Turkey 16 MERS-COV NO
+44348 Jared Little Turkey 14 SARS-COV-2 YES 26-02-2014
+70857 Douglas Howard Turkey 50 EVD YES 28-06-2005
+58042 Sarah Green Turkey 56 FLU-2018 YES 07-04-2014
+15439 Brandi Cohen Turkey 11 H1N1 NO
+92779 Donna Reynolds Turkey 10 SARS-COV-2 YES 17-09-2006
+38012 Kenneth Knox Turkey 73 SARS-1 NO
+68343 Lisa Fuller Turkey 65 FLU-2018 YES 23-12-2013
+38879 Mary Wright Turkey 37 FLU-2018 YES 12-05-2014
+71204 Heather Fuller Turkey 17 MERS-COV NO
+39252 Jerry Mcpherson Turkey 64 MERS-COV YES 18-07-2005
+47512 Mackenzie Sanders Turkey 39 MERS-COV YES 27-11-2005
+19808 Daniel James Turkey 63 H1N1 NO
+39730 Mary Mendoza Turkey 55 COVID-2019 YES 04-03-2009
+37544 Brittany Hernandez Turkey 14 SARS-1 YES 02-07-2003
+8643 Denise Martin Turkey 14 COVID-2019 YES 04-11-2014
+29783 Sherri Cook Turkey 10 COVID-2019 YES 02-12-2001
+9710 Vanessa House Turkey 65 MERS-COV NO
+13742 Christina Gaines Turkey 68 H1N1 NO
+9767 Kim Morris Turkey 68 H1N1 NO
+6931 Michael Hubbard Turkey 67 SARS-COV-2 YES 02-06-2012
+28020 Pamela Sullivan Turkey 42 EVD YES 21-10-2012
+4288 Tammy Spears Turkey 52 SARS-1 YES 22-06-2015
+10018 Lauren Bush Turkey 31 FLU-2018 NO
+38903 Luis Hicks Turkey 21 EVD YES 07-09-2004
+91240 Lisa Adams Turkey 54 SARS-1 YES 19-01-2011
+956 Jason Jarvis Turkey 73 COVID-2019 YES 15-05-2012
+11235 Elizabeth Perry Turkey 25 MERS-COV NO
+7685 Billy Bailey Turkey 30 FLU-2018 YES 24-11-2000
+256 Emily Roach Turkey 62 SARS-COV-2 YES 04-06-2000
+70714 Michael Pearson Turkey 60 H1N1 NO
+23131 Allison Johnson Turkey 35 H1N1 YES 16-08-2013
+47122 Justin White Turkey 69 COVID-2019 NO
+89424 Erica Morris Turkey 65 SARS-1 YES 30-06-2012
+13841 Shannon Green Turkey 38 FLU-2018 YES 24-07-2014
+29794 Stephanie Schneider Turkey 78 COVID-2019 NO
+61783 Emily Jackson Turkey 44 H1N1 NO
+18721 Devin Davis Turkey 71 SARS-COV-2 YES 25-05-2011
+24709 Angela Jones Turkey 66 H1N1 NO
+36239 William Rodriguez Turkey 10 MERS-COV NO
+30226 Bridget Stephens Turkey 71 SARS-1 YES 06-08-2015
+14277 Guy Stephenson Turkey 44 H1N1 NO
+36373 Linda Meza Turkey 23 SARS-1 NO
+52076 Jaime Snyder Turkey 71 SARS-1 YES 09-07-2001
+21148 Brandon Garrett Turkey 63 H1N1 YES 29-03-2008
+72073 Daniel Brown Turkey 76 EVD NO
+98638 Victoria Mclaughlin Turkey 44 EVD YES 02-04-2018
+97408 Corey Jones Turkey 62 SARS-COV-2 NO
+23618 Diane Anderson Turkey 52 COVID-2019 NO
+62921 Anthony Moran Turkey 16 COVID-2019 NO
+39184 Jerry Smith Turkey 77 H1N1 NO
+94364 Frank Oneal Turkey 28 EVD NO
+74370 Charles Gonzalez Turkey 32 SARS-1 YES 28-01-2015
+65872 Jeffrey Carr Turkey 56 SARS-1 YES 29-09-2019
+4318 Bryan Tucker Turkey 75 EVD YES 21-05-2013
+16190 Kevin Campbell Turkey 14 H1N1 NO
+50002 James Parks Turkey 18 COVID-2019 YES 25-12-2018
+76562 Kristy Williams Turkey 43 COVID-2019 YES 21-02-2009
+71277 Patrick Armstrong Turkey 30 SARS-COV-2 NO
+70893 Shelby Moss Turkey 27 H1N1 NO
+72844 Jonathan Reid Turkey 49 FLU-2018 NO
+70173 John Hernandez Turkey 75 COVID-2019 YES 12-02-2019
+87835 Dan Chapman Turkey 38 H1N1 YES 08-10-2003
+61573 Richard Mitchell Turkey 68 COVID-2019 YES 15-02-2003
+56788 Billy Stewart Turkey 17 SARS-1 NO
+74878 Rachel Jones Turkey 57 MERS-COV YES 07-02-2015
+58338 William Brown Turkey 63 EVD YES 21-08-2011
+39480 Jennifer Knight Turkey 65 H1N1 NO
+98985 Shelly Pollard Turkey 55 COVID-2019 NO
+12614 John Patterson Turkey 66 COVID-2019 YES 02-10-2006
+59408 Evelyn Alexander Turkey 48 MERS-COV NO
+73876 Tim Forbes Turkey 61 MERS-COV NO
+5438 Keith Gutierrez Turkey 34 SARS-1 NO
+68914 Daniel Diaz Turkey 60 COVID-2019 NO
+68528 Michelle Bird Turkey 34 SARS-1 NO
+32766 Kristen Trevino Turkey 16 SARS-COV-2 NO
+38931 Scott Norris Turkey 42 COVID-2019 YES 03-06-2001
+64694 Molly Flores Turkey 23 FLU-2018 YES 16-02-2020
+87403 Gloria Maxwell Turkey 21 EVD NO
+86915 Robert Wright Turkey 68 SARS-COV-2 YES 13-12-2017
+83503 Kim Thompson Turkey 42 SARS-1 YES 08-01-2013
+62764 Catherine Fowler Turkey 40 COVID-2019 YES 30-12-2012
+8126 Kristen Garcia Turkey 43 FLU-2018 YES 18-02-2010
+90452 Brittany Pennington Turkey 56 MERS-COV YES 22-08-2001
+88532 Catherine Taylor Turkey 60 FLU-2018 YES 13-05-2014
+35540 Micheal Casey Turkey 31 COVID-2019 NO
+6042 Denise Carlson Turkey 76 SARS-1 YES 19-10-2002
+72990 Lauren Smith Turkey 49 COVID-2019 NO
+10648 Francisco Davenport Turkey 64 EVD NO
+65328 Laura Bauer Turkey 47 FLU-2018 YES 02-06-2014
+7068 Eric Morris Turkey 33 EVD YES 05-02-2002
+84317 Jason Weeks Turkey 14 H1N1 NO
+83630 Matthew Kidd Turkey 35 H1N1 YES 30-11-2008
+71216 Joseph Mcdonald Turkey 51 SARS-COV-2 NO
+59837 Tina Russell Turkey 29 FLU-2018 YES 13-09-2017
+89265 Lindsay Mills Turkey 55 H1N1 NO
+86845 Derek Church Turkey 61 COVID-2019 YES 02-05-2017
+19280 William Douglas Turkey 50 SARS-1 YES 20-06-2009
+71785 Joshua Collins Turkey 11 SARS-1 YES 19-03-2004
+91407 Haley Arnold Turkey 65 SARS-1 YES 23-09-2000
+7159 Christine Jones Turkey 43 MERS-COV YES 12-07-2020
+73557 Whitney Blair Turkey 72 MERS-COV NO
+28104 Timothy Robertson Turkey 55 MERS-COV YES 04-12-2013
+31031 Jessica Simpson Turkey 78 COVID-2019 YES 23-08-2013
+28505 Jennifer Stone Turkey 11 FLU-2018 NO
+77230 Courtney Hansen Turkey 27 SARS-1 YES 27-04-2017
+8228 Scott Dennis Turkey 70 COVID-2019 YES 06-08-2006
+60468 Sarah Jones Turkey 41 MERS-COV NO
+19637 Corey Holt Turkey 66 SARS-1 NO
+75956 Michelle Collins Turkey 18 SARS-COV-2 NO
+50670 Lori Tran Turkey 45 FLU-2018 YES 10-09-2008
+67409 Carrie Johnson Turkey 31 MERS-COV NO
+66077 Lucas Jones Turkey 31 SARS-COV-2 NO
+42574 Steven Cooper Turkey 32 FLU-2018 YES 04-06-2014
+63962 Steven Lyons Turkey 59 SARS-COV-2 YES 28-05-2008
+65640 Robert Brown Turkey 64 SARS-1 NO
+46593 Denise Johnson Turkey 24 H1N1 NO
+78063 Angelica Garcia Turkey 23 COVID-2019 NO
+60419 Sally Gibson Turkey 47 EVD NO
+11555 Rodney Palmer Turkey 69 SARS-1 YES 06-03-2020
+56539 Dawn Young Turkey 23 FLU-2018 NO
+86795 Anthony Frazier Turkey 64 COVID-2019 YES 27-01-2003
+24578 William Cook Turkey 19 COVID-2019 YES 16-12-2003
+43055 Michael Lewis Turkey 28 SARS-COV-2 YES 01-01-2003
+85628 Kimberly Yates Turkey 36 SARS-1 YES 09-03-2020
+61239 Colin Brown Turkey 30 FLU-2018 YES 26-12-2008
+62157 Timothy Martin Turkey 61 H1N1 NO
+17703 John Spencer Turkey 61 EVD NO
+41589 David House Turkey 33 SARS-COV-2 YES 09-04-2004
+85027 Aaron Cox Turkey 37 MERS-COV NO
+76230 Tim Pierce Turkey 59 SARS-COV-2 YES 23-02-2013
+95855 Jamie Higgins Turkey 52 FLU-2018 NO
+96060 Jacqueline English Turkey 79 MERS-COV NO
+29356 Kevin Smith Turkey 57 SARS-1 YES 27-02-2009
+53974 Kylie Perez Turkey 52 FLU-2018 YES 10-01-2016
+58823 Kim Gardner Turkey 60 H1N1 YES 02-06-2017
+97477 Tony Moore Turkey 65 H1N1 YES 25-08-2020
+79157 Scott Dickerson Turkey 38 MERS-COV YES 19-07-2004
+58474 Tammy Coleman Turkey 21 EVD NO
+5905 Patrick Cochran Turkey 38 COVID-2019 YES 11-10-2018
+74649 Kristen Barrera Turkey 58 SARS-COV-2 NO
+49413 Rachel Larson Turkey 66 FLU-2018 YES 08-01-2001
+99530 Cynthia Murphy Turkey 74 MERS-COV NO
+32016 Melinda Noble Turkey 77 H1N1 NO
+86263 Kevin Schwartz Turkey 28 MERS-COV YES 27-05-2018
+62171 Timothy Conley Turkey 54 SARS-1 NO
+83322 Mark Watson Turkey 45 FLU-2018 NO
+865 Mary Martin Turkey 68 MERS-COV YES 02-10-2002
+30057 Carol Garcia Turkey 69 SARS-1 YES 07-03-2020
+18017 Jerry Miller Turkey 23 MERS-COV YES 28-04-2011
+50172 Johnathan Harris Turkey 48 EVD YES 27-11-2010
+55345 Marie Lawson Turkey 37 EVD NO
+64262 William Howard Turkey 47 SARS-1 YES 31-12-2009
+66219 Paul Wright Turkey 69 SARS-COV-2 NO
+29725 Damon Sullivan Turkey 13 FLU-2018 YES 04-09-2011
+62498 Anthony Moore Turkey 19 COVID-2019 NO
+74843 Crystal Simon Turkey 47 SARS-COV-2 NO
+29453 Cristina Powell Turkey 62 SARS-1 NO
+82623 Daniel Robinson Turkey 77 FLU-2018 YES 04-06-2017
+6194 Sherry Anderson Turkey 53 FLU-2018 NO
+58628 James Collins Turkey 63 SARS-1 YES 29-08-2020
+95475 Brandon Walters Turkey 34 H1N1 NO
+85249 Bruce Washington Turkey 45 EVD YES 03-04-2000
+12734 Alicia Fisher Turkey 10 MERS-COV YES 15-04-2006
+28283 Angela Diaz Turkey 75 SARS-COV-2 NO
+41949 Jason James Turkey 66 H1N1 NO
+24682 Abigail Mason Turkey 58 MERS-COV YES 15-12-2011
+89595 Stephen King Turkey 38 EVD NO
+73928 Jason Wilson Turkey 21 FLU-2018 YES 28-02-2010
+96274 Traci Johnson Turkey 27 H1N1 NO
+16800 Joel Thompson Turkey 35 EVD NO
+68634 William Knapp Turkey 48 SARS-1 NO
+52574 Andrew Wright Turkey 64 SARS-COV-2 YES 08-07-2001
+10010 Scott Lamb Turkey 78 SARS-COV-2 NO
+18750 Jermaine Brewer Turkey 76 MERS-COV YES 28-05-2009
+19120 Mary Mcdonald Turkey 57 COVID-2019 NO
+52382 David Rowe Turkey 62 SARS-COV-2 NO
+4387 Kayla Martin Turkey 39 MERS-COV NO
+54961 Christina Mosley Turkey 71 H1N1 NO
+26429 Erin Mcdaniel Turkey 71 FLU-2018 NO
+99660 Amanda Weeks Turkey 59 SARS-1 YES 14-10-2018
+95644 Paul Nelson Turkey 29 H1N1 YES 22-10-2000
+64943 Christopher Mann Turkey 60 COVID-2019 NO
+26979 Sarah Martinez Turkey 47 H1N1 YES 29-12-2005
+7266 Sharon Baker Turkey 62 FLU-2018 NO
+11708 Vanessa Holmes Turkey 44 FLU-2018 YES 24-11-2006
+33668 Nicole Simon Turkey 36 SARS-COV-2 NO
+69040 Kyle Zimmerman Turkey 12 H1N1 NO
+18450 Jessica Johns Turkey 12 SARS-COV-2 NO
+50503 Nicholas Davis Turkey 70 SARS-1 YES 03-05-2016
+26864 Steven Lee Turkey 75 COVID-2019 YES 09-02-2011
+24785 Bethany White Turkey 63 MERS-COV YES 12-08-2014
+47566 Danielle Ruiz Turkey 79 COVID-2019 NO
+28627 Larry Lee Turkey 32 H1N1 YES 19-04-2006
+39062 Andrew Castro Turkey 75 SARS-COV-2 YES 14-02-2006
+29231 Jennifer Maynard Turkey 75 H1N1 NO
+21387 Matthew Marshall Turkey 31 MERS-COV NO
+52878 Steven Fox Turkey 23 SARS-1 YES 21-11-2002
+47890 Matthew Nunez Turkey 57 COVID-2019 YES 10-07-2003
+53851 Justin Garcia Turkey 11 EVD YES 29-05-2019
+8843 Ronald Richardson Turkey 23 COVID-2019 NO
+59278 Nicole Guzman Turkey 47 COVID-2019 NO
+43117 Kenneth Brown Turkey 70 H1N1 YES 05-07-2004
+43911 Rebecca Gardner Turkey 52 COVID-2019 NO
+14627 Amy Blake Turkey 76 COVID-2019 YES 06-02-2017
+52381 Anna Rodriguez Turkey 28 EVD NO
+50405 Anthony Simmons Turkey 11 MERS-COV YES 30-12-2008
+5403 Jorge Dickson Turkey 34 FLU-2018 YES 03-09-2019
+93581 Melissa Berry Turkey 52 EVD YES 28-06-2008
+87955 Joseph Pace Turkey 55 MERS-COV YES 13-10-2005
+62950 Fernando Ingram Turkey 30 EVD YES 13-12-2002
+16161 Theresa Nicholson Turkey 47 EVD NO
+86627 Robert Whitehead Turkey 49 COVID-2019 NO
+64816 Anthony Brooks Turkey 62 H1N1 YES 26-07-2014
+73566 Dennis Thompson Turkey 38 EVD YES 16-04-2017
+17234 Christopher Johnson Turkey 41 EVD NO
+19125 Susan May Turkey 21 MERS-COV YES 24-09-2013
+65978 Anita Brewer Turkey 34 FLU-2018 YES 06-12-2002
+80630 Paul Walsh Turkey 51 MERS-COV NO
+56881 Sophia Garcia Turkey 38 H1N1 NO
+99500 Gregory Holland Turkey 35 MERS-COV YES 23-04-2002
+75536 Justin Mclaughlin Turkey 37 EVD YES 17-04-2004
+78557 Gary Adams Turkey 51 MERS-COV YES 03-12-2018
+77050 Karen Wright Turkey 74 COVID-2019 NO
+25963 Cameron Cortez Turkey 16 FLU-2018 NO
+18778 Melissa Perkins Turkey 28 FLU-2018 NO
+80805 Melissa Powell Turkey 58 SARS-1 YES 16-05-2008
+64388 Kenneth Chaney Turkey 29 FLU-2018 YES 26-10-2004
+71993 Phillip Davis Turkey 71 SARS-COV-2 YES 15-08-2014
+16101 Andrew Lawrence Turkey 57 COVID-2019 YES 29-10-2019
+28136 Luke Moore Turkey 35 EVD YES 11-11-2009
+6070 Philip Hodges Turkey 56 H1N1 NO
+84761 Donald Reid Turkey 68 FLU-2018 NO
+13620 Stephanie Phillips Turkey 44 EVD NO
+89955 Brandon Miller Turkey 66 MERS-COV YES 29-10-2018
+34654 Paul Cruz Turkey 26 EVD NO
+99367 Derrick Cooper Turkey 71 COVID-2019 YES 28-09-2014
+78290 Bridget Myers Turkey 39 FLU-2018 YES 14-07-2011
+29556 Anthony Walker Turkey 30 FLU-2018 NO
+62555 Stephen Oconnell Turkey 71 EVD NO
+70333 Jason Simpson Turkey 36 SARS-1 YES 06-12-2001
+7271 Alicia Vincent Turkey 39 H1N1 NO
+78018 Matthew Griffith Turkey 65 SARS-COV-2 NO
+77501 Christopher Smith Turkey 71 SARS-1 YES 15-08-2017
+3074 Donald Khan Turkey 42 SARS-1 NO
+65161 Sarah Taylor Turkey 61 H1N1 YES 15-08-2018
+10116 Lindsay Shaffer Turkey 48 MERS-COV YES 19-03-2003
+30166 James Shaw Turkey 10 MERS-COV YES 23-05-2010
+91858 Jacob Wong Turkey 31 COVID-2019 NO
+3619 Stephanie Chung Turkey 11 COVID-2019 NO
+29328 Glenn Kelly Turkey 39 SARS-1 NO
+44984 Faith Hill Turkey 35 EVD NO
+85703 Danielle Thompson Turkey 35 SARS-COV-2 YES 06-10-2005
+91684 Katherine Salazar Turkey 40 MERS-COV NO
+14287 Lisa Berg Turkey 40 SARS-COV-2 YES 22-11-2012
+73664 John Palmer Turkey 28 MERS-COV YES 05-06-2008
+42249 Mike Smith Turkey 16 SARS-COV-2 NO
+76098 Janet Williams Turkey 78 MERS-COV NO
+19880 Sheri Nunez Turkey 76 SARS-COV-2 NO
+26018 James Delgado Turkey 63 EVD YES 18-02-2001
+81700 Connor Manning Turkey 47 COVID-2019 NO
+15323 Ashley Ball Turkey 26 FLU-2018 YES 26-01-2019
+74128 William Green Turkey 40 SARS-COV-2 YES 12-06-2018
+23541 Justin Rodriguez Turkey 35 FLU-2018 NO
+71147 Michael Smith Turkey 41 COVID-2019 NO
+28532 Linda Jackson Turkey 55 SARS-COV-2 YES 05-10-2003
+40307 Jose Rogers Turkey 59 MERS-COV YES 02-03-2005
+47670 Susan Miller Turkey 70 EVD YES 19-02-2006
+56006 Melinda Roberts Turkey 79 COVID-2019 YES 11-11-2010
+2900 Daniel Singleton Turkey 45 EVD NO
+30699 Tyler Gonzalez Turkey 34 SARS-1 YES 31-03-2015
+62024 Lindsey Abbott Turkey 74 H1N1 NO
+84534 Nicholas Thomas Turkey 19 FLU-2018 NO
+82831 Brittany Romero Turkey 61 FLU-2018 YES 11-02-2007
+10798 Julie Rodriguez Turkey 41 COVID-2019 YES 24-05-2003
+65885 Lawrence Huffman Turkey 74 EVD NO
+64465 Lori Hubbard Turkey 77 SARS-COV-2 YES 04-09-2016
+87184 Christopher Alexander Turkey 13 COVID-2019 NO
+86314 Michael Pruitt Turkey 37 EVD YES 22-05-2014
+26746 Emma Brooks Turkey 17 H1N1 YES 20-10-2019
+50891 Tiffany Richardson Turkey 37 H1N1 YES 07-02-2012
+11938 Scott Dominguez Turkey 61 MERS-COV YES 13-05-2020
+71943 Katherine Brown Turkey 69 H1N1 YES 24-07-2017
+89688 Gary Dalton Turkey 55 SARS-COV-2 NO
+30013 Alexis Singh Turkey 42 SARS-COV-2 NO
+2536 Allison Bennett Turkey 61 MERS-COV YES 27-10-2001
+53341 Pamela Carter Turkey 58 SARS-1 YES 13-01-2021
+18524 Lisa Lawrence Turkey 64 MERS-COV YES 27-02-2000
+11796 Briana Perez Turkey 47 FLU-2018 NO
+80671 Edwin Salas Turkey 34 H1N1 YES 09-12-2014
+52968 Jason Clark Turkey 28 H1N1 YES 14-05-2002
+93785 Bruce Moore Turkey 59 MERS-COV YES 25-12-2017
+71649 Pamela Jones Turkey 68 H1N1 YES 08-08-2003
+64369 Samuel Banks Turkey 23 H1N1 YES 07-04-2015
+32268 Ryan Rodriguez Turkey 47 SARS-COV-2 YES 26-11-2018
+66117 Chris Brown Turkey 11 SARS-1 YES 08-12-2016
+14803 Joanna Hampton Turkey 62 SARS-1 NO
+90024 Harold Weaver Turkey 11 SARS-COV-2 YES 30-04-2012
+68011 Gregory Mcgrath Turkey 41 SARS-COV-2 NO
+14212 Andrew Carter Turkey 33 EVD NO
+69393 Alexander Banks Turkey 65 MERS-COV NO
+1937 Virginia Jackson Turkey 31 SARS-COV-2 YES 27-05-2006
+62213 John Diaz Turkey 18 SARS-COV-2 YES 02-01-2001
+93706 Ashley Taylor Turkey 29 SARS-1 YES 11-04-2020
+56012 Leslie Leon Turkey 63 SARS-COV-2 NO
+13860 Shelley Mccarthy Turkey 78 SARS-1 NO
+65926 Matthew Atkinson Turkey 10 H1N1 YES 08-10-2008
+90687 Andrew Stewart Turkey 66 SARS-1 NO
+19675 Gina Long Turkey 55 H1N1 NO
+19978 Samantha Logan Turkey 56 FLU-2018 YES 14-05-2014
+64574 Kevin Hebert Turkey 29 SARS-1 NO
+97142 Jackson Stokes Turkey 34 SARS-1 YES 15-06-2020
+92260 Jeff Nelson Turkey 79 H1N1 YES 03-10-2008
+49569 Cynthia Ramirez Turkey 19 SARS-1 YES 26-12-2001
+25493 Patricia Knapp Turkey 48 SARS-COV-2 NO
+74994 Meghan Garza Turkey 18 H1N1 NO
+56238 Rhonda Mccoy Turkey 71 H1N1 NO
+64196 Peter Alexander Turkey 39 MERS-COV YES 16-11-2007
+54675 Kimberly Sullivan Turkey 69 EVD YES 17-09-2002
+14780 Darren Walker Turkey 59 FLU-2018 YES 15-08-2003
+84532 Antonio Tate Turkey 29 EVD YES 04-06-2014
+61409 Colleen Reid Turkey 78 SARS-1 NO
+82391 Kyle Martinez Turkey 64 SARS-1 YES 08-10-2009
+81790 David Lewis Turkey 57 SARS-COV-2 NO
+74046 Mary Logan Turkey 48 COVID-2019 NO
+67155 Gary Stanton Turkey 10 MERS-COV NO
+99570 Andrew Carter Turkey 12 MERS-COV NO
+64316 Aaron Gonzalez Turkey 37 FLU-2018 YES 08-05-2008
+84647 Amber Lee Turkey 60 H1N1 NO
+21244 Laura Martinez Turkey 14 EVD YES 07-10-2011
+98232 Jennifer Sanders Turkey 39 SARS-COV-2 YES 26-04-2018
+26799 David Rangel Turkey 35 EVD YES 06-02-2012
+33306 Shane Rios Turkey 11 SARS-1 YES 03-05-2009
+66107 Carlos Edwards Turkey 54 COVID-2019 NO
+54599 Steven Carpenter Turkey 27 EVD NO
+34839 Emily Dixon Turkey 67 FLU-2018 NO
+79287 Janet Thomas Turkey 23 FLU-2018 NO
+47125 Jerry Stevens Turkey 17 MERS-COV NO
+11870 Ebony Dawson Turkey 28 MERS-COV NO
+34411 Lisa Nichols Turkey 26 H1N1 YES 14-07-2003
+96897 Michelle Johnson Turkey 17 FLU-2018 NO
+5999 Gina Gomez Turkey 73 FLU-2018 YES 05-01-2020
+47965 Kelli Phillips Turkey 36 EVD YES 25-08-2012
+95301 Bridget Heath Turkey 51 MERS-COV YES 23-08-2011
+988 Nathan Sims Turkey 29 COVID-2019 NO
+31244 Carmen Kaiser Turkey 33 EVD NO
+48127 Kelly Potts Turkey 45 SARS-COV-2 NO
+25790 Jessica Davis Turkey 21 MERS-COV NO
+48846 Gabriella Rivera Turkey 67 SARS-COV-2 YES 26-08-2014
+20301 Wendy Kelly Turkey 43 EVD YES 18-05-2004
+83575 Debra Bailey Turkey 65 EVD YES 07-11-2017
+57298 Daniel Brown Turkey 60 EVD YES 24-03-2014
+2529 Matthew Schaefer Turkey 39 COVID-2019 YES 27-07-2007
+42743 Stephanie Cox Turkey 15 H1N1 YES 09-06-2001
+18875 William Patrick Turkey 46 COVID-2019 NO
+35530 Donna Vincent Turkey 22 MERS-COV NO
+92243 Angela Baxter Turkey 79 COVID-2019 NO
+18180 Jeremy Murray Turkey 21 COVID-2019 NO
+35058 Chelsea Maddox Turkey 57 FLU-2018 NO
+35436 Sara Horn Turkey 67 SARS-COV-2 NO
+98963 Sarah Barrett Turkey 37 SARS-COV-2 YES 06-01-2017
+30447 Kimberly Young Turkey 71 FLU-2018 YES 28-09-2000
+77916 Jennifer Ball Turkey 40 SARS-COV-2 YES 07-10-2017
+62992 Melissa Oconnor Turkey 71 H1N1 YES 14-02-2016
+52252 Luis Rodgers Turkey 70 SARS-1 NO
+18617 Brooke Porter Turkey 36 COVID-2019 YES 30-12-2001
+78802 Julia Woods Turkey 23 COVID-2019 YES 12-07-2003
+4271 Jeffery Peters Turkey 57 SARS-COV-2 YES 28-08-2001
+59764 Miranda Daniels Turkey 60 EVD YES 23-07-2007
+46728 Sierra Jefferson Turkey 29 EVD NO
+83940 Kelly Benitez Turkey 16 MERS-COV YES 04-08-2009
+20147 Michael Johnson Turkey 10 SARS-1 YES 14-11-2003
+67683 Jacqueline Thomas Turkey 70 EVD NO
+1872 Kathryn Davis Turkey 20 FLU-2018 NO
+97250 Donald Brown Turkey 38 MERS-COV YES 07-11-2007
+17180 Vincent Meyer Turkey 15 H1N1 NO
+19590 John Young Turkey 13 FLU-2018 YES 29-10-2010
+33243 Christine Nelson Turkey 49 SARS-1 NO
+5170 Alex Potter Turkey 38 SARS-COV-2 NO
+92526 Danny Patton Turkey 79 SARS-COV-2 YES 15-11-2003
+66903 Michael Coleman Turkey 66 FLU-2018 NO
+11769 Laura Hartman Turkey 62 COVID-2019 NO
+83046 Michael Acosta Turkey 24 SARS-COV-2 NO
+81630 Luke Allen Turkey 67 EVD NO
+20595 Brandon Sanford Turkey 77 SARS-1 NO
+72326 Joseph Cole Turkey 53 MERS-COV YES 09-09-2010
+68007 Charles Lawson Turkey 19 H1N1 NO
+12752 Steve Terry Turkey 60 FLU-2018 NO
+57568 Tracie Drake Turkey 13 FLU-2018 YES 03-12-2001
+83717 Christina Coleman Turkey 51 EVD NO
+75578 Phillip Johnson Turkey 31 MERS-COV NO
+81522 Jeffery Cline Turkey 75 MERS-COV YES 18-01-2005
+73459 Charles Jennings Turkey 49 MERS-COV NO
+73170 Richard Stout Turkey 15 EVD NO
+94300 Mary Shaw Turkey 62 SARS-1 NO
+47159 James Davis Turkey 66 SARS-COV-2 YES 14-02-2001
+82857 Janet Wong Turkey 66 H1N1 NO
+49632 Kenneth Wright Turkey 73 SARS-1 YES 01-03-2015
+86390 Johnny Short Turkey 13 SARS-COV-2 YES 17-08-2005
+14672 Jason Hart Turkey 37 SARS-1 YES 08-09-2011
+97616 Michael Marshall Turkey 17 H1N1 NO
+33258 Amber Macias Turkey 71 MERS-COV NO
+3088 Steven Green Turkey 16 COVID-2019 YES 21-03-2000
+44429 Dorothy Martin Turkey 36 COVID-2019 YES 05-08-2011
+3893 Sandra Ross Turkey 26 H1N1 YES 13-04-2016
+73960 Megan Graham Turkey 58 FLU-2018 NO
+79253 Kevin Shelton Turkey 12 COVID-2019 NO
+57724 David Johnson Turkey 64 SARS-COV-2 NO
+81004 Michael Sims Turkey 60 EVD YES 24-03-2002
+42659 Robert Schmidt Turkey 74 H1N1 YES 20-12-2019
+58105 Christina Sherman Turkey 76 COVID-2019 NO
+92705 Austin Lewis Turkey 34 EVD YES 09-07-2011
+90880 Todd Marshall Turkey 64 SARS-1 YES 02-10-2016
+8934 Nicole Washington Turkey 22 FLU-2018 YES 05-10-2007
+3215 Jessica Hernandez Turkey 13 MERS-COV NO
+86157 Douglas Mueller Turkey 58 COVID-2019 NO
+30618 Antonio Jackson Turkey 56 H1N1 NO
+44505 Darryl Neal Turkey 44 H1N1 NO
+66977 Christina Browning Turkey 49 COVID-2019 NO
+91890 Miranda Sanchez Turkey 77 SARS-COV-2 NO
+5603 Scott Barry Turkey 61 EVD YES 23-10-2016
+66319 Tara Duffy Turkey 48 FLU-2018 NO
+7974 Kimberly Mitchell Turkey 78 COVID-2019 NO
+62075 Kenneth Cannon Turkey 45 COVID-2019 NO
+18422 Michael Reyes Turkey 12 SARS-1 YES 13-01-2021
+13441 Gary Gilbert Turkey 71 FLU-2018 YES 20-05-2017
+9611 Miranda Wade Turkey 74 SARS-1 YES 12-07-2012
+33425 Antonio Turner Turkey 47 EVD NO
+314 Shawn Lee Turkey 16 SARS-COV-2 NO
+14447 Robin Bonilla Turkey 55 MERS-COV YES 19-08-2007
+36241 Michael Elliott Turkey 34 SARS-1 YES 07-07-2007
+3490 Matthew Brooks Turkey 25 SARS-1 YES 03-10-2019
+33092 Robert Hardy Turkey 52 MERS-COV YES 05-10-2015
+69000 Gina Moore Turkey 34 FLU-2018 NO
+41257 Amy Doyle Turkey 23 MERS-COV YES 08-01-2005
+99864 Trevor Huerta Turkey 30 H1N1 YES 29-05-2017
+4474 Tanya Glover Turkey 17 H1N1 YES 25-04-2003
+20184 Brian Gibson Turkey 24 SARS-COV-2 YES 22-10-2009
+28202 Hannah Parker Turkey 64 SARS-COV-2 NO
+17584 Kimberly Carpenter Turkey 73 FLU-2018 NO
+6595 Robin King Turkey 30 EVD NO
+65987 Michele Chen Turkey 30 MERS-COV YES 13-09-2017
+21814 Gabriel Mayo Turkey 60 EVD NO
+86286 Sarah Jackson Turkey 38 MERS-COV NO
+77158 Brandon Melton Turkey 28 COVID-2019 NO
+64266 Randy Wade Turkey 67 COVID-2019 YES 01-04-2003
+77233 Cynthia Wilson Turkey 36 FLU-2018 NO
+44759 Alexis Thomas Turkey 23 COVID-2019 YES 25-11-2010
+21272 Elizabeth King Turkey 18 COVID-2019 YES 26-09-2001
+2645 Renee Cruz Turkey 18 H1N1 YES 10-06-2004
+37284 Michael Schaefer Turkey 32 FLU-2018 YES 30-05-2010
+39519 Joyce Medina Turkey 11 MERS-COV YES 09-02-2012
+97455 Timothy Bender Turkey 11 SARS-COV-2 NO
+30020 Sheila Choi Turkey 65 H1N1 NO
+88802 Adam Day Turkey 43 SARS-COV-2 NO
+26928 Kimberly Beltran Turkey 36 MERS-COV NO
+11450 Carol Torres Turkey 26 COVID-2019 NO
+20683 Robert Thompson Turkey 60 SARS-1 NO
+6427 Philip Mills Turkey 13 H1N1 YES 25-07-2001
+23873 Leslie Campos Turkey 48 H1N1 NO
+72467 Kelsey Anderson Turkey 74 MERS-COV NO
+35383 Susan Parsons Turkey 26 FLU-2018 YES 13-08-2015
+6208 Jacob Maldonado Turkey 41 SARS-1 YES 17-11-2014
+18265 Kevin Collins Turkey 32 SARS-1 NO
+7531 Thomas Lopez Turkey 16 MERS-COV NO
+23042 Laura Perkins Turkey 76 SARS-1 NO
+6482 Kristi Stewart Turkey 57 EVD YES 06-08-2001
+44497 Andrea Flynn Turkey 25 COVID-2019 YES 17-04-2003
+78297 Tina Perez Turkey 26 FLU-2018 YES 18-04-2007
+35400 Jill Jordan Turkey 55 H1N1 YES 30-09-2009
+74506 Denise Hill Turkey 30 SARS-1 NO
+23857 Robin Martinez Turkey 12 MERS-COV NO
+73093 Philip Hampton Turkey 24 MERS-COV NO
+38374 Aaron Wilson Turkey 74 FLU-2018 NO
+26375 Adam Lara Turkey 18 MERS-COV NO
+30159 Annette Walton Turkey 77 H1N1 YES 16-10-2010
+48022 James Erickson Turkey 69 FLU-2018 NO
+91504 Cindy Adams Turkey 15 SARS-1 YES 13-03-2005
+53427 Carla Allen Turkey 64 FLU-2018 YES 11-11-2015
+20071 Brian James Turkey 42 H1N1 NO
+9736 Matthew Johnson Turkey 38 SARS-COV-2 NO
+16455 Thomas Hoffman Turkey 19 EVD NO
+98052 Matthew Green Turkey 40 FLU-2018 YES 07-06-2013
+72750 Alexandria Young Turkey 68 EVD NO
+84474 Evelyn Daniels Turkey 65 FLU-2018 YES 09-05-2019
+81939 Adriana Potter Turkey 13 FLU-2018 YES 24-11-2014
+83555 Mark Bennett Turkey 22 SARS-COV-2 NO
+959 Ryan Allison Turkey 26 SARS-1 YES 31-07-2001
+8840 Tamara Morrison Turkey 18 SARS-1 YES 28-07-2019
+83463 Rachel Smith Turkey 54 H1N1 NO
+38211 Gary Jenkins Turkey 69 EVD NO
+49857 Julie Herring Turkey 31 SARS-COV-2 NO
+68259 Deanna Everett Turkey 78 MERS-COV YES 23-10-2020
+48881 Maureen Leblanc Turkey 71 MERS-COV YES 20-09-2019
+88762 Dawn Hart Turkey 53 SARS-1 NO
+60590 Kurt Smith Turkey 26 FLU-2018 NO
+51870 Mary Evans Turkey 74 EVD NO
+27132 Lauren Turner Turkey 40 EVD NO
+36416 Valerie Richard Turkey 30 H1N1 NO
+97819 Michael Silva Turkey 11 FLU-2018 YES 27-09-2004
+49355 David Graham Turkey 26 EVD YES 22-05-2000
+56436 Marc Warren Turkey 71 MERS-COV YES 13-06-2016
+2430 Ricardo Vazquez Turkey 63 SARS-1 YES 30-03-2019
+14193 Rhonda Benson Turkey 68 COVID-2019 NO
+61659 Mark Smith Turkey 36 H1N1 YES 19-03-2005
+56109 Susan Williams Turkey 54 COVID-2019 NO
+6091 Frederick Pham Turkey 29 SARS-COV-2 YES 12-04-2003
+15876 Vanessa Silva Turkey 14 EVD NO
+67754 Harold Stevens Turkey 23 COVID-2019 NO
+97188 Caleb Peck Turkey 71 H1N1 NO
+14721 Sergio Frey Turkey 49 EVD YES 13-03-2016
+68289 Patricia Brown Turkey 59 SARS-1 NO
+17546 Jesus Collier Turkey 21 EVD YES 07-12-2012
+54984 Heather Lawson Turkey 44 FLU-2018 NO
+21303 Brian Rodriguez Turkey 69 COVID-2019 YES 16-06-2016
+28318 Thomas Rogers Turkey 21 SARS-COV-2 YES 02-10-2004
+12125 James Smith Turkey 67 SARS-COV-2 NO
+31092 Jeremy Barrera Turkey 66 SARS-1 YES 14-12-2004
+82717 Jane Long Turkey 61 SARS-COV-2 NO
+84815 Mary Mathews Turkey 67 SARS-COV-2 NO
+31595 Samuel Parsons Turkey 78 FLU-2018 NO
+82985 Sarah Finley Turkey 59 MERS-COV YES 16-02-2012
+6205 Brooke Nelson Turkey 18 H1N1 NO
+90529 Robert Butler Turkey 43 COVID-2019 NO
+2154 Tom Lopez Turkey 68 FLU-2018 NO
+20429 Adam Miller Turkey 22 SARS-COV-2 NO
+96337 Kathryn Hall Turkey 78 COVID-2019 NO
+54294 Rebecca White Turkey 63 EVD NO
+44640 Nathan Price Turkey 79 COVID-2019 YES 12-03-2004
+67153 Angela Bartlett Turkey 28 H1N1 YES 25-06-2009
+98558 Laura Harris Turkey 35 SARS-1 YES 07-07-2003
+61606 Amy Hill Turkey 48 SARS-1 YES 15-02-2017
+18835 Christopher Gibbs Turkey 23 FLU-2018 YES 04-05-2008
+62978 Antonio Flowers Turkey 68 MERS-COV NO
+12445 Meghan Vasquez Turkey 16 SARS-1 YES 25-09-2006
+75148 Jimmy Harris Turkey 36 MERS-COV YES 14-02-2004
+55307 Gina Sheppard Turkey 59 FLU-2018 NO
+45264 Angela Acevedo Turkey 38 COVID-2019 NO
+52134 Alexander Lynch Turkey 11 COVID-2019 NO
+13644 Michael Powell Turkey 13 FLU-2018 NO
+95266 Jason Johnson Turkey 72 SARS-1 NO
+48693 Tom Carter Turkey 52 MERS-COV NO
+62522 Brett Carter Turkey 54 FLU-2018 NO
+49728 Jacob Braun Turkey 78 SARS-1 YES 12-01-2007
+38117 Janice Peters Turkey 62 SARS-COV-2 YES 31-07-2002
+50409 Patrick Smith Turkey 63 SARS-1 YES 28-10-2009
+12807 Danielle Hernandez Turkey 63 H1N1 YES 06-07-2003
+4638 Katie Hicks Turkey 15 H1N1 YES 26-10-2004
+17602 Carlos Bray Turkey 64 MERS-COV NO
+92579 Stephen Rhodes Turkey 43 SARS-COV-2 NO
+7747 Deborah Decker Turkey 48 SARS-1 NO
+39899 Susan Garner Turkey 77 EVD YES 17-09-2007
+75684 Maria Owens Turkey 67 COVID-2019 NO
+75917 Emily Daniels Turkey 71 H1N1 YES 27-01-2017
+28006 Tracy Stein Turkey 75 FLU-2018 YES 30-12-2017
+64073 Melissa Pierce Turkey 51 H1N1 NO
+7648 April Jennings Turkey 14 MERS-COV NO
+75316 Julie Martinez Turkey 77 MERS-COV NO
+77175 Elizabeth Anderson Turkey 71 COVID-2019 YES 30-08-2019
+3637 Susan Campbell Turkey 18 MERS-COV NO
+20671 Joseph Wilson Turkey 10 FLU-2018 NO
+8090 Sara Lamb Turkey 28 MERS-COV NO
+85270 Jesse Gordon Turkey 21 EVD NO
+43223 Teresa Lin Turkey 25 EVD NO
+92087 Eric Owens Turkey 76 FLU-2018 YES 30-07-2010
+46612 Amy George Turkey 62 MERS-COV NO
+91861 Benjamin Stout Turkey 65 SARS-COV-2 YES 19-11-2000
+44500 Michael Hale Turkey 42 MERS-COV NO
+99427 Rebecca Campos Turkey 19 MERS-COV YES 11-06-2010
+79794 Sheila Doyle Turkey 55 SARS-1 NO
+66631 Kurt Sanders Turkey 12 MERS-COV NO
+45628 Andrew Hamilton Turkey 77 SARS-1 NO
+83212 Lauren Nash Turkey 29 H1N1 YES 12-01-2007
+92885 Elizabeth Wood Turkey 48 EVD NO
+54316 Alicia Hurley Turkey 63 COVID-2019 NO
+1372 Joel Alvarez Turkey 64 SARS-COV-2 NO
+73249 Diane Cruz Turkey 33 H1N1 YES 09-11-2014
+12684 Caitlyn Knight Turkey 38 COVID-2019 NO
+44593 Thomas Bond Turkey 38 H1N1 YES 07-10-2003
+43396 Christine Ellis Turkey 11 H1N1 NO
+50755 Chelsea Stewart Turkey 11 MERS-COV NO
+82921 Kelly Nguyen Turkey 74 MERS-COV YES 20-08-2014
+24902 Jennifer Perry Turkey 57 MERS-COV YES 13-01-2002
+11274 Eric Johnson Turkey 70 MERS-COV YES 22-03-2002
+21444 Megan Mueller Turkey 41 MERS-COV YES 01-11-2011
+74803 Sheri Williamson Turkey 37 SARS-COV-2 NO
+67808 Jordan Davis Turkey 41 FLU-2018 NO
+21783 Casey Diaz Turkey 46 EVD YES 09-02-2001
+43238 Phyllis Wise Turkey 23 FLU-2018 NO
+75742 Margaret Thompson Turkey 52 SARS-COV-2 NO
+21615 David Reed Turkey 13 EVD YES 03-08-2002
+79894 Victor Salas Turkey 21 MERS-COV YES 30-07-2018
+11838 Tara Rangel Turkey 69 COVID-2019 YES 17-06-2002
+98322 Ryan Martinez Turkey 42 H1N1 NO
+83607 Timothy Wood Turkey 58 SARS-1 NO
+96336 Marcus Reese Turkey 58 FLU-2018 YES 22-02-2008
+98354 April Logan Turkey 43 MERS-COV YES 27-02-2010
+55840 James King Turkey 32 SARS-COV-2 YES 16-11-2012
+67932 Natalie Ryan Turkey 56 H1N1 YES 06-04-2002
+65058 Sheila Kelly Turkey 44 SARS-1 YES 10-02-2004
+654 Danielle Cameron Turkey 34 MERS-COV NO
+38623 Daniel Kelley Turkey 38 FLU-2018 NO
+93286 Alyssa Houston Turkey 16 EVD NO
+67566 George Blake Turkey 63 FLU-2018 YES 19-08-2007
+66599 Seth Boone Turkey 40 SARS-COV-2 YES 03-05-2000
+30260 Justin Weaver Turkey 25 EVD YES 23-03-2018
+44237 Robert Hart Turkey 43 EVD NO
+79581 Robin Richards Turkey 52 MERS-COV NO
+45856 Cody Evans Turkey 66 H1N1 NO
+37626 Sarah Brown Turkey 61 SARS-COV-2 NO
+54078 Ashley Jones Turkey 47 SARS-1 NO
+82191 Allison Golden Turkey 75 MERS-COV NO
+89813 Miranda Smith Turkey 15 SARS-COV-2 NO
+62989 Kristin Mcbride Turkey 33 COVID-2019 NO
+79819 Christina Cardenas Turkey 20 SARS-1 NO
+81717 Juan Green Turkey 33 COVID-2019 YES 26-12-2002
+10328 Amber Weber Turkey 49 H1N1 NO
+40060 Andrew White Turkey 68 SARS-1 NO
+99497 Daniel Tran Turkey 76 EVD YES 29-10-2001
+40402 Michael Hanna Turkey 17 COVID-2019 YES 02-07-2013
+21858 Kimberly Smith Turkey 43 MERS-COV NO
+34236 Angela Mclaughlin Turkey 26 EVD NO
+85161 Laura Garcia Turkey 35 FLU-2018 YES 15-01-2004
+41817 Michael Ellis Turkey 45 COVID-2019 NO
+35712 Nicholas Guerra Turkey 55 MERS-COV NO
+69810 Jennifer Martin Turkey 42 EVD NO
+29465 Rose Campos Turkey 63 MERS-COV NO
+27586 Olivia Dickson Turkey 74 SARS-COV-2 YES 27-05-2019
+65571 Douglas Hobbs Turkey 53 SARS-COV-2 YES 19-08-2005
+29362 Amy Mata Turkey 58 SARS-1 NO
+45047 Rachel Adams Turkey 66 H1N1 YES 07-12-2006
+50816 Aaron Livingston Turkey 19 SARS-COV-2 NO
+89246 Jeffery Lam Turkey 76 EVD NO
+51538 Kathy Morales Turkey 49 MERS-COV YES 26-04-2001
+73239 Debbie Roberts Turkey 62 FLU-2018 NO
+81911 Kristy Bailey Turkey 15 COVID-2019 YES 18-02-2018
+1502 Michele Ray Turkey 19 MERS-COV NO
+92192 Dennis Benson Turkey 60 MERS-COV YES 29-05-2018
+38121 Eric Patterson Turkey 56 SARS-1 YES 29-02-2004
+45553 Dylan Li Turkey 56 H1N1 YES 08-07-2004
+34932 Antonio Rios Turkey 57 SARS-COV-2 NO
+93984 Scott Thompson Turkey 35 SARS-1 YES 02-02-2018
+32158 Troy Hopkins Turkey 47 SARS-COV-2 NO
+34939 Elizabeth Thomas Turkey 29 MERS-COV NO
+96533 Joseph Wilson Turkey 46 EVD YES 15-06-2013
+76504 Taylor Montgomery Turkey 64 H1N1 NO
+19375 Sarah Nielsen Turkey 29 EVD YES 04-07-2018
+18390 Kristine Escobar Turkey 58 H1N1 YES 21-10-2001
+21974 Amanda Walters Turkey 24 SARS-1 NO
+45455 Jessica Johnson Turkey 19 MERS-COV NO
+65776 Elizabeth Williams Turkey 11 H1N1 NO
+87267 Christopher Schneider Turkey 65 H1N1 NO
+89046 Melody Craig Turkey 46 SARS-1 NO
+39852 Christine Cobb Turkey 29 EVD YES 18-01-2015
+74487 Nathan Patterson Turkey 70 COVID-2019 YES 10-06-2008
+2244 Tanya Kim Turkey 76 FLU-2018 NO
+50309 Dana Harris Turkey 47 COVID-2019 NO
+9838 Allison Baker Turkey 78 H1N1 NO
+66103 Teresa Lee Turkey 58 EVD NO
+53913 Kevin Ramirez Turkey 53 SARS-COV-2 NO
+80931 William Robles Turkey 46 MERS-COV YES 17-03-2019
+9986 William Myers Turkey 39 FLU-2018 NO
+284 Lisa Pope Turkey 74 SARS-COV-2 YES 21-11-2003
+3270 Molly Miller Turkey 19 SARS-1 NO
+76888 Bethany Duarte Turkey 18 SARS-COV-2 YES 19-01-2001
+24823 Brooke Howard Turkey 29 MERS-COV NO
+61109 James Doyle Turkey 74 EVD YES 20-09-2011
+55510 Bruce Baker Turkey 68 SARS-1 NO
+37574 Meghan Douglas Turkey 49 FLU-2018 NO
+97551 Andres Nelson Turkey 58 SARS-COV-2 YES 24-09-2017
+24956 Craig Miller Turkey 79 COVID-2019 NO
+10676 Gregory Gomez Turkey 16 COVID-2019 NO
+30412 William Sanchez Turkey 71 MERS-COV YES 15-05-2009
+86909 Matthew Joyce Turkey 31 MERS-COV YES 10-03-2004
+73572 Steven Baldwin Turkey 31 MERS-COV NO
+41918 Sandra Day Turkey 70 COVID-2019 YES 26-11-2014
+56267 Kathleen Pratt Turkey 50 SARS-1 YES 28-08-2009
+53675 Joseph Charles Turkey 64 MERS-COV NO
+59413 Jeffery Stewart Turkey 29 COVID-2019 NO
+2226 David Lambert Turkey 46 COVID-2019 NO
+74695 Martin Garcia Turkey 18 FLU-2018 NO
+80336 Kimberly Juarez Turkey 36 SARS-1 NO
+5244 Michael Patel Turkey 77 FLU-2018 NO
+6288 Jeffrey Farmer Turkey 39 MERS-COV NO
+38805 John Chapman Turkey 23 EVD NO
+45958 Sharon Gonzalez Turkey 43 MERS-COV NO
+40987 Stephanie Wood Turkey 67 EVD YES 20-05-2018
+89451 Michelle Ramirez Turkey 29 EVD NO
+4782 Lori Moore Turkey 44 H1N1 YES 28-01-2019
+29661 David Malone Turkey 16 COVID-2019 YES 22-01-2003
+86949 Christine Jackson Turkey 29 EVD NO
+86155 Theresa Jimenez Turkey 17 COVID-2019 YES 13-04-2016
+40098 Judy Roach Turkey 61 FLU-2018 YES 07-04-2015
+5602 Sheryl Taylor Turkey 54 MERS-COV YES 28-07-2002
+48489 Sheila Meyer Turkey 25 SARS-COV-2 NO
+26379 David Wilson Turkey 43 MERS-COV YES 28-10-2019
+60749 David Cruz Turkey 25 FLU-2018 YES 13-03-2016
+11397 Gina Hanson Turkey 25 H1N1 NO
+18712 Antonio Gross Turkey 60 COVID-2019 NO
+72254 Brandon Reed Turkey 28 SARS-COV-2 NO
+21263 Brian Cuevas Turkey 37 EVD YES 06-06-2014
+75708 Troy Dunn Turkey 61 MERS-COV NO
+99486 Samuel Lewis Turkey 25 COVID-2019 YES 26-02-2001
+20234 Sara Garcia Turkey 21 SARS-COV-2 YES 03-04-2015
+99519 Donald Gutierrez Turkey 21 EVD NO
+12121 Holly Nolan Turkey 21 EVD NO
+68288 Paul Christensen Turkey 77 COVID-2019 YES 01-06-2015
+77117 Susan Lewis Turkey 19 SARS-COV-2 NO
+6081 David West Turkey 59 EVD NO
+4552 Joseph Smith Turkey 34 COVID-2019 NO
+21005 Rachel Smith Turkey 75 EVD YES 26-11-2014
+17772 Whitney Henson Turkey 55 H1N1 YES 21-02-2004
+62771 James Knox Turkey 62 SARS-COV-2 YES 30-10-2012
+18620 Shawn Thompson Turkey 42 SARS-1 YES 29-01-2006
+63260 Paul Davila Turkey 65 COVID-2019 YES 20-04-2008
+6929 Stephanie Fleming Turkey 54 EVD YES 27-12-2000
+44997 Cynthia Peters Turkey 51 H1N1 YES 21-05-2012
+54373 Jessica Johnson Turkey 15 COVID-2019 YES 23-01-2011
+67879 John Rivera Turkey 50 H1N1 YES 17-11-2004
+71536 Kristen Graves Turkey 13 SARS-1 YES 21-12-2012
+22341 Joseph Buckley Turkey 17 FLU-2018 YES 21-04-2017
+16185 Erica Leon Turkey 50 MERS-COV YES 06-04-2007
+15063 Emily Miller Turkey 35 COVID-2019 NO
+46386 Melissa Holden Turkey 61 SARS-1 NO
+84107 Shawn Stephens Turkey 64 COVID-2019 YES 11-12-2019
+23600 Stephanie Hernandez Turkey 56 SARS-COV-2 NO
+8027 Amanda Kirk Turkey 75 SARS-COV-2 NO
+84177 Matthew Vance Turkey 12 SARS-COV-2 YES 19-01-2019
+99939 Chelsea Mcguire Turkey 68 SARS-1 YES 12-09-2013
+52447 Richard Sanders Turkey 45 FLU-2018 NO
+13479 Jennifer Nguyen Turkey 33 SARS-COV-2 YES 20-01-2004
+77309 Jason Gilbert Turkey 24 FLU-2018 YES 14-04-2013
+33029 Kristina Price Turkey 71 EVD NO
+75100 Megan Ochoa Turkey 17 SARS-1 NO
+26845 Douglas Rowe Turkey 58 SARS-COV-2 YES 01-11-2008
+9215 Bethany Smith Turkey 70 EVD NO
+30273 Kelsey Johnson Turkey 31 COVID-2019 NO
+545 Kevin Kim Turkey 46 SARS-1 NO
+46298 Stephanie Reyes Turkey 57 EVD YES 25-04-2000
+99073 Michelle Morris Turkey 55 EVD NO
+83665 Doris Brown Turkey 64 COVID-2019 YES 07-12-2007
+399 Christian Barker Turkey 77 FLU-2018 NO
+14230 Michael Walker Turkey 68 EVD YES 01-04-2004
+67992 Charles Mason Turkey 71 COVID-2019 NO
+91088 Kaitlyn Andersen Turkey 33 MERS-COV NO
+42008 Jerry Barnes Turkey 22 H1N1 YES 03-07-2018
+83207 Jennifer Nguyen Turkey 18 MERS-COV NO
+26304 Katie Dunlap Turkey 43 EVD NO
+50393 Shannon Wilson Turkey 37 SARS-1 YES 12-05-2004
+14537 Amy Mitchell Turkey 51 SARS-COV-2 NO
+96923 Diane Chang Turkey 56 MERS-COV NO
+26761 Joshua Mathis Turkey 35 COVID-2019 YES 06-09-2005
+38193 Jackie Sparks Turkey 28 COVID-2019 NO
+99119 Joseph Spencer Turkey 10 EVD YES 03-08-2013
+98916 Kevin Porter Turkey 51 SARS-1 YES 13-11-2007
+12576 Joshua White Turkey 74 SARS-1 NO
+69495 Christopher Mitchell Turkey 16 FLU-2018 YES 13-07-2017
+28629 Carrie Wright Turkey 40 MERS-COV NO
+91122 Alexander Meyer Turkey 78 FLU-2018 NO
+59192 David Pittman Turkey 34 H1N1 YES 13-01-2008
+36555 Stephen Lozano Turkey 76 MERS-COV NO
+8412 Tyler Hodges Turkey 27 H1N1 NO
+9867 William Smith Turkey 53 SARS-1 YES 11-03-2021
+94671 Lisa Barton Turkey 50 FLU-2018 NO
+60136 James Johnston Turkey 46 EVD YES 31-03-2014
+6992 Alexis Walker Turkey 73 EVD YES 31-12-2001
+9199 Kristine Smith Turkey 35 MERS-COV YES 17-08-2004
+71642 Kristina Mitchell Turkey 53 SARS-COV-2 YES 26-08-2019
+46181 Charles Barnes Turkey 12 SARS-1 YES 06-04-2010
+11584 Lisa Williams Turkey 37 MERS-COV NO
+76283 Andrew Marquez Turkey 65 SARS-COV-2 YES 02-11-2015
+98729 Kimberly Francis Turkey 69 SARS-1 NO
+43924 Mary Perry Turkey 63 H1N1 YES 30-04-2014
+91097 Francisco Boyd Turkey 74 SARS-1 YES 14-04-2007
+76632 Kelly Lang Turkey 34 COVID-2019 YES 15-12-2017
+78980 Carolyn Wilson Turkey 14 EVD NO
+47541 Amanda Bell Turkey 64 EVD NO
+24786 Ann Ingram Turkey 59 H1N1 YES 10-03-2012
+77009 Kimberly Bean Turkey 60 COVID-2019 NO
+81456 Jeff Griffith Turkey 21 SARS-1 NO
+29433 Jenny Dyer Turkey 23 COVID-2019 NO
+97496 Jimmy Dyer Turkey 69 SARS-COV-2 YES 09-04-2011
+38391 David Barton Turkey 62 H1N1 YES 20-05-2001
+14188 Jennifer Young Turkey 76 EVD NO
+64866 Jose Salinas Turkey 42 H1N1 NO
+35655 Adam Schneider Turkey 24 SARS-COV-2 YES 18-12-2005
+47863 Marvin Cooper Turkey 41 SARS-1 NO
+21134 Dana Jenkins Turkey 41 COVID-2019 YES 12-06-2007
+38533 Rebecca Thomas Turkey 17 MERS-COV YES 04-04-2015
+37018 Cynthia Long Turkey 48 FLU-2018 YES 20-06-2020
+60184 Elizabeth Lee Turkey 54 MERS-COV YES 01-12-2018
+80437 Karen Waller Turkey 44 FLU-2018 NO
+66547 Allison Smith Turkey 23 H1N1 YES 18-03-2003
+59030 Maria Fox Turkey 32 COVID-2019 YES 16-10-2018
+71416 Susan Butler Turkey 72 EVD NO
+59467 Tina Kim Turkey 61 EVD NO
+74731 Sherri Daniels Turkey 28 SARS-COV-2 NO
+59288 Scott Oconnor Turkey 23 COVID-2019 YES 17-08-2000
+34052 Kimberly Thompson Turkey 61 FLU-2018 YES 02-05-2020
+73334 Jaclyn Olson Turkey 15 SARS-1 YES 04-10-2014
+75403 Lindsey Hancock Turkey 59 H1N1 NO
+37108 Kelly Morris Turkey 11 H1N1 YES 30-10-2015
+15536 Colleen Wood Turkey 71 H1N1 YES 13-07-2001
+5852 Shawn White Turkey 51 H1N1 NO
+88388 Jennifer Smith Turkey 53 H1N1 YES 10-02-2011
+58112 Jessica Davis Turkey 33 MERS-COV YES 24-08-2012
+74568 Bryan Bartlett Turkey 26 SARS-COV-2 YES 05-08-2012
+53264 Matthew Wolf Turkey 77 EVD NO
+96396 Joanna Livingston Turkey 76 EVD NO
+23810 Zachary Pena Turkey 29 SARS-1 NO
+25005 George Saunders Turkey 71 SARS-1 YES 10-03-2009
+50777 Dylan Delacruz Turkey 25 COVID-2019 YES 24-06-2020
+52157 Lee Bennett Turkey 39 FLU-2018 YES 20-06-2003
+63701 Samantha Walker Turkey 49 MERS-COV NO
+5038 Teresa Lowery Turkey 45 COVID-2019 YES 30-10-2005
+4233 Cesar Boyd Turkey 12 EVD YES 09-01-2008
+76138 Kyle Tran Turkey 69 MERS-COV NO
+13809 Tonya Molina Turkey 76 MERS-COV YES 10-01-2012
+6576 Claire Davis Turkey 52 SARS-COV-2 YES 10-05-2004
+35974 Daniel Fuentes Turkey 57 FLU-2018 NO
+51397 Justin Webster Turkey 43 MERS-COV NO
+62587 Jill Baker Turkey 31 SARS-1 NO
+23435 Terri Ross Turkey 31 H1N1 YES 16-10-2020
+52281 Jose Gregory Turkey 58 EVD YES 10-05-2010
+66796 Dawn Smith Turkey 73 SARS-COV-2 YES 01-01-2015
+92561 William Paul Turkey 71 H1N1 YES 13-06-2003
+29060 Nicholas Vargas Turkey 43 EVD NO
+86543 David Fisher Turkey 78 H1N1 NO
+75389 Erica Howard Turkey 24 H1N1 YES 13-04-2000
+11055 Ashley Harrison Turkey 55 FLU-2018 YES 01-11-2004
+53882 Michael Barton Turkey 71 SARS-1 NO
+87769 Taylor Greene Turkey 29 FLU-2018 YES 22-03-2003
+98023 Elizabeth Baker Turkey 40 EVD YES 08-05-2014
+71219 Larry Hanson Turkey 36 SARS-COV-2 NO
+49502 Brandy Wood Turkey 36 FLU-2018 YES 24-02-2013
+59594 Amy Wagner Turkey 24 SARS-COV-2 NO
+1451 Carolyn Baker Turkey 14 SARS-1 YES 09-02-2005
+18051 Cody Chandler Turkey 38 EVD NO
+10254 Randy Price Turkey 32 SARS-1 NO
+66771 Ray Garner Turkey 60 MERS-COV YES 25-08-2018
+43508 Sarah Nelson Turkey 76 COVID-2019 NO
+90555 Karen Keller Turkey 20 SARS-1 NO
+8020 April Mcknight Turkey 72 EVD NO
+27651 Kimberly Kramer Turkey 14 MERS-COV YES 16-07-2015
+98700 Lauren Stewart Turkey 21 H1N1 YES 14-11-2019
+85267 Mary Fisher Turkey 56 SARS-COV-2 YES 05-11-2015
+65072 Robert Burgess Turkey 12 FLU-2018 YES 26-08-2007
+54353 Richard Deleon Turkey 46 FLU-2018 YES 04-08-2017
+58564 Tiffany Curry Turkey 23 SARS-1 NO
+62791 Laura Saunders Turkey 71 H1N1 YES 14-02-2019
+44881 Jennifer Wright Turkey 30 MERS-COV NO
+7377 Nicholas Ortiz Turkey 12 SARS-COV-2 YES 23-11-2015
+64431 Andrea Gutierrez Turkey 60 FLU-2018 YES 19-07-2000
+24227 Amanda Keith Turkey 14 EVD YES 03-09-2016
+19803 Vickie Goodman Turkey 53 MERS-COV NO
+35582 Steven Cordova Turkey 60 EVD YES 29-03-2017
+15724 Lisa Wheeler Turkey 64 EVD YES 22-08-2018
+96208 Erin Torres Turkey 37 COVID-2019 NO
+16886 Katie Rodriguez Turkey 76 EVD YES 06-08-2013
+1447 Jeffrey Wilson Turkey 50 EVD NO
+49518 Emily Spencer Turkey 31 FLU-2018 NO
+74935 David Hall Turkey 15 SARS-1 NO
+88601 Vernon Diaz Turkey 57 COVID-2019 NO
+29576 Alisha Bonilla Turkey 70 MERS-COV NO
+6415 Brian Miles Turkey 17 H1N1 YES 24-05-2019
+12512 Scott Edwards Turkey 79 SARS-COV-2 YES 20-10-2003
+31218 Amy Rowe Turkey 41 SARS-1 NO
+31355 Sonia Hall Turkey 25 SARS-1 YES 06-07-2002
+93216 Jaime Johnson Turkey 49 FLU-2018 NO
+45611 Matthew Baker Turkey 75 H1N1 YES 03-11-2000
+27937 Nathan Duffy Turkey 74 EVD YES 07-11-2001
+2463 Jeremy Phelps Turkey 23 SARS-COV-2 YES 26-12-2011
+69003 Roy Sims Turkey 17 SARS-COV-2 NO
+76300 Kristina Chandler Turkey 37 SARS-1 YES 08-07-2013
+3363 Michael Evans Turkey 35 COVID-2019 NO
+57360 Matthew Cole Turkey 41 H1N1 NO
+15242 Leslie Martin Turkey 12 MERS-COV NO
+49656 Cathy Lewis Turkey 53 H1N1 NO
+18445 Richard Glass Turkey 53 EVD YES 24-07-2017
+22556 Carrie Aguilar Turkey 31 H1N1 NO
+99223 Robert Andrews Turkey 40 EVD YES 23-02-2003
+47810 Dana Lopez Turkey 68 MERS-COV NO
+34905 Tina Smith Turkey 71 SARS-1 NO
+36178 Tyler Montgomery Turkey 38 EVD YES 13-04-2005
+89226 Juan Cunningham Turkey 76 MERS-COV NO
+77732 Peter Luna Turkey 77 SARS-1 NO
+2874 Robert Haynes Turkey 57 H1N1 NO
+7162 Jonathon Silva Turkey 39 H1N1 YES 27-12-2009
+360 Victoria Bernard Turkey 40 COVID-2019 NO
+9905 Jennifer Pierce Turkey 67 EVD NO
+51459 Derek Ward Turkey 76 EVD NO
+63441 Julie Jones Turkey 25 SARS-COV-2 YES 23-11-2016
+99109 Nicholas Parks Turkey 52 SARS-1 NO
+33891 Anthony Gray Turkey 74 SARS-COV-2 YES 27-07-2005
+24293 Joyce Cox Turkey 60 MERS-COV NO
+99041 Andrea Hunter Turkey 40 SARS-1 YES 28-12-2011
+62055 Paula Hammond Turkey 19 MERS-COV YES 21-02-2003
+24845 Robert Gardner Turkey 58 SARS-COV-2 YES 25-07-2008
+90649 Carmen Dunn Turkey 40 MERS-COV NO
+3795 Fred Young Turkey 64 COVID-2019 YES 25-07-2008
+15651 Jennifer Kennedy Turkey 76 SARS-1 YES 29-07-2010
+5870 John Mata Turkey 62 SARS-COV-2 NO
+83646 Tracey Wells Turkey 66 H1N1 YES 03-11-2010
+69391 Vanessa Good Turkey 69 EVD YES 08-03-2007
+51149 Kyle Morales Turkey 15 H1N1 NO
+30782 Gavin Fletcher Turkey 17 FLU-2018 NO
+44180 Ashley Bennett Turkey 64 SARS-COV-2 NO
+44904 Evan Jones Turkey 49 COVID-2019 YES 10-06-2014
+43108 Nathan Young Turkey 15 SARS-COV-2 YES 02-09-2008
+62028 Katie Hoffman Turkey 46 FLU-2018 NO
+80461 Robert Campbell Turkey 24 COVID-2019 NO
+95372 Robert Greene Turkey 22 MERS-COV NO
+63906 Charles Russell Turkey 56 MERS-COV NO
+46838 Todd Walters Turkey 68 H1N1 NO
+40955 Richard Brady Turkey 71 H1N1 YES 10-10-2002
+5468 Justin Diaz Turkey 77 MERS-COV YES 13-04-2015
+5416 Kristin Roy Turkey 20 SARS-COV-2 NO
+42444 Anthony Collier Turkey 68 MERS-COV YES 09-07-2009
+79017 Brenda Johnson Turkey 40 COVID-2019 NO
+15368 Ray Huerta Turkey 53 H1N1 NO
+8866 Lauren Lewis Turkey 64 EVD NO
+48494 Shawn Lloyd Turkey 30 H1N1 NO
+19344 Diane Stafford Turkey 35 COVID-2019 NO
+40042 Ronald Murray Turkey 18 H1N1 YES 18-04-2008
+11422 Jason Arnold Turkey 14 SARS-COV-2 NO
+16241 Andrew Callahan Turkey 39 COVID-2019 YES 31-05-2014
+95528 Ronnie Miller Turkey 18 SARS-1 YES 05-02-2012
+17944 Robert Walsh Turkey 53 SARS-1 NO
+47216 John Harris Turkey 75 EVD YES 09-04-2009
+82556 Anthony Holt Turkey 43 FLU-2018 YES 31-08-2015
+69449 Christina Vaughan Turkey 49 SARS-COV-2 YES 15-05-2001
+13332 Deborah Robbins Turkey 11 MERS-COV YES 28-06-2012
+60880 Sheila Smith Turkey 66 MERS-COV NO
+12146 Tanner Wilson Turkey 44 EVD NO
+72785 Samantha Bowen Turkey 22 FLU-2018 YES 17-07-2015
+93500 Brittany Cowan Turkey 55 FLU-2018 NO
+27257 Alexis Morales Turkey 24 SARS-COV-2 NO
+36913 Thomas Savage Turkey 59 EVD NO
+67600 Laura Hayes Turkey 12 SARS-COV-2 NO
+18748 Jamie Preston Turkey 56 H1N1 NO
+74590 Jeff Rodgers Turkey 46 FLU-2018 NO
+11140 Michael Bentley Turkey 19 FLU-2018 NO
+41710 Joshua Matthews Turkey 16 FLU-2018 YES 18-05-2017
+86820 Carrie Winters Turkey 29 H1N1 NO
+35444 Thomas Evans Turkey 76 H1N1 YES 09-01-2010
+34965 Theresa Murphy Turkey 43 EVD YES 11-01-2020
+73490 Michelle Collins Turkey 33 SARS-1 NO
+15955 Jay Contreras Turkey 26 H1N1 NO
+37769 Carlos Collins Turkey 64 EVD NO
+82122 Mary Williams Turkey 35 SARS-1 YES 19-06-2020
+66528 Rebecca Foster Turkey 46 FLU-2018 YES 07-02-2013
+15402 Aaron Morrow Turkey 13 SARS-1 NO
+29483 Albert Nunez Turkey 20 FLU-2018 NO
+87008 Megan Howard Turkey 62 MERS-COV YES 28-12-2012
+63651 Drew Ferguson Turkey 75 H1N1 NO
+30035 Diane Gilbert Turkey 78 H1N1 NO
+60974 Elizabeth Mckay Turkey 35 COVID-2019 YES 18-11-2014
+98906 Nicole Rodriguez Turkey 68 H1N1 NO
+84347 Timothy Sweeney Turkey 22 MERS-COV NO
+41798 Elizabeth Stevenson Turkey 79 SARS-COV-2 NO
+76296 David Hamilton Turkey 45 EVD YES 20-12-2014
+87382 Katherine Goodwin Turkey 10 SARS-1 YES 18-04-2000
+9358 Lee Taylor Turkey 62 SARS-1 YES 23-11-2005
+36793 Kristen Adams Turkey 64 COVID-2019 YES 01-08-2005
+14801 Hannah Riley Turkey 75 H1N1 NO
+67424 Adam Sutton Turkey 68 SARS-COV-2 YES 15-07-2015
+95547 Tracy Hill Turkey 36 SARS-COV-2 NO
+7713 Carol Garcia Turkey 40 MERS-COV NO
+71021 Stephanie Thomas Turkey 54 MERS-COV NO
+16155 Sarah Hamilton Turkey 21 SARS-1 NO
+12528 Mary Palmer Turkey 17 COVID-2019 NO
+38635 Benjamin Hernandez Turkey 75 SARS-1 YES 18-08-2017
+26170 Jeffrey Sharp Turkey 74 COVID-2019 NO
+9844 Lauren Wong Turkey 29 SARS-1 NO
+75992 Robert Williams Turkey 18 SARS-COV-2 YES 27-08-2018
+65479 Micheal Middleton Turkey 41 H1N1 NO
+97702 Christopher Nelson Turkey 69 EVD YES 25-04-2001
+34373 Anthony Walker Turkey 36 COVID-2019 NO
+40569 Shane Michael Turkey 11 H1N1 YES 02-03-2007
+12061 Heidi Thompson Turkey 24 H1N1 NO
+83384 Brett Garza Turkey 63 EVD YES 12-11-2005
+8224 Victor Gomez Turkey 37 EVD NO
+70252 Amanda Bradshaw Turkey 17 FLU-2018 YES 09-04-2010
+21477 John Arnold Turkey 35 FLU-2018 NO
+19423 Jonathan Knapp Turkey 16 H1N1 YES 24-02-2010
+98675 Andrew Garcia Turkey 44 SARS-COV-2 NO
+92420 Edwin Terry Turkey 21 EVD YES 11-04-2009
+24500 Susan Hebert Turkey 19 COVID-2019 YES 15-09-2013
+38559 Bridget Lewis Turkey 52 EVD YES 11-01-2016
+19832 Susan Wiley Turkey 70 SARS-COV-2 YES 25-02-2016
+33099 Andrea Murillo Turkey 44 MERS-COV NO
+26748 Joseph Hill Turkey 46 SARS-1 YES 31-05-2018
+747 Cassandra Barrett Turkey 43 EVD YES 17-11-2011
+20613 Chad Bailey Turkey 12 H1N1 YES 22-06-2011
+71573 Kathryn Miller Turkey 56 FLU-2018 NO
+1904 Casey Stout Turkey 53 MERS-COV NO
+77900 Andrea Wright Turkey 32 COVID-2019 YES 10-11-2017
+45631 Lance Cross Turkey 63 MERS-COV NO
+11975 John Singleton Turkey 55 H1N1 YES 12-11-2008
+15653 Christopher Freeman Turkey 17 EVD YES 28-03-2011
+92651 Richard Cook Turkey 37 COVID-2019 YES 26-11-2020
+22216 Stephen Nelson Turkey 31 SARS-COV-2 NO
+55714 Alan Goodwin Turkey 29 EVD NO
+44921 Luis Ross Turkey 27 SARS-1 NO
+38242 Raymond Simpson Turkey 53 SARS-COV-2 YES 16-03-2000
+75485 Ashley Lin Turkey 12 COVID-2019 NO
+28583 James Hickman Turkey 50 H1N1 YES 23-07-2020
+47167 Amy Green Turkey 50 EVD NO
+91626 George Mayo Turkey 14 SARS-1 NO
+3117 Brenda Page Turkey 24 H1N1 YES 05-06-2005
+10359 Laura Proctor Turkey 16 MERS-COV NO
+8580 Anthony English Turkey 39 H1N1 YES 23-09-2005
+71924 Julie Rodriguez Turkey 53 COVID-2019 YES 30-12-2020
+97513 Mary Hardin Turkey 23 H1N1 YES 21-05-2009
+76843 Wanda Walker Turkey 56 EVD NO
+91232 Scott Andrews Turkey 77 H1N1 NO
+82534 Richard Kidd Turkey 23 SARS-1 YES 25-06-2001
+88396 Timothy Mason Turkey 63 COVID-2019 NO
+59024 Michelle Young Turkey 27 EVD NO
+27951 Erin Floyd Turkey 32 SARS-1 YES 23-01-2007
+7433 Jennifer Jordan Turkey 76 MERS-COV NO
+17685 Anthony Horton Turkey 53 FLU-2018 NO
+51313 Mary Davenport Turkey 55 H1N1 NO
+34120 Taylor Patel Turkey 74 EVD YES 10-06-2005
+34813 Debbie Harris Turkey 53 MERS-COV YES 11-10-2008
+93370 Joel Cummings Turkey 54 EVD YES 15-10-2011
+98594 Alicia Brown Turkey 10 COVID-2019 NO
+89325 Stanley Nelson Turkey 76 H1N1 YES 20-04-2013
+52598 Susan Diaz Turkey 77 EVD YES 12-07-2012
+79085 Cesar King Turkey 53 H1N1 NO
+19110 Richard Newton Turkey 32 H1N1 NO
+52159 Derek Hicks Turkey 61 SARS-COV-2 NO
+98430 Jessica Maxwell Turkey 17 MERS-COV NO
+91959 Karen Hernandez Turkey 73 H1N1 NO
+47292 Alexandria Smith Turkey 67 MERS-COV YES 13-03-2017
+38423 Angela Bernard Turkey 71 SARS-COV-2 YES 07-05-2003
+24358 Lisa Simmons Turkey 74 EVD YES 19-07-2003
+24015 Denise Ewing Turkey 30 SARS-1 YES 07-11-2008
+35624 Dale Oliver Turkey 43 SARS-1 YES 14-09-2004
+38995 Anthony Atkins Turkey 24 SARS-1 YES 08-05-2004
+63233 Sara Smith Turkey 54 SARS-1 YES 16-07-2015
+2472 Jason Cole Turkey 76 MERS-COV NO
+46765 Alexandra Tyler Turkey 63 SARS-COV-2 NO
+60579 Michael Mills Turkey 11 MERS-COV YES 17-01-2009
+77592 Eric Hicks Turkey 62 EVD NO
+91169 Brian Clark Turkey 48 COVID-2019 NO
+12289 Rodney Lopez Turkey 42 H1N1 YES 18-03-2002
+99183 Anne Smith Turkey 34 COVID-2019 NO
+32430 Kristin Williams Turkey 69 MERS-COV YES 27-08-2007
+11587 Jonathan Chavez Turkey 36 FLU-2018 YES 13-05-2010
+39631 Daniel Lawrence Turkey 62 SARS-COV-2 YES 27-05-2004
+84942 Hannah Garcia Turkey 53 EVD YES 11-12-2004
+16381 Cynthia Martinez Turkey 49 SARS-COV-2 NO
+29063 Carol Benson Turkey 71 H1N1 YES 13-07-2001
+55085 Robert Allen Turkey 39 FLU-2018 NO
+44875 Ricardo Scott Turkey 71 SARS-1 YES 13-05-2001
+85166 Richard Copeland Turkey 27 SARS-1 NO
+68265 Melissa Collins Turkey 61 SARS-1 YES 10-05-2013
+86258 Colleen Chavez Turkey 70 H1N1 NO
+55358 Beth Frye Turkey 12 SARS-COV-2 YES 25-06-2016
+70439 Jessica Alvarado Turkey 66 H1N1 YES 29-04-2020
+93065 Loretta Hicks Turkey 52 SARS-1 NO
+67827 Alexandra Baird Turkey 22 FLU-2018 YES 03-08-2002
+84411 Christine Rivera Turkey 73 MERS-COV NO
+72928 Bobby Kirby Turkey 71 COVID-2019 NO
+42856 Christian Ballard Turkey 48 EVD YES 18-08-2002
+55100 Jason Sanchez Turkey 32 MERS-COV NO
+97246 Justin Mendez Turkey 60 H1N1 YES 06-04-2012
+25219 Steven Murphy Turkey 50 COVID-2019 YES 20-06-2005
+59122 Alison Smith Turkey 53 EVD YES 30-09-2011
+96413 Thomas Carter Turkey 73 FLU-2018 NO
+15468 Chad Brown Turkey 65 MERS-COV NO
+30385 Krystal Patrick Turkey 57 FLU-2018 YES 14-05-2005
+54513 Courtney Smith Turkey 70 MERS-COV YES 18-08-2006
+45135 William Scott Turkey 57 FLU-2018 NO
+64722 Jennifer Barker Turkey 73 SARS-COV-2 NO
+84848 Jonathan Brown Turkey 76 MERS-COV NO
+68222 Judy Lee Turkey 39 MERS-COV NO
+1375 Vanessa Garcia Turkey 15 SARS-COV-2 YES 30-06-2016
+92406 Tanya Franklin Turkey 64 SARS-1 YES 06-12-2015
+66772 Richard Barnett Turkey 38 COVID-2019 YES 24-02-2016
+27026 Jessica Thomas Turkey 58 FLU-2018 NO
+67623 Desiree Ferguson Turkey 22 SARS-COV-2 YES 05-12-2005
+44832 Michelle Solomon Turkey 75 SARS-COV-2 YES 25-09-2013
+94281 Russell Mcgrath Turkey 36 EVD YES 28-06-2007
+76642 Kristen Mills Turkey 12 FLU-2018 YES 15-12-2002
+19474 Linda Jones Turkey 14 FLU-2018 YES 16-08-2018
+31388 Amber Gentry Turkey 15 H1N1 NO
+54090 Kimberly Flowers Turkey 55 SARS-COV-2 YES 24-05-2000
+47041 Leah Davis Turkey 14 FLU-2018 YES 10-10-2016
+5822 Tracy Gardner Turkey 14 COVID-2019 NO
+62039 Joseph Sanchez Turkey 51 EVD NO
+23616 Bonnie Mckinney Turkey 59 MERS-COV YES 17-12-2000
+31679 Kyle Nelson Turkey 65 MERS-COV NO
+44895 Victor Montgomery Turkey 17 SARS-COV-2 YES 02-08-2014
+68667 Rachel Miller Turkey 59 FLU-2018 YES 26-05-2019
+22029 Patricia Fisher Turkey 73 H1N1 NO
+64317 Robert Johnson Turkey 70 FLU-2018 YES 17-09-2017
+16881 Patrick Mosley Turkey 40 SARS-COV-2 YES 19-10-2008
+50703 Robin Crawford Turkey 36 H1N1 YES 17-11-2013
+70271 Stacy Bush Turkey 73 H1N1 YES 18-06-2017
+66756 Brian Grant Turkey 76 COVID-2019 YES 21-10-2015
+52020 Sean Marquez Turkey 43 FLU-2018 NO
+40160 Nicole Mitchell Turkey 59 SARS-1 NO
+84376 Larry Anderson Turkey 32 SARS-COV-2 YES 17-06-2006
+7988 Melissa Ali Turkey 45 H1N1 NO
+66799 Elizabeth Long Turkey 38 EVD YES 13-05-2007
+62201 Erica Vasquez Turkey 43 H1N1 NO
+92725 Evan Robinson Turkey 49 COVID-2019 NO
+98213 Dwayne Nelson Turkey 18 SARS-1 YES 10-09-2018
+33272 Robert Collins Turkey 12 FLU-2018 YES 01-11-2005
+1188 Megan Heath Turkey 63 COVID-2019 NO
+98162 Brandon Silva Turkey 64 SARS-1 YES 07-03-2003
+23681 John Perkins Turkey 27 H1N1 NO
+95260 Mallory Jones Turkey 54 MERS-COV NO
+21269 Benjamin Walsh Turkey 32 SARS-COV-2 NO
+36165 Lisa Evans Turkey 37 SARS-1 NO
+47127 Erin Mathews Turkey 54 H1N1 YES 05-05-2002
+7996 Antonio Smith Turkey 18 FLU-2018 YES 09-09-2011
+49871 Brian Gordon Turkey 78 H1N1 YES 25-12-2015
+83734 Christopher Morgan Turkey 34 SARS-1 NO
+48165 Daniel Holland Turkey 23 EVD YES 08-03-2016
+65471 Alejandro Rogers Turkey 53 COVID-2019 YES 10-05-2004
+54128 Randy Duarte Turkey 31 FLU-2018 NO
+93117 Antonio Garcia Turkey 10 SARS-1 YES 24-02-2010
+36336 Charles King Turkey 32 SARS-COV-2 YES 07-11-2008
+29111 Maria Stewart Turkey 40 EVD NO
+71427 Jeremy Howard Turkey 71 SARS-1 NO
+87535 Carrie Fuentes Turkey 24 FLU-2018 NO
+5409 Eric Gonzales Turkey 59 FLU-2018 YES 12-12-2011
+20657 Ricky Harris Turkey 66 EVD YES 22-04-2001
+77390 Kimberly Brown Turkey 30 MERS-COV NO
+90881 Robert Thompson Turkey 22 MERS-COV YES 11-03-2003
+53666 Kenneth Mccoy Turkey 68 COVID-2019 YES 19-07-2011
+8892 Elizabeth Lara Turkey 46 SARS-1 NO
+11715 Joshua Austin Turkey 76 FLU-2018 YES 19-02-2000
+1643 Christina Foster Turkey 79 SARS-COV-2 YES 18-09-2004
+36611 Teresa Murray Turkey 70 SARS-COV-2 NO
+33287 Lauren Munoz Turkey 31 H1N1 NO
+36519 Matthew Benson Turkey 31 MERS-COV YES 18-03-2018
+64293 Nancy Green Turkey 42 SARS-COV-2 NO
+6228 Steven Middleton Turkey 37 SARS-1 YES 16-12-2008
+49687 James Fritz Turkey 49 MERS-COV YES 03-02-2012
+33545 Jennifer Patterson Turkey 68 FLU-2018 YES 13-09-2019
+7903 Jenny Carter Turkey 31 COVID-2019 NO
+90154 William Ward Turkey 44 H1N1 YES 02-08-2004
+73663 Scott Shah Turkey 60 FLU-2018 NO
+74694 Steven Walker Turkey 45 SARS-COV-2 YES 18-05-2005
+71551 Amanda White Turkey 61 SARS-COV-2 YES 10-08-2018
+41291 Brooke Ochoa Turkey 49 SARS-COV-2 YES 29-01-2021
+81033 Catherine Davis Turkey 65 SARS-COV-2 NO
+18902 George Cruz Turkey 43 EVD YES 08-11-2014
+77034 Cynthia Ritter Turkey 65 FLU-2018 NO
+23984 Jesse Mullins Turkey 48 COVID-2019 YES 18-11-2009
+10150 Charlene Noble Turkey 54 H1N1 NO
+86034 Elizabeth Foster Turkey 78 FLU-2018 YES 21-06-2018
+98131 Jacqueline Day Turkey 53 H1N1 NO
+85078 Andrew Page Turkey 25 FLU-2018 NO
+84225 David Figueroa Turkey 19 FLU-2018 YES 15-12-2001
+64649 Zachary Hill Turkey 53 SARS-COV-2 YES 27-04-2000
+78281 Christina Torres Turkey 66 H1N1 NO
+71405 David Rodriguez Turkey 18 SARS-COV-2 YES 17-03-2018
+91590 Kyle Vaughn Turkey 11 FLU-2018 YES 16-06-2003
+9010 Marilyn Salas Turkey 53 H1N1 NO
+42597 Hannah Wallace Turkey 74 MERS-COV YES 12-07-2010
+10498 Emma Robinson Turkey 11 EVD NO
+83220 Brady Jackson Turkey 37 EVD YES 19-11-2016
+15435 Donna Colon Turkey 31 EVD NO
+18868 Cory Williams Turkey 29 SARS-1 NO
+75419 Joshua Dodson Turkey 40 SARS-COV-2 YES 15-04-2017
+39568 Anita Munoz Turkey 66 MERS-COV NO
+29562 Betty Wilson Turkey 42 FLU-2018 YES 11-01-2016
+7110 William Clements Turkey 47 MERS-COV YES 07-03-2009
+4480 Angela Anderson Turkey 40 SARS-1 YES 22-01-2017
+54343 Anthony Adams Turkey 33 H1N1 YES 14-08-2019
+80543 Matthew Burton Turkey 55 MERS-COV NO
+53182 Meghan Osborn Turkey 30 H1N1 NO
+22699 Colin Davis Turkey 52 SARS-COV-2 NO
+12761 Jessica Wiggins Turkey 17 COVID-2019 YES 13-10-2017
+81964 Caitlin Brock Turkey 50 COVID-2019 NO
+48195 Steven Simmons Turkey 22 SARS-1 YES 09-04-2015
+76954 David Thomas Turkey 31 EVD YES 16-07-2020
+41405 Andrew Powers Turkey 21 COVID-2019 NO
+11980 Ashley Garrison Turkey 33 SARS-COV-2 NO
+11801 Michelle Bond Turkey 20 SARS-1 YES 08-02-2020
+69864 Andrea Heath Turkey 18 SARS-1 NO
+66158 Catherine Kirby Turkey 40 H1N1 NO
+38309 Willie Gonzales Turkey 46 COVID-2019 NO
+36985 Tracy Bailey Turkey 61 COVID-2019 NO
+69976 Jeffrey Craig Turkey 54 EVD NO
+21762 Angela Mullins Turkey 31 COVID-2019 NO
+26784 Cynthia Turner Turkey 23 H1N1 YES 29-07-2011
+15443 Bianca Tanner Turkey 67 FLU-2018 YES 15-11-2012
+788 Susan Curtis Turkey 51 COVID-2019 NO
+69915 Pamela Johnson Turkey 10 SARS-1 NO
+36419 Kristen Harrison Turkey 49 SARS-COV-2 NO
+13242 Diana Reynolds Turkey 24 SARS-1 YES 24-07-2015
+29488 Kenneth Harvey Turkey 66 EVD NO
+17149 Ashley Rojas Turkey 32 FLU-2018 NO
+83385 Robert Day Turkey 69 EVD NO
+69250 Whitney Melton Turkey 19 FLU-2018 NO
+22552 Tina Hernandez Turkey 10 H1N1 NO
+28212 Cynthia Mclaughlin Turkey 64 MERS-COV YES 28-05-2014
+10006 Jeffrey Jenkins Turkey 75 SARS-COV-2 YES 13-06-2014
+1439 Ann Palmer Turkey 35 COVID-2019 YES 09-04-2018
+71672 Maria Miller Turkey 43 FLU-2018 NO
+44203 Mary Velasquez Turkey 35 SARS-1 NO
+6675 Nancy Brown Turkey 41 FLU-2018 YES 25-10-2017
+68863 Luis White Turkey 79 H1N1 YES 29-01-2020
+10641 Amanda Gill Turkey 76 FLU-2018 NO
+41626 Natalie Savage Turkey 49 MERS-COV YES 09-05-2013
+79740 Jason Rodriguez Turkey 21 SARS-COV-2 YES 25-10-2003
+96837 Thomas Delgado Turkey 18 H1N1 NO
+28694 Dalton Chase Turkey 27 H1N1 YES 11-08-2008
+31106 Sandra Gould Turkey 41 FLU-2018 YES 11-06-2008
+17278 Ryan Estrada Turkey 33 FLU-2018 YES 10-09-2018
+67400 Ethan Gray Turkey 41 EVD NO
+62184 Gregory Lopez Turkey 58 FLU-2018 YES 03-01-2015
+70740 Shane White Turkey 65 COVID-2019 YES 22-11-2007
+36644 Nicole Bryan Turkey 49 H1N1 YES 03-11-2006
+48065 Carol Jensen Turkey 27 SARS-COV-2 YES 18-03-2020
+95731 Oscar Allison Turkey 67 FLU-2018 NO
+88067 Deanna Miller Turkey 28 H1N1 NO
+77043 Diane Wilson Turkey 32 FLU-2018 NO
+90964 Sara Lane Turkey 22 MERS-COV NO
+41040 Alan Ortiz Turkey 27 EVD NO
+15520 Joyce Cook Turkey 54 SARS-1 YES 17-09-2020
+15498 Robin Smith Turkey 75 SARS-1 YES 22-08-2018
+22139 Stacey Quinn Turkey 78 COVID-2019 YES 07-01-2021
+24173 George Acevedo Turkey 19 SARS-COV-2 YES 02-01-2004
+728 Diane Davis Turkey 22 H1N1 NO
+241 Scott Daniels Turkey 74 H1N1 NO
+18533 Kelly Wood Turkey 66 MERS-COV NO
+28954 Erika Elliott Turkey 76 COVID-2019 YES 21-03-2010
+34863 Bruce Patton Turkey 71 SARS-COV-2 NO
+41829 Rachel Stephenson Turkey 73 COVID-2019 NO
+36749 Kerri Peterson Turkey 39 H1N1 YES 16-12-2017
+33723 Timothy Stout Turkey 45 SARS-COV-2 NO
+10426 Audrey Garrison Turkey 13 SARS-1 YES 23-12-2009
+44204 Kevin Robertson Turkey 75 EVD NO
+91185 Justin Hendricks Turkey 23 COVID-2019 YES 14-12-2001
+77737 Holly Burnett Turkey 17 H1N1 YES 29-11-2015
+20258 James Williams Turkey 59 MERS-COV NO
+85963 Angela Dennis Turkey 68 H1N1 NO
+91003 Amanda Alexander Turkey 47 COVID-2019 NO
+38059 Nicole Espinoza Turkey 68 H1N1 YES 29-08-2006
+58095 Jose Liu Turkey 33 FLU-2018 NO
+54938 Keith Smith Turkey 45 MERS-COV YES 20-02-2019
+11543 Brandy Jordan Turkey 79 COVID-2019 YES 11-10-2011
+88929 Michael Thompson Turkey 40 COVID-2019 YES 15-12-2013
+83621 Amber Thompson Turkey 65 SARS-COV-2 YES 31-03-2006
+59495 Matthew Booth Turkey 44 SARS-1 YES 17-01-2013
+9033 Veronica Wilson Turkey 63 EVD YES 24-03-2001
+56372 Susan Baker Turkey 60 EVD NO
+16891 Brenda Flowers Turkey 13 EVD NO
+86801 Benjamin Martin Turkey 64 SARS-COV-2 YES 11-06-2009
+57607 Ann Flynn Turkey 35 H1N1 YES 16-08-2003
+16397 Lawrence Dominguez Turkey 31 COVID-2019 YES 21-06-2019
+79963 James Smith Turkey 51 MERS-COV NO
+21682 Adrian Perez Turkey 48 EVD YES 21-10-2003
+73416 Peter Bradford Turkey 69 SARS-COV-2 NO
+69725 Kyle Mueller Turkey 53 FLU-2018 YES 09-02-2012
+36833 Nicole Obrien Turkey 61 EVD NO
+16474 Angela Ruiz Turkey 72 H1N1 YES 27-02-2021
+45456 Lawrence Tran Turkey 58 COVID-2019 NO
+59475 Mary Clark Turkey 42 SARS-1 YES 10-07-2020
+72980 Darlene Riley Turkey 61 H1N1 YES 04-08-2010
+80678 Amy Smith Turkey 50 H1N1 NO
+86397 Stacey Green Turkey 48 MERS-COV NO
+9067 Edward Tanner Turkey 74 SARS-1 YES 21-08-2009
+92556 Chris Fischer Turkey 36 MERS-COV NO
+25376 Trevor Moore Turkey 15 EVD NO
+1026 Eugene Payne Turkey 50 MERS-COV YES 28-12-2011
+41326 Susan Bonilla Turkey 36 EVD YES 04-06-2009
+34333 Kyle Chang Turkey 25 COVID-2019 YES 04-01-2018
+44316 William Hopkins Turkey 39 FLU-2018 YES 04-11-2000
+72557 Juan Stone Turkey 64 MERS-COV YES 25-03-2005
+40986 Bianca Johnson Turkey 33 MERS-COV NO
+32028 Kaitlyn Williams Turkey 57 FLU-2018 NO
+45260 Heather Barnes Turkey 36 FLU-2018 NO
+46956 Jeremy Stanley Turkey 10 EVD YES 05-09-2004
+21914 Andrea Riley Turkey 26 H1N1 NO
+33661 Adam Smith Turkey 28 SARS-1 NO
+37317 Michelle Hernandez Turkey 37 SARS-COV-2 YES 14-12-2013
+67058 Samuel Robinson Turkey 73 EVD YES 07-02-2018
+34315 Erica Fowler Turkey 63 COVID-2019 YES 21-09-2011
+64737 Troy Manning Turkey 79 COVID-2019 YES 11-10-2010
+81696 Maria Elliott Turkey 41 COVID-2019 NO
+8457 Deborah Parker Turkey 65 SARS-1 YES 03-07-2019
+9302 Tonya Mitchell Turkey 35 FLU-2018 YES 27-07-2011
+78746 Jenna Ramirez Turkey 13 H1N1 NO
+51225 Hunter Wright Turkey 72 H1N1 YES 17-02-2017
+18582 Tina Andersen Turkey 74 FLU-2018 NO
+78979 Don Rodriguez Turkey 29 H1N1 NO
+30688 David Wilkinson Turkey 61 SARS-1 NO
+17798 Donna Rivera Turkey 13 H1N1 YES 27-10-2016
+48844 Kayla Martinez Turkey 60 MERS-COV YES 28-04-2003
+26755 John Wiley Turkey 28 EVD YES 06-10-2009
+57425 Melanie Martin Turkey 77 MERS-COV YES 04-05-2014
+55387 Christopher Barnes Turkey 55 SARS-1 YES 09-10-2007
+64599 Warren Garcia Turkey 73 MERS-COV YES 28-07-2001
+96178 Rita Reid Turkey 27 COVID-2019 YES 20-06-2005
+92644 Ian Schultz Turkey 28 COVID-2019 YES 05-11-2017
+30285 Rhonda Webb Turkey 41 SARS-1 YES 28-04-2000
+93596 Rebecca Johnson Turkey 21 COVID-2019 YES 26-08-2018
+11152 Robert Rios Turkey 71 MERS-COV NO
+54952 Ryan Duncan Turkey 34 H1N1 NO
+82179 Audrey Hernandez Turkey 28 FLU-2018 NO
+50404 Briana Murillo Turkey 40 H1N1 NO
+63290 Jamie Stanton Turkey 62 COVID-2019 NO
+98688 Steven Griffin Turkey 68 FLU-2018 YES 01-08-2015
+69034 Steven Flores Turkey 79 SARS-COV-2 YES 26-12-2000
+73408 Tyler Swanson Turkey 64 H1N1 YES 18-08-2016
+87217 Dawn Phelps Turkey 12 FLU-2018 NO
+85551 Kevin Odom Turkey 33 COVID-2019 NO
+42409 Donald Yang Turkey 52 MERS-COV NO
+82097 Dwayne Gonzalez Turkey 65 FLU-2018 YES 21-10-2013
+76360 Shelly Garza Turkey 36 H1N1 YES 09-02-2005
+66882 Karen Baldwin Turkey 70 SARS-1 NO
+75083 Sarah Carter Turkey 26 SARS-COV-2 YES 20-08-2011
+5526 Jeffrey Bryant Turkey 24 MERS-COV NO
+57942 Elizabeth White Turkey 77 EVD YES 03-07-2005
+67192 Kevin Blackwell Turkey 60 COVID-2019 NO
+76815 Erin Bailey Turkey 77 COVID-2019 NO
+23608 David Nichols Turkey 71 MERS-COV NO
+58776 Cynthia Williams Turkey 73 SARS-COV-2 YES 25-07-2004
+24308 William Miller Turkey 64 COVID-2019 YES 03-07-2013
+85281 Angela Johnson Turkey 53 MERS-COV YES 02-06-2017
+11963 Elizabeth Harrison Turkey 41 H1N1 NO
+1413 Katherine Le Turkey 25 SARS-1 YES 21-08-2012
+96815 Patricia Estrada Turkey 23 EVD NO
+11080 Xavier Petersen Turkey 59 H1N1 YES 26-12-2006
+75829 John Stewart Turkey 20 EVD YES 10-07-2009
+93367 Jennifer Kelly Turkey 48 COVID-2019 YES 24-04-2000
+73724 Carol Thomas Turkey 55 COVID-2019 YES 17-06-2004
+6898 Mitchell Moreno Turkey 66 MERS-COV YES 15-12-2003
+32763 Robert Turner Turkey 33 COVID-2019 YES 06-09-2017
+50923 Stacey Goodwin Turkey 10 EVD YES 03-04-2017
+98373 Lisa Ayers Turkey 46 SARS-COV-2 NO
+18526 Mary Waller Turkey 16 SARS-1 NO
+89203 Sarah Stone Turkey 10 SARS-1 NO
+35756 Cassandra Robinson Turkey 71 H1N1 NO
+37607 Erica King Turkey 36 SARS-1 NO
+20378 Sean Knight Turkey 35 SARS-COV-2 NO
+24399 Meredith Perry Turkey 27 EVD YES 16-06-2008
+79758 Vanessa Beck Turkey 35 FLU-2018 YES 08-01-2005
+73913 Jeffrey Stafford Turkey 70 MERS-COV YES 28-11-2017
+2278 Vanessa Perry Turkey 23 H1N1 YES 01-10-2004
+84509 Kelly Serrano Turkey 30 FLU-2018 YES 29-04-2006
+96961 Perry Taylor Turkey 56 EVD YES 18-01-2001
+67378 Jocelyn Hudson Turkey 32 H1N1 YES 07-06-2000
+82228 Brent Wilson Turkey 72 MERS-COV YES 01-02-2010
+6859 Shane Guerrero Turkey 61 EVD YES 30-05-2013
+20415 Dean Gutierrez Turkey 52 EVD YES 02-03-2014
+77952 Shelley Robbins Turkey 36 FLU-2018 YES 06-07-2009
+87828 Chelsea Stewart Turkey 34 SARS-COV-2 YES 13-02-2008
+53831 James Gonzalez Turkey 35 MERS-COV NO
+69872 Richard Garcia Turkey 19 SARS-1 NO
+23114 Tammy Wright Turkey 61 FLU-2018 NO
+50105 Evan Collier Turkey 53 SARS-COV-2 YES 31-12-2007
+5888 Jason Price Turkey 63 FLU-2018 YES 06-09-2013
+81731 Stanley Kirk Turkey 60 MERS-COV YES 26-05-2000
+75384 Kathryn Perez Turkey 12 FLU-2018 YES 02-05-2015
+88074 Ronald Henderson Turkey 54 SARS-1 NO
+5089 Christina Dalton Turkey 77 COVID-2019 YES 21-01-2000
+1157 Whitney Brown Turkey 34 SARS-COV-2 NO
+95460 Wanda Padilla Turkey 28 H1N1 NO
+34085 Omar Gonzalez Turkey 35 MERS-COV NO
+67401 James Thornton Turkey 50 H1N1 NO
+44963 Terry Lopez Turkey 51 EVD NO
+25001 Mark Castillo Turkey 45 EVD NO
+69403 Lindsey Lozano Turkey 49 FLU-2018 NO
+76144 Selena Bradford Turkey 60 H1N1 NO
+95292 Anthony Marsh Turkey 75 H1N1 YES 21-05-2010
+77314 Bethany Joseph Turkey 19 SARS-1 NO
+856 Sarah Johnson Turkey 36 MERS-COV YES 14-10-2000
+73298 Travis Huerta Turkey 78 FLU-2018 YES 05-11-2013
+72814 April Jones Turkey 19 COVID-2019 YES 21-01-2002
+64243 Debbie White Turkey 37 H1N1 NO
+80329 Jonathan Thomas Turkey 59 EVD NO
+35178 Melinda Zimmerman Turkey 57 H1N1 YES 22-04-2001
+39572 Travis Pena Turkey 28 COVID-2019 YES 01-05-2017
+94350 Rebecca Moses Turkey 73 COVID-2019 NO
+65159 Brenda Smith Turkey 74 SARS-COV-2 NO
+33471 Jessica Harris Turkey 12 FLU-2018 NO
+94791 Keith Copeland Turkey 75 H1N1 NO
+73543 Michael Summers Turkey 62 SARS-COV-2 NO
+41 Christopher Juarez Turkey 12 SARS-1 NO
+55161 Leonard Lee Turkey 55 COVID-2019 NO
+14487 Jeffrey Johnson Turkey 59 SARS-1 NO
+44296 Maria Ruiz Turkey 63 MERS-COV YES 17-07-2018
+19632 Amanda Smith Turkey 24 SARS-1 YES 25-04-2005
+75880 Tonya Mcdaniel Turkey 18 MERS-COV YES 14-06-2016
+92591 Alan Gutierrez Turkey 31 SARS-1 NO
+4826 Robert Taylor Turkey 24 EVD NO
+67527 Zachary Weaver Turkey 44 MERS-COV YES 23-10-2001
+23122 Cody Jones Turkey 60 H1N1 NO
+80 Kelly Montgomery Turkey 76 COVID-2019 YES 31-07-2019
+31663 Frederick Maldonado Turkey 35 MERS-COV YES 02-03-2000
+42196 Elizabeth Henderson Turkey 78 SARS-COV-2 NO
+20774 Jared Austin Turkey 34 SARS-COV-2 NO
+50437 Rebekah Espinoza Turkey 16 EVD YES 15-10-2000
+10870 John Steele Turkey 20 MERS-COV NO
+1103 Dawn Rollins Turkey 56 SARS-1 YES 21-02-2015
+89084 Michael Palmer Turkey 14 COVID-2019 NO
+2999 Kenneth Jenkins Turkey 64 MERS-COV NO
+95767 Belinda Martin Turkey 36 COVID-2019 NO
+63609 Brett Franco Turkey 35 SARS-1 NO
+62661 Dylan Gonzales Turkey 13 COVID-2019 NO
+97379 Christian Webb Turkey 51 SARS-COV-2 NO
+26568 Robert Lowe Turkey 12 MERS-COV YES 18-02-2012
+67910 Daniel Sims Turkey 55 SARS-COV-2 YES 06-06-2007
+32024 Andrew Larson Turkey 12 MERS-COV NO
+58429 Andrew Anderson Turkey 62 FLU-2018 YES 19-01-2012
+87021 Sarah Collins Turkey 54 COVID-2019 YES 09-10-2002
+19470 Patrick Marquez Turkey 75 MERS-COV YES 23-01-2006
+78389 John Williams Turkey 27 FLU-2018 YES 27-04-2016
+93197 Michael Zavala Turkey 36 SARS-1 NO
+44772 Rebecca Riley Turkey 15 SARS-COV-2 YES 17-01-2019
+90046 Eric Lamb Turkey 40 EVD YES 13-05-2020
+20685 Amy Harrington Turkey 24 MERS-COV NO
+66585 Ashley Russell Turkey 54 COVID-2019 NO
+1859 Francis Rodriguez Turkey 45 MERS-COV YES 11-09-2001
+43823 Michael Leonard Turkey 56 SARS-1 YES 23-03-2010
+41946 Adrian Lopez Turkey 36 SARS-COV-2 YES 22-09-2018
+92318 Brooke Alexander Turkey 24 EVD NO
+25984 Linda Brooks Turkey 71 SARS-1 YES 23-04-2005
+58953 Michael Fuller Turkey 49 FLU-2018 NO
+94080 Jodi Hernandez Turkey 43 MERS-COV YES 12-05-2009
+37207 Brian Holder Turkey 35 H1N1 NO
+57805 Samuel Anderson Turkey 51 H1N1 YES 25-11-2013
+2963 Lisa Rogers Turkey 53 FLU-2018 NO
+42047 Steven Duncan Turkey 71 EVD NO
+35269 Kathryn Randall Turkey 62 SARS-1 YES 30-07-2001
+20628 Nicholas Murphy Turkey 78 H1N1 NO
+42528 Reginald Maldonado Turkey 41 SARS-1 NO
+79998 Julie Campbell Turkey 40 SARS-COV-2 NO
+58470 Holly Arellano Turkey 35 COVID-2019 NO
+26215 Ross Shepherd Turkey 13 COVID-2019 YES 06-07-2020
+55521 Jorge Oliver Turkey 71 COVID-2019 NO
+91801 Kerri Walker Turkey 65 COVID-2019 NO
+11158 Christina Ortiz Turkey 30 SARS-COV-2 YES 27-11-2001
+11716 Daniel Wells Turkey 27 EVD YES 27-02-2004
+64067 Nicole Jackson Turkey 66 EVD YES 07-04-2006
+99620 Michael Romero Turkey 13 SARS-1 YES 31-03-2020
+42828 George Thomas Turkey 33 COVID-2019 NO
+29104 Jacob Smith Turkey 30 EVD YES 13-04-2010
+26891 Regina Mccormick Turkey 11 COVID-2019 YES 05-01-2001
+51002 Sherri Terrell Turkey 42 SARS-1 YES 05-07-2015
+32640 Micheal West Turkey 14 SARS-COV-2 YES 25-12-2015
+24633 Katie Weber Turkey 51 MERS-COV YES 16-06-2012
+65193 Donna Cohen Turkey 42 SARS-1 NO
+53702 Gary Rogers Turkey 37 EVD NO
+60608 Kristen Norman Turkey 57 SARS-1 YES 17-09-2003
+93222 Michael Hendrix Turkey 35 H1N1 NO
+65041 Patricia Peterson Turkey 62 EVD NO
+29269 Lindsay Brown Turkey 76 FLU-2018 NO
+37736 Wesley Moses Turkey 47 SARS-1 NO
+38774 Gregory Foley Turkey 14 SARS-COV-2 NO
+93281 Aimee Stone Turkey 34 COVID-2019 YES 19-09-2002
+66637 Melissa Atkins Turkey 61 COVID-2019 NO
+16423 Kevin Watson Turkey 38 MERS-COV NO
+44914 Edward Cole Turkey 18 FLU-2018 YES 12-09-2011
+55963 Matthew Olsen Turkey 28 EVD NO
+81775 Amanda Lucas Turkey 37 FLU-2018 YES 14-01-2016
+25292 Travis Blevins Turkey 39 EVD YES 17-12-2009
+62138 Danny Miller Turkey 10 SARS-COV-2 YES 27-05-2015
+94468 James Cain Turkey 71 COVID-2019 YES 09-12-2009
+83791 Michael Acevedo Turkey 62 SARS-1 NO
+34383 Sheryl Cain Turkey 25 EVD NO
+18151 Jamie Frazier Turkey 57 SARS-COV-2 YES 23-08-2016
+84894 Travis Walker Turkey 16 FLU-2018 NO
+7405 Brittany Brown Turkey 68 EVD NO
+74824 John Reed Turkey 64 EVD NO
+82239 Kenneth James Turkey 26 H1N1 NO
+83439 John Chambers Turkey 70 SARS-COV-2 NO
+56671 Tamara Fernandez Turkey 42 SARS-1 NO
+57380 John Myers Turkey 11 FLU-2018 YES 28-11-2003
+24626 Barbara Johnson Turkey 76 MERS-COV YES 15-11-2013
+83132 Alyssa Silva Turkey 11 SARS-COV-2 NO
+20395 Gloria Hurley Turkey 49 SARS-1 NO
+66382 Carrie Pearson Turkey 28 H1N1 NO
+74640 David Herring Turkey 76 COVID-2019 YES 08-10-2014
+27117 Rebecca Fisher Turkey 12 EVD NO
+43111 Ashley Moore Turkey 58 SARS-COV-2 NO
+36284 David Harris Turkey 49 FLU-2018 NO
+66842 Kyle King Turkey 77 H1N1 NO
+43302 Wayne Roth Turkey 14 COVID-2019 NO
+70626 Daniel Warner Turkey 13 FLU-2018 YES 31-05-2014
+80002 Michael Williams Turkey 23 COVID-2019 YES 28-04-2012
+65432 Erica Davis Turkey 46 H1N1 NO
+11339 Teresa Hart Turkey 18 COVID-2019 YES 07-09-2001
+70413 Donald Holland Turkey 30 SARS-1 NO
+66236 Charles Rhodes Turkey 52 H1N1 YES 12-09-2018
+41115 Megan Reyes Turkey 58 FLU-2018 NO
+68718 Elizabeth Warren Turkey 51 H1N1 NO
+77918 Patrick Velasquez Turkey 11 EVD YES 05-02-2014
+89328 Daniel Payne Turkey 19 MERS-COV YES 12-11-2010
+81427 Kyle Wyatt Turkey 38 SARS-1 NO
+33041 Meghan Mcmahon Turkey 29 EVD YES 08-09-2017
+13598 Todd Hurst Turkey 49 SARS-1 NO
+65069 Michelle Murray Turkey 47 MERS-COV YES 27-11-2013
+4103 Kathryn Le Turkey 64 FLU-2018 NO
+96903 Matthew Austin Turkey 40 SARS-COV-2 YES 23-10-2010
+13828 Kevin Davis Turkey 16 EVD YES 16-02-2009
+93597 Craig Mcclain Turkey 26 H1N1 YES 22-02-2000
+98738 Dorothy Meyer Turkey 17 SARS-COV-2 NO
+17937 Daniel Snyder Turkey 17 SARS-1 YES 04-01-2013
+98375 David Barnett Turkey 56 COVID-2019 NO
+63242 Oscar Shannon Turkey 72 FLU-2018 NO
+50340 Christina Moreno Turkey 57 SARS-1 NO
+93693 Andrew Black Turkey 40 SARS-COV-2 YES 08-08-2002
+18755 Heidi Walsh Turkey 71 COVID-2019 NO
+93913 Mary Williams Turkey 39 COVID-2019 YES 22-10-2019
+41192 Rodney Garcia Turkey 35 H1N1 NO
+47069 David Davis Turkey 58 SARS-1 NO
+19859 Holly Ferguson Turkey 41 SARS-COV-2 YES 23-11-2017
+65862 Barbara Wilkerson Turkey 64 COVID-2019 NO
+48859 Kevin Reid Turkey 14 H1N1 NO
+67675 Kaitlyn Baker Turkey 77 H1N1 NO
+18795 Savannah Long Turkey 32 SARS-1 NO
+51846 Annette Harris Turkey 77 SARS-COV-2 YES 18-07-2001
+50348 David Johnson Turkey 47 MERS-COV NO
+22815 Darrell Alvarado Turkey 18 COVID-2019 NO
+49454 Michael Hamilton Turkey 24 SARS-COV-2 NO
+3633 Jeremy Vargas Turkey 64 MERS-COV NO
+83520 Jacqueline Hickman Turkey 54 FLU-2018 NO
+61697 Jasmine Swanson Turkey 15 EVD NO
+92635 Shane Morris Turkey 32 SARS-COV-2 YES 27-11-2001
+85345 Christine Joseph Turkey 19 EVD NO
+94177 Erica Chavez Turkey 26 FLU-2018 YES 10-09-2008
+87083 Brandon Palmer Turkey 29 SARS-1 NO
+51823 Shelly Mcgee Turkey 44 SARS-COV-2 YES 27-06-2006
+20359 Crystal Johnson Turkey 16 FLU-2018 YES 30-09-2009
+73354 Patrick Allen Turkey 37 MERS-COV YES 16-05-2003
+88075 Sheila Frye Turkey 42 COVID-2019 NO
+52642 Andrew Pennington Turkey 13 MERS-COV YES 17-07-2002
+77847 James Fleming Turkey 54 H1N1 YES 31-01-2008
+41608 Rachel Carrillo Turkey 30 MERS-COV NO
+42012 Nicholas Gomez Turkey 20 COVID-2019 NO
+80917 Brett Simmons Turkey 33 SARS-1 NO
+27510 William Hess Turkey 15 EVD NO
+24804 Rebecca Acosta Turkey 79 H1N1 NO
+55634 Amanda Lara Turkey 78 SARS-1 NO
+18182 Heather Rodriguez Turkey 13 FLU-2018 NO
+48934 Joseph Davis Turkey 19 FLU-2018 YES 13-08-2008
+19826 Jacob Gray Turkey 39 SARS-COV-2 NO
+83693 Aaron Hahn Turkey 64 MERS-COV NO
+73271 Thomas Heath Turkey 60 EVD NO
+237 Lori Morales Turkey 66 SARS-1 NO
+10388 Sarah Williamson Turkey 57 SARS-1 NO
+35674 Cody Collins Turkey 52 SARS-1 YES 16-07-2012
+45145 Laura Duncan Turkey 30 COVID-2019 YES 27-01-2010
+56762 Kyle Guerra Turkey 77 FLU-2018 NO
+31437 Gina Boone Turkey 30 H1N1 NO
+3777 Darlene Garcia Turkey 12 EVD YES 05-11-2014
+13447 Megan Brown Turkey 44 SARS-1 NO
+34553 Ashley Glover Turkey 59 FLU-2018 YES 02-06-2017
+27975 Michelle Lane Turkey 43 EVD YES 19-02-2013
+87226 Natasha Fox Turkey 34 H1N1 NO
+63799 Daniel Garcia Turkey 79 COVID-2019 NO
+49982 Mark Evans Turkey 30 COVID-2019 NO
+35445 Amanda Hanna Turkey 30 SARS-1 YES 24-11-2009
+75595 Lisa Aguilar Turkey 19 COVID-2019 NO
+17897 Donald Gutierrez Turkey 71 COVID-2019 YES 25-08-2013
+66070 Paul Fernandez Turkey 50 MERS-COV NO
+80390 Tracy Simon Turkey 78 H1N1 YES 10-06-2004
+29207 Ashley Jackson Turkey 36 SARS-COV-2 NO
+62506 Phillip Butler Turkey 32 COVID-2019 YES 11-04-2003
+73615 Penny Ward Turkey 40 COVID-2019 NO
+57093 Bradley Tucker Turkey 25 MERS-COV YES 29-06-2019
+60915 Claire Turner Turkey 59 EVD NO
+57635 Jason Henderson Turkey 35 FLU-2018 YES 18-04-2018
+25026 Raymond Miller Turkey 40 SARS-1 YES 11-02-2006
+18833 Audrey Chavez Turkey 31 MERS-COV NO
+78660 Beth Perry Turkey 69 MERS-COV YES 18-09-2001
+73089 Andrew Hill Turkey 41 H1N1 NO
+15157 Renee Washington Turkey 27 COVID-2019 NO
+7268 Emily Parker Turkey 70 SARS-1 NO
+13550 Curtis Wallace Turkey 45 COVID-2019 NO
+17413 Matthew Carter Turkey 53 SARS-COV-2 NO
+71195 Larry Costa Turkey 13 H1N1 YES 08-06-2009
+71731 Jaime Mason Turkey 63 EVD YES 31-07-2010
+93291 Robert Ford Turkey 56 H1N1 YES 13-05-2009
+68596 Roberto Harper Turkey 58 SARS-COV-2 YES 30-12-2008
+17993 Mark Madden Turkey 11 FLU-2018 NO
+39676 Sarah Wallace Turkey 19 EVD YES 26-09-2005
+64494 Brian Miller Turkey 28 MERS-COV YES 07-11-2015
+55035 Derrick Ruiz Turkey 15 SARS-COV-2 YES 31-10-2016
+44176 Karen Bowman Turkey 13 SARS-1 YES 09-08-2002
+30788 Michael Gilbert Turkey 61 FLU-2018 YES 21-11-2000
+74504 Tonya Fuentes Turkey 74 COVID-2019 NO
+62619 Haley Gordon Turkey 75 H1N1 YES 09-06-2008
+89659 Kathleen Stanley Turkey 38 SARS-COV-2 YES 08-06-2014
+69546 Shawn Wallace Turkey 58 MERS-COV NO
+7823 Logan Andrews Turkey 22 SARS-COV-2 NO
+35546 Wendy Bennett Turkey 46 H1N1 YES 03-02-2009
+55432 Jessica Ramirez Turkey 68 COVID-2019 YES 21-04-2020
+32714 Troy Tyler Turkey 13 COVID-2019 YES 01-04-2000
+1298 Alexandra Cook Turkey 54 MERS-COV NO
+87430 Crystal Lopez Turkey 31 MERS-COV YES 29-10-2000
+16462 Jasmine Miller Turkey 31 SARS-COV-2 NO
+84003 Matthew Hayes Turkey 19 EVD NO
+78185 Anthony Evans Turkey 23 FLU-2018 NO
+82665 Benjamin Marshall Turkey 43 SARS-COV-2 YES 20-05-2002
+75523 Kimberly Reid Turkey 29 FLU-2018 YES 02-03-2010
+33658 Ann Blankenship Turkey 48 SARS-COV-2 YES 08-12-2008
+57566 Gary Donaldson Turkey 44 H1N1 YES 12-05-2010
+37115 Jeanette Murphy Turkey 45 EVD YES 28-07-2007
+40289 Daniel Richardson Turkey 78 FLU-2018 YES 20-11-2009
+32639 Julie Lawson Turkey 57 FLU-2018 YES 12-05-2012
+14451 Cindy Williams Turkey 52 SARS-COV-2 NO
+48293 Charles Conner Turkey 28 SARS-1 YES 23-01-2000
+36739 Monica Jones Turkey 58 SARS-COV-2 YES 30-03-2008
+54449 Tanya Mccarty Turkey 60 EVD NO
+89886 Matthew Weaver Turkey 63 SARS-COV-2 NO
+72997 Linda Santana Turkey 38 SARS-COV-2 YES 27-07-2020
+2572 Leslie Beck Turkey 47 SARS-COV-2 NO
+28297 Kelly Kelley Turkey 32 SARS-COV-2 YES 11-11-2018
+57618 Sean Downs Turkey 61 COVID-2019 NO
+90019 Richard Simpson Turkey 10 EVD YES 25-05-2018
+99581 Michelle Rojas Turkey 53 COVID-2019 NO
+18088 Bernard Greer Turkey 40 EVD NO
+73167 Charles Campos Turkey 42 FLU-2018 YES 02-09-2008
+10173 Megan James Turkey 39 COVID-2019 YES 28-07-2012
+48513 Heather Ruiz Turkey 53 EVD YES 08-10-2008
+94298 Phillip Thomas Turkey 47 COVID-2019 YES 17-11-2013
+24585 Darius Dixon Turkey 73 H1N1 YES 29-12-2007
+25649 Juan Martinez Turkey 50 COVID-2019 YES 01-07-2007
+17674 Tara Scott Turkey 37 COVID-2019 YES 20-04-2002
+27690 Gregory Williams Turkey 41 SARS-1 NO
+87905 David Wright Turkey 10 MERS-COV YES 06-07-2016
+2104 Daniel Turner Turkey 12 FLU-2018 NO
+62634 Sandra Smith Turkey 65 MERS-COV YES 18-08-2006
+31596 Blake Barrett Turkey 28 SARS-COV-2 NO
+15909 Mary Osborn Turkey 67 SARS-1 YES 16-12-2000
+79481 Kristina Drake Turkey 54 SARS-1 YES 20-05-2016
+48183 William White Turkey 59 FLU-2018 YES 13-03-2013
+64358 Mary Banks Turkey 64 MERS-COV YES 18-08-2006
+90665 Heather Kelley Turkey 19 SARS-COV-2 YES 29-03-2016
+61584 Alex Mercado Turkey 10 FLU-2018 YES 11-06-2014
+87192 Amanda Jacobs Turkey 44 SARS-COV-2 YES 11-10-2014
+61464 Thomas Andersen Turkey 36 FLU-2018 YES 22-04-2007
+5581 Justin Williams Turkey 31 EVD NO
+69466 Christine Wheeler Turkey 60 COVID-2019 YES 15-10-2019
+72131 Rodney Shepherd Turkey 32 SARS-1 YES 17-12-2000
+95985 Michelle Ramirez Turkey 17 H1N1 NO
+3767 Angelica Johns Turkey 62 SARS-1 NO
+81618 Jennifer Rubio Turkey 68 SARS-1 NO
+8389 Jennifer Dominguez Turkey 31 SARS-1 YES 08-09-2001
+5606 Matthew Weber Turkey 48 SARS-1 YES 24-02-2017
+95715 Angela Marquez Turkey 24 H1N1 YES 10-03-2007
+2635 Tracy Bailey Turkey 13 SARS-COV-2 YES 22-12-2007
+22233 Stephanie Barnett Turkey 18 EVD YES 25-08-2012
+19568 Susan Smith Turkey 15 COVID-2019 YES 06-09-2019
+71851 Isaac Hernandez Turkey 44 H1N1 YES 15-04-2009
+35661 Courtney James Turkey 60 FLU-2018 YES 08-06-2001
+78919 Elaine Porter Turkey 40 MERS-COV YES 10-01-2008
+65401 Jill Gonzalez Turkey 41 MERS-COV NO
+90825 Joshua Jensen Turkey 59 H1N1 YES 06-02-2008
+63511 Susan Grant Turkey 23 SARS-1 YES 13-09-2009
+34829 John Hale Turkey 29 EVD YES 01-08-2007
+89138 Eric Edwards Turkey 17 MERS-COV NO
+82898 Gregory Horton Turkey 45 H1N1 NO
+58672 Tonya Coleman Turkey 75 EVD YES 15-06-2018
+98257 Colleen Briggs Turkey 28 COVID-2019 NO
+20764 Timothy Moore Turkey 55 SARS-COV-2 NO
+62535 Mathew Webb Turkey 29 EVD NO
+48248 Cynthia Harris Turkey 42 EVD YES 06-05-2007
+48429 Rachel Hall Turkey 18 SARS-COV-2 YES 19-03-2008
+61075 Curtis Allen Turkey 56 FLU-2018 NO
+38574 Kevin Harris Turkey 72 FLU-2018 NO
+95558 Karen Obrien Turkey 60 FLU-2018 YES 22-10-2014
+64950 Nicole Sanders Turkey 48 MERS-COV YES 22-05-2008
+73728 Heather Tate Turkey 22 MERS-COV YES 20-10-2016
+58452 Erika Moore Turkey 56 SARS-1 YES 25-09-2001
+94553 Amy Harrison Turkey 55 SARS-COV-2 NO
+81260 Juan Cross Turkey 20 SARS-1 NO
+5989 Chad Ramirez Turkey 79 H1N1 YES 04-11-2019
+90960 Kevin Romero Turkey 51 SARS-1 YES 12-08-2016
+57049 Paul Fletcher Turkey 39 MERS-COV YES 26-12-2002
+29876 Heather Sparks Turkey 55 SARS-COV-2 NO
+7213 Emily Williams Turkey 17 MERS-COV YES 30-01-2020
+23193 Jennifer Watson Turkey 61 H1N1 NO
+75637 Scott Miller Turkey 73 FLU-2018 YES 13-11-2014
+18674 Maria Thomas Turkey 30 H1N1 YES 23-03-2007
+46104 Ian Morgan Turkey 11 FLU-2018 NO
+82695 Marissa Martinez Turkey 34 H1N1 YES 27-02-2006
+67610 David Murray Turkey 40 EVD NO
+75016 Rebecca Miller Turkey 26 EVD YES 05-05-2015
+24663 Diana Moore Turkey 77 H1N1 NO
+47403 Kayla Delgado Turkey 64 EVD YES 14-08-2010
+62975 Lauren Rojas Turkey 40 SARS-COV-2 NO
+71689 Robert Cohen Turkey 56 SARS-1 YES 26-03-2005
+42694 Steve Villarreal Turkey 71 H1N1 NO
+39400 Rachael Keller Turkey 13 MERS-COV YES 25-12-2018
+35808 Krista Mitchell Turkey 18 SARS-COV-2 NO
+1240 Lance Vega Turkey 39 FLU-2018 YES 20-12-2019
+88306 Matthew Schneider Turkey 72 SARS-1 NO
+51905 Ashley Smith Turkey 14 EVD YES 31-12-2020
+84741 Charles Combs Turkey 46 MERS-COV NO
+57767 Robert Glover Turkey 58 MERS-COV YES 03-11-2011
+27754 Kimberly Dalton Turkey 72 SARS-COV-2 NO
+32287 Raymond White Turkey 17 H1N1 YES 14-02-2010
+18444 Walter Logan Turkey 21 MERS-COV YES 01-09-2007
+14299 Lisa Lopez Turkey 59 EVD YES 19-08-2000
+63733 Sarah Brown Turkey 50 EVD YES 10-02-2008
+96221 Derek Martinez Turkey 12 SARS-COV-2 YES 05-01-2018
+78508 Holly Flores Turkey 64 EVD YES 29-08-2006
+83226 Amy Holmes Turkey 38 EVD YES 11-03-2018
+69767 Kayla Lopez Turkey 14 MERS-COV NO
+80170 Jorge Parks Turkey 16 EVD YES 10-04-2012
+44644 Maria Summers Turkey 28 SARS-COV-2 NO
+65609 Allison Herrera Turkey 38 SARS-COV-2 NO
+94427 Kenneth Mcdowell Turkey 57 SARS-COV-2 YES 02-10-2007
+5456 Wendy Johnson Turkey 79 EVD YES 07-07-2002
+49942 Michael Park Turkey 53 H1N1 YES 08-07-2019
+55930 Richard Franklin Turkey 23 FLU-2018 YES 14-04-2017
+60397 Jeffrey Lewis Turkey 47 SARS-1 NO
+35958 Morgan Schneider Turkey 40 FLU-2018 YES 31-01-2017
+6483 Kimberly Morgan Turkey 70 MERS-COV YES 14-05-2001
+73069 Amy Wells Turkey 54 H1N1 YES 22-02-2003
+13262 Rodney Logan Turkey 47 SARS-1 NO
+5371 Michelle Taylor Turkey 47 EVD YES 30-01-2006
+21029 Susan Escobar Turkey 10 MERS-COV YES 15-04-2009
+64441 Teresa Bullock Turkey 24 FLU-2018 YES 10-06-2017
+89989 Sarah Zimmerman Turkey 24 FLU-2018 NO
+47664 Ashley Rodriguez Turkey 12 FLU-2018 NO
+13764 Leslie Hodges Turkey 46 H1N1 NO
+78421 Christopher Palmer Turkey 20 EVD NO
+70449 Courtney Steele Turkey 34 SARS-1 NO
+84930 Tiffany Franklin Turkey 50 SARS-1 YES 09-07-2015
+42892 Rachel Clark Turkey 31 SARS-1 NO
+65920 Ryan Arnold Turkey 44 H1N1 NO
+38300 Sara Osborne Turkey 23 SARS-COV-2 NO
+66893 Christopher Smith Turkey 41 SARS-COV-2 YES 22-04-2020
+68367 Paul Hughes Turkey 28 MERS-COV YES 23-01-2019
+15940 Amanda Barton Turkey 17 COVID-2019 YES 29-05-2000
+9353 Stephanie Lopez Turkey 76 EVD NO
+75074 Jane Edwards Turkey 13 MERS-COV NO
+92761 Brandi Cameron Turkey 37 COVID-2019 NO
+52670 Julia Wade Turkey 27 MERS-COV NO
+93887 Shane Cain Turkey 31 EVD NO
+35744 Denise Peterson Turkey 72 SARS-COV-2 YES 16-12-2006
+18614 Gary Gray Turkey 74 COVID-2019 NO
+25372 Hannah Fox Turkey 48 SARS-COV-2 YES 27-07-2008
+30347 Alicia Dodson Turkey 44 SARS-COV-2 YES 08-02-2001
+56513 Amanda Jackson Turkey 57 EVD YES 12-03-2010
+60896 Christina Strickland Turkey 79 EVD NO
+5817 Rachel Green Turkey 15 FLU-2018 NO
+71056 Thomas James Turkey 75 FLU-2018 YES 03-11-2005
+16227 Jonathan Brown Turkey 56 SARS-COV-2 NO
+57591 Tracy Garrison Turkey 79 SARS-COV-2 YES 23-09-2020
+66766 Dawn Henry Turkey 32 SARS-1 NO
+71917 Christy Mcintyre Turkey 75 SARS-COV-2 NO
+21909 Kimberly Pena Turkey 23 H1N1 YES 16-07-2016
+93099 Leslie Roy Turkey 69 SARS-1 NO
+83909 Ian Quinn Turkey 34 FLU-2018 YES 30-11-2018
+81757 Bryan Tyler Turkey 63 EVD YES 16-01-2002
+32649 Tracy Ellis Turkey 19 H1N1 YES 16-12-2000
+71163 Bryan Weiss Turkey 18 COVID-2019 NO
+16633 Carl Hutchinson Turkey 31 FLU-2018 YES 26-08-2018
+99532 Manuel Li Turkey 44 EVD YES 22-01-2016
+2286 Craig Smith Turkey 71 SARS-1 NO
+54946 Jennifer Brooks Turkey 51 SARS-COV-2 NO
+20842 Jennifer Bell Turkey 47 MERS-COV YES 20-11-2005
+73856 Matthew Brown Turkey 39 COVID-2019 YES 21-05-2001
+39882 Larry Parker Turkey 27 H1N1 NO
+97738 Renee Jackson Turkey 12 H1N1 YES 19-07-2017
+89599 Sara Edwards Turkey 14 SARS-1 YES 14-02-2018
+15001 Tracy Sandoval Turkey 57 MERS-COV NO
+52405 Courtney Cantrell Turkey 48 EVD YES 22-12-2019
+6994 Mary Harris Turkey 41 MERS-COV NO
+18133 Shannon Caldwell Turkey 32 COVID-2019 YES 08-10-2018
+53515 Trevor Simon Turkey 20 MERS-COV NO
+96642 Matthew Johnson Turkey 11 EVD NO
+4279 Diana Rodriguez Turkey 38 COVID-2019 YES 17-02-2008
+69318 Heather Wade Turkey 79 SARS-1 NO
+87506 Sheila Rodgers Turkey 14 COVID-2019 YES 02-12-2009
+47510 Daniel Gonzales Turkey 33 H1N1 NO
+79324 Judith Morris Turkey 53 FLU-2018 YES 07-07-2014
+62136 Robert Bates Turkey 66 FLU-2018 YES 14-06-2020
+83282 Troy Evans Turkey 23 SARS-COV-2 NO
+2713 Nicholas Smith Turkey 28 H1N1 YES 23-03-2012
+75167 Jonathan Thomas Turkey 49 SARS-1 YES 20-02-2019
+59507 Scott Hughes Turkey 29 SARS-COV-2 NO
+74414 Robin Sanchez Turkey 45 FLU-2018 NO
+60664 Darryl Rodriguez Turkey 59 EVD YES 30-04-2018
+72899 Jennifer Stanley Turkey 53 H1N1 YES 23-06-2004
+94542 Michael Kirby Turkey 14 MERS-COV NO
+37678 Jon Moore Turkey 21 MERS-COV NO
+12259 Christopher Pacheco Turkey 75 SARS-1 NO
+54191 Elizabeth Farmer Turkey 30 H1N1 NO
+64320 Christine Hall Turkey 30 EVD YES 30-11-2001
+59001 Christian Bennett Turkey 61 SARS-COV-2 NO
+44372 Julie Thomas Turkey 72 SARS-COV-2 NO
+4596 Kathleen Stanley Turkey 60 MERS-COV NO
+19690 Andrew Rogers Turkey 16 SARS-1 YES 18-11-2009
+30343 Misty Allen Turkey 55 EVD NO
+16123 Arthur Brown Turkey 29 EVD NO
+17485 Rachel Blackwell Turkey 34 FLU-2018 NO
+85190 Jonathan Hansen Turkey 49 FLU-2018 NO
+28031 Trevor Bolton Turkey 24 MERS-COV YES 31-01-2008
+98291 Daniel Carter Turkey 52 MERS-COV NO
+72888 Stephanie Yates Turkey 27 EVD YES 13-10-2010
+44325 Kimberly Peterson Turkey 79 H1N1 YES 19-06-2014
+7579 Jared Parker Turkey 33 FLU-2018 NO
+13511 Lisa Scott Turkey 34 COVID-2019 NO
+42467 Richard Nguyen Turkey 76 SARS-COV-2 YES 13-07-2007
+50255 Cody Perez Turkey 68 COVID-2019 YES 07-07-2019
+13168 Frank Warren Turkey 78 MERS-COV YES 15-04-2018
+52907 Tyler Strong Turkey 47 COVID-2019 YES 05-06-2007
+16251 Matthew Miranda Turkey 12 FLU-2018 YES 22-02-2010
+97321 Jose Conrad Turkey 24 MERS-COV NO
+595 Susan Nguyen Turkey 16 H1N1 YES 24-06-2007
+24469 Kimberly Chen Turkey 35 SARS-1 NO
+28423 Theresa Finley Turkey 72 SARS-COV-2 NO
+12109 Andrew Cameron Turkey 48 EVD YES 10-03-2008
+56356 Jason Reyes Turkey 24 SARS-COV-2 NO
+93636 Jonathan Ruiz Turkey 36 SARS-COV-2 NO
+82945 Stephanie Torres Turkey 76 MERS-COV YES 13-01-2021
+73078 Jordan Hansen Turkey 71 FLU-2018 YES 22-09-2004
+66272 Brittany Fields Turkey 66 COVID-2019 YES 08-07-2009
+58924 Mark Ferguson Turkey 79 MERS-COV YES 06-03-2017
+79206 Pamela Harris Turkey 13 SARS-COV-2 NO
+61358 Sean James Turkey 74 SARS-1 NO
+38677 Anthony Singh Turkey 25 EVD YES 20-09-2019
+80050 Joseph Harris Turkey 52 H1N1 NO
+57317 Thomas Carrillo Turkey 28 EVD YES 30-11-2019
+70591 Melissa Garza Turkey 43 H1N1 YES 26-10-2000
+6792 Tiffany Rodriguez Turkey 55 FLU-2018 NO
+4006 Brandy Freeman Turkey 37 COVID-2019 NO
+62049 Phillip Williams Turkey 28 H1N1 YES 30-05-2016
+86752 James Brown Turkey 22 COVID-2019 NO
+74564 Kathleen Kelly Turkey 11 SARS-COV-2 YES 05-05-2005
+13737 Jessica Stephenson Turkey 11 COVID-2019 NO
+40705 Richard Finley Turkey 36 H1N1 NO
+71724 Amy Simmons Turkey 69 SARS-COV-2 NO
+35285 Allison Warren Turkey 37 COVID-2019 NO
+926 Ashley Woods Turkey 44 SARS-COV-2 NO
+30866 Matthew Terrell Turkey 46 H1N1 YES 25-12-2002
+13277 James Irwin Turkey 37 COVID-2019 NO
+97656 Michael Rivera Turkey 10 H1N1 YES 15-08-2012
+78599 Richard King Turkey 33 MERS-COV YES 14-02-2016
+5230 Patricia Pitts Turkey 57 FLU-2018 NO
+78449 Margaret Rodriguez Turkey 15 MERS-COV YES 19-01-2019
+80232 Teresa Young Turkey 39 MERS-COV NO
+90035 Theresa Edwards Turkey 21 SARS-COV-2 YES 14-06-2015
+37125 Kimberly Durham Turkey 60 SARS-1 NO
+9339 Amy Castillo Turkey 46 MERS-COV NO
+12220 Joshua Cunningham Turkey 24 SARS-COV-2 YES 03-03-2016
+84700 Amy Ochoa Turkey 55 SARS-1 YES 06-02-2014
+94254 Gary Byrd Turkey 74 MERS-COV NO
+34880 Sarah Mitchell Turkey 20 H1N1 NO
+7048 Hunter Park Turkey 25 COVID-2019 YES 30-12-2005
+6017 Brittany Johnson Turkey 26 COVID-2019 NO
+65960 Tonya Miller Turkey 79 SARS-1 NO
+58706 Mario Walker Turkey 62 EVD YES 02-06-2006
+26256 Marc Evans Turkey 15 MERS-COV YES 13-02-2003
+91896 Marvin Williams Turkey 34 EVD YES 04-05-2011
+36202 Alexander Taylor Turkey 39 SARS-1 YES 15-06-2018
+62562 Jerry Wagner Turkey 58 SARS-COV-2 NO
+52795 Dillon Jackson Turkey 67 EVD YES 02-02-2004
+10090 Jamie James Turkey 78 MERS-COV YES 21-02-2018
+61108 Jeanette Kennedy Turkey 35 SARS-1 YES 10-11-2011
+88850 Ashley Carpenter Turkey 15 MERS-COV YES 28-07-2008
+63839 Benjamin Mclaughlin Turkey 45 SARS-1 YES 06-11-2019
+39926 Richard Smith Turkey 20 FLU-2018 NO
+37469 Jeremy Nicholson Turkey 33 EVD NO
+41277 Nicholas Bowman Turkey 74 FLU-2018 NO
+71448 Randy James Turkey 23 COVID-2019 NO
+52576 Oscar Smith Turkey 72 SARS-COV-2 NO
+59733 Miguel Crosby Turkey 64 COVID-2019 YES 14-11-2002
+48680 Jeffrey Ortiz Turkey 32 SARS-COV-2 YES 14-03-2011
+83954 Shannon Moore Turkey 37 COVID-2019 YES 17-10-2015
+24280 Kevin Lewis Turkey 79 MERS-COV YES 09-05-2011
+96696 Crystal Carey Turkey 36 SARS-COV-2 YES 10-06-2020
+20517 Alan Werner Turkey 52 H1N1 YES 02-11-2010
+17095 Tammy Donaldson Turkey 53 MERS-COV YES 01-11-2002
+7655 Thomas Morris Turkey 24 SARS-1 NO
+94517 Jeremiah Tran Turkey 11 H1N1 NO
+24876 Mackenzie Bennett Turkey 20 EVD YES 06-09-2020
+81563 Bradley Scott Turkey 47 COVID-2019 YES 21-03-2018
+11647 Jasmine Manning Turkey 51 SARS-1 NO
+17318 Penny Morris Turkey 46 COVID-2019 NO
+39911 Lorraine Walker Turkey 68 H1N1 YES 22-05-2001
+411 Jenna Collins Turkey 34 FLU-2018 YES 30-04-2005
+75942 Patricia Lee Turkey 42 SARS-COV-2 YES 08-04-2018
+93040 Christopher Snyder Turkey 70 EVD NO
+25802 Robin Lopez Turkey 70 COVID-2019 YES 08-01-2012
+80679 Stephanie Collins Turkey 18 EVD NO
+13689 Douglas Brown Turkey 46 FLU-2018 YES 24-06-2007
+82966 Michelle Garza Turkey 50 MERS-COV YES 02-07-2018
+13247 Sean Greene Turkey 34 EVD NO
+13518 Michelle Woodard Turkey 62 EVD YES 06-09-2011
+77731 Kelly Marsh Turkey 33 SARS-1 YES 01-10-2012
+8676 Stephanie Ortiz Turkey 16 MERS-COV YES 04-11-2015
+62340 Pamela Castro Turkey 57 SARS-1 NO
+81340 Melvin Vega Turkey 24 H1N1 YES 17-07-2000
+26278 Jonathan Brown Turkey 73 SARS-COV-2 NO
+65999 Joseph Parker Turkey 74 SARS-1 YES 13-01-2002
+91313 Christopher Jackson Turkey 68 H1N1 NO
+19487 Michael Murray Turkey 72 EVD NO
+46725 Alexander Gill Turkey 37 SARS-1 NO
+27267 Danielle Lynch Turkey 72 EVD NO
+692 Douglas Joseph Turkey 56 H1N1 YES 01-11-2020
+43109 Brandon Perez Turkey 76 SARS-COV-2 YES 16-06-2009
+53742 Daniel Castaneda Turkey 73 EVD NO
+94478 John Williams Turkey 62 MERS-COV NO
+78698 Christopher Hughes Turkey 68 EVD YES 15-01-2011
+44645 Hannah Wilkins Turkey 51 SARS-1 NO
+25338 Emily Patterson Turkey 48 MERS-COV NO
+16298 Kevin Nelson Turkey 65 EVD NO
+54535 Cynthia Carlson Turkey 19 SARS-COV-2 YES 31-12-2009
+8805 Nancy Marshall Turkey 39 COVID-2019 YES 16-02-2009
+18807 Susan Spencer Turkey 51 MERS-COV YES 26-10-2014
+50564 Sarah West Turkey 11 SARS-COV-2 YES 28-11-2003
+70603 Timothy Porter Turkey 76 SARS-1 YES 29-03-2018
+25663 Austin Lopez Turkey 69 COVID-2019 YES 26-02-2009
+38476 Joseph Harris Turkey 54 H1N1 NO
+23018 Angela Mcmillan Turkey 53 EVD NO
+44212 Steven Frey Turkey 56 H1N1 NO
+93186 Charles Evans Turkey 25 SARS-1 YES 23-11-2008
+30463 Catherine Lee Turkey 64 SARS-1 YES 15-10-2009
+3842 James Murillo Turkey 45 COVID-2019 NO
+13099 Peggy Thompson Turkey 54 FLU-2018 NO
+82533 Nicole Garcia Turkey 60 MERS-COV YES 24-11-2011
+86466 Tony Dunn Turkey 68 MERS-COV NO
+86056 Jeffrey Reynolds Turkey 62 SARS-COV-2 YES 14-12-2010
+64217 Alexandra Wood Turkey 36 EVD NO
+75759 Christine Scott Turkey 49 SARS-1 NO
+48788 Tracy Higgins Turkey 50 H1N1 YES 21-05-2017
+57645 Denise Lee Turkey 61 H1N1 NO
+65590 Ryan Meyer Turkey 74 SARS-1 YES 10-12-2000
+90919 Sarah Joseph Turkey 13 SARS-COV-2 NO
+86158 Kathryn Stewart Turkey 42 SARS-COV-2 NO
+17662 Curtis Gomez Turkey 64 EVD NO
+85411 Brooke Mckenzie Turkey 60 H1N1 YES 04-12-2009
+29055 Bethany Alexander Turkey 79 MERS-COV YES 18-09-2016
+54779 Tom Dean Turkey 19 COVID-2019 YES 28-06-2018
+19151 Kim Foster Turkey 15 EVD YES 12-07-2004
+58723 Samantha Orr Turkey 77 EVD YES 16-02-2015
+12244 Kelly Stewart Turkey 45 SARS-1 YES 30-12-2007
+18393 Mary Fowler Turkey 22 COVID-2019 NO
+86053 Tami Payne Turkey 28 SARS-COV-2 YES 15-08-2013
+54231 Julia Norris Turkey 29 MERS-COV YES 10-06-2019
+5830 William Case Turkey 39 H1N1 YES 11-07-2018
+70010 Tina Murphy Turkey 65 SARS-1 NO
+79311 Christopher Oliver Turkey 31 MERS-COV YES 13-04-2015
+66760 Andrew Allison Turkey 77 FLU-2018 YES 03-05-2009
+31829 Stanley Moore Turkey 72 FLU-2018 NO
+11393 Kristin Mendoza Turkey 63 H1N1 NO
+25845 Deborah Anderson Turkey 10 H1N1 YES 13-06-2020
+39655 Geoffrey Mcdonald Turkey 27 SARS-1 YES 02-06-2011
+19071 Felicia Goodman Turkey 69 SARS-1 YES 11-09-2010
+46603 Carrie Taylor Turkey 24 MERS-COV NO
+74134 Donald Thornton Turkey 66 COVID-2019 YES 24-07-2009
+91702 Amber Valdez Turkey 17 EVD YES 27-02-2009
+15060 Lindsay Meyers Turkey 19 MERS-COV NO
+58416 Sharon Wood Turkey 12 MERS-COV YES 13-03-2014
+28826 Jenna Hughes Turkey 47 COVID-2019 YES 15-01-2020
+71209 Randy Stout Turkey 58 COVID-2019 NO
+32228 Robin Baker Turkey 60 COVID-2019 NO
+48888 Brandon Morrow Turkey 13 SARS-1 YES 27-01-2005
+19889 Brandy Rogers Turkey 28 MERS-COV YES 14-03-2008
+35705 Susan Delgado Turkey 49 SARS-COV-2 NO
+77579 Caitlin Jimenez Turkey 22 SARS-1 YES 12-08-2019
+74292 Martha Campbell Turkey 50 SARS-COV-2 NO
+32086 Dana Peterson Turkey 67 EVD YES 12-02-2006
+14664 David Martinez Turkey 26 COVID-2019 YES 19-01-2012
+59901 Sean Benton Turkey 67 MERS-COV NO
+46232 Phillip Green Turkey 50 MERS-COV NO
+41120 Christina Johnston Turkey 22 SARS-COV-2 YES 19-12-2018
+28434 Mark Stokes Turkey 76 COVID-2019 YES 10-06-2009
+49925 Frances Rios Turkey 48 COVID-2019 NO
+14428 Francisco Sanchez Turkey 37 MERS-COV NO
+50135 Anna Johnson Turkey 30 SARS-COV-2 YES 07-10-2016
+99737 Amy Leon Turkey 28 H1N1 NO
+70340 Julie Garrison Turkey 56 SARS-1 YES 20-05-2010
+4867 Dean Logan Turkey 45 EVD YES 27-03-2015
+42061 Kevin Leblanc Turkey 28 FLU-2018 YES 30-04-2014
+41540 Natasha Bennett Turkey 76 EVD NO
+72461 Stacy Lane Turkey 69 FLU-2018 NO
+46184 Caitlin Munoz Turkey 23 COVID-2019 NO
+28784 Denise Osborn Turkey 69 SARS-1 YES 22-05-2001
+65983 Kristen Hicks Turkey 55 SARS-1 YES 28-09-2007
+63454 Bradley Huynh Turkey 68 H1N1 NO
+77091 Madison Shah Turkey 66 SARS-COV-2 NO
+49649 Daniel Stewart Turkey 31 SARS-COV-2 NO
+15538 Beth Lawson Turkey 41 H1N1 NO
+25462 Morgan Novak Turkey 66 H1N1 NO
+26391 Joshua Hughes Turkey 27 EVD NO
+60997 Kelli Thomas Turkey 46 MERS-COV YES 07-03-2017
+56348 Katelyn Henry Turkey 66 COVID-2019 NO
+18021 Justin Howard Turkey 53 COVID-2019 YES 30-05-2001
+64827 Cheryl Edwards Turkey 73 H1N1 NO
+77430 Harry Jones Turkey 77 MERS-COV YES 25-10-2017
+89334 Philip Cohen Turkey 49 COVID-2019 YES 03-05-2013
+24187 Sheila Wang Turkey 32 COVID-2019 YES 03-05-2019
+32265 Willie Baird Turkey 50 H1N1 NO
+41051 Sarah Delgado Turkey 12 SARS-COV-2 NO
+92189 Brandon Berry Turkey 15 SARS-1 NO
+51621 Alicia Miller Turkey 65 FLU-2018 NO
+29165 Andrea Moody Turkey 72 EVD YES 07-07-2006
+27565 Dean Foster Turkey 17 COVID-2019 YES 21-05-2005
+65140 John Bird Turkey 60 COVID-2019 YES 09-09-2016
+17516 Scott Mitchell Turkey 53 EVD NO
+35114 Katherine Young Turkey 23 SARS-1 YES 28-04-2000
+77810 John Combs Turkey 76 SARS-COV-2 NO
+88367 Jon Tran Turkey 18 FLU-2018 NO
+59503 Gerald Johnson Turkey 20 H1N1 NO
+36732 Victor Dunlap Turkey 65 MERS-COV YES 27-02-2002
+11974 Amanda Young Turkey 57 COVID-2019 YES 03-02-2005
+22952 Stephanie Barnett Turkey 21 SARS-1 YES 31-05-2007
+38564 Barry Gray Turkey 59 MERS-COV NO
+23400 Matthew Parks Turkey 65 COVID-2019 YES 13-08-2001
+60619 Johnny Lopez Turkey 21 COVID-2019 YES 11-12-2000
+85885 Jacob Patterson Turkey 52 SARS-COV-2 YES 27-03-2013
+80354 Candice Conrad Turkey 13 SARS-1 NO
+1991 Deborah Rodriguez Turkey 57 MERS-COV NO
+66527 Joshua Brewer Turkey 58 FLU-2018 YES 07-07-2013
+78856 Cody Buckley Turkey 74 EVD NO
+4676 William Pierce Turkey 21 H1N1 YES 22-10-2018
+8247 Pamela Moss Turkey 70 H1N1 YES 04-02-2014
+82248 Robert Taylor Turkey 58 H1N1 NO
+15896 Jill Williams Turkey 18 SARS-1 NO
+89734 Mark Burton Turkey 41 H1N1 NO
+24484 Carol Smith Turkey 30 MERS-COV NO
+23162 Andrew Kelley Turkey 17 SARS-COV-2 NO
+49996 Mary Mann Turkey 11 MERS-COV YES 21-04-2010
+95496 Makayla Barton Turkey 58 COVID-2019 YES 06-03-2015
+6065 Christopher Young Turkey 28 FLU-2018 NO
+34361 Joshua Fisher Turkey 36 SARS-1 NO
+79742 Kathryn Hensley Turkey 78 COVID-2019 YES 08-04-2013
+95344 Kathy Golden Turkey 78 SARS-1 YES 31-01-2007
+59699 Denise Duarte Turkey 57 EVD YES 08-03-2000
+18883 Michael Blake Turkey 31 MERS-COV NO
+74505 Kenneth Castillo Turkey 76 COVID-2019 NO
+86851 Virginia Barnett Turkey 25 EVD NO
+60039 Denise Alvarez Turkey 79 FLU-2018 NO
+42593 Dominic Martin Turkey 47 FLU-2018 YES 02-07-2002
+69494 Emily Hernandez Turkey 27 SARS-1 YES 12-11-2005
+46260 Peter Vang Turkey 57 H1N1 YES 20-11-2007
+88923 Nicole Harris Turkey 16 COVID-2019 YES 23-01-2011
+68900 John Martin Turkey 70 H1N1 NO
+86556 Ray Cardenas Turkey 23 SARS-COV-2 NO
+24221 Joseph Kim Turkey 72 H1N1 NO
+39026 Carla Greene Turkey 21 MERS-COV NO
+92248 Dalton Stone Turkey 39 SARS-1 NO
+3284 Ellen Lam Turkey 77 SARS-COV-2 NO
+73257 Rachel Torres Turkey 46 COVID-2019 YES 17-08-2017
+913 Jessica Miller Turkey 77 COVID-2019 YES 30-11-2018
+16493 Robert Li Turkey 40 SARS-COV-2 YES 25-12-2011
+39451 Trevor Jordan Turkey 63 EVD YES 17-06-2014
+74243 David Steele Turkey 71 COVID-2019 YES 13-02-2014
+63343 Lisa May Turkey 55 SARS-COV-2 NO
+22612 Megan Jones Turkey 38 MERS-COV NO
+77679 Dana Moore Turkey 23 EVD YES 16-12-2016
+16311 Mary Moreno Turkey 69 H1N1 YES 29-10-2004
+83596 Anna Wilson Turkey 35 COVID-2019 NO
+25488 Alisha Calderon Turkey 32 H1N1 NO
+2972 Charles Kelley Turkey 23 SARS-COV-2 NO
+24812 Francis Duffy Turkey 30 EVD YES 06-03-2004
+83059 John Gibson Turkey 47 FLU-2018 YES 26-07-2008
+95570 Larry Smith Turkey 60 EVD NO
+71985 Amanda Stewart Turkey 40 SARS-COV-2 YES 09-09-2009
+49459 Anna Rush Turkey 26 SARS-1 YES 27-03-2004
+68564 Alfred Wheeler Turkey 67 COVID-2019 NO
+43597 Lisa Smith Turkey 73 H1N1 YES 30-11-2000
+53073 Eric Mclean Turkey 75 COVID-2019 YES 02-03-2020
+18157 Megan Mcmahon Turkey 68 SARS-1 YES 14-10-2005
+49846 Lauren Lewis Turkey 22 EVD NO
+77643 Aaron Jackson Turkey 53 FLU-2018 NO
+7496 John Carey Turkey 36 MERS-COV YES 02-04-2016
+34296 Stephanie Jenkins Turkey 18 H1N1 NO
+74766 Kayla Carson Turkey 71 SARS-COV-2 YES 10-11-2008
+56509 John Phillips Turkey 42 H1N1 YES 04-05-2000
+21234 Joseph Salazar Turkey 63 FLU-2018 YES 08-01-2006
+66478 Alexandra Mullins Turkey 16 SARS-COV-2 NO
+11537 Stacey Jones Turkey 29 MERS-COV YES 08-04-2001
+87388 Jenny Gibson Turkey 69 EVD NO
+69857 Amy Barber Turkey 53 H1N1 YES 05-05-2016
+42963 Andrew Smith Turkey 53 SARS-COV-2 YES 28-05-2001
+92469 Tammy Baker Turkey 39 FLU-2018 NO
+66263 Anna Chan Turkey 21 COVID-2019 NO
+95571 Nicole Thompson Turkey 20 H1N1 NO
+98850 Craig Hoover Turkey 45 FLU-2018 YES 05-03-2009
+66111 David Kelly Turkey 60 EVD YES 18-05-2014
+48941 Jennifer Cooper Turkey 28 SARS-COV-2 NO
+32151 David Williams Turkey 54 EVD NO
+873 William Walters Turkey 70 EVD NO
+15505 Zachary Richards Turkey 25 SARS-1 YES 08-10-2013
+33208 Keith Brown Turkey 42 FLU-2018 YES 20-01-2009
+31334 Kelly Lewis Turkey 33 COVID-2019 NO
+33006 Ronnie Petty Turkey 30 FLU-2018 NO
+51556 Jeremy Curry Turkey 27 COVID-2019 NO
+14979 Kayla Hernandez Turkey 77 SARS-COV-2 NO
+89825 Felicia Bailey Turkey 21 MERS-COV NO
+62249 David Wilcox Turkey 29 MERS-COV YES 23-08-2006
+47639 Mallory Shelton Turkey 74 SARS-COV-2 NO
+27823 Timothy Zhang Turkey 27 COVID-2019 YES 25-11-2018
+77857 Robert Wheeler Turkey 75 EVD YES 24-11-2018
+84297 Erika Richmond Turkey 60 SARS-COV-2 YES 01-06-2019
+20718 Jerry Greer Turkey 27 H1N1 NO
+83400 Stacy Brooks Turkey 78 EVD NO
+802 Brian Brown Turkey 44 EVD YES 31-07-2010
+62781 Connie Bailey Turkey 31 MERS-COV YES 16-12-2014
+8511 Ryan Brown Turkey 48 SARS-1 YES 22-03-2010
+2994 Jennifer Hickman Turkey 71 COVID-2019 NO
+24473 Elizabeth Powell Turkey 58 SARS-COV-2 YES 03-11-2011
+15562 Susan Wagner Turkey 21 COVID-2019 YES 12-09-2005
+33146 Laura Frye Turkey 67 EVD NO
+74911 Kurt Miller Turkey 65 SARS-1 YES 11-10-2020
+75692 Alexandria Meza Turkey 24 SARS-1 NO
+93768 Sheena Martin Turkey 75 SARS-1 YES 19-06-2013
+20141 David Smith Turkey 59 SARS-1 NO
+49845 Brian Pacheco Turkey 31 MERS-COV YES 06-11-2011
+44521 Robert Simmons Turkey 50 FLU-2018 NO
+94783 Julian Mcdaniel Turkey 51 SARS-COV-2 NO
+32129 Alyssa Williams Turkey 61 FLU-2018 YES 31-10-2020
+25030 Joseph Wells Turkey 27 SARS-1 NO
+76767 Jennifer Mcgee Turkey 57 EVD NO
+20534 Joseph Taylor Turkey 33 SARS-COV-2 NO
+20166 Brooke Kim Turkey 23 FLU-2018 YES 14-01-2017
+79443 Michael Thomas Turkey 68 SARS-1 YES 03-09-2014
+38946 Melissa Williams Turkey 29 SARS-1 NO
+91255 Tyler Davis Turkey 70 SARS-COV-2 YES 18-01-2005
+54020 Erin Mccarty Turkey 53 COVID-2019 NO
+28137 David Shepard Turkey 73 FLU-2018 YES 07-03-2015
+91265 Tamara Barnes Turkey 20 COVID-2019 YES 02-02-2012
+30164 Michael Peterson Turkey 28 EVD YES 29-07-2010
+32450 John Marshall Turkey 72 SARS-COV-2 NO
+74703 Melinda Stewart Turkey 19 MERS-COV NO
+6073 Sydney Davis Turkey 43 H1N1 NO
+16286 Krystal Cunningham Turkey 22 MERS-COV NO
+91887 William Jones Turkey 78 COVID-2019 NO
+3543 Jennifer Taylor Turkey 33 H1N1 NO
+52822 Ryan Taylor Turkey 48 SARS-COV-2 NO
+53026 Dawn Lynch Turkey 65 COVID-2019 YES 04-05-2001
+90619 Brenda Nelson Turkey 57 H1N1 NO
+98325 Lisa Hensley Turkey 13 SARS-COV-2 NO
+77177 Andrew Alvarez Turkey 74 SARS-1 NO
+45936 Terrance Buchanan Turkey 71 MERS-COV NO
+39102 Karen Stewart Turkey 10 FLU-2018 YES 16-11-2007
+22944 Angela Brown Turkey 12 MERS-COV NO
+64770 Matthew Smith Turkey 48 EVD NO
+52144 Patrick Richardson Turkey 58 SARS-1 YES 16-01-2000
+51043 Melissa Powell Turkey 15 H1N1 NO
+56180 Amanda Rose Turkey 22 FLU-2018 YES 20-02-2017
+8114 John Holmes Turkey 69 EVD NO
+2485 Crystal Garza Turkey 30 SARS-COV-2 YES 09-10-2004
+79658 John Landry Turkey 40 MERS-COV YES 18-01-2014
+16922 Amanda White Turkey 72 H1N1 NO
+44992 Theresa Rivers Turkey 33 SARS-COV-2 YES 05-01-2013
+33631 Paul Jones Turkey 73 SARS-COV-2 NO
+29776 Lindsey Hodges Turkey 78 MERS-COV YES 11-12-2009
+39482 James Martinez Turkey 71 FLU-2018 NO
+54348 Nichole Alexander Turkey 31 H1N1 YES 10-05-2008
+62382 Pamela Watson Turkey 27 EVD YES 03-06-2007
+66250 David Cruz Turkey 15 EVD NO
+71301 Samantha Olson Turkey 65 EVD YES 29-08-2000
+92463 David Herrera Turkey 44 EVD NO
+47247 David Carpenter Turkey 68 H1N1 YES 06-02-2008
+27162 Paige Scott Turkey 45 MERS-COV NO
+42935 Thomas Simon Turkey 22 SARS-1 NO
+17641 Andrew Zavala Turkey 76 EVD YES 13-04-2010
+83992 Brian Wilson Turkey 58 MERS-COV YES 14-03-2014
+42191 Eric Molina Turkey 49 SARS-COV-2 NO
+65318 Chad Boyd Turkey 47 H1N1 YES 16-10-2002
+44853 Mary Zhang Turkey 48 SARS-COV-2 YES 12-10-2015
+98824 David Gonzalez Turkey 60 SARS-1 YES 28-05-2016
+30534 Amanda Meyer Turkey 12 SARS-COV-2 YES 18-06-2008
+252 Gary Garcia Turkey 16 SARS-COV-2 YES 22-07-2008
+88293 Colleen Cordova Turkey 21 H1N1 NO
+54458 Michele Carpenter Turkey 39 SARS-COV-2 NO
+99977 Larry Nguyen Turkey 13 H1N1 YES 22-07-2016
+19959 Megan Davis Turkey 24 COVID-2019 YES 03-07-2011
+72281 Scott Fox Turkey 29 EVD NO
+84051 Jimmy Olson Turkey 77 H1N1 NO
+40044 Stephen Garcia Turkey 39 SARS-COV-2 YES 27-04-2015
+16728 Eric Stokes Turkey 17 MERS-COV YES 14-08-2018
+25639 Tracy Jones Turkey 26 MERS-COV NO
+53534 Christopher Davis Turkey 13 SARS-1 NO
+79602 Antonio Clark Turkey 71 SARS-COV-2 YES 04-01-2004
+92831 Christopher Lopez Turkey 55 SARS-COV-2 YES 30-10-2013
+55636 Amanda Hernandez Turkey 77 COVID-2019 YES 28-06-2012
+22914 Corey Dickerson Turkey 72 H1N1 NO
+24843 Kyle Sullivan Turkey 27 SARS-1 NO
+24937 Eric Sanford Turkey 24 SARS-1 NO
+67699 Thomas Howe Turkey 69 EVD NO
+37857 Allison Hampton Turkey 54 SARS-COV-2 YES 21-01-2016
+5909 Eric Brooks Turkey 10 SARS-1 YES 30-05-2012
+39602 Robert Little Turkey 14 SARS-COV-2 NO
+53858 Joan Johnson Turkey 79 FLU-2018 NO
+18642 Laura Wright Turkey 14 SARS-COV-2 YES 14-10-2002
+82119 John Garcia Turkey 24 COVID-2019 YES 16-03-2021
+56402 Sean Kennedy Turkey 71 SARS-COV-2 NO
+5492 Latasha Wilkins Turkey 77 COVID-2019 YES 06-04-2018
+39998 Jason Fleming Turkey 42 SARS-COV-2 YES 17-03-2013
+49606 Stacey Cook Turkey 10 FLU-2018 YES 02-01-2005
+58951 Mary Jones Turkey 37 H1N1 YES 07-06-2010
+81765 Terri Carr Turkey 51 FLU-2018 YES 01-05-2017
+57147 Andrew Warren Turkey 11 COVID-2019 YES 14-07-2009
+6193 Thomas Gray Turkey 69 COVID-2019 NO
+81409 Joshua Baldwin Turkey 67 H1N1 NO
+66423 David Diaz Turkey 32 SARS-COV-2 YES 04-06-2013
+4488 Daniel Brown Turkey 30 MERS-COV NO
+12271 Roberto Ryan Turkey 25 COVID-2019 YES 19-03-2002
+42434 Betty Anderson Turkey 63 SARS-COV-2 NO
+85900 Michelle Weaver Turkey 61 SARS-1 NO
+86844 Daniel Wade Turkey 39 H1N1 NO
+98789 Angela Warner Turkey 19 SARS-1 YES 18-07-2003
+56205 Andrew Randall Turkey 13 SARS-1 YES 15-06-2010
+69676 Tony Howell Turkey 73 SARS-1 YES 01-10-2010
+8233 Danny Bryant Turkey 48 H1N1 YES 12-11-2018
+88000 Christine Mendez Turkey 73 FLU-2018 NO
+90463 James Johnson Turkey 17 MERS-COV NO
+22393 Kayla Brown Turkey 12 EVD NO
+89768 Robert Long Turkey 78 SARS-1 NO
+3177 Corey Schmitt Turkey 27 SARS-1 NO
+9976 Kimberly Thomas Turkey 65 EVD YES 16-11-2011
+96819 Jose Ramirez Turkey 54 EVD YES 26-06-2009
+34152 Kevin Olsen Turkey 11 H1N1 NO
+33572 Anna Davis Turkey 69 SARS-1 YES 04-10-2005
+49879 Eric Johnson Turkey 44 EVD YES 01-07-2018
+42879 Elizabeth Villarreal Turkey 73 SARS-1 NO
+42747 Emily Bell Turkey 34 EVD NO
+14765 Stephanie Reed Turkey 32 MERS-COV YES 15-05-2011
+83096 Kevin King Turkey 66 H1N1 YES 19-02-2013
+98994 Bill Martin Turkey 32 EVD YES 13-04-2000
+51833 Susan Smith Turkey 68 SARS-1 NO
+69423 Michael Weaver Turkey 71 SARS-COV-2 YES 15-02-2001
+93047 Troy Brooks Turkey 25 EVD YES 19-04-2003
+48253 Jamie Palmer Turkey 60 H1N1 YES 13-02-2017
+19197 Ariel Patel Turkey 73 H1N1 NO
+85978 Laura Miller Turkey 76 SARS-COV-2 YES 07-03-2002
+89125 Michaela Jones Turkey 79 SARS-COV-2 YES 09-01-2018
+57330 Linda Gutierrez Turkey 50 H1N1 YES 25-04-2014
+27451 Gerald Turner Turkey 14 SARS-COV-2 NO
+65172 Paul Jones Turkey 42 H1N1 YES 03-11-2020
+79318 Gail Huff Turkey 12 FLU-2018 NO
+38900 William Sandoval Turkey 64 EVD YES 17-07-2011
+27724 Tami Zimmerman Turkey 43 COVID-2019 YES 25-03-2009
+93000 Bryan Craig Turkey 66 MERS-COV NO
+1462 Rebecca Weber Turkey 18 SARS-1 NO
+75263 Brett Olson Turkey 68 FLU-2018 NO
+8737 Monica Boyle Turkey 25 FLU-2018 NO
+88220 Ryan Alexander Turkey 47 H1N1 YES 13-08-2011
+62352 Sandra Roy Turkey 19 H1N1 YES 10-06-2004
+31669 Kaitlyn Lewis Turkey 65 COVID-2019 NO
+82979 Whitney Martinez Turkey 36 FLU-2018 NO
+51091 Mary Miller Turkey 31 FLU-2018 NO
+75145 Leslie Crawford Turkey 32 MERS-COV NO
+50111 Cassidy Pena Turkey 26 SARS-1 NO
+14963 Kristen Martinez Turkey 59 COVID-2019 YES 26-10-2015
+44653 Adam Johnson Turkey 50 MERS-COV YES 16-08-2016
+57557 Stephanie Jacobs Turkey 34 MERS-COV NO
+12643 James Turner Turkey 45 COVID-2019 NO
+88634 Keith James Turkey 27 SARS-1 YES 07-01-2014
+84540 Emily Rogers Turkey 64 H1N1 NO
+77938 David White Turkey 77 SARS-COV-2 YES 21-06-2019
+52046 Gregory Bailey Turkey 31 FLU-2018 NO
+83623 Brett Schmidt Turkey 63 MERS-COV YES 12-02-2001
+18719 Alicia Peters Turkey 62 FLU-2018 NO
+89981 Jeffrey Lawson Turkey 75 H1N1 YES 31-12-2018
+79396 Meghan Kramer Turkey 46 H1N1 YES 22-11-2014
+18169 Elizabeth Gonzalez Turkey 60 H1N1 NO
+22045 Angela Barnes Turkey 45 MERS-COV YES 09-09-2004
+8506 Joshua Stafford Turkey 15 FLU-2018 YES 26-12-2007
+60890 Dana Gonzalez Turkey 19 FLU-2018 YES 02-09-2011
+9991 Megan Martin Turkey 30 SARS-COV-2 NO
+66054 Jeffrey Scott Turkey 36 H1N1 NO
+10469 Deborah Bond Turkey 23 MERS-COV NO
+26679 Hannah Smith Turkey 45 SARS-1 YES 01-12-2002
+96708 Luke Price Turkey 46 MERS-COV YES 02-03-2018
+32403 Sheila Matthews Turkey 45 SARS-COV-2 NO
+73440 Erica Lewis Turkey 26 SARS-COV-2 NO
+33061 Kevin Shaffer Turkey 40 FLU-2018 NO
+22566 Jonathan Murray Turkey 22 H1N1 YES 20-07-2005
+98843 Jennifer Marquez Turkey 60 MERS-COV NO
+58092 Renee Walsh Turkey 60 SARS-1 NO
+31276 Nathaniel Holloway Turkey 63 MERS-COV NO
+66806 Ashley Brooks Turkey 22 EVD NO
+44971 Kathryn White Turkey 69 FLU-2018 YES 09-08-2006
+71827 Derek Ford Turkey 29 MERS-COV NO
+99227 Kristin Brown Turkey 45 SARS-COV-2 YES 10-11-2010
+807 Joan Johnson Turkey 70 COVID-2019 YES 16-03-2014
+90297 Roger Lopez Turkey 32 COVID-2019 NO
+99364 Kenneth Johnson Turkey 37 EVD NO
+66147 Natalie Hardin Turkey 69 SARS-1 YES 01-06-2011
+10059 Andrew Barnett Turkey 15 EVD YES 28-05-2009
+86991 Jessica Hodges Turkey 78 COVID-2019 YES 08-05-2008
+94932 Brian Farley Turkey 58 SARS-COV-2 NO
+95954 Mary Simmons Turkey 54 SARS-1 NO
+45212 Shannon Davis Turkey 69 COVID-2019 NO
+64224 Amy Simmons Turkey 20 SARS-COV-2 YES 23-12-2006
+80608 David Reese Turkey 54 EVD YES 29-08-2014
+31559 Kristina Wolfe Turkey 22 EVD YES 05-08-2005
+34093 Melissa Carpenter Turkey 56 MERS-COV NO
+18365 Katie Reed Turkey 35 H1N1 NO
+97432 Danny Silva Turkey 44 FLU-2018 YES 29-08-2007
+4893 Jesse Jordan Turkey 61 FLU-2018 YES 26-11-2005
+59756 Laura Williams Turkey 44 SARS-1 NO
+31255 Ashley Garcia Turkey 75 COVID-2019 NO
+30241 Charles Wilcox Turkey 10 SARS-COV-2 NO
+8766 Kyle Smith Turkey 68 FLU-2018 YES 06-08-2011
+27976 Michael Gay Turkey 45 MERS-COV YES 06-10-2004
+13640 Alicia Harris Turkey 77 H1N1 YES 13-01-2006
+58223 Shelby Murray Turkey 62 FLU-2018 YES 14-10-2000
+54011 Raymond Hernandez Turkey 10 SARS-COV-2 NO
+66768 Monica Garrett Turkey 23 H1N1 YES 10-12-2007
+7520 Debra Garza Turkey 36 MERS-COV NO
+18246 Alexandria Johnson Turkey 54 H1N1 YES 23-04-2010
+87028 Sharon Ramirez Turkey 61 SARS-1 NO
+67336 Natasha Brown Turkey 15 EVD NO
+11873 Miranda Noble Turkey 71 SARS-COV-2 YES 07-06-2008
+42936 David Reed Turkey 79 H1N1 YES 25-04-2011
+60811 Mark Hicks Turkey 59 SARS-COV-2 NO
+40857 Jessica Lawson Turkey 41 H1N1 YES 12-05-2006
+91573 George Potter Turkey 50 H1N1 NO
+30350 Laura Solis Turkey 44 FLU-2018 NO
+10751 Brett Bailey Turkey 66 EVD YES 04-03-2020
+39015 Jeffrey Brown Turkey 16 FLU-2018 NO
+52280 Joshua Hicks Turkey 13 MERS-COV NO
+78286 Valerie Sweeney Turkey 67 H1N1 YES 11-02-2011
+45029 Matthew Holmes Turkey 50 SARS-1 YES 18-01-2015
+73103 John Ramos Turkey 57 FLU-2018 NO
+13246 Michelle Wagner Turkey 56 COVID-2019 YES 27-07-2014
+6028 Jacob James Turkey 51 SARS-1 YES 30-04-2016
+84504 Dylan Gonzalez Turkey 15 H1N1 NO
+11467 Chris Malone Turkey 41 EVD YES 14-03-2008
+33389 Katherine Warren Turkey 39 COVID-2019 YES 11-10-2017
+73883 Anthony Clark Turkey 10 EVD NO
+62476 Janet Gardner Turkey 12 FLU-2018 YES 13-06-2001
+19312 Kyle Allen Turkey 59 SARS-COV-2 YES 21-09-2020
+28577 Stephanie Carrillo Turkey 30 SARS-1 NO
+82244 Gina Hudson Turkey 26 SARS-1 NO
+4154 Tyler Murphy Turkey 56 MERS-COV YES 26-05-2000
+94221 Austin Holmes Turkey 55 COVID-2019 NO
+23387 Edward Hartman Turkey 69 SARS-1 NO
+60846 Maurice Carr Turkey 54 H1N1 NO
+10773 Jeffrey Flynn Turkey 30 COVID-2019 YES 02-05-2013
+37582 Mark Mason Turkey 41 EVD NO
+28565 Andrea Mayer Turkey 69 COVID-2019 NO
+10945 Carlos Wong Turkey 75 COVID-2019 YES 23-12-2007
+9477 Linda Gonzalez Turkey 76 SARS-1 YES 22-11-2017
+93536 Lynn Russo Turkey 53 EVD YES 19-04-2001
+97965 Tanner Diaz Turkey 69 H1N1 YES 08-11-2009
+54655 Jimmy Day Turkey 66 SARS-COV-2 NO
+67733 Dwayne Jensen Turkey 73 SARS-COV-2 NO
+3365 Gabrielle Wallace Turkey 19 SARS-COV-2 YES 05-06-2003
+65602 Tracie Smith Turkey 62 SARS-1 NO
+22979 Tracey Castro Turkey 20 COVID-2019 YES 27-09-2019
+38358 Ryan Orozco Turkey 11 SARS-1 NO
+60024 Dawn Roberts Turkey 29 SARS-COV-2 NO
+77846 Diana Townsend Turkey 40 SARS-COV-2 NO
+60609 Julie Foster Turkey 58 SARS-COV-2 YES 18-11-2020
+46681 Pamela Williams Turkey 15 FLU-2018 YES 27-02-2006
+12900 Melissa Stewart Turkey 59 MERS-COV NO
+30277 Chad Ellis Turkey 78 COVID-2019 NO
+38728 Virginia Owen Turkey 36 SARS-1 YES 06-05-2006
+13223 Christina Rivera Turkey 54 MERS-COV YES 04-12-2004
+68869 Cody Mccann Turkey 11 MERS-COV YES 25-07-2018
+77272 Victoria Taylor Turkey 31 H1N1 NO
+96047 Paul Holder Turkey 36 EVD YES 07-11-2009
+94814 Dylan Oliver Turkey 32 SARS-COV-2 YES 08-12-2009
+68730 Kelly Green Turkey 71 H1N1 NO
+71066 Jeffery Bennett Turkey 40 SARS-COV-2 NO
+1554 Chloe Ferguson Turkey 32 COVID-2019 NO
+41746 Kathy Mann Turkey 49 EVD NO
+16568 Seth Medina Turkey 24 SARS-COV-2 YES 22-05-2008
+25971 Robert Owen Turkey 54 EVD NO
+73414 Rachel Velasquez Turkey 53 MERS-COV YES 23-03-2016
+27787 Kyle Hughes Turkey 10 MERS-COV YES 13-09-2008
+80973 Brittany Sims Turkey 78 FLU-2018 YES 19-12-2000
+58851 Michael Gonzalez Turkey 33 COVID-2019 NO
+20569 Maureen George Turkey 66 COVID-2019 YES 08-07-2013
+13383 Kari Martin Turkey 67 H1N1 YES 26-01-2017
+59655 Cynthia Spencer Turkey 65 FLU-2018 YES 04-04-2012
+48751 Kyle Gallagher Turkey 11 EVD YES 11-10-2020
+30151 Carol Lewis Turkey 26 COVID-2019 YES 19-10-2018
+82953 Charles Williams Turkey 51 COVID-2019 YES 22-02-2012
+69458 Kenneth Khan Turkey 12 COVID-2019 NO
+86225 Margaret Lee Turkey 23 FLU-2018 YES 01-12-2015
+81692 Susan Moore Turkey 49 H1N1 NO
+99458 Amanda Burnett Turkey 79 FLU-2018 NO
+28783 April Washington Turkey 17 COVID-2019 YES 05-04-2002
+99222 Johnny Smith Turkey 52 FLU-2018 NO
+68816 Tamara Roberts Turkey 51 H1N1 NO
+6744 Donald Watkins Turkey 73 SARS-COV-2 NO
+97224 Terri Arnold Turkey 76 MERS-COV NO
+6323 Ray Jenkins Turkey 54 SARS-1 YES 09-11-2000
+37695 Jesse Sutton Turkey 23 COVID-2019 NO
+78689 Robert Sanchez Turkey 29 EVD YES 29-11-2017
+92245 Mark Rodriguez Turkey 71 FLU-2018 YES 22-08-2002
+2603 Caroline Carney Turkey 25 SARS-COV-2 NO
+72328 Stephanie Thomas Turkey 64 EVD NO
+12662 Andrew Wiggins Turkey 21 FLU-2018 YES 03-05-2000
+66007 Michael Bailey Turkey 35 SARS-COV-2 NO
+8399 Megan Benson Turkey 17 H1N1 YES 22-07-2001
+17975 David Berry Turkey 20 MERS-COV NO
+28771 Janice Yang Turkey 10 SARS-1 YES 03-04-2001
+13940 Robert Wise Turkey 58 EVD YES 21-12-2003
+63608 Scott Sanchez Turkey 75 H1N1 YES 08-10-2011
+98306 Cassandra Gonzalez Turkey 46 SARS-1 YES 04-04-2019
+25386 David Willis Turkey 32 SARS-1 YES 07-09-2001
+29053 David Mills Turkey 32 H1N1 NO
+14090 Timothy Thompson Turkey 53 H1N1 NO
+23982 Melissa Vargas Turkey 49 FLU-2018 NO
+28159 Chase Melendez Turkey 58 SARS-COV-2 YES 07-10-2003
+75665 Linda Bishop Turkey 40 COVID-2019 YES 01-03-2021
+6559 Justin Hobbs Turkey 52 COVID-2019 YES 13-11-2000
+68242 Deborah Rodgers Turkey 25 SARS-COV-2 NO
+82327 Jonathan Hernandez Turkey 24 MERS-COV NO
+44052 Desiree Humphrey Turkey 69 MERS-COV NO
+25981 Marvin Harrington Turkey 55 H1N1 YES 03-11-2005
+26788 Raymond Daniels Turkey 35 FLU-2018 NO
+28897 Sheri Mccullough Turkey 15 COVID-2019 NO
+84719 Patrick Ferguson Turkey 30 COVID-2019 YES 11-09-2005
+23488 Charles Leonard Turkey 33 FLU-2018 NO
+62293 Michelle Gonzales Turkey 49 SARS-1 NO
+44430 Tom Griffin Turkey 12 SARS-COV-2 YES 30-06-2006
+49244 Ryan Blackwell Turkey 26 EVD NO
+78694 Adam Benton Turkey 54 SARS-COV-2 YES 17-04-2017
+87408 Erica Scott Turkey 64 SARS-COV-2 NO
+30264 Donald Velazquez Turkey 60 H1N1 YES 31-01-2001
+82635 Teresa Li Turkey 43 EVD YES 10-10-2007
+44944 Michael Montes Turkey 44 FLU-2018 YES 10-09-2007
+93018 Wendy Vincent Turkey 41 H1N1 YES 18-09-2009
+23763 Leah Howard Turkey 70 MERS-COV YES 22-05-2018
+18237 Kathleen Robinson Turkey 57 H1N1 NO
+76745 Debra Rich Turkey 49 SARS-COV-2 NO
+11639 James Hardin Turkey 49 MERS-COV NO
+8520 Jonathan Velasquez Turkey 64 H1N1 YES 24-05-2014
+29466 Melanie Wilson Turkey 78 SARS-COV-2 YES 16-10-2008
+13129 Victoria Maddox Turkey 22 FLU-2018 NO
+4883 Jeffrey Bishop Turkey 76 COVID-2019 YES 27-06-2008
+4618 Michelle Smith Turkey 38 H1N1 YES 04-11-2020
+32742 Kelly Smith Turkey 24 MERS-COV YES 29-10-2018
+84465 Vanessa Calderon Turkey 34 EVD NO
+83313 Mary Gregory Turkey 67 SARS-COV-2 NO
+15387 Renee Herrera Turkey 75 SARS-COV-2 NO
+42860 Jacob Campos Turkey 46 SARS-COV-2 NO
+99310 Andrew Stephenson Turkey 27 H1N1 YES 14-12-2000
+12464 Danny Williams Turkey 23 MERS-COV NO
+17449 Craig Sanchez Turkey 26 FLU-2018 YES 27-06-2005
+72155 Michael Glenn Turkey 17 FLU-2018 YES 11-01-2017
+12819 Haley Hayes Turkey 49 SARS-COV-2 NO
+77212 Rachel Jones Turkey 49 SARS-1 YES 24-06-2016
+46987 Desiree Kirk Turkey 22 MERS-COV YES 02-11-2015
+43920 Brittany Hansen Turkey 17 FLU-2018 YES 30-11-2001
+67332 Mark Morrison Turkey 57 SARS-COV-2 NO
+66404 Debra Roy Turkey 56 MERS-COV NO
+99819 Robyn Obrien Turkey 10 MERS-COV YES 09-05-2010
+67356 Amanda Salas Turkey 57 MERS-COV YES 03-05-2009
+27916 Donald Griffith Turkey 23 SARS-COV-2 YES 05-05-2020
+6141 Latoya Jones Turkey 71 EVD YES 28-04-2012
+40479 Brian Cruz Turkey 27 EVD NO
+35091 David Moore Turkey 14 SARS-COV-2 YES 16-01-2002
+39844 Renee Phillips Turkey 61 MERS-COV YES 25-02-2007
+15434 Bruce Nguyen Turkey 67 FLU-2018 YES 28-08-2017
+56821 Rachel Howell Turkey 52 H1N1 YES 13-07-2002
+61156 Jessica Reed Turkey 11 SARS-COV-2 YES 17-09-2010
+10874 Kevin Simmons Turkey 36 SARS-COV-2 YES 13-04-2002
+93180 Christine Moses Turkey 53 MERS-COV NO
+42181 Jesse Duncan Turkey 59 SARS-COV-2 YES 13-04-2019
+97532 Jennifer Cox Turkey 45 SARS-1 YES 28-07-2017
+1164 Robert Brooks Turkey 53 H1N1 YES 15-02-2004
+96450 Jeffrey Anderson Turkey 12 H1N1 NO
+74868 Nicholas Cain Turkey 47 MERS-COV YES 07-02-2010
+57867 Elizabeth Ramos Turkey 64 H1N1 YES 01-09-2013
+80213 Sarah Collins Turkey 36 FLU-2018 NO
+64952 Arthur Miller Turkey 32 SARS-COV-2 YES 19-08-2016
+93235 Carolyn Vaughan Turkey 78 SARS-1 YES 17-09-2014
+68462 Richard Barnett Turkey 12 FLU-2018 NO
+46342 Katherine Lee Turkey 28 SARS-COV-2 YES 07-01-2000
+61528 Holly Patel Turkey 38 EVD NO
+16271 Kelsey Stone Turkey 64 MERS-COV NO
+78890 Elizabeth Allen Turkey 46 SARS-COV-2 NO
+25548 Renee Richards Turkey 74 H1N1 YES 02-01-2014
+98605 Christine Mendoza Turkey 66 FLU-2018 YES 19-04-2002
+96158 Ryan Jones Turkey 47 SARS-1 YES 30-01-2015
+98662 Kevin Wheeler Turkey 64 SARS-1 YES 24-03-2019
+44073 Robert Hoffman Turkey 53 SARS-COV-2 NO
+8965 Terry Griffin Turkey 38 EVD YES 26-01-2021
+20115 April Adams Turkey 31 MERS-COV NO
+82351 Barbara Underwood Turkey 65 SARS-1 NO
+70485 Wesley Morales Turkey 46 SARS-COV-2 NO
+48710 Matthew Church Turkey 16 COVID-2019 YES 27-07-2011
+99423 Ralph Hodges Turkey 15 SARS-1 YES 11-05-2006
+41846 Robin Martin Turkey 77 H1N1 NO
+62151 Denise Miller Turkey 19 FLU-2018 NO
+55816 Ronald Villanueva Turkey 29 SARS-COV-2 NO
+36486 Derek Mitchell Turkey 17 SARS-COV-2 YES 12-09-2009
+55274 Andre Cantrell Turkey 17 SARS-1 NO
+12258 Michael Murray Turkey 31 MERS-COV NO
+64 Terrance Webb Turkey 51 H1N1 YES 15-06-2000
+87139 Matthew Anderson Turkey 73 MERS-COV NO
+76733 Timothy Henderson Turkey 34 H1N1 YES 31-05-2008
+84440 David Haley Turkey 69 MERS-COV NO
+79769 Scott Arnold Turkey 68 SARS-1 YES 09-01-2001
+85570 John Davis Turkey 48 MERS-COV YES 02-05-2001
+82700 Steven Burns Turkey 29 FLU-2018 NO
+85422 Elizabeth Wilkinson Turkey 38 MERS-COV NO
+92871 Michael Hancock Turkey 18 EVD NO
+39345 Diana Jenkins Turkey 24 SARS-COV-2 YES 06-09-2014
+31473 David Green Turkey 22 SARS-1 NO
+25734 Jose Mckee Turkey 54 MERS-COV NO
+70028 Deborah Romero Turkey 13 COVID-2019 YES 07-11-2018
+48708 Johnny Lutz Turkey 57 SARS-1 NO
+90159 Brian Gordon Turkey 76 SARS-1 NO
+42099 Claire Parsons Turkey 73 SARS-1 YES 01-07-2011
+10814 Julie Thomas Turkey 72 EVD YES 14-08-2014
+16509 Brian Parker Turkey 68 SARS-COV-2 YES 17-06-2018
+31411 Christopher Lopez Turkey 47 EVD NO
+7064 Ricardo Hines Turkey 37 FLU-2018 YES 17-09-2006
+4560 Rachel Thomas Turkey 78 SARS-1 NO
+1941 Lauren Fletcher Turkey 64 H1N1 NO
+94317 Tara Smith Turkey 29 COVID-2019 NO
+49738 Cynthia Wilson Turkey 36 MERS-COV YES 14-02-2010
+76774 Isabel Walton Turkey 54 MERS-COV YES 27-08-2017
+18101 Mary Watson Turkey 77 FLU-2018 YES 16-12-2019
+35522 Fred Thompson Turkey 20 SARS-1 YES 16-05-2004
+17322 Lisa Allen Turkey 58 FLU-2018 NO
+40010 Shannon Hayes Turkey 55 EVD YES 07-09-2007
+48034 Hayden Padilla Turkey 27 EVD NO
+57278 Kathryn Walker Turkey 36 EVD NO
+70130 Craig King Turkey 71 COVID-2019 YES 10-12-2007
+35844 Timothy Frazier Turkey 23 COVID-2019 NO
+48438 Kelly Adams Turkey 11 FLU-2018 NO
+42989 Melissa Myers Turkey 35 SARS-COV-2 NO
+52371 Gina Cole Turkey 50 H1N1 YES 22-10-2007
+57671 David Walker Turkey 49 EVD NO
+31232 Jennifer Taylor Turkey 53 EVD YES 08-08-2007
+84275 Natalie Jones Turkey 19 COVID-2019 YES 12-07-2008
+87793 Tony Smith Turkey 25 COVID-2019 YES 17-08-2013
+2313 Martin Baker Turkey 28 EVD YES 27-07-2017
+30911 Rebecca Macias Turkey 79 SARS-1 YES 22-11-2005
+90286 Sue Harvey Turkey 74 EVD NO
+50084 Heather Hines Turkey 44 FLU-2018 YES 23-10-2004
+70884 Connie Johns Turkey 22 MERS-COV YES 20-09-2002
+33758 Edward Gilbert Turkey 72 COVID-2019 NO
+40472 Timothy Clayton Turkey 44 MERS-COV YES 08-01-2021
+85289 Christopher Nguyen Turkey 54 SARS-1 NO
+72195 Megan Garcia Turkey 56 MERS-COV YES 09-02-2019
+40244 Alexander Mccarty Turkey 49 COVID-2019 NO
+52859 Mark Esparza Turkey 41 H1N1 NO
+20576 Tyrone Jackson Turkey 61 MERS-COV NO
+70263 Melvin Howard Turkey 70 EVD YES 29-06-2018
+17250 Nicholas Watson Turkey 49 EVD YES 19-10-2008
+61497 Jennifer Singleton Turkey 55 COVID-2019 NO
+50057 Jessica Knight Turkey 72 EVD NO
+32946 Richard Lee Turkey 15 SARS-COV-2 NO
+36421 Deanna Wilkins Turkey 51 H1N1 NO
+77250 Robert Oliver Turkey 58 MERS-COV YES 08-11-2005
+12467 Brittany Rodriguez Turkey 63 SARS-1 YES 04-04-2017
+20675 Joseph Mccoy Turkey 77 FLU-2018 NO
+2042 Jared Stein Turkey 76 H1N1 YES 13-05-2000
+169 Vicki Perez Turkey 78 COVID-2019 NO
+28716 Cynthia Turner Turkey 63 EVD YES 06-01-2011
+72431 Sarah Calderon Turkey 42 SARS-COV-2 NO
+94599 Christopher Ramirez Turkey 69 MERS-COV NO
+14052 Holly Long Turkey 61 SARS-1 YES 29-11-2005
+49284 Kevin Campbell Turkey 60 EVD NO
+70044 Kenneth Smith Turkey 28 SARS-1 YES 26-04-2020
+16223 Alicia Thompson Turkey 69 COVID-2019 NO
+12105 Theresa King Turkey 65 EVD YES 18-07-2020
+6902 Jessica Holt Turkey 18 EVD NO
+39489 Daniel Hernandez Turkey 27 SARS-COV-2 NO
+54824 Anne Stephens Turkey 38 SARS-COV-2 NO
+46160 Karen Booth Turkey 63 SARS-1 YES 03-02-2004
+41203 Derek Tucker Turkey 31 COVID-2019 NO
+65825 Robert Duncan Turkey 35 SARS-COV-2 YES 01-11-2009
+83443 Jeanette Jones Turkey 36 EVD NO
+41468 Cindy Leach Turkey 21 FLU-2018 YES 07-10-2010
+40882 Julie Kirby Turkey 76 COVID-2019 NO
+248 Jennifer Russell Turkey 67 EVD YES 09-01-2009
+48479 Brenda Garcia Turkey 16 MERS-COV YES 10-04-2007
+79657 Kayla Murphy Turkey 59 COVID-2019 NO
+20441 Jacob Harrison Turkey 64 EVD YES 20-03-2001
+89007 Sharon Leonard Turkey 31 FLU-2018 NO
+8904 Katie Bradley Turkey 69 MERS-COV NO
+26521 Stephanie Miller Turkey 38 FLU-2018 YES 12-08-2010
+66788 Jessica Ramsey Turkey 60 H1N1 YES 04-12-2007
+51028 Michael Whitney Turkey 53 FLU-2018 YES 05-02-2017
+27214 Jennifer Owens Turkey 76 COVID-2019 NO
+70212 Gerald Wolf Turkey 22 EVD YES 07-05-2014
+30523 Brandon Morgan Turkey 28 MERS-COV NO
+14145 Cynthia Middleton Turkey 52 H1N1 YES 01-12-2015
+79678 Abigail Bryant Turkey 51 H1N1 NO
+79902 Philip Brown Turkey 48 EVD NO
+83847 Courtney Ramirez Turkey 18 FLU-2018 YES 16-08-2004
+26866 Lauren Yoder Turkey 22 COVID-2019 YES 16-11-2011
+97792 Desiree Casey Turkey 29 SARS-COV-2 NO
+69242 Theresa Hendricks Turkey 46 MERS-COV YES 08-05-2012
+60004 Crystal Cook Turkey 44 EVD YES 27-07-2010
+13627 Amber Miller Turkey 39 SARS-1 NO
+92020 Devin Brown Turkey 11 COVID-2019 YES 31-07-2004
+83450 Tammy Lee Turkey 40 MERS-COV NO
+81621 Stephanie Rodriguez Turkey 49 H1N1 NO
+13778 Michelle Johnson Turkey 39 H1N1 NO
+10988 Christine Baker Turkey 49 COVID-2019 YES 26-08-2012
+7816 William Hatfield Turkey 37 COVID-2019 NO
+13943 Kevin Madden Turkey 15 EVD YES 08-05-2012
+88544 Jared Mccall Turkey 54 H1N1 NO
+98733 Megan Mitchell Turkey 51 MERS-COV YES 14-09-2020
+92715 Briana Rubio Turkey 75 SARS-COV-2 YES 13-07-2003
+14865 Sarah Carter Turkey 50 COVID-2019 NO
+46450 Rebecca Mitchell Turkey 72 MERS-COV YES 07-04-2006
+34056 Clifford Burton Turkey 23 SARS-1 NO
+26388 Diane Moore Turkey 45 MERS-COV NO
+82412 Jacob Wood Turkey 39 COVID-2019 NO
+11593 Brent Cole Turkey 28 FLU-2018 NO
+96971 Christopher Nelson Turkey 62 SARS-COV-2 YES 10-10-2018
+94637 Jennifer Brown Turkey 67 COVID-2019 YES 30-05-2018
+40575 Frank Williams Turkey 37 COVID-2019 NO
+1185 Hunter Tucker Turkey 66 EVD YES 12-03-2012
+2527 Matthew Jacobs Turkey 78 MERS-COV YES 04-05-2003
+15862 Michelle Garcia Turkey 30 COVID-2019 NO
+1133 Thomas Erickson Turkey 50 COVID-2019 NO
+56070 Brianna Rodriguez Turkey 70 H1N1 YES 11-07-2004
+27372 Christine Contreras Turkey 11 SARS-1 NO
+55220 Suzanne Melendez Turkey 60 SARS-1 NO
+35504 Hector Franco Turkey 47 SARS-COV-2 YES 16-10-2014
+22621 Jesus Ryan Turkey 56 COVID-2019 NO
+21346 Brian Bird Turkey 53 H1N1 YES 14-10-2005
+61531 Barbara Cox Turkey 18 SARS-COV-2 NO
+3192 Karen Aguilar Turkey 64 EVD NO
+95597 Katie Oneal Turkey 56 SARS-COV-2 YES 29-11-2014
+37698 Megan Andrade Turkey 58 H1N1 YES 21-08-2003
+84977 Monica Smith Turkey 56 EVD NO
+66223 Lisa Anderson Turkey 34 MERS-COV NO
+27180 Lori Hartman Turkey 32 FLU-2018 YES 23-04-2014
+10702 William Torres Turkey 62 EVD NO
+69186 Stephen Williams Turkey 66 SARS-COV-2 NO
+74405 Amanda Bridges Turkey 39 COVID-2019 NO
+73258 Guy Bartlett Turkey 23 SARS-COV-2 NO
+1359 Tracie Munoz Turkey 31 SARS-1 NO
+50725 Robert Owen Turkey 62 MERS-COV NO
+17267 Gerald Church Turkey 34 EVD YES 20-12-2009
+80727 Darren Ferrell Turkey 14 COVID-2019 NO
+95329 Billy Norris Turkey 38 H1N1 NO
+95587 Donald Morgan Turkey 35 H1N1 YES 04-12-2010
+81369 Elizabeth Ortiz Turkey 24 SARS-COV-2 NO
+33583 Michael Bowman Turkey 74 FLU-2018 NO
+82476 Victoria Spence Turkey 41 COVID-2019 YES 21-10-2008
+43272 Connie Young Turkey 47 H1N1 YES 06-06-2006
+9942 Sherry Frederick Turkey 36 COVID-2019 NO
+51467 Andrea Hancock Turkey 18 FLU-2018 YES 27-01-2021
+71765 Larry Mcdonald Turkey 30 MERS-COV NO
+4582 Kathleen Mccann Turkey 43 H1N1 NO
+83246 Tara Griffin Turkey 22 H1N1 NO
+779 Leslie Hickman Turkey 31 MERS-COV YES 30-09-2011
+9050 Crystal Mcgrath Turkey 63 SARS-COV-2 NO
+49694 Amy Morgan Turkey 60 MERS-COV YES 07-07-2011
+35537 Shannon Mooney Turkey 53 SARS-COV-2 YES 21-08-2011
+6278 Yvonne Davidson Turkey 54 FLU-2018 YES 23-08-2014
+14201 Matthew Carpenter Turkey 54 FLU-2018 YES 14-06-2017
+94365 Anita Snyder Turkey 71 MERS-COV NO
+88235 Eric Lopez Turkey 76 H1N1 NO
+57185 Brooke Reynolds Turkey 30 SARS-1 NO
+8133 Blake Frost Turkey 46 MERS-COV NO
+4674 Amy Ellison Turkey 14 EVD NO
+19126 Chase Lutz Turkey 77 EVD YES 22-05-2015
+16680 Justin Bruce Turkey 78 H1N1 NO
+74246 Jesus Cameron Turkey 74 MERS-COV YES 20-07-2006
+21780 Tanya Wilcox Turkey 39 H1N1 YES 22-10-2005
+79569 David Bernard Turkey 72 EVD NO
+16260 Lori Robles Turkey 40 SARS-1 NO
+77444 Curtis Hayes Turkey 17 EVD NO
+95811 Heather Lee Turkey 51 SARS-1 YES 29-12-2016
+43218 Nicole Price Turkey 30 COVID-2019 YES 24-02-2002
+42805 Daniel King Turkey 57 EVD YES 19-07-2016
+6866 James Rodriguez Turkey 72 H1N1 NO
+81284 Julie Salazar Turkey 25 FLU-2018 YES 19-08-2007
+76519 Brittany Payne Turkey 28 EVD YES 23-08-2015
+84049 Amanda Mason Turkey 54 MERS-COV NO
+66892 Christopher Johnson Turkey 62 SARS-COV-2 NO
+16904 Dustin Thomas Turkey 36 SARS-1 YES 22-01-2017
+87674 Ashley Simon Turkey 45 SARS-COV-2 NO
+93729 Emma Holt Turkey 78 FLU-2018 NO
+54301 Joshua Miller Turkey 77 FLU-2018 NO
+68190 Teresa Acosta Turkey 64 H1N1 YES 18-05-2008
+68106 Laurie Wilson Turkey 11 SARS-1 YES 27-06-2004
+43640 Sarah Malone Turkey 20 COVID-2019 NO
+26531 Drew Daniel Turkey 48 H1N1 YES 12-02-2021
+77808 Christopher French Turkey 61 EVD NO
+8355 Jeffrey Ramirez Turkey 55 SARS-1 NO
+97724 Shannon Castro Turkey 41 H1N1 YES 29-03-2012
+39909 Shelley King Turkey 71 H1N1 NO
+99886 Jessica Thomas Turkey 36 EVD YES 03-08-2004
+85814 Amanda Reyes Turkey 57 SARS-COV-2 NO
+23284 Deborah Ferguson Turkey 24 SARS-1 NO
+49835 Samantha Munoz Turkey 40 MERS-COV YES 07-02-2004
+28979 Christine Wood Turkey 77 SARS-COV-2 NO
+82007 Michael Perkins Turkey 26 SARS-COV-2 YES 08-01-2016
+5358 Jessica Adams Turkey 73 SARS-1 NO
+405 Sara Valdez Turkey 66 EVD YES 28-04-2016
+34963 Karen Carson Turkey 66 COVID-2019 NO
+11961 Gary Lawrence Turkey 78 EVD YES 18-07-2017
+40249 Todd Johnson Turkey 78 FLU-2018 YES 21-10-2013
+73067 Stephanie Robbins Turkey 60 SARS-COV-2 NO
+52925 Nicholas Graves Turkey 45 FLU-2018 YES 25-11-2009
+13494 John Gentry Turkey 39 MERS-COV YES 07-05-2009
+56303 Samantha Hoffman Turkey 14 COVID-2019 NO
+97698 Martin Cook Turkey 13 EVD NO
+28164 Patricia Soto Turkey 67 SARS-COV-2 YES 18-01-2015
+56368 Joseph Rice Turkey 43 EVD NO
+14533 Brandon Rivas Turkey 47 H1N1 NO
+95103 Sophia Tyler Turkey 62 SARS-1 NO
+28899 Luke Perry Turkey 58 FLU-2018 NO
+14781 Ryan Walker Turkey 74 FLU-2018 YES 04-04-2000
+14973 Briana Schneider Turkey 13 EVD NO
+47977 Nicholas Peterson Turkey 58 COVID-2019 YES 22-02-2005
+38999 Tracy Smith Turkey 22 SARS-COV-2 NO
+77253 Michael Henderson Turkey 21 SARS-COV-2 YES 12-08-2002
+71756 Sarah Rodriguez Turkey 13 EVD NO
+3102 Alexander Yu Turkey 60 EVD YES 31-07-2008
+59176 Joe Ward Turkey 68 MERS-COV NO
+96884 Andrea Martinez Turkey 24 FLU-2018 NO
+25922 Leslie Stewart Turkey 72 EVD NO
+90238 Adriana Perkins Turkey 54 FLU-2018 YES 25-09-2019
+40661 Ashley Rose Turkey 54 FLU-2018 YES 20-08-2016
+75112 Beth Kelly Turkey 72 MERS-COV NO
+28865 Jessica Young Turkey 43 MERS-COV NO
+94457 Diana Reed Turkey 10 SARS-COV-2 NO
+8174 Amanda Knight Turkey 32 H1N1 NO
+24523 Justin Thomas Turkey 52 EVD YES 06-06-2002
+49796 Katherine Johnson Turkey 53 H1N1 NO
+82498 Anthony Guerrero Turkey 38 FLU-2018 NO
+47138 Kayla Salas Turkey 48 SARS-1 NO
+31467 Christina Hurley Turkey 58 COVID-2019 NO
+62648 Isaiah Poole Turkey 37 FLU-2018 YES 21-10-2015
+26628 Taylor Dunn Turkey 11 H1N1 YES 03-07-2000
+82796 Ana Kennedy Turkey 40 FLU-2018 NO
+94696 Philip Myers Turkey 23 COVID-2019 YES 09-06-2004
+7627 Patrick Hawkins Turkey 18 H1N1 NO
+84196 Alisha Butler Turkey 33 H1N1 NO
+12311 Walter Garcia Turkey 79 SARS-1 NO
+27843 Thomas Young Turkey 32 COVID-2019 NO
+53232 Randy Holden Turkey 73 MERS-COV NO
+67248 Lee Cohen Turkey 62 EVD NO
+4707 Joann Hernandez Turkey 20 SARS-1 YES 06-04-2016
+92236 Tracie Lee Turkey 10 COVID-2019 NO
+21988 Brian Marquez Turkey 65 EVD NO
+50261 April Stewart Turkey 76 FLU-2018 YES 16-07-2020
+74 Tiffany Long Turkey 40 MERS-COV NO
+23012 Michelle Dunlap Turkey 23 MERS-COV NO
+12005 Kathy Mathis Turkey 30 MERS-COV YES 02-07-2012
